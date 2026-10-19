@@ -17,8 +17,10 @@ computational figure panel.
 
 The peer-reviewed version is in press at *Proc Natl Acad Sci USA*.
 
-The code is archived at Zenodo: v1.0.0 is
-[doi:10.5281/zenodo.23476405](https://doi.org/10.5281/zenodo.23476405), and
+The code is archived at Zenodo. v1.0.1, the version matching the published
+figures, is
+[doi:10.5281/zenodo.23482954](https://doi.org/10.5281/zenodo.23482954) (v1.0.0:
+[doi:10.5281/zenodo.23476405](https://doi.org/10.5281/zenodo.23476405)), and
 [doi:10.5281/zenodo.23476404](https://doi.org/10.5281/zenodo.23476404) always
 points to the latest version.
 
