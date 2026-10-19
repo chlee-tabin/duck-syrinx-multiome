@@ -400,7 +400,7 @@ make_plot <- function(wide_df, xlab, ylab, pct_fmt = FALSE,
     # at its label_nudges() offset (leaders drawn back to the data point).
     geom_text_repel(aes(label = ifelse(display %in% label_set &
                                          domain %in% LABEL_DOMAINS,
-                                       display, "")), color = "#222222", size = 2.4,
+                                       display, "")), color = "#222222", size = 3.2,
                     segment.color = "grey25", segment.size = 0.35,
                     min.segment.length = 0, max.overlaps = Inf,
                     box.padding = 0.5, point.padding = 0.15, force = 12,

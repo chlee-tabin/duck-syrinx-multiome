@@ -103,8 +103,8 @@ def T(x, y):
 
 
 # Text sizes in SVG units (x ~0.244 = printed pt in Fig 4 at 17.8 cm)
-FS_TITLE, FS_MARKER, FS_AXIS, FS_LUMEN, FS_LEGEND = 20, 17, 17, 17, 17
-LINE_H = 22
+FS_TITLE, FS_MARKER, FS_AXIS, FS_LUMEN, FS_LEGEND = 23, 22, 22, 22, 22
+LINE_H = 27
 
 # Outer tissue boundary (base radii, before L/R scaling)
 OUTER_RX, OUTER_RY = 255, 205
@@ -542,7 +542,7 @@ def main():
 
     # Dorsal sub-epithelial (the broad dorsal zone)
     add_label_block(
-        dwg, rx, 24,
+        dwg, rx, 34,
         *T(CX + inner_rx * R_SCALE * 0.5, CY - inner_ry * 0.55),
         "Dorsal sub-epithelial",
         markers=["NKX6-1, FOXF1",
@@ -555,7 +555,7 @@ def main():
     barx1_target_y = y_mid
     barx1_target_x = CX + barx1_hw(barx1_target_y) - 5
     add_label_block(
-        dwg, rx, 124,
+        dwg, rx, 160,
         *T(barx1_target_x, barx1_target_y),
         "BARX1+ T-E septum",
         markers=["BARX1, NR2F2, ISL1",
@@ -572,28 +572,13 @@ def main():
     vent_target_x = (tb_outer_right + inner_boundary_right) / 2
     vent_target_y = TB_CY + 15  # at TB center height, in beige bulk
     add_label_block(
-        dwg, rx, 262,
+        dwg, rx, 312,
         *T(vent_target_x, vent_target_y),
         "Ventral splanchnic",
         markers=["TBX5, TBX4, BMP4",
                  "Lateralized PITX2c",
                  (f"{hh21['Ventral spl.'].gene} expr. L/R = "
                   f"{hh21['Ventral spl.'].lr_str}\u00d7")]
-    )
-
-    # Mesothelium \u2014 target: middle of the new gray ring, right side, above TB junction
-    # (PNAS font pass: target ON the ring at its lower right, near the label,
-    # so this leader no longer crosses the BARX1+ callout)
-    _th = math.radians(58)
-    meso_target_x = CX + (periph_inner_rx + inner_rx) / 2 * R_SCALE * math.cos(_th)
-    meso_target_y = CY + (periph_inner_ry + inner_ry) / 2 * math.sin(_th)
-    add_label_block(
-        dwg, rx, 372,
-        *T(meso_target_x, meso_target_y),
-        "Mesothelium",
-        markers=["WT1, TCF21",
-                 "Coelomic surface lining",
-                 "Bilateral"]
     )
 
     # ══════════════════════════════════
@@ -609,12 +594,31 @@ def main():
     periph_target_x = CX - (OUTER_RX * L_SCALE + inner_rx * L_SCALE) / 2
     periph_target_y = CY - 60
     add_label_block(
-        dwg, lx_text, 60,
+        dwg, lx_text, 50,
         *T(periph_target_x, periph_target_y),
         "Skeletogenic LPM",
         markers=["PRRX1"],
         anchor="start",
-        leader_from=_title_end("Skeletogenic LPM", 60)
+        leader_from=_title_end("Skeletogenic LPM", 50)
+    )
+
+    # Mesothelium — moved to the left column in the print-size font pass: at
+    # ~7 pt printed the four right-hand callouts no longer fit one column. The
+    # leader runs from the end of the longest marker line to the grey ring just
+    # above the left midline, so it crosses neither its own text nor "Left".
+    _th = math.radians(14)
+    meso_target_x = CX - (periph_inner_rx + inner_rx) / 2 * L_SCALE * math.cos(_th)
+    meso_target_y = CY - (periph_inner_ry + inner_ry) / 2 * math.sin(_th)
+    add_label_block(
+        dwg, lx_text, 140,
+        *T(meso_target_x, meso_target_y),
+        "Mesothelium",
+        markers=["WT1, TCF21",
+                 "Coelomic surface lining",
+                 "Bilateral"],
+        anchor="start",
+        leader_from=(lx_text + len("Coelomic surface lining") * FS_MARKER * 0.5 + 8,
+                     140 + 2 * LINE_H - 7)
     )
 
     # Syringeal — target: center of orange crescent (left-ventral of TB junction)
@@ -640,11 +644,11 @@ def main():
     epi_target_x = TB_CX
     epi_target_y = TB_CY + TB_RY + EPI_W
     add_label_block(
-        dwg, lx_text, 420,
+        dwg, lx_text, 410,
         *T(epi_target_x, epi_target_y),
         "Epithelium (IHH+)",
         anchor="start",
-        leader_from=_title_end("Epithelium (IHH+)", 420)
+        leader_from=_title_end("Epithelium (IHH+)", 410)
     )
 
     # ══════════
@@ -661,8 +665,8 @@ def main():
     ]
     # PNAS final layout: swatch legend = 3 rows x 2 columns at the bottom right;
     # the lumen key (letters drawn in the lumens) sits at the bottom left.
-    bs = 17
-    row_pitch = 25
+    bs = 18
+    row_pitch = 27
     top0 = _H - 3 * row_pitch - 2
     cw = FS_LEGEND * 0.56
     col_w = max(len(n) for n, _ in legend_items) * cw + bs + 8

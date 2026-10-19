@@ -527,7 +527,7 @@ for (g in NEIGH) {
                      color = col, linewidth = 0.4, arrow = arrow(length = unit(1, "mm"), type = "closed"))
     }
     p_gene <- p_gene + annotate("text", x = (il + ir) / 2 / 1e3, y = -0.52, label = g$name,
-                                size = 3.0, color = col, fontface = "italic", lineheight = 0.8)
+                                size = 3.6, color = col, fontface = "italic", lineheight = 0.8)
 }
 p_gene <- p_gene +
     scale_x_continuous(name = "NC_051775.1 position (kb)", limits = WIN / 1e3, expand = c(0, 0)) +
