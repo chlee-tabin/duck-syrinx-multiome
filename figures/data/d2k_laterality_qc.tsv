@@ -1,0 +1,9 @@
+genotype	embryo	n_libraries	lib_high	lib_low	pitx2c_high	pitx2c_low	shared_high	shared_low	expected_side_high	pitx2c_on_left	verdict	note
+g13	13-12	3	PILOTGEX4B	GEX08	1	0	11	16	L	yes	insufficient_signal	total PITX2c=1 < 5
+g14	13-11	3	GEX08	PILOTGEX4A	1	0	38	6	L	yes	insufficient_signal	total PITX2c=1 < 5
+g16	13-5	2	PILOTGEX3	GEX07	18	1	359	12	R	no	FAIL_LR_FLIP	PITX2c enriched on RIGHT (PILOTGEX3) — expected LEFT. Check genotype→embryo mapping
+g18	13-14	3	GEX08	PILOTGEX4A	1	0	23	14	R	no	insufficient_signal	total PITX2c=1 < 5
+g21	13-13	3	PILOTGEX4A	GEX08	1	0	89	0	R	no	insufficient_signal	total PITX2c=1 < 5
+g25	13-6	2	PILOTGEX3	GEX07	11	4	246	14	R	no	FAIL_LR_FLIP	PITX2c enriched on RIGHT (PILOTGEX3) — expected LEFT. Check genotype→embryo mapping
+g32	13-8	2	PILOTGEX3	GEX07	3	0	72	30	L	yes	insufficient_signal	total PITX2c=3 < 5
+g35	13-7	2	GEX07	PILOTGEX3	0	0	49	97	R	no	insufficient_signal	total PITX2c=0 < 5

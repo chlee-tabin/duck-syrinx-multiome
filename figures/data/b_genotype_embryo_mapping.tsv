@@ -1,0 +1,52 @@
+genotype_id	display_name	embryo_id	stage	sex	n_cells	ambiguity_group	confidence	method
+g14	g14	13-11	HH13	M	2535	13-11 / 13-12 / 13-13 / 13-14	within_4	within_lib
+g13	g13	13-12	HH13	F	2241	13-12 / 13-13 / 13-14	within_3	within_lib
+g21	g21	13-13	HH13	M	2107	13-13 / 13-14	within_2	within_lib
+g18	g18	13-14	HH13	M	1795		unique	within_lib
+g16	g16	13-5	HH13	F	3675	13-5 / 13-6 / 13-7 / 13-8	within_4	within_lib
+g25	g25	13-6	HH13	F	2104	13-6 / 13-7 / 13-8	within_3	within_lib
+g35	g35	13-7	HH13	F	1176	13-7 / 13-8	within_2	within_lib
+g32	g32	13-8	HH13	F	951		unique	within_lib
+g09	g09	16-6	HH16	F	3017	16-6 / 16-7	within_2	cross_lib
+g05	g05	16-7	HH16	F	2343		unique	cross_lib
+g10	g10	?	HH16	F	2225		within_0	cross_lib
+g26	g26	17-A	HH17	F	3628	17-A / 17-B / 17-C	within_3	within_lib
+g28	g28	17-B	HH17	F	600	17-B / 17-C	within_2	within_lib
+g34	g34	17-C	HH17	F	541		unique	within_lib
+G2_genotype_11	17-KC-1	17-KC-1	HH17	F	1649		unique	known
+g20	17-Md-13	17-Md-13	HH17	F	6282		unique	known
+g19	g19	16-8	HH17/16	M	3294	16-8 / 16-9	within_2	cross_lib
+g22	g22	16-9	HH17/16	M	2413		unique	cross_lib
+G2_genotype_10	g49	16-Md-1	HH17/16	F	1464		unique	cross_lib
+g24	g24	17-10	HH17/16	M	5708	17-10 / 17-11 / 17-12 / 16-8 / 16-9	within_5	cross_lib
+g15	g15	17-11	HH17/16	F	4799	17-11 / 17-12 / 16-8 / 16-9	within_4	cross_lib
+g23	g23	17-12	HH17/16	F	4383	17-12 / 16-8 / 16-9	within_3	cross_lib
+G3_donor9	g44	17-5	HH17/16	F	2256	17-5 / 17-6 / 17-7 / 17-8 / 16-4 / 16-5	within_6	within_lib
+G3_donor5	g45	17-6	HH17/16	F	2012	17-6 / 17-7 / 17-8 / 16-4 / 16-5	within_5	within_lib
+G3_donor8	g47	17-7	HH17/16	F	1863	17-7 / 17-8 / 16-4 / 16-5	within_4	within_lib
+g17	g17	17-9	HH17/16	M	6460	17-9 / 17-10 / 17-11 / 17-12 / 16-8 / 16-9	within_6	cross_lib
+G2_genotype_04	g38	17-KC-2	HH17/16	F	6836	17-KC-2 / 17-KC-3 / 16-KC-1	within_3	cross_lib
+G2_genotype_09	g41	17-KC-3	HH17/16	M	2808	17-KC-3 / 16-KC-1	within_2	cross_lib
+G2_genotype_02	g37	17-Md-14	HH17/16	F	7232	17-Md-14 / 16-Md-1	within_2	cross_lib
+G3_donor0	g46	21-1	HH21	M	1939	21-1 / 21-2 / 21-3 / 21-4	within_4	within_lib
+G2_genotype_03	g39	21-13	HH21	M	6720	21-13 / 21-14 / 21-15 / 21-16	within_4	cross_lib
+G2_genotype_05	g40	21-14	HH21	M	5019	21-14 / 21-15 / 21-16	within_3	cross_lib
+G2_genotype_08	g42	21-15	HH21	M	2739	21-15 / 21-16	within_2	cross_lib
+G2_genotype_07	g43	21-16	HH21	M	2676		unique	cross_lib
+G3_donor7	g48	21-2	HH21	M	1584	21-2 / 21-3 / 21-4	within_3	within_lib
+G3_donor4	g50	21-3	HH21	M	1220	21-3 / 21-4	within_2	within_lib
+G3_donor1	g51	21-4	HH21	M	1215		unique	within_lib
+g08	g08	21-5	HH21	M	4953	21-5 / 21-6 / 21-7 / 21-8	within_4	cross_lib
+g03	g03	21-6	HH21	M	3759	21-6 / 21-7 / 21-8	within_3	cross_lib
+g01	g01	21-7	HH21	M	3729	21-7 / 21-8	within_2	cross_lib
+G3_donor10	g53	?	HH21	M	722		within_0	within_lib
+G3_donor3	g52	?	HH21	M	1158		within_0	within_lib
+g02	g02	25-11	HH25	M	4980	25-11 / 25-12 / 25-13 / 25-14	within_4	within_lib
+g11	g11	25-12	HH25	M	4570	25-12 / 25-13 / 25-14	within_3	within_lib
+g12	g12	25-13	HH25	M	3887	25-13 / 25-14	within_2	within_lib
+g04	g04	25-14	HH25	F	1856		unique	within_lib
+g00	g00	25-5	HH25	M	3166	25-5 / 25-6 / 25-7	within_3	within_lib
+g07	g07	25-6	HH25	M	3141	25-6 / 25-7	within_2	within_lib
+g06	g06	25-7	HH25	M	2337		unique	within_lib
+dp500_d29	25-8	25-8	HH25	F	2269		unique	known
+dp500_donor29	25-8	25-8	HH25	F	2269		unique	known

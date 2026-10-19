@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+<FASTQ_DIR>/chick_demux/arc0s_v210/fastqs/gex,GEX0S,Gene Expression
+<FASTQ_DIR>/chick_demux/arc0s_v210/fastqs/atac/ATAC0S,ATAC0S,Chromatin Accessibility

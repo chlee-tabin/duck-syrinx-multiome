@@ -1,0 +1,30 @@
+R_LIBS_USER (env, IGNORED — see .libPaths below): ~/R/library_dropest  # For dropEst 
+
+.libPaths():
+  - /home/cl266/R/4.4.2
+  - /n/app/R/4.4.2-gcc-14.2.0/lib64/R/library
+
+R version 4.4.2 (2024-10-31)
+Platform: x86_64-pc-linux-gnu
+Running under: Red Hat Enterprise Linux 9.8 (Plow)
+
+Matrix products: default
+BLAS:   /n/app/R/4.4.2-gcc-14.2.0/lib64/R/lib/libRblas.so 
+LAPACK: /n/app/R/4.4.2-gcc-14.2.0/lib64/R/lib/libRlapack.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=en_US.UTF-8       LC_NUMERIC=C              
+ [3] LC_TIME=en_US.UTF-8        LC_COLLATE=en_US.UTF-8    
+ [5] LC_MONETARY=en_US.UTF-8    LC_MESSAGES=en_US.UTF-8   
+ [7] LC_PAPER=en_US.UTF-8       LC_NAME=C                 
+ [9] LC_ADDRESS=C               LC_TELEPHONE=C            
+[11] LC_MEASUREMENT=en_US.UTF-8 LC_IDENTIFICATION=C       
+
+time zone: America/New_York
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+loaded via a namespace (and not attached):
+[1] compiler_4.4.2

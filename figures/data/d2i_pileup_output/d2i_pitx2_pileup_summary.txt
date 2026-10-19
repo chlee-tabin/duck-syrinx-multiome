@@ -1,0 +1,48 @@
+=== PITX2 RNA Pileup Summary ===
+
+Gene: PITX2 (NC_051775.1:3,961,387-3,976,254, strand +)
+Gene span: 14,867 bp
+Pileup region: NC_051775.1:3,911,387-4,026,254 (gene +/- 50kb)
+
+GTF annotation:
+  Transcripts: 3
+  Exons: 11
+
+  XM_038178818.1: NC_051775.1:3,961,387-3,976,254
+  XM_027456453.2: NC_051775.1:3,964,253-3,976,254
+  XM_027456452.2: NC_051775.1:3,971,385-3,976,254
+
+  XM_027456452.2 exons:
+    exon 1: 3,961,387-3,961,458 (72 bp)
+    exon 1: 3,964,253-3,964,353 (101 bp)
+    exon 2: 3,966,591-3,966,646 (56 bp)
+    exon 2: 3,966,591-3,966,646 (56 bp)
+    exon 1: 3,971,385-3,972,064 (680 bp)
+    exon 3: 3,973,108-3,973,313 (206 bp)
+    exon 3: 3,973,108-3,973,313 (206 bp)
+    exon 2: 3,973,108-3,973,313 (206 bp)
+    exon 4: 3,974,789-3,976,254 (1466 bp)
+    exon 4: 3,974,789-3,976,254 (1466 bp)
+    exon 3: 3,974,789-3,976,254 (1466 bp)
+
+Populations:
+  all_lpm_HH13: 1,528 cells
+  all_lpm_HH1716: 20,037 cells
+  barx1_pos_HH1716: 3,888 cells
+  barx1_pos_HH21: 4,640 cells
+  barx1_pos_HH25: 114 cells
+  dorsal_subepi_HH21: 2,481 cells
+  dorsal_subepi_HH25: 1,364 cells
+  emerging_dorsal_HH1716: 3,064 cells
+  somatic_HH13: 254 cells
+  somatic_HH1716: 2,309 cells
+  somatic_HH21: 969 cells
+  somatic_HH25: 1,598 cells
+  splanchnic_HH13: 258 cells
+  splanchnic_HH1716: 8,032 cells
+  syringeal_HH21: 2,197 cells
+  syringeal_HH25: 4,253 cells
+  ventral_only_HH21: 6,381 cells
+  ventral_splanchnic_HH21: 11,021 cells
+  ventral_splanchnic_HH25: 7,896 cells
+

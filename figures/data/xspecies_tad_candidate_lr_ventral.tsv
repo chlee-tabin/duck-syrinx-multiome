@@ -1,0 +1,9 @@
+stage	subcluster	peak_label	role	peak_id	n_L	n_R	det_L	det_R	mean_cpm_L	mean_cpm_R	log2_L_over_R	mwu_p	t_p	power
+HH21	Ventral spl.	cand_upstream_FAM241A	candidate	NC_051775.1:3395502-3396003	8	8	7	8	1.969	2.881	-0.386	0.328	0.262	ok
+HH21	Ventral spl.	cand_upstream_desert	candidate	NC_051775.1:3433430-3433931	8	8	8	8	2.229	2.443	-0.093	0.382	0.749	ok
+HH21	Ventral spl.	Peak3_+5.4kb	control	NC_051775.1:3976533-3977034	8	8	8	8	8.8	4.282	0.892	0.00186	0.00282	ok
+HH21	Ventral spl.	PITX2c_promoter	control	NC_051775.1:3971182-3971683	8	8	8	8	18.308	5.407	1.591	0.000155	2.92e-07	ok
+HH17/16	Early LPM	cand_upstream_FAM241A	candidate	NC_051775.1:3395502-3396003	9	6	6	4	1.901	1.209	0.393	0.674	0.353	ok
+HH17/16	Early LPM	cand_upstream_desert	candidate	NC_051775.1:3433430-3433931	9	6	2	3	0.584	1.206	-0.478	0.4	0.483	power_limited
+HH17/16	Early LPM	Peak3_+5.4kb	control	NC_051775.1:3976533-3977034	9	6	8	5	9.016	2.259	1.62	0.0132	0.00295	ok
+HH17/16	Early LPM	PITX2c_promoter	control	NC_051775.1:3971182-3971683	9	6	9	6	15.798	3.99	1.751	0.0004	2.37e-05	ok

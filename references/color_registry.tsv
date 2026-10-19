@@ -1,0 +1,81 @@
+level	label	lineage	hex	rationale
+celltype	LPM mesenchyme	LPM	#D89840	amber (dominant LPM, TBX5+/TBX4+); kept from legacy CELLTYPE_COLORS
+celltype	Splanchnic mesenchyme	LPM	#C87820	brown-orange (FOXF1+/GATA4+, syrinx precursor); kept from legacy CELLTYPE_COLORS and used in schematic brackets
+celltype	Sclerotome	Paraxial	#3F8A7A	green-teal; paraxial mesoderm contrast. Distinct from LPM browns (RGB dist >70 vs every LPM hex) and from Dermomyotome slate under deuter/prot simulation
+celltype	Dermomyotome	Paraxial	#4A5680	deep slate-blue; paraxial muscle progenitor. Distinct from every LPM brown and from Sclerotome teal under deuter/prot simulation
+celltype	Neural progenitor	Neural	#4878C8	medium blue; legacy CELLTYPE_COLORS
+celltype	Neural crest	Neural	#7898D8	light blue; legacy CELLTYPE_COLORS
+celltype	Diff. neuron	Neural	#304898	dark blue; legacy CELLTYPE_COLORS
+celltype	Dorsal neural prog.	Neural	#6868B8	blue-purple; legacy CELLTYPE_COLORS
+celltype	Ventral neural prog.	Neural	#8888C8	lavender; legacy CELLTYPE_COLORS
+celltype	Epithelial	Endoderm	#48A848	green; legacy CELLTYPE_COLORS
+celltype	Pharyngeal endoderm	Endoderm	#2E8B2E	darker green; legacy CELLTYPE_COLORS
+celltype	Otic placode	Endoderm	#78C878	light green; legacy CELLTYPE_COLORS
+celltype	Endothelial	Other	#C84848	red; legacy CELLTYPE_COLORS
+celltype	Notochord	Other	#C848C8	magenta; legacy CELLTYPE_COLORS
+celltype	Cardiomyocyte	Other	#E868A8	pink; legacy CELLTYPE_COLORS
+celltype	RBC	Other	#888888	grey; legacy CELLTYPE_COLORS
+subcluster	Somatic mesenchyme	LPM	#E8A838	golden orange (TBX4+, body wall LPM); res=0.5 mesenchyme subtype
+subcluster	Transitional mesenchyme	LPM	#D89030	amber; res=0.5 mesenchyme subtype
+subcluster	Cardiac-adj. mesenchyme	LPM	#B86828	dark amber; res=0.5 mesenchyme subtype
+subcluster	Early somatic mesenchyme	LPM	#F0B858	light amber; res=0.5 mesenchyme subtype
+subcluster	Early LPM progenitor	LPM	#E07040	red-orange; res=0.5 mesenchyme subtype
+subcluster	Dermomyotome (Q)	Paraxial	#AEC2D1	light steel-blue; quiescent dermomyotome subtype. Lighter same-family companion to Dermomyotome slate. Distinct from Sclerotome teal under CB simulation (RGB dist >120)
+subcluster	Early LPM	LPM	#E07040	d2g HH13 population (TBX5+/FOXF1+); reuses Early LPM progenitor hue
+subcluster	Splanchnic	LPM	#C87820	d2g HH13 population (GATA4+/ZFPM2+); reuses Splanchnic mesenchyme hue
+subcluster	Skeletogenic LPM	LPM	#E8A838	d2g HH13/HH17/HH21/HH25 population (TBX1+/EYA1+/EBF2+ pharyngeal-cranial skeletal mes., PRRX1+); formerly mislabeled "Somatic"; L/R-symmetric, excluded from laterality pool
+subcluster	LPM cardiac-adj	LPM	#B86828	d2g HH13 population (HAND2+/ISL1+); reuses Cardiac-adj. mesenchyme hue
+subcluster	Ventral spl.	LPM	#D4BCA4	d2g HH17/HH21/HH25 ventral splanchnic (TBX5+/ZFPM2+); warm tan matching spatial schematic
+subcluster	BARX1+	LPM	#C0CCBA	d2g HH17/HH21/HH25 T-E septum (BARX1+); sage green matching spatial schematic
+subcluster	Dorsal sub-epi.	LPM	#A8C0D4	d2g HH17/HH21/HH25 dorsal sub-epithelial (NKX6-1+); powder-blue matching spatial schematic
+subcluster	Syringeal	LPM	#C89058	d2g HH17/HH21/HH25 syringeal (HAND2+/ISL1+); tan matching spatial schematic
+subcluster	ambiguous	LPM	#CCCCCC	d2g unresolved clusters; neutral grey (color should not convey identity)
+subcluster	Contamination	LPM	#B0B0B0	d2g technical-junk clusters (ribosomal/low-complexity or erythroid/blood) reclassified out of Skeletogenic LPM by the compendium contamination_check; neutral grey (non-biological), distinct from ambiguous
+compartment	peripheral	LPM	#E4E0DC	fig02 panel_B spatial: outer tissue ring
+compartment	lumen_stroke	Other	#4A4A4A	fig02 panel_B spatial: lumen outline
+compartment	epithelium	Endoderm	#686868	fig02 panel_B spatial: epithelial ring
+compartment	label_text	Other	#2C3E50	schematic label text
+compartment	marker_text	Other	#4A4A4A	schematic marker-gene italic text
+compartment	leader	Other	#777777	schematic leader lines
+compartment	axis_text	Other	#555555	schematic axis text
+compartment	midline	Other	#999999	schematic midline dashed
+compartment	tier1	Other	#8B0000	fig02 hierarchy Tier 1 (Splanchnic core) bracket color
+compartment	tier2	Other	#CC4400	fig02 hierarchy Tier 2 bracket color
+compartment	tier3	Other	#CC8800	fig02 hierarchy Tier 3 bracket color
+stage	HH25	Other	#1b9e77	Brewer Dark2 #1; legacy STAGE_COLORS
+stage	HH21	Other	#d95f02	Brewer Dark2 #2; legacy STAGE_COLORS
+stage	HH21/16	Other	#e8a030	muted Dark2 #2/3 blend; legacy STAGE_COLORS
+stage	HH17	Other	#7570b3	Brewer Dark2 #3; legacy STAGE_COLORS
+stage	HH17/16	Other	#b0a8d0	muted Dark2 #3; legacy STAGE_COLORS
+stage	HH16	Other	#e7298a	Brewer Dark2 #4; legacy STAGE_COLORS
+stage	HH13	Other	#66a61e	Brewer Dark2 #5; legacy STAGE_COLORS
+stage	?	Other	#999999	unknown / not yet resolved
+lateral	L	Lateral	#4393C3	Brewer RdBu blue; house figure rule (L = blue circle)
+lateral	R	Lateral	#D6604D	Brewer RdBu red; house figure rule (R = red square)
+lateral	?	Lateral	#999999	unknown side; neutral grey
+lateral	same-side	Lateral	#888888	sampling balance inference code; grey for ambiguous pair
+sex	M	Sex	#4393C3	house figure rule (Male = blue); matches L encoding hue on purpose
+sex	F	Sex	#D6604D	house figure rule (Female = red); matches R encoding hue on purpose
+sex	?	Sex	#999999	unknown sex; neutral grey
+sex	unknown	Sex	#999999	alias for ?
+filter_stage	Raw	Other	#4DAF4A	Brewer Set1 #3; legacy FILTER_STAGE_COLORS pipeline-step color
+filter_stage	After QC\nfilters	Other	#377EB8	Brewer Set1 #2; legacy FILTER_STAGE_COLORS
+filter_stage	After\nscDblFinder	Other	#FF7F00	Brewer Set1 #5; legacy FILTER_STAGE_COLORS
+filter_stage	After genotype\nfiltering	Other	#E41A1C	Brewer Set1 #1; legacy FILTER_STAGE_COLORS
+library	GEX03-1A	Other	#8DD3C7	Set3 #1; library-id color, used in QC plots only
+library	GEX03-1B	Other	#FFFFB3	Set3 #2
+library	GEX03-2	Other	#BEBADA	Set3 #3
+library	GEX04	Other	#CCEBC5	Set3 #10
+library	GEX0S-duck	Other	#FFED6F	Set3 #12
+library	GEX05	Other	#FB8072	Set3 #4
+library	GEX06	Other	#80B1D3	Set3 #5
+library	GEX07	Other	#FDB462	Set3 #6
+library	GEX08	Other	#B3DE69	Set3 #7
+library	PILOTGEX3	Other	#FCCDE5	Set3 #8
+library	PILOTGEX4A	Other	#D9D9D9	Set3 #9
+library	PILOTGEX4B	Other	#BC80BD	Set3 #11
+subcluster	Chondrogenic LPM	LPM	#C8732E	old-duck E9/E11 syrinx chondrogenic LPM (SOX9/COL2A1/ACAN); terracotta, distinct from syringeal tan
+subcluster	Syringeal fibroblast	LPM	#C89058	old-duck E9/E11 syringeal fibroblast (FOXF1/ISL1+ syringeal mesenchyme); tan family w/ d2g Syringeal
+subcluster	Syringeal smooth muscle	LPM	#8C5E3C	old-duck E9/E11 syringeal smooth muscle (ACTA2/MYH11+); dark brown (muscle)
+subcluster	Mesothelium	LPM	#9DBBB0	old-duck E06/E11 mesothelium (WT1/TCF21+); muted teal-grey, distinct from warm LPM
+subcluster	Syringeal chondrocyte	LPM	#C8732E	old-duck E9/E11 syringeal chondrocyte (SOX9/COL2A1/ACAN) — 2026-08-22 rename of the old-arm "Chondrogenic LPM" (row kept above for the chick arm + frozen ArchR group names); same terracotta

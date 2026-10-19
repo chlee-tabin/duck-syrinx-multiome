@@ -1,0 +1,7 @@
+scope	stage	design	n_samples	n_L_samples	n_R_samples	n_paired_genotypes	n_genes_tested	n_DEG_padj_05	n_DEG_padj_01	n_DEG_padj_001
+POOL	HH17/16	paired	14	7	7	7	17784	0	0	0
+SUB:Dorsal-biased LPM	HH17/16	paired	14	7	7	7	17784	0	0	0
+POOL	HH21	paired	16	8	8	8	18244	13	6	2
+SUB:Dorsal sub-epi.	HH21	paired	16	8	8	8	18244	13	6	2
+POOL	HH25	paired	14	7	7	7	19235	16	8	5
+SUB:Dorsal sub-epi.	HH25	paired	14	7	7	7	19235	16	8	5

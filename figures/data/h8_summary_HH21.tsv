@@ -1,0 +1,5 @@
+stage	design	status	n_samples	n_L	n_R	n_genotypes_paired	n_tested	n_L_sig_010	n_R_sig_010	n_L_sig_005	n_R_sig_005
+HH21	pooled_unpaired	ok	16	8	8	8	283818	2	0	1	0
+HH21	pooled_paired	ok	16	8	8	8	283818	1	0	1	0
+HH21	subcluster_unpaired	ok	37	19	18	8	283817	4	0	4	0
+HH21	subcluster_paired	ok	37	19	18	8	283818	4	0	3	0

@@ -1,0 +1,41 @@
+# Cluster pipeline environment (O2 HPC)
+# Recreate: conda env create -f pipeline/environment.yml
+#
+# On O2, also requires: module load gcc/14.2.0 conda/miniforge3 R/4.4.2
+#
+# Cluster-side R packages live OUTSIDE conda, in the user library at
+# ~/R/4.4.2/ (added to .libPaths() in every cluster R script).  The
+# canonical record + idempotent installer is `install_o2_r_packages.R`
+# (run via `sbatch run_install_o2_r_packages.sh`).  Currently captures:
+#   - DESeq2 1.46.0 + apeglm 1.28.0 (h2_deseq2_snrna.R, g3 PITX2 DESeq2)
+# Pre-existing user-lib packages not captured by the installer:
+#   scDblFinder, Seurat, scran, scuttle, SingleCellExperiment, ggplot2,
+#   ArchR + chromVAR/JASPAR2020 stack, BSgenome.Anasplatyrhynchos.ZJU1.0.
+# Add new entries to install_o2_r_packages.R::TARGETS as cluster R
+# scripts grow.
+name: vireo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  # Core data stack
+  - numpy>=1.26
+  - scipy>=1.13
+  - pandas>=2.0
+  - anndata>=0.10.9
+  - scanpy>=1.10.3
+  # Batch correction & clustering
+  - harmonypy>=0.2
+  - leidenalg>=0.11
+  - python-igraph
+  - umap-learn
+  # Genotype demultiplexing
+  - vireosnp>=0.5.9
+  # Figures (cluster-side)
+  - matplotlib>=3.9
+  - pillow
+  # Utilities
+  - h5py
+  - numba
+  - pynndescent

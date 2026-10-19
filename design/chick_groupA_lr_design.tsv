@@ -1,0 +1,13 @@
+embryo_id	stage	ab_type	arc01_side	arc02_side	arc0s_left	source
+chick-13-A-1	HH13	A	L	R	no	lane_loading_record
+chick-13-A-2	HH13	A	L	R	no	lane_loading_record
+chick-13-B-1	HH13	B	R	L	no	lane_loading_record
+chick-13-B-2	HH13	B	R	L	no	lane_loading_record
+chick-15-A-1	HH15-16	A	L	R	yes	lane_loading_record
+chick-15-A-2	HH15-16	A	L	R	yes	lane_loading_record
+chick-15-B-1	HH15-16	B	R	L	yes	lane_loading_record
+chick-15-B-2	HH15-16	B	R	L	yes	lane_loading_record
+chick-25-A-1	HH25	A	L	R	yes	lane_loading_record
+chick-25-A-2	HH25	A	L	R	yes	lane_loading_record
+chick-25-B-1	HH25	B	R	L	yes	lane_loading_record
+chick-25-B-2	HH25	B	R	L	yes	lane_loading_record

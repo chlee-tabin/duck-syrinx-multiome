@@ -1,0 +1,9 @@
+spec	motif	variant	n	n_ref	log_rate_ratio	se	rate_ratio	ci_lo	ci_hi	ci_method	n_floored	note
+bootstrap_percentile	PITX2	single	96	10320	-0.0335706	0.0889494	0.966987	0.803889	1.14103	percentile	0	2000 resamples, percentile CI
+poisson_hc0_shuffle_subsample	PITX2	single	96	3000	-0.0428754	0.0904443	0.958031	0.802401	1.14385	wald	0	headline spec, restricted to the shuffle-null genes — isolates the n effect
+poisson_hc0	PITX2	single	96	10320	-0.0335706	0.0877503	0.966987	0.81419	1.14846	wald	0	published headline
+poisson_model_based	PITX2	single	96	10320	-0.0335706	0.0938451	0.966987	0.804522	1.16226	wald	0	no sandwich
+negative_binomial_2	PITX2	single	96	10320	-0.049075	0.106808	0.95211	0.772271	1.17383	wald	0	NB2, alpha=0.1904
+gc_quadratic	PITX2	single	96	10320	-0.0131294	0.0913578	0.986956	0.825149	1.18049	wald	0	GC allowed to be non-linear
+quasi_poisson	PITX2	single	96	10320	-0.0335706	0.107511	0.966987	0.783259	1.19381	wald	0	Pearson dispersion scale
+composition_offset	PITX2	single	96	3000	0.0294628	0.0952122	1.0299	0.854573	1.2412	wald	149	k=2 shuffle expectation as offset; 149/3159 promoters floored at E=0.1

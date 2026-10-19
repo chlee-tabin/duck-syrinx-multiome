@@ -1,0 +1,50 @@
+# PITX2 locus annotation for chick galGal6a / GRCg6a (chr4, + strand).
+#
+# Source: chick GTF from the cellranger-arc reference crarc_galgal6a
+# (UCSC galGal6 chrom names; ncbiRefSeq track).  Extracted 2026-06-13 via
+# awk on /n/scratch/users/c/cl266/chick_demux/ref/genes.gtf.gz.
+#
+# BED6 format: 0-based half-open (GTF start - 1).  Strand = gene/transcript strand.
+#
+# TWO ASSEMBLIES — do not conflate.  The ATAC data is galGal6a, where PITX2 is on
+# chr4 (~57.78-57.80 Mb), UCSC chrom names.  The synteny block in
+# figures/data/pitx2_playrr_synteny_blocks.tsv (chick NC_052535.1, GRCg7b) is a
+# DIFFERENT assembly — for the eventual cross-species anchor ONLY, never for these
+# coords.  See the snATAC STEP-2/3 ArchR build notes (internal).
+#
+# Isoform assignment GROUNDED by the duck<->chick TSS correspondence in
+# references/pitx2_promoter_regions.bed (made directly from the NCBI duck + chick
+# GTFs, not synteny projection), which itself was d2j-validated for the duck:
+#
+#   chick GTF transcript     TSS          duck ortholog        Isoform
+#   XM_025149516.1           57,785,032   XM_038178818.1       PITX2a
+#   XM_025149515.1           57,787,817   XM_027456453.2       PITX2b
+#   NM_205010.1              57,794,829   XM_027456452.2       PITX2c
+#
+# PITX2c (57,794,829) is the proximal-most (most 3', "downstream of the a/b 5'
+# region") TSS — the isoform-specific readout chromatin adds (3'-biased snRNA
+# cannot resolve total-PITX2 vs PITX2c; cZ).  All three isoforms share the 3' end
+# at 57,798,939 (+ strand gene 57,785,032-57,798,939).
+#
+# "gene|PITX2"        -> promoter-peak pick (duck g3 panel C analog).
+# "promoter|*"        -> TSS +-300 bp (601 bp inclusive); the focal DESeq2 region.
+# "locus_50kb|PITX2"  -> gene +-50 kb (duck panel F analog).
+# "locus_500kb|PITX2" -> gene +-500 kb (STEP-2 PITX2 +-500 kb divergence plot).
+#
+# chrom  start      end        name                              score  strand
+chr4	57785031	57785032	tss|XM_025149516.1|PITX2a	0	+
+chr4	57787816	57787817	tss|XM_025149515.1|PITX2b	0	+
+chr4	57794828	57794829	tss|NM_205010.1|PITX2c	0	+
+chr4	57784731	57785332	promoter|PITX2a	0	+
+chr4	57787516	57788117	promoter|PITX2b	0	+
+chr4	57794528	57795129	promoter|PITX2c	0	+
+chr4	57785031	57798939	gene|PITX2	0	+
+chr4	57735031	57848939	locus_50kb|PITX2	0	+
+chr4	57285031	58298939	locus_500kb|PITX2	0	+
+# PLAYRR / PITX2-antisense analog = LOC112532384 (galGal6a chr4, - strand, antisense across the
+# PITX2 5' region). The duck ortholog is the PLAYRR/PANCR-analog lncRNA. ncbiRefSeq carries no
+# biotype tag, but - strand + antisense topology over PITX2's 5' is the PLAYRR/PANCR signature.
+# - strand gene 57,784,979-57,789,008 => TSS at the high coord 57,789,008; promoter = TSS +-300.
+chr4	57789007	57789008	tss|XM_025150303.1|PLAYRR_LOC112532384	0	-
+chr4	57788708	57789308	promoter|PLAYRR_LOC112532384	0	-
+chr4	57784978	57789008	gene|PLAYRR_LOC112532384	0	-

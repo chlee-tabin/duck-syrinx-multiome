@@ -1,0 +1,17 @@
+cluster	annotation	n_cells	mean_silhouette	overall_silhouette
+0	LPM mesenchyme	12991	0.0571	0.1966
+1	Neural progenitor	10666	0.2865	0.1966
+2	Splanchnic mesenchyme	5961	0.0621	0.1966
+3	Sclerotome	4639	0.2666	0.1966
+4	Neural crest	3179	0.199	0.1966
+5	Dermomyotome	2622	0.1857	0.1966
+6	Epithelial	2276	0.2143	0.1966
+7	Pharyngeal endoderm	2190	0.1609	0.1966
+8	Endothelial	1241	0.5315	0.1966
+9	Otic placode	948	0.4671	0.1966
+10	Diff. neuron	923	0.2531	0.1966
+11	Dorsal neural prog.	907	0.4139	0.1966
+12	Ventral neural prog.	701	0.4952	0.1966
+13	Notochord	407	0.6281	0.1966
+14	Cardiomyocyte	269	0.4191	0.1966
+15	RBC	80	0.4775	0.1966

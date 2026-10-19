@@ -1,0 +1,52 @@
+genotype_id	display_name	demux_group	group	stage	sex_called	n_cells	source
+G2_genotype_01	g36	G2_old	G2	?	M	8073	G2
+G2_genotype_02	g37	G2_old	G2	?	F	7232	G2
+G2_genotype_04	g38	G2_old	G2	?	F	6836	G2
+G2_genotype_03	g39	G2_old	G2	?	M	6720	G2
+g17	g17	G6_libpair	17-9..12 or 16-8/9	HH17/16	M	6460	G6
+g20	17-Md-13	G2_old	17-Md-13	HH17	F	6282	G6+G2
+g24	g24	G6_libpair	17-9..12 or 16-8/9	HH17/16	M	5708	G6
+G2_genotype_05	g40	G2_old	G2	?	M	5019	G2
+g02	g02	G6_libpair	25-11..14	HH25	M	4980	G6+G9
+g08	g08	G6_libpair	21-5..8 or 16-6/7	HH21/16	M	4953	G6
+g15	g15	G6_libpair	17-9..12 or 16-8/9	HH17/16	F	4799	G6
+g11	g11	G6_libpair	25-11..14	HH25	M	4570	G6+G9
+g23	g23	G6_libpair	17-9..12 or 16-8/9	HH17/16	F	4383	G6
+g12	g12	G6_libpair	25-11..14	HH25	M	3887	G6+G9
+g03	g03	G6_libpair	21-5..8 or 16-6/7	HH21/16	M	3759	G6
+g01	g01	G6_libpair	21-5..8 or 16-6/7	HH21/16	M	3729	G6
+g16	g16	G6_libpair	13-5..8	HH13	F	3675	G6+G9
+g26	g26	G9_dp500	17-A..D	HH17	F	3628	G6+G9
+g19	g19	G6_libpair	17-9..12 or 16-8/9	HH17/16	M	3294	G6
+g00	g00	G6_libpair	25-5..7	HH25	M	3166	G6+G9
+g07	g07	G6_libpair	25-5..7	HH25	M	3141	G6+G9
+g09	g09	G6_libpair	21-5..8 or 16-6/7	HH21/16	F	3017	G6
+G2_genotype_09	g41	G2_old	G2	?	M	2808	G2
+G2_genotype_08	g42	G2_old	G2	?	M	2739	G2
+G2_genotype_07	g43	G2_old	G2	?	M	2676	G2
+g14	g14	G6_libpair	13-11..14	HH13	M	2535	G6+G9
+g22	g22	G6_libpair	17-9..12 or 16-8/9	HH17/16	M	2413	G6
+g05	g05	G6_libpair	21-5..8 or 16-6/7	HH21/16	F	2343	G6
+g06	g06	G6_libpair	25-5..7	HH25	M	2337	G6+G9
+dp500_d29	25-8	G6_dp500	25-8	HH25	F	2269	G6_dp500
+G3_donor9	g44	G3_unfiltered	G3	?	F	2256	G3
+g13	g13	G6_libpair	13-11..14	HH13	F	2241	G6+G9
+g10	g10	G6_libpair	21-5..8 or 16-6/7	HH21/16	F	2225	G6
+g21	g21	G6_libpair	13-11..14	HH13	M	2107	G6+G9
+g25	g25	G6_libpair	13-5..8	HH13	F	2104	G6+G9
+G3_donor5	g45	G3_unfiltered	G3	?	F	2012	G3
+G3_donor0	g46	G3_unfiltered	G3	?	M	1939	G3
+G3_donor8	g47	G3_unfiltered	G3	?	F	1863	G3
+g04	g04	G6_libpair	25-11..14	HH25	F	1856	G6
+g18	g18	G6_libpair	13-11..14	HH13	M	1795	G6+G9
+G2_genotype_11	17-KC-1	G2_old	17-KC-1	HH17	F	1649	G2
+G3_donor7	g48	G3_unfiltered	G3	?	M	1584	G3
+G2_genotype_10	g49	G2_old	G2	?	F	1464	G2
+G3_donor4	g50	G3_unfiltered	G3	?	M	1220	G3
+G3_donor1	g51	G3_unfiltered	G3	?	M	1215	G3
+g35	g35	G6_libpair	13-5..8	HH13	F	1176	G6
+G3_donor3	g52	G3_unfiltered	G3	?	M	1158	G3
+g32	g32	G6_libpair	13-5..8	HH13	F	951	G6+G9
+G3_donor10	g53	G3_unfiltered	G3	?	M	722	G3
+g28	g28	G6_libpair	17-A..D	HH17	F	600	G6
+g34	g34	G6_libpair	17-A..D	HH17	F	541	G6+G9

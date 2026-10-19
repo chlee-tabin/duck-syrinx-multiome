@@ -1,0 +1,6 @@
+library	n_cells_tested	n_doublets_q01	doublet_rate	status
+ARC01	4337	238	0.0549	ok
+ARC02	5732	733	0.1279	ok
+ARC09	21175	739	0.0349	ok
+ARC0S-chick	2956	341	0.1154	ok
+ARC10	10614	463	0.0436	ok

@@ -1,0 +1,278 @@
+sample_id	libsize	n_cells	total_fragments	d2g_stage	d2g_subcluster	inferred_side	unified_genotype_id	compartment	size_factor_global
+G2_genotype_01__BARX1+__L__HH17/16	3286845	371	3286845	HH17/16	BARX1+	L	G2_genotype_01	ventral	3.90638
+G2_genotype_01__Cardiopharyngeal_LPM__L__HH17/16	623548	82	623548	HH17/16	Cardiopharyngeal LPM	L	G2_genotype_01	ventral	1.05594
+G2_genotype_01__Contamination__L__HH17/16	410192	53	410192	HH17/16	Contamination	L	G2_genotype_01	none	0.741676
+G2_genotype_01__Dorsal-biased_LPM__L__HH17/16	1544795	231	1544795	HH17/16	Dorsal-biased LPM	L	G2_genotype_01	dorsal	2.01281
+G2_genotype_01__Skeletogenic_LPM__L__HH17/16	1423054	204	1423054	HH17/16	Skeletogenic LPM	L	G2_genotype_01	none	1.97797
+G2_genotype_01__Skeletogenic_LPM__R__HH17/16	249030	40	249030	HH17/16	Skeletogenic LPM	R	G2_genotype_01	none	0.624669
+G2_genotype_01__Venous-pole_spl.__L__HH17/16	510779	68	510779	HH17/16	Venous-pole spl.	L	G2_genotype_01	none	0.894307
+G2_genotype_01__Venous-pole_spl.__R__HH17/16	276744	48	276744	HH17/16	Venous-pole spl.	R	G2_genotype_01	none	0.641615
+G2_genotype_02__BARX1+__L__HH17/16	798699	106	798699	HH17/16	BARX1+	L	G2_genotype_02	ventral	1.21739
+G2_genotype_02__BARX1+__R__HH17/16	422319	59	422319	HH17/16	BARX1+	R	G2_genotype_02	ventral	0.761563
+G2_genotype_02__Cardiopharyngeal_LPM__L__HH17/16	395692	68	395692	HH17/16	Cardiopharyngeal LPM	L	G2_genotype_02	ventral	0.723767
+G2_genotype_02__Cardiopharyngeal_LPM__R__HH17/16	292769	45	292769	HH17/16	Cardiopharyngeal LPM	R	G2_genotype_02	ventral	0.647605
+G2_genotype_02__Contamination__L__HH17/16	212518	31	212518	HH17/16	Contamination	L	G2_genotype_02	none	0.605675
+G2_genotype_02__Contamination__R__HH17/16	112927	20	112927	HH17/16	Contamination	R	G2_genotype_02	none	0.552155
+G2_genotype_02__Dorsal-biased_LPM__L__HH17/16	757078	111	757078	HH17/16	Dorsal-biased LPM	L	G2_genotype_02	dorsal	1.18007
+G2_genotype_02__Dorsal-biased_LPM__R__HH17/16	190974	36	190974	HH17/16	Dorsal-biased LPM	R	G2_genotype_02	dorsal	0.595786
+G2_genotype_02__Skeletogenic_LPM__L__HH17/16	889158	148	889158	HH17/16	Skeletogenic LPM	L	G2_genotype_02	none	1.31489
+G2_genotype_02__Skeletogenic_LPM__R__HH17/16	579184	93	579184	HH17/16	Skeletogenic LPM	R	G2_genotype_02	none	1.02738
+G2_genotype_02__Venous-pole_spl.__L__HH17/16	267544	42	267544	HH17/16	Venous-pole spl.	L	G2_genotype_02	none	0.633719
+G2_genotype_02__Venous-pole_spl.__R__HH17/16	158714	33	158714	HH17/16	Venous-pole spl.	R	G2_genotype_02	none	0.580591
+G2_genotype_03__BARX1+__L__HH17/16	1051605	201	1051605	HH17/16	BARX1+	L	G2_genotype_03	ventral	1.53967
+G2_genotype_03__Cardiopharyngeal_LPM__L__HH17/16	266543	67	266543	HH17/16	Cardiopharyngeal LPM	L	G2_genotype_03	ventral	0.633862
+G2_genotype_03__Contamination__L__HH17/16	132474	26	132474	HH17/16	Contamination	L	G2_genotype_03	none	0.567777
+G2_genotype_03__Dorsal-biased_LPM__L__HH17/16	388929	75	388929	HH17/16	Dorsal-biased LPM	L	G2_genotype_03	dorsal	0.710381
+G2_genotype_03__Skeletogenic_LPM__L__HH17/16	634574	110	634574	HH17/16	Skeletogenic LPM	L	G2_genotype_03	none	1.09803
+G2_genotype_03__Venous-pole_spl.__L__HH17/16	397421	79	397421	HH17/16	Venous-pole spl.	L	G2_genotype_03	none	0.715791
+G2_genotype_04__BARX1+__L__HH17/16	1390821	159	1390821	HH17/16	BARX1+	L	G2_genotype_04	ventral	1.77671
+G2_genotype_04__Cardiopharyngeal_LPM__L__HH17/16	1073223	161	1073223	HH17/16	Cardiopharyngeal LPM	L	G2_genotype_04	ventral	1.51752
+G2_genotype_04__Cardiopharyngeal_LPM__R__HH17/16	247811	40	247811	HH17/16	Cardiopharyngeal LPM	R	G2_genotype_04	ventral	0.625722
+G2_genotype_04__Contamination__L__HH17/16	487338	72	487338	HH17/16	Contamination	L	G2_genotype_04	none	0.866563
+G2_genotype_04__Dorsal-biased_LPM__L__HH17/16	874426	142	874426	HH17/16	Dorsal-biased LPM	L	G2_genotype_04	dorsal	1.28453
+G2_genotype_04__PRRX1+/FOXF1-low_mes.__L__HH17/16	155048	33	155048	HH17/16	PRRX1+/FOXF1-low mes.	L	G2_genotype_04	none	0.584259
+G2_genotype_04__Skeletogenic_LPM__L__HH17/16	2164151	323	2164151	HH17/16	Skeletogenic LPM	L	G2_genotype_04	none	2.79585
+G2_genotype_04__Venous-pole_spl.__L__HH17/16	809195	133	809195	HH17/16	Venous-pole spl.	L	G2_genotype_04	none	1.20771
+G2_genotype_05__BARX1+__L__HH21	4258797	719	4258797	HH21	BARX1+	L	G2_genotype_05	ventral	6.02974
+G2_genotype_05__BARX1+__R__HH21	939105	143	939105	HH21	BARX1+	R	G2_genotype_05	ventral	1.37462
+G2_genotype_05__Dorsal_sub-epi.__L__HH21	252860	51	252860	HH21	Dorsal sub-epi.	L	G2_genotype_05	dorsal	0.626562
+G2_genotype_05__Skeletogenic_LPM__L__HH21	370820	78	370820	HH21	Skeletogenic LPM	L	G2_genotype_05	none	0.69345
+G2_genotype_05__Skeletogenic_LPM__R__HH21	208361	32	208361	HH21	Skeletogenic LPM	R	G2_genotype_05	none	0.605987
+G2_genotype_05__Syringeal__L__HH21	1203251	244	1203251	HH21	Syringeal	L	G2_genotype_05	ventral	1.76814
+G2_genotype_05__Syringeal__R__HH21	585540	78	585540	HH21	Syringeal	R	G2_genotype_05	ventral	1.03206
+G2_genotype_05__Venous-pole_spl.__L__HH21	693335	130	693335	HH21	Venous-pole spl.	L	G2_genotype_05	none	1.167
+G2_genotype_05__Venous-pole_spl.__R__HH21	337077	46	337077	HH21	Venous-pole spl.	R	G2_genotype_05	none	0.672264
+G2_genotype_05__Ventral_spl.__L__HH21	3661428	673	3661428	HH21	Ventral spl.	L	G2_genotype_05	ventral	5.15775
+G2_genotype_05__Ventral_spl.__R__HH21	986902	137	986902	HH21	Ventral spl.	R	G2_genotype_05	ventral	1.43476
+G2_genotype_07__BARX1+__L__HH21	347544	75	347544	HH21	BARX1+	L	G2_genotype_07	ventral	0.67962
+G2_genotype_07__BARX1+__R__HH21	114373	22	114373	HH21	BARX1+	R	G2_genotype_07	ventral	0.577631
+G2_genotype_07__Dorsal_sub-epi.__L__HH21	122450	21	122450	HH21	Dorsal sub-epi.	L	G2_genotype_07	dorsal	0.566318
+G2_genotype_07__Skeletogenic_LPM__R__HH21	145310	34	145310	HH21	Skeletogenic LPM	R	G2_genotype_07	none	0.580835
+G2_genotype_07__Syringeal__L__HH21	262500	52	262500	HH21	Syringeal	L	G2_genotype_07	ventral	0.628652
+G2_genotype_07__Syringeal__R__HH21	639157	118	639157	HH21	Syringeal	R	G2_genotype_07	ventral	1.10978
+G2_genotype_07__Venous-pole_spl.__L__HH21	262431	60	262431	HH21	Venous-pole spl.	L	G2_genotype_07	none	0.627469
+G2_genotype_07__Venous-pole_spl.__R__HH21	502887	92	502887	HH21	Venous-pole spl.	R	G2_genotype_07	none	0.911759
+G2_genotype_07__Ventral_spl.__L__HH21	1837664	348	1837664	HH21	Ventral spl.	L	G2_genotype_07	ventral	2.58317
+G2_genotype_07__Ventral_spl.__R__HH21	689149	135	689149	HH21	Ventral spl.	R	G2_genotype_07	ventral	1.16009
+G2_genotype_08__BARX1+__L__HH21	246878	52	246878	HH21	BARX1+	L	G2_genotype_08	ventral	0.625942
+G2_genotype_08__Skeletogenic_LPM__L__HH21	190231	21	190231	HH21	Skeletogenic LPM	L	G2_genotype_08	none	0.602137
+G2_genotype_08__Skeletogenic_LPM__R__HH21	283531	49	283531	HH21	Skeletogenic LPM	R	G2_genotype_08	none	0.64079
+G2_genotype_08__Syringeal__L__HH21	500628	88	500628	HH21	Syringeal	L	G2_genotype_08	ventral	0.902723
+G2_genotype_08__Syringeal__R__HH21	1241885	233	1241885	HH21	Syringeal	R	G2_genotype_08	ventral	1.77645
+G2_genotype_08__Venous-pole_spl.__L__HH21	294334	55	294334	HH21	Venous-pole spl.	L	G2_genotype_08	none	0.647275
+G2_genotype_08__Venous-pole_spl.__R__HH21	115872	25	115872	HH21	Venous-pole spl.	R	G2_genotype_08	none	0.563464
+G2_genotype_08__Ventral_spl.__L__HH21	1177919	193	1177919	HH21	Ventral spl.	L	G2_genotype_08	ventral	1.78239
+G2_genotype_08__Ventral_spl.__R__HH21	611370	110	611370	HH21	Ventral spl.	R	G2_genotype_08	ventral	1.08722
+G2_genotype_09__Cardiopharyngeal_LPM__R__HH17/16	524781	87	524781	HH17/16	Cardiopharyngeal LPM	R	G2_genotype_09	ventral	0.945989
+G2_genotype_09__Skeletogenic_LPM__R__HH17/16	461266	66	461266	HH17/16	Skeletogenic LPM	R	G2_genotype_09	none	0.833159
+G2_genotype_10__Dorsal_sub-epi.__R__HH21	189911	38	189911	HH21	Dorsal sub-epi.	R	G2_genotype_10	dorsal	0.595685
+G2_genotype_10__Skeletogenic_LPM__R__HH21	342734	57	342734	HH21	Skeletogenic LPM	R	G2_genotype_10	none	0.678875
+G2_genotype_10__Syringeal__L__HH21	341409	59	341409	HH21	Syringeal	L	G2_genotype_10	ventral	0.673261
+G2_genotype_10__Syringeal__R__HH21	173383	34	173383	HH21	Syringeal	R	G2_genotype_10	ventral	0.587921
+G2_genotype_10__Venous-pole_spl.__L__HH21	375551	67	375551	HH21	Venous-pole spl.	L	G2_genotype_10	none	0.700061
+G2_genotype_10__Venous-pole_spl.__R__HH21	153984	25	153984	HH21	Venous-pole spl.	R	G2_genotype_10	none	0.577934
+G2_genotype_10__Ventral_spl.__L__HH21	1398912	224	1398912	HH21	Ventral spl.	L	G2_genotype_10	ventral	1.97788
+G2_genotype_10__Ventral_spl.__R__HH21	506597	85	506597	HH21	Ventral spl.	R	G2_genotype_10	ventral	0.919367
+G2_genotype_11__BARX1+__L__HH17/16	434243	49	434243	HH17/16	BARX1+	L	G2_genotype_11	ventral	0.767559
+G2_genotype_11__Cardiopharyngeal_LPM__L__HH17/16	424467	55	424467	HH17/16	Cardiopharyngeal LPM	L	G2_genotype_11	ventral	0.761675
+G2_genotype_11__Dorsal-biased_LPM__L__HH17/16	248036	35	248036	HH17/16	Dorsal-biased LPM	L	G2_genotype_11	dorsal	0.624515
+G2_genotype_11__Skeletogenic_LPM__L__HH17/16	549635	64	549635	HH17/16	Skeletogenic LPM	L	G2_genotype_11	none	0.992484
+G2_genotype_11__Venous-pole_spl.__L__HH17/16	113479	20	113479	HH17/16	Venous-pole spl.	L	G2_genotype_11	none	0.550533
+G3_unfiltered_donor0__BARX1+__L__HH17/16	1091865	93	1091865	HH17/16	BARX1+	L	G3_unfiltered_donor0	ventral	1.50144
+G3_unfiltered_donor0__Cardiopharyngeal_LPM__L__HH17/16	320112	29	320112	HH17/16	Cardiopharyngeal LPM	L	G3_unfiltered_donor0	ventral	0.66551
+G3_unfiltered_donor0__Contamination__L__HH17/16	207883	21	207883	HH17/16	Contamination	L	G3_unfiltered_donor0	none	0.60916
+G3_unfiltered_donor0__Dorsal-biased_LPM__L__HH17/16	477238	45	477238	HH17/16	Dorsal-biased LPM	L	G3_unfiltered_donor0	dorsal	0.862558
+G3_unfiltered_donor0__Skeletogenic_LPM__L__HH17/16	807825	76	807825	HH17/16	Skeletogenic LPM	L	G3_unfiltered_donor0	none	1.24743
+G3_unfiltered_donor0__Venous-pole_spl.__L__HH17/16	237642	27	237642	HH17/16	Venous-pole spl.	L	G3_unfiltered_donor0	none	0.619294
+G3_unfiltered_donor3__BARX1+__L__HH17/16	1830678	134	1830678	HH17/16	BARX1+	L	G3_unfiltered_donor3	ventral	2.29545
+G3_unfiltered_donor3__Cardiopharyngeal_LPM__L__HH17/16	222979	22	222979	HH17/16	Cardiopharyngeal LPM	L	G3_unfiltered_donor3	ventral	0.613265
+G3_unfiltered_donor3__Dorsal-biased_LPM__L__HH17/16	473329	41	473329	HH17/16	Dorsal-biased LPM	L	G3_unfiltered_donor3	dorsal	0.868935
+G3_unfiltered_donor3__Skeletogenic_LPM__L__HH17/16	195925	21	195925	HH17/16	Skeletogenic LPM	L	G3_unfiltered_donor3	none	0.597839
+G3_unfiltered_donor3__Venous-pole_spl.__L__HH17/16	143608	20	143608	HH17/16	Venous-pole spl.	L	G3_unfiltered_donor3	none	0.572167
+G3_unfiltered_donor5__BARX1+__L__HH17/16	231848	20	231848	HH17/16	BARX1+	L	G3_unfiltered_donor5	ventral	0.620139
+G3_unfiltered_donor9__BARX1+__L__HH17/16	377091	23	377091	HH17/16	BARX1+	L	G3_unfiltered_donor9	ventral	0.713337
+dp500_donor29__Dorsal_sub-epi.__R__HH25	277429	53	277429	HH25	Dorsal sub-epi.	R	dp500_donor29	dorsal	0.637919
+dp500_donor29__Syringeal__R__HH25	797676	129	797676	HH25	Syringeal	R	dp500_donor29	ventral	1.21311
+dp500_donor29__Venous-pole_spl.__L__HH25	553864	77	553864	HH25	Venous-pole spl.	L	dp500_donor29	none	1.0111
+dp500_donor29__Venous-pole_spl.__R__HH25	805911	124	805911	HH25	Venous-pole spl.	R	dp500_donor29	none	1.25805
+dp500_donor29__Ventral_spl.__L__HH25	2299111	254	2299111	HH25	Ventral spl.	L	dp500_donor29	ventral	3.06679
+dp500_donor29__Ventral_spl.__R__HH25	2548462	394	2548462	HH25	Ventral spl.	R	dp500_donor29	ventral	3.29421
+g00__Dorsal_sub-epi.__L__HH25	561703	101	561703	HH25	Dorsal sub-epi.	L	g00	dorsal	1.01004
+g00__Dorsal_sub-epi.__R__HH25	422309	42	422309	HH25	Dorsal sub-epi.	R	g00	dorsal	0.761239
+g00__Syringeal__R__HH25	970704	122	970704	HH25	Syringeal	R	g00	ventral	1.38725
+g00__Venous-pole_spl.__L__HH25	866973	140	866973	HH25	Venous-pole spl.	L	g00	none	1.32871
+g00__Venous-pole_spl.__R__HH25	448447	44	448447	HH25	Venous-pole spl.	R	g00	none	0.821949
+g00__Ventral_spl.__L__HH25	3523316	553	3523316	HH25	Ventral spl.	L	g00	ventral	4.57537
+g00__Ventral_spl.__R__HH25	4254856	567	4254856	HH25	Ventral spl.	R	g00	ventral	5.39316
+g01__BARX1+__L__HH17/16	1739359	166	1739359	HH17/16	BARX1+	L	g01	ventral	2.19939
+g01__Cardiopharyngeal_LPM__L__HH17/16	309431	31	309431	HH17/16	Cardiopharyngeal LPM	L	g01	ventral	0.658597
+g01__Cardiopharyngeal_LPM__R__HH17/16	277567	37	277567	HH17/16	Cardiopharyngeal LPM	R	g01	ventral	0.641055
+g01__Dorsal-biased_LPM__L__HH17/16	734922	74	734922	HH17/16	Dorsal-biased LPM	L	g01	dorsal	1.17912
+g01__Skeletogenic_LPM__L__HH17/16	811191	76	811191	HH17/16	Skeletogenic LPM	L	g01	none	1.26092
+g01__Venous-pole_spl.__L__HH17/16	255897	38	255897	HH17/16	Venous-pole spl.	L	g01	none	0.6265
+g01__Venous-pole_spl.__R__HH17/16	151124	20	151124	HH17/16	Venous-pole spl.	R	g01	none	0.573831
+g02__Dorsal_sub-epi.__R__HH25	815559	124	815559	HH25	Dorsal sub-epi.	R	g02	dorsal	1.27748
+g02__Skeletogenic_LPM__R__HH25	296895	44	296895	HH25	Skeletogenic LPM	R	g02	none	0.646906
+g02__Syringeal__L__HH25	277769	40	277769	HH25	Syringeal	L	g02	ventral	0.640183
+g02__Syringeal__R__HH25	1684719	242	1684719	HH25	Syringeal	R	g02	ventral	2.28631
+g02__Venous-pole_spl.__R__HH25	662218	93	662218	HH25	Venous-pole spl.	R	g02	none	1.13705
+g02__Ventral_spl.__L__HH25	502745	83	502745	HH25	Ventral spl.	L	g02	ventral	0.880922
+g02__Ventral_spl.__R__HH25	11011498	1556	11011498	HH25	Ventral spl.	R	g02	ventral	14.1521
+g03__BARX1+__L__HH21	1326055	180	1326055	HH21	BARX1+	L	g03	ventral	1.90733
+g03__BARX1+__R__HH21	1344702	170	1344702	HH21	BARX1+	R	g03	ventral	1.97038
+g03__Dorsal_sub-epi.__L__HH21	265249	40	265249	HH21	Dorsal sub-epi.	L	g03	dorsal	0.630609
+g03__Dorsal_sub-epi.__R__HH21	520250	68	520250	HH21	Dorsal sub-epi.	R	g03	dorsal	0.93835
+g03__Skeletogenic_LPM__L__HH21	778986	109	778986	HH21	Skeletogenic LPM	L	g03	none	1.24429
+g03__Skeletogenic_LPM__R__HH21	701169	91	701169	HH21	Skeletogenic LPM	R	g03	none	1.17838
+g03__Syringeal__L__HH21	2036491	212	2036491	HH21	Syringeal	L	g03	ventral	2.58848
+g03__Syringeal__R__HH21	1628543	187	1628543	HH21	Syringeal	R	g03	ventral	2.08973
+g03__Venous-pole_spl.__L__HH21	1640150	207	1640150	HH21	Venous-pole spl.	L	g03	none	2.20276
+g03__Venous-pole_spl.__R__HH21	762851	93	762851	HH21	Venous-pole spl.	R	g03	none	1.17833
+g03__Ventral_spl.__L__HH21	4162212	477	4162212	HH21	Ventral spl.	L	g03	ventral	5.46131
+g03__Ventral_spl.__R__HH21	2256897	262	2256897	HH21	Ventral spl.	R	g03	ventral	2.97727
+g04__Dorsal_sub-epi.__R__HH25	280194	56	280194	HH25	Dorsal sub-epi.	R	g04	dorsal	0.637691
+g04__Skeletogenic_LPM__R__HH25	322035	38	322035	HH25	Skeletogenic LPM	R	g04	none	0.664154
+g04__Syringeal__R__HH25	1476788	203	1476788	HH25	Syringeal	R	g04	ventral	2.03868
+g04__Venous-pole_spl.__R__HH25	556384	87	556384	HH25	Venous-pole spl.	R	g04	none	1.01029
+g04__Ventral_spl.__L__HH25	518160	58	518160	HH25	Ventral spl.	L	g04	ventral	0.933565
+g04__Ventral_spl.__R__HH25	4933945	674	4933945	HH25	Ventral spl.	R	g04	ventral	6.48807
+g05__BARX1+__L__HH21	1566190	163	1566190	HH21	BARX1+	L	g05	ventral	2.06416
+g05__BARX1+__R__HH21	1718572	212	1718572	HH21	BARX1+	R	g05	ventral	2.41197
+g05__Dorsal_sub-epi.__L__HH21	292745	29	292745	HH21	Dorsal sub-epi.	L	g05	dorsal	0.645978
+g05__Dorsal_sub-epi.__R__HH21	336373	46	336373	HH21	Dorsal sub-epi.	R	g05	dorsal	0.671551
+g05__Skeletogenic_LPM__L__HH21	228884	32	228884	HH21	Skeletogenic LPM	L	g05	none	0.615489
+g05__Skeletogenic_LPM__R__HH21	406053	44	406053	HH21	Skeletogenic LPM	R	g05	none	0.734358
+g05__Syringeal__L__HH21	195360	22	195360	HH21	Syringeal	L	g05	ventral	0.596909
+g05__Syringeal__R__HH21	1139080	131	1139080	HH21	Syringeal	R	g05	ventral	1.57625
+g05__Venous-pole_spl.__L__HH21	343385	42	343385	HH21	Venous-pole spl.	L	g05	none	0.675033
+g05__Venous-pole_spl.__R__HH21	755065	96	755065	HH21	Venous-pole spl.	R	g05	none	1.17946
+g05__Ventral_spl.__L__HH21	1810999	186	1810999	HH21	Ventral spl.	L	g05	ventral	2.32523
+g05__Ventral_spl.__R__HH21	2291978	271	2291978	HH21	Ventral spl.	R	g05	ventral	3.10024
+g06__Dorsal_sub-epi.__L__HH25	346255	41	346255	HH25	Dorsal sub-epi.	L	g06	dorsal	0.679506
+g06__Dorsal_sub-epi.__R__HH25	156114	25	156114	HH25	Dorsal sub-epi.	R	g06	dorsal	0.584156
+g06__Skeletogenic_LPM__R__HH25	243878	26	243878	HH25	Skeletogenic LPM	R	g06	none	0.621422
+g06__Syringeal__R__HH25	660373	108	660373	HH25	Syringeal	R	g06	ventral	1.11804
+g06__Venous-pole_spl.__L__HH25	509226	56	509226	HH25	Venous-pole spl.	L	g06	none	0.913938
+g06__Ventral_spl.__L__HH25	1329300	145	1329300	HH25	Ventral spl.	L	g06	ventral	1.75776
+g06__Ventral_spl.__R__HH25	6018661	875	6018661	HH25	Ventral spl.	R	g06	ventral	7.73412
+g07__Dorsal_sub-epi.__L__HH25	401135	66	401135	HH25	Dorsal sub-epi.	L	g07	dorsal	0.720103
+g07__Dorsal_sub-epi.__R__HH25	172566	23	172566	HH25	Dorsal sub-epi.	R	g07	dorsal	0.589664
+g07__Skeletogenic_LPM__L__HH25	259171	37	259171	HH25	Skeletogenic LPM	L	g07	none	0.629566
+g07__Syringeal__L__HH25	349879	47	349879	HH25	Syringeal	L	g07	ventral	0.67809
+g07__Syringeal__R__HH25	483248	65	483248	HH25	Syringeal	R	g07	ventral	0.857167
+g07__Venous-pole_spl.__L__HH25	457150	78	457150	HH25	Venous-pole spl.	L	g07	none	0.8283
+g07__Ventral_spl.__L__HH25	5170638	727	5170638	HH25	Ventral spl.	L	g07	ventral	6.66563
+g07__Ventral_spl.__R__HH25	3827290	493	3827290	HH25	Ventral spl.	R	g07	ventral	4.90774
+g08__BARX1+__L__HH17/16	711460	83	711460	HH17/16	BARX1+	L	g08	ventral	1.15922
+g08__Cardiopharyngeal_LPM__L__HH17/16	252091	33	252091	HH17/16	Cardiopharyngeal LPM	L	g08	ventral	0.627249
+g08__Cardiopharyngeal_LPM__R__HH17/16	522155	62	522155	HH17/16	Cardiopharyngeal LPM	R	g08	ventral	0.919319
+g08__Dorsal-biased_LPM__L__HH17/16	755293	84	755293	HH17/16	Dorsal-biased LPM	L	g08	dorsal	1.19494
+g08__Skeletogenic_LPM__L__HH17/16	992175	101	992175	HH17/16	Skeletogenic LPM	L	g08	none	1.39819
+g08__Skeletogenic_LPM__R__HH17/16	1044752	98	1044752	HH17/16	Skeletogenic LPM	R	g08	none	1.4383
+g08__Venous-pole_spl.__L__HH17/16	281350	36	281350	HH17/16	Venous-pole spl.	L	g08	none	0.639784
+g08__Venous-pole_spl.__R__HH17/16	422915	45	422915	HH17/16	Venous-pole spl.	R	g08	none	0.742163
+g09__BARX1+__L__HH21	1865567	211	1865567	HH21	BARX1+	L	g09	ventral	2.56428
+g09__BARX1+__R__HH21	1826382	240	1826382	HH21	BARX1+	R	g09	ventral	2.60617
+g09__Dorsal_sub-epi.__L__HH21	217522	31	217522	HH21	Dorsal sub-epi.	L	g09	dorsal	0.608695
+g09__Dorsal_sub-epi.__R__HH21	245642	37	245642	HH21	Dorsal sub-epi.	R	g09	dorsal	0.62245
+g09__Skeletogenic_LPM__L__HH21	545156	64	545156	HH21	Skeletogenic LPM	L	g09	none	0.994284
+g09__Skeletogenic_LPM__R__HH21	656984	89	656984	HH21	Skeletogenic LPM	R	g09	none	1.12537
+g09__Syringeal__L__HH21	1047176	128	1047176	HH21	Syringeal	L	g09	ventral	1.51307
+g09__Syringeal__R__HH21	586592	69	586592	HH21	Syringeal	R	g09	ventral	1.0121
+g09__Venous-pole_spl.__L__HH21	766548	92	766548	HH21	Venous-pole spl.	L	g09	none	1.20967
+g09__Venous-pole_spl.__R__HH21	802809	97	802809	HH21	Venous-pole spl.	R	g09	none	1.22741
+g09__Ventral_spl.__L__HH21	2860830	336	2860830	HH21	Ventral spl.	L	g09	ventral	3.87041
+g09__Ventral_spl.__R__HH21	1804680	193	1804680	HH21	Ventral spl.	R	g09	ventral	2.36542
+g10__BARX1+__L__HH21	1326819	166	1326819	HH21	BARX1+	L	g10	ventral	1.88369
+g10__BARX1+__R__HH21	741043	88	741043	HH21	BARX1+	R	g10	ventral	1.18503
+g10__Dorsal_sub-epi.__L__HH21	204130	34	204130	HH21	Dorsal sub-epi.	L	g10	dorsal	0.600759
+g10__Dorsal_sub-epi.__R__HH21	268675	36	268675	HH21	Dorsal sub-epi.	R	g10	dorsal	0.633338
+g10__Skeletogenic_LPM__L__HH21	475070	62	475070	HH21	Skeletogenic LPM	L	g10	none	0.85767
+g10__Skeletogenic_LPM__R__HH21	497775	64	497775	HH21	Skeletogenic LPM	R	g10	none	0.906635
+g10__Syringeal__L__HH21	590090	61	590090	HH21	Syringeal	L	g10	ventral	1.03539
+g10__Syringeal__R__HH21	784158	102	784158	HH21	Syringeal	R	g10	ventral	1.19766
+g10__Venous-pole_spl.__L__HH21	435879	54	435879	HH21	Venous-pole spl.	L	g10	none	0.767996
+g10__Venous-pole_spl.__R__HH21	420247	56	420247	HH21	Venous-pole spl.	R	g10	none	0.751854
+g10__Ventral_spl.__L__HH21	2147165	261	2147165	HH21	Ventral spl.	L	g10	ventral	2.8154
+g10__Ventral_spl.__R__HH21	1452548	166	1452548	HH21	Ventral spl.	R	g10	ventral	1.92347
+g11__Dorsal_sub-epi.__L__HH25	302127	52	302127	HH25	Dorsal sub-epi.	L	g11	dorsal	0.649221
+g11__Dorsal_sub-epi.__R__HH25	254384	46	254384	HH25	Dorsal sub-epi.	R	g11	dorsal	0.624976
+g11__Skeletogenic_LPM__L__HH25	613616	89	613616	HH25	Skeletogenic LPM	L	g11	none	1.0833
+g11__Skeletogenic_LPM__R__HH25	455965	74	455965	HH25	Skeletogenic LPM	R	g11	none	0.822081
+g11__Syringeal__L__HH25	2267988	273	2267988	HH25	Syringeal	L	g11	ventral	3.04542
+g11__Syringeal__R__HH25	1029187	162	1029187	HH25	Syringeal	R	g11	ventral	1.46783
+g11__Venous-pole_spl.__L__HH25	263559	41	263559	HH25	Venous-pole spl.	L	g11	none	0.630735
+g11__Venous-pole_spl.__R__HH25	308695	41	308695	HH25	Venous-pole spl.	R	g11	none	0.654174
+g11__Ventral_spl.__L__HH25	6629577	895	6629577	HH25	Ventral spl.	L	g11	ventral	8.89004
+g11__Ventral_spl.__R__HH25	4746094	751	4746094	HH25	Ventral spl.	R	g11	ventral	6.20633
+g12__Dorsal_sub-epi.__L__HH25	490250	76	490250	HH25	Dorsal sub-epi.	L	g12	dorsal	0.895027
+g12__Skeletogenic_LPM__L__HH25	135774	24	135774	HH25	Skeletogenic LPM	L	g12	none	0.571073
+g12__Syringeal__L__HH25	1156434	175	1156434	HH25	Syringeal	L	g12	ventral	1.66212
+g12__Venous-pole_spl.__L__HH25	99046	20	99046	HH25	Venous-pole spl.	L	g12	none	0.563799
+g12__Ventral_spl.__L__HH25	7043183	1014	7043183	HH25	Ventral spl.	L	g12	ventral	9.57672
+g12__Ventral_spl.__R__HH25	948999	108	948999	HH25	Ventral spl.	R	g12	ventral	1.34485
+g13__Early_LPM__L__HH13	293097	35	293097	HH13	Early LPM	L	g13	ventral	0.646905
+g13__Early_LPM__R__HH13	428598	52	428598	HH13	Early LPM	R	g13	ventral	0.767612
+g13__PRRX1+/FOXF1-low_mes.__R__HH13	118477	20	118477	HH13	PRRX1+/FOXF1-low mes.	R	g13	none	0.556437
+g13__Venous-pole_spl.__R__HH13	256746	37	256746	HH13	Venous-pole spl.	R	g13	none	0.629153
+g14__Early_LPM__L__HH13	133930	23	133930	HH13	Early LPM	L	g14	ventral	0.568311
+g14__Early_LPM__R__HH13	330946	43	330946	HH13	Early LPM	R	g14	ventral	0.667876
+g15__BARX1+__L__HH17/16	212877	25	212877	HH17/16	BARX1+	L	g15	ventral	0.606482
+g15__BARX1+__R__HH17/16	711537	68	711537	HH17/16	BARX1+	R	g15	ventral	1.14234
+g15__Cardiopharyngeal_LPM__L__HH17/16	232689	31	232689	HH17/16	Cardiopharyngeal LPM	L	g15	ventral	0.616929
+g15__Cardiopharyngeal_LPM__R__HH17/16	261654	29	261654	HH17/16	Cardiopharyngeal LPM	R	g15	ventral	0.632038
+g15__Dorsal-biased_LPM__L__HH17/16	233500	28	233500	HH17/16	Dorsal-biased LPM	L	g15	dorsal	0.615539
+g15__Dorsal-biased_LPM__R__HH17/16	371829	38	371829	HH17/16	Dorsal-biased LPM	R	g15	dorsal	0.700035
+g15__Skeletogenic_LPM__L__HH17/16	582907	75	582907	HH17/16	Skeletogenic LPM	L	g15	none	1.02696
+g15__Skeletogenic_LPM__R__HH17/16	713057	74	713057	HH17/16	Skeletogenic LPM	R	g15	none	1.14879
+g15__Venous-pole_spl.__L__HH17/16	277890	38	277890	HH17/16	Venous-pole spl.	L	g15	none	0.638098
+g15__Venous-pole_spl.__R__HH17/16	315216	39	315216	HH17/16	Venous-pole spl.	R	g15	none	0.658936
+g16__Early_LPM__L__HH13	219120	31	219120	HH13	Early LPM	L	g16	ventral	0.610205
+g16__Early_LPM__R__HH13	355605	48	355605	HH13	Early LPM	R	g16	ventral	0.685616
+g16__Venous-pole_spl.__R__HH13	219032	22	219032	HH13	Venous-pole spl.	R	g16	none	0.611414
+g17__BARX1+__L__HH17/16	1140195	128	1140195	HH17/16	BARX1+	L	g17	ventral	1.55861
+g17__Cardiopharyngeal_LPM__L__HH17/16	443006	69	443006	HH17/16	Cardiopharyngeal LPM	L	g17	ventral	0.782586
+g17__Cardiopharyngeal_LPM__R__HH17/16	311608	48	311608	HH17/16	Cardiopharyngeal LPM	R	g17	ventral	0.657759
+g17__Dorsal-biased_LPM__L__HH17/16	619812	82	619812	HH17/16	Dorsal-biased LPM	L	g17	dorsal	1.07245
+g17__Skeletogenic_LPM__L__HH17/16	714941	103	714941	HH17/16	Skeletogenic LPM	L	g17	none	1.1644
+g17__Skeletogenic_LPM__R__HH17/16	691145	85	691145	HH17/16	Skeletogenic LPM	R	g17	none	1.13645
+g17__Venous-pole_spl.__L__HH17/16	355430	53	355430	HH17/16	Venous-pole spl.	L	g17	none	0.681042
+g17__Venous-pole_spl.__R__HH17/16	157624	23	157624	HH17/16	Venous-pole spl.	R	g17	none	0.577746
+g18__Early_LPM__L__HH13	158453	24	158453	HH13	Early LPM	L	g18	ventral	0.579558
+g19__Cardiopharyngeal_LPM__L__HH17/16	334050	57	334050	HH17/16	Cardiopharyngeal LPM	L	g19	ventral	0.671436
+g19__Skeletogenic_LPM__L__HH17/16	347710	52	347710	HH17/16	Skeletogenic LPM	L	g19	none	0.679513
+g20__BARX1+__R__HH17/16	398913	58	398913	HH17/16	BARX1+	R	g20	ventral	0.719593
+g20__Cardiopharyngeal_LPM__R__HH17/16	489950	96	489950	HH17/16	Cardiopharyngeal LPM	R	g20	ventral	0.87983
+g20__Contamination__R__HH17/16	145686	31	145686	HH17/16	Contamination	R	g20	none	0.572756
+g20__Dorsal-biased_LPM__R__HH17/16	303196	47	303196	HH17/16	Dorsal-biased LPM	R	g20	dorsal	0.651725
+g20__PRRX1+/FOXF1-low_mes.__R__HH17/16	100894	21	100894	HH17/16	PRRX1+/FOXF1-low mes.	R	g20	none	0.552171
+g20__Skeletogenic_LPM__R__HH17/16	647877	107	647877	HH17/16	Skeletogenic LPM	R	g20	none	1.1151
+g20__Venous-pole_spl.__R__HH17/16	421724	77	421724	HH17/16	Venous-pole spl.	R	g20	none	0.744654
+g21__Early_LPM__L__HH13	433718	50	433718	HH13	Early LPM	L	g21	ventral	0.786366
+g21__PRRX1+/FOXF1-low_mes.__L__HH13	154155	21	154155	HH13	PRRX1+/FOXF1-low mes.	L	g21	none	0.580335
+g21__Venous-pole_spl.__L__HH13	236929	22	236929	HH13	Venous-pole spl.	L	g21	none	0.623417
+g22__BARX1+__R__HH17/16	333830	38	333830	HH17/16	BARX1+	R	g22	ventral	0.673396
+g22__Cardiopharyngeal_LPM__R__HH17/16	192904	21	192904	HH17/16	Cardiopharyngeal LPM	R	g22	ventral	0.597899
+g22__Dorsal-biased_LPM__R__HH17/16	234878	30	234878	HH17/16	Dorsal-biased LPM	R	g22	dorsal	0.61645
+g22__Skeletogenic_LPM__R__HH17/16	327972	37	327972	HH17/16	Skeletogenic LPM	R	g22	none	0.666877
+g22__Venous-pole_spl.__R__HH17/16	139106	22	139106	HH17/16	Venous-pole spl.	R	g22	none	0.563957
+g23__Cardiopharyngeal_LPM__L__HH17/16	182661	21	182661	HH17/16	Cardiopharyngeal LPM	L	g23	ventral	0.590615
+g23__Cardiopharyngeal_LPM__R__HH17/16	219431	28	219431	HH17/16	Cardiopharyngeal LPM	R	g23	ventral	0.61093
+g23__Skeletogenic_LPM__L__HH17/16	429289	54	429289	HH17/16	Skeletogenic LPM	L	g23	none	0.779875
+g24__BARX1+__R__HH17/16	845545	152	845545	HH17/16	BARX1+	R	g24	ventral	1.27191
+g24__Cardiopharyngeal_LPM__L__HH17/16	167693	22	167693	HH17/16	Cardiopharyngeal LPM	L	g24	ventral	0.583846
+g24__Cardiopharyngeal_LPM__R__HH17/16	118023	25	118023	HH17/16	Cardiopharyngeal LPM	R	g24	ventral	0.560869
+g24__Dorsal-biased_LPM__L__HH17/16	276910	33	276910	HH17/16	Dorsal-biased LPM	L	g24	dorsal	0.638421
+g24__Dorsal-biased_LPM__R__HH17/16	117764	25	117764	HH17/16	Dorsal-biased LPM	R	g24	dorsal	0.566912
+g24__PRRX1+/FOXF1-low_mes.__L__HH17/16	259726	37	259726	HH17/16	PRRX1+/FOXF1-low mes.	L	g24	none	0.629459
+g24__Skeletogenic_LPM__L__HH17/16	365092	49	365092	HH17/16	Skeletogenic LPM	L	g24	none	0.692037
+g24__Skeletogenic_LPM__R__HH17/16	268903	51	268903	HH17/16	Skeletogenic LPM	R	g24	none	0.632582
+g24__Venous-pole_spl.__R__HH17/16	120139	26	120139	HH17/16	Venous-pole spl.	R	g24	none	0.564664
+g25__Early_LPM__L__HH13	351605	35	351605	HH13	Early LPM	L	g25	ventral	0.687588
+g25__Early_LPM__R__HH13	683359	84	683359	HH13	Early LPM	R	g25	ventral	1.14643
+g25__Venous-pole_spl.__R__HH13	328935	35	328935	HH13	Venous-pole spl.	R	g25	none	0.670826
+g32__Early_LPM__L__HH13	281025	43	281025	HH13	Early LPM	L	g32	ventral	0.638938
+g32__Early_LPM__R__HH13	263522	28	263522	HH13	Early LPM	R	g32	ventral	0.632195
+g35__Early_LPM__L__HH13	344464	36	344464	HH13	Early LPM	L	g35	ventral	0.676158
+g35__Early_LPM__R__HH13	446989	40	446989	HH13	Early LPM	R	g35	ventral	0.805634
+g35__PRRX1+/FOXF1-low_mes.__L__HH13	192222	25	192222	HH13	PRRX1+/FOXF1-low mes.	L	g35	none	0.596939

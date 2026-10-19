@@ -1,0 +1,53 @@
+genotype	stage	design_stage	libraries	sides	firmness_modes	candidate_embryos	cardinality	embryo_id_display	interchangeable_with	pc_fail	design_conflict
+g13	HH13	HH13	GEX08,PILOTGEX4	R,L	direct,direct	13-12,13-14	2	13-12	g21	False	False
+g14	HH13	HH13	GEX08,PILOTGEX4	L,R	direct,direct	13-11,13-13	2	13-11	g18	False	False
+g16	HH13	HH13	GEX07,PILOTGEX3	R,L	direct,direct	13-7,13-8	2	13-7	g25	False	False
+g18	HH13	HH13	GEX08,PILOTGEX4	L,R	direct,direct	13-11,13-13	2	13-13	g14	False	False
+g21	HH13	HH13	GEX08,PILOTGEX4	R,L	placement,placement	13-12,13-14	2	13-14	g13	False	False
+g25	HH13	HH13	GEX07,PILOTGEX3	R,L	direct,direct	13-7,13-8	2	13-8	g16	False	False
+g32	HH13	HH13	GEX07,PILOTGEX3	L,R	placement,placement	13-5,13-6	2	13-5	g35	False	False
+g35	HH13	HH13	GEX07,PILOTGEX3	L,R	direct,direct	13-5,13-6	2	13-6	g32	False	False
+G2_genotype_01	HH17/16	HH17/16	GEX03-1,GEX03-2	L,R	direct,direct	16-Md-1,17-KC-2,17-KC-3	3	16-Md-1	G2_genotype_02,G2_genotype_04	False	False
+G2_genotype_02	HH17/16	HH17/16	GEX03-1,GEX03-2	L,R	direct,direct	16-Md-1,17-KC-2,17-KC-3	3	17-KC-2	G2_genotype_01,G2_genotype_04	False	False
+G2_genotype_03	HH17/16	HH17/16	GEX03-1,GEX03-2	R,L	direct,direct	16-KC-1,17-Md-14	2	16-KC-1	G2_genotype_09	False	False
+G2_genotype_04	HH17/16	HH17/16	GEX03-1,GEX03-2	L,R	direct,direct	16-Md-1,17-KC-2,17-KC-3	3	17-KC-3	G2_genotype_01,G2_genotype_02	False	False
+G2_genotype_09	HH17/16	HH17/16	GEX03-1,GEX03-2	R,L	placement,placement	16-KC-1,17-Md-14	2	17-Md-14	G2_genotype_03	False	False
+G2_genotype_11	HH17	HH17/16	GEX03-2	L	placement	17-KC-1	1	17-KC-1		False	False
+G3_unfiltered_donor0	HH17/16	HH17/16	GEX04,GEX0S-duck	L,L	same_side_dup,same_side_dup	17-5,17-6	2	17-5	G3_unfiltered_donor3	False	False
+G3_unfiltered_donor3	HH17/16	HH17/16	GEX04,GEX0S-duck	L,L	same_side_dup,same_side_dup	17-5,17-6	2	17-6	G3_unfiltered_donor0	False	False
+G3_unfiltered_donor5	HH17/16	HH17/16	GEX04,GEX0S-duck	R,L	placement,placement	17-7,17-8	2	17-7	G3_unfiltered_donor9	False	False
+G3_unfiltered_donor8	HH17/16	HH17/16	GEX04	L	singleton_rank	16-4	1	16-4		False	False
+G3_unfiltered_donor9	HH17/16	HH17/16	GEX04,GEX0S-duck	R,L	direct,direct	17-7,17-8	2	17-8	G3_unfiltered_donor5	False	False
+g01	HH16	HH17/16	GEX05,GEX06	L,R	direct,direct	16-6	1	16-6		False	False
+g08	HH16	HH17/16	GEX05,GEX06	R,L	direct,direct	16-7	1	16-7		False	False
+g15	HH17/16	HH17/16	GEX07,GEX08	R,L	direct,direct	16-9,17-11,17-12	3	16-9	g19,g22	False	False
+g17	HH17/16	HH17/16	GEX07,GEX08	L,R	direct,direct	16-8,17-9,17-10	3	16-8	g23,g24	False	False
+g19	HH17/16	HH17/16	GEX07,GEX08	R,L	placement,placement	16-9,17-11,17-12	3	17-11	g15,g22	False	False
+g20	HH17	HH17/16	GEX03-1,GEX08	R,L	direct,direct	17-Md-13	1	17-Md-13		False	False
+g22	HH17/16	HH17/16	GEX07,GEX08	R,L	direct,direct	16-9,17-11,17-12	3	17-12	g15,g19	False	False
+g23	HH17/16	HH17/16	GEX07,GEX08	L,R	direct,direct	16-8,17-9,17-10	3	17-9	g17,g24	False	False
+g24	HH17/16	HH17/16	GEX07,GEX08	L,R	direct,direct	16-8,17-9,17-10	3	17-10	g17,g23	False	False
+g26_split0	HH17	HH17/16	PILOTGEX4	L	singleton_rank	17-A,17-B	2	17-A	g26_split1	False	False
+g26_split1	HH17	HH17/16	PILOTGEX4	L	singleton_rank	17-A,17-B	2	17-B	g26_split0	False	False
+g28	HH17	HH17/16	PILOTGEX4	R	singleton_rank	17-C,17-D	2	17-C	g34	False	False
+g34	HH17	HH17/16	PILOTGEX4	R	singleton_rank	17-C,17-D	2	17-D	g28	False	False
+G2_genotype_05	HH21	HH21	GEX03-1,GEX03-2	L,R	direct,direct	21-13,21-14	2	21-13	G2_genotype_07	False	False
+G2_genotype_07	HH21	HH21	GEX03-1,GEX03-2	L,R	direct,direct	21-13,21-14	2	21-14	G2_genotype_05	False	False
+G2_genotype_08	HH21	HH21	GEX03-1,GEX03-2	R,L	direct,direct	21-15,21-16	2	21-15	G2_genotype_10	False	False
+G2_genotype_10	HH21	HH21	GEX03-1,GEX03-2	R,L	direct,direct	21-15,21-16	2	21-16	G2_genotype_08	False	False
+G3_unfiltered_donor1	HH21	HH21	GEX04	R	singleton_rank	21-3,21-4	2	21-3	G3_unfiltered_donor4	False	False
+G3_unfiltered_donor10	HH21	HH21	GEX04	L	singleton_rank	21-1,21-2	2	21-1	G3_unfiltered_donor7	False	False
+G3_unfiltered_donor4	HH21	HH21	GEX04	R	singleton_rank	21-3,21-4	2	21-4	G3_unfiltered_donor1	False	False
+G3_unfiltered_donor7	HH21	HH21	GEX04	L	singleton_rank	21-1,21-2	2	21-2	G3_unfiltered_donor10	False	False
+g03	HH21	HH21	GEX05,GEX06	R,L	direct,direct	21-7,21-8	2	21-7	g09	False	False
+g05	HH21	HH21	GEX05,GEX06	L,R	direct,direct	21-5,21-6	2	21-5	g10	False	False
+g09	HH21	HH21	GEX05,GEX06	R,L	direct,direct	21-7,21-8	2	21-8	g03	False	False
+g10	HH21	HH21	GEX05,GEX06	L,R	direct,direct	21-5,21-6	2	21-6	g05	False	False
+dp500_donor29	HH25	HH25	GEX05,PILOTGEX3	R,L	direct,direct	25-5,25-6	2	25-5	g06	False	False
+g00	HH25	HH25	GEX05,PILOTGEX3	L,R	direct,direct	25-7,25-8	2	25-7	g07	False	False
+g02	HH25	HH25	GEX06,PILOTGEX4	R,L	direct,direct	25-11,25-12	2	25-11	g04	False	False
+g04	HH25	HH25	GEX06,PILOTGEX4	R,L	direct,direct	25-11,25-12	2	25-12	g02	False	False
+g06	HH25	HH25	GEX05,PILOTGEX3	R,L	direct,direct	25-5,25-6	2	25-6	dp500_donor29	False	False
+g07	HH25	HH25	GEX05,PILOTGEX3	L,R	direct,direct	25-7,25-8	2	25-8	g00	False	False
+g11	HH25	HH25	GEX06,PILOTGEX4	L,R	direct,direct	25-13,25-14	2	25-13	g12	False	False
+g12	HH25	HH25	GEX06,PILOTGEX4	L,R	direct,direct	25-13,25-14	2	25-14	g11	False	False

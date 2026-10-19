@@ -1,0 +1,13 @@
+stage	side	design	n_V_half	n_D_half	n_locus_tested	n_V_sig	n_D_sig	median_log2FC
+HH17/16	L	unpaired	9	7	359	0	0	0.1807
+HH17/16	L	paired	7	7	359	0	0	0.2974
+HH17/16	both	unpaired	15	7	359	0	0	0.0938
+HH17/16	both	paired	7	7	359	0	0	0.2974
+HH21	L	unpaired	8	6	359	0	0	0.1913
+HH21	L	paired	6	6	359	0	0	0.2628
+HH21	R	unpaired	8	5	359	1	0	0.1652
+HH21	R	paired	5	5	359	0	0	0.2132
+HH21	both	unpaired	16	11	359	7	0	0.1528
+HH21	both	paired	11	11	359	5	0	0.188
+HH25	both	unpaired	16	2	359	0	0	0.4082
+HH25	both	paired	2	2	359	0	0	0.5158

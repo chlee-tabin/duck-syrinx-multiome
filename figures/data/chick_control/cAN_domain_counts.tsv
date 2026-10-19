@@ -1,0 +1,41 @@
+group	donor	stage	gfp	domain	n1	n2	kept	drop_reason
+A	donor15	HH13	WT	LPM mes. (HH13)	20	20	True	
+A	donor3	HH13	WT	LPM mes. (HH13)	19	24	True	
+A	donor4	HH13	WT	LPM mes. (HH13)	19	42	True	
+A	donor6	HH13	WT	LPM mes. (HH13)	8	20	True	
+B	donor0	HH13	GFP+	LPM mes. (HH13)	71	40	True	
+B	donor1	HH13	WT	LPM mes. (HH13)	123	68	True	
+B	donor11a	HH13	GFP+	LPM mes. (HH13)	57	49	True	
+B	donor7	HH13	GFP+	LPM mes. (HH13)	121	98	True	
+A	donor10	HH15-16	WT	Ventral splanchnic pool	1	7	False	n<5 in a half (h1=1,h2=7)
+A	donor13	HH15-16	WT	Ventral splanchnic pool	1	20	False	n<5 in a half (h1=1,h2=20)
+A	donor5	HH15-16	WT	Ventral splanchnic pool	9	4	False	n<5 in a half (h1=9,h2=4)
+A	donor8	HH15-16	WT	Ventral splanchnic pool	7	5	True	
+A	donor14	HH25	WT	Ventral splanchnic pool	161	123	True	
+A	donor16	HH25	WT	Ventral splanchnic pool	68	420	True	
+A	donor2	HH25	WT	Ventral splanchnic pool	35	207	True	
+A	donor9	HH25	WT	Ventral splanchnic pool	209	114	True	
+B	donor10	HH15-16	WT	Ventral splanchnic pool	9	34	True	
+B	donor4	HH15-16	GFP+	Ventral splanchnic pool	72	28	True	
+B	donor6	HH15-16	WT	Ventral splanchnic pool	18	88	True	
+B	donor9	HH15-16	WT	Ventral splanchnic pool	103	36	True	
+B	donor11b	HH25	GFP+	Ventral splanchnic pool	122	64	True	
+B	donor2a	HH25	WT	Ventral splanchnic pool	1189	89	True	
+B	donor2b	HH25	WT	Ventral splanchnic pool	1046	516	True	
+B	donor8	HH25	GFP+	Ventral splanchnic pool	727	12	False	data-quality (donor8)
+A	donor10	HH15-16	WT	Dorsal sub-epi.	8	20	True	
+A	donor13	HH15-16	WT	Dorsal sub-epi.	1	20	False	n<5 in a half (h1=1,h2=20)
+A	donor5	HH15-16	WT	Dorsal sub-epi.	17	1	False	n<5 in a half (h1=17,h2=1)
+A	donor8	HH15-16	WT	Dorsal sub-epi.	10	9	True	
+A	donor14	HH25	WT	Dorsal sub-epi.	13	28	True	
+A	donor16	HH25	WT	Dorsal sub-epi.	22	55	True	
+A	donor2	HH25	WT	Dorsal sub-epi.	26	50	True	
+A	donor9	HH25	WT	Dorsal sub-epi.	14	22	True	
+B	donor10	HH15-16	WT	Dorsal sub-epi.	33	53	True	
+B	donor4	HH15-16	GFP+	Dorsal sub-epi.	56	60	True	
+B	donor6	HH15-16	WT	Dorsal sub-epi.	46	133	True	
+B	donor9	HH15-16	WT	Dorsal sub-epi.	93	40	True	
+B	donor11b	HH25	GFP+	Dorsal sub-epi.	5	6	True	
+B	donor2a	HH25	WT	Dorsal sub-epi.	228	92	True	
+B	donor2b	HH25	WT	Dorsal sub-epi.	171	89	True	
+B	donor8	HH25	GFP+	Dorsal sub-epi.	207	8	False	data-quality (donor8)

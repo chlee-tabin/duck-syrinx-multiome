@@ -1,0 +1,2 @@
+early_stage	early_pop	late_stage	late_pop	design	n_early	n_late	min_peak_count	n_peaks_input	n_peaks_tested	n_gained_padj010	n_lost_padj010
+HH17/16	Dorsal-biased LPM	HH21	Dorsal sub-epi.	commit_stage	7	11	10	283818	280505	21	1473

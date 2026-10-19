@@ -1,0 +1,49 @@
+# Lane-loading record — multiome lane layout (transcribed 2026-10-14).
+# Faithful transcription of the tube→lane rows; one row per (lane, tube).
+#   lane       ARC lane name as written in the record (ARC04 = GEX04; ARC0S = the
+#              "symmetry breaking" lane, aligned to both duck (GEX0S-duck) and
+#              chick (GEX0S-chick)).
+#   tube       tube label as written in the record.  CAUTION: the record's duck tube
+#              labels "17-A"/"17-B" are NOT the repo embryo IDs 17-A/17-B (those
+#              are the PILOTGEX4 embryos).  lane-loading-record tube -> repo embryos:
+#                17-B(2) -> 17-5, 17-6   (left halves; ONE tube split across ARC04 + ARC0S)
+#                17-A(2) -> 17-7, 17-8   (right halves in ARC04, left halves in ARC0S)
+#                21-B(2) -> 21-1, 21-2 (L)   21-A(2) -> 21-3, 21-4 (R)
+#                16-B(1) -> 16-4 (L)         16-A(1) -> 16-5 (R)
+#   embryos_n  the "(n)" in the tube label = number of embryos in the tube.
+#   side       L / R half as written in the record.
+#   split_color  record cell colour; the SAME colour in two lanes = ONE tube split
+#              across both lanes (same tissue).  Empty = no colour in the record.
+# Notes from the lane-loading record:
+#   - The ARC0S note says "10 embryos" but the lane holds 12 (8 chick + 4 duck).
+#   - First batch used individual tubes per embryo group, which allowed one tube
+#     to be split into two lanes; this was not repeated (later batches pooled).
+#   - ARC03 (which held 17-B(2)-R among others) was struck and never run, so the
+#     right halves of 17-5/17-6 were never sequenced.
+#   - Splitting the chick left tubes into ARC0S did not help resolve chick embryo
+#     identity (design error); the chick part is left as is.
+lane	tube	embryos_n	side	split_color
+ARC04	16-A	1	R
+ARC04	17-A	2	R
+ARC04	21-B	2	L
+ARC04	21-A	2	R
+ARC04	16-B	1	L
+ARC04	17-B	2	L	green
+ARC0S	Chick-25-A	2	L	red
+ARC0S	Chick-25-B	2	L	orange
+ARC0S	17-A	2	L	light green
+ARC0S	17-B	2	L	green
+ARC0S	Chick-15-A	2	L	red
+ARC0S	Chick-15-B	2	L	orange
+ARC01	Chick-13-A	2	L
+ARC01	Chick-13-B	2	R
+ARC01	Chick-15-A	2	L	red
+ARC01	Chick-15-B	2	R
+ARC01	Chick-25-A	2	L	red
+ARC01	Chick-25-B	2	R
+ARC02	Chick-13-A	2	R
+ARC02	Chick-13-B	2	L
+ARC02	Chick-15-A	2	R
+ARC02	Chick-15-B	2	L	orange
+ARC02	Chick-25-A	2	R
+ARC02	Chick-25-B	2	L	orange

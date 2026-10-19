@@ -1,0 +1,13 @@
+stage	kind	population	tag
+HH25	inference	Ventral spl.	HH25_ventral
+HH25	inference	Syringeal	HH25_syringeal
+HH25	bilateral	Dorsal sub-epi.	HH25_dorsal
+HH21	inference	Ventral spl.	HH21_ventral
+HH21	inference	Syringeal	HH21_syringeal
+HH21	inference	BARX1+	HH21_barx1
+HH21	bilateral	Dorsal sub-epi.	HH21_dorsal
+HH17/16	inference	Cardiopharyngeal LPM	HH1716_cardiopharyngeal
+HH17/16	inference	BARX1+	HH1716_barx1
+HH17/16	bilateral	Dorsal-biased LPM	HH1716_dorsal
+HH13	inference	Cardiopharyngeal LPM	HH13_cardiopharyngeal
+HH13	inference	Early LPM	HH13_earlylpm

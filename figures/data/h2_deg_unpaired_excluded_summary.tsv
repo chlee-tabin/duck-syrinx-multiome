@@ -1,0 +1,14 @@
+scope	stage	design	n_samples	n_L_samples	n_R_samples	n_paired_genotypes	n_genes_tested	n_DEG_padj_05	n_DEG_padj_01	n_DEG_padj_001
+POOL	HH13	unpaired+sex	13	7	6	NA	17909	2	2	2
+SUB:PRRX1+/FOXF1-low mes.	HH13	unpaired+sex	8	5	3	NA	15200	1	1	1
+POOL	HH17/16	unpaired+sex	39	22	17	NA	21697	4	0	0
+SUB:Contamination	HH17/16	unpaired+sex	20	13	7	NA	16469	0	0	0
+SUB:PRRX1+/FOXF1-low mes.	HH17/16	unpaired+sex	33	17	16	NA	19189	2	1	1
+SUB:Skeletogenic LPM	HH17/16	unpaired+sex	36	21	15	NA	20518	1	1	0
+SUB:Venous-pole spl.	HH17/16	unpaired+sex	29	16	13	NA	18586	2	0	0
+POOL	HH21	unpaired+sex	20	10	10	NA	20999	74	39	23
+SUB:Skeletogenic LPM	HH21	unpaired+sex	20	10	10	NA	19921	1	1	1
+SUB:Venous-pole spl.	HH21	unpaired+sex	20	10	10	NA	19204	152	102	62
+POOL	HH25	unpaired+sex	14	7	7	NA	20096	12	8	3
+SUB:Skeletogenic LPM	HH25	unpaired+sex	10	5	5	NA	16504	0	0	0
+SUB:Venous-pole spl.	HH25	unpaired+sex	13	6	7	NA	19563	30	16	9

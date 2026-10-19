@@ -1,0 +1,2 @@
+mode	neg_match	model	kmer_len	n_kmers_scored	n_positive_weight	weight_mean	weight_sd	top1_kmer	top1_weight	top_n	frac_top_low_complexity	top_mean_gc	n_motifs	top_motif_consensus	top_motif_n_members	motifs_with_homeodomain	motifs_with_FOX	motifs_with_SMAD23_NODAL	motifs_with_SMAD15_BMP	motifs_with_SMAD15_BMP_degenerate	predict_sec
+strict	genomicbg	/n/scratch/users/c/cl266/FC_08656/phase2/atac/gkmsvm/rightpeak/dynlost_peak/h9_dorsalbg_dynLostPeak.model.txt	10	524800	1025	-2.9687	0.8054	AAAGGTCAGG	1.8326	200	0.0	0.487	5	AAAGGTCAGG	95	0	0	0	0	0	83.2

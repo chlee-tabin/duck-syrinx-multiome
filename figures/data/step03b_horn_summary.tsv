@@ -1,0 +1,2 @@
+n_significant_pcs	n_cells	n_genes	n_permutations	subsample_n	percentile	cumulative_variance_horn	cumulative_variance_30	seed
+50	164431	3000	20	20000	95	0.19120196820700527	0.16360482947376778	42

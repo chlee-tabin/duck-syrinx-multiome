@@ -1,0 +1,10 @@
+{
+  "_comment": "Records the pipeline state when figures/data/ TSVs were generated. Figure scripts should check these values on startup.",
+  "h5ad_source": "phase2/step02_preCB_clean.h5ad",
+  "n_cells": 176933,
+  "n_genotypes": 52,
+  "pipeline_commit": "unknown",
+  "generated_date": "2026-04-13",
+  "stale_warning": null,
+  "known_inconsistencies": []
+}

@@ -1,0 +1,25 @@
+group	demux_source	donor	stage	stage_evidence	sex	gfp	notes
+A	ARC01/ARC02 (N18/seed_117)	donor6	HH13	stagePC+ARC0S(none)	M	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=0 cells (no snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor4	HH13	stagePC+ARC0S(none)	M	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=0 cells (no snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor3	HH13	stagePC+ARC0S(none)	F	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=1 cells (no snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor15	HH13	stagePC+ARC0S(none)	F	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=0 cells (no snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor5	HH15-16	stagePC+ARC0S(148)+maturation	M	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=148 cells (yes snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor8	HH15-16	stagePC+ARC0S(105)+maturation	F	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=105 cells (yes snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor13	HH15-16	stagePC+ARC0S(381)+maturation	F	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=381 cells (yes snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor10	HH15-16	stagePC+ARC0S(326)+maturation	F	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=326 cells (yes snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor2	HH25	stagePC+ARC0S(28)	M	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=28 cells (weak snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor16	HH25	stagePC+ARC0S(49)	M	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=49 cells (yes snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor9	HH25	stagePC+ARC0S(111)	M	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=111 cells (yes snATAC anchor)
+A	ARC01/ARC02 (N18/seed_117)	donor14	HH25	stagePC+ARC0S(196)	F	WT	ARC01/02=complementary L/R halves (A/B-type unresolved; snRNA underpowered); ARC0S-left=196 cells (yes snATAC anchor)
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor10	HH15-16	stagePC	.	WT	
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor1	HH13	stagePC	.	WT	
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor6	HH15-16	stagePC	.	WT	
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor9	HH15-16	stagePC	.	WT	uniquely = HH15-WT-8 (only GEX09-left early WT)
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor11a	HH13	stagePC+cS_split	.	GFP+	early-GFP L/R ambiguous (2024 GFP-line muddiness)
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor4	HH15-16	stagePC	.	GFP+	
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor0	HH13	stagePC	.	GFP+	
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor7	HH13	stagePC	.	GFP+	
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor2a	HH25	stagePC+cS_split	.	WT	cS split of donor2 (r=-0.047, GT-distinct)
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor2b	HH25	stagePC+cS_split	.	WT	cS split of donor2
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor11b	HH25	stagePC+cS_split	.	GFP+	cS split of donor11 (late GFP+ HH25)
+B	GEX09/GEX10 = ARC09/ARC10 (N14/seed_105+cS)	donor8	HH25	cS_split	.	GFP+	cS split weak (97% GEX09); GEX10 half under-captured -> excluded from L/R

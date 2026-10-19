@@ -1,0 +1,13 @@
+scope	stage	design	n_samples	n_L_samples	n_R_samples	n_paired_genotypes	n_genes_tested	n_DEG_padj_05	n_DEG_padj_01	n_DEG_padj_001
+POOL	HH13	paired	14	7	7	7	18945	4	3	1
+SUB:Early LPM	HH13	paired	14	7	7	7	18553	3	3	1
+POOL	HH17/16	paired	26	13	13	13	20236	2	1	0
+SUB:BARX1+	HH17/16	paired	8	4	4	4	17080	0	0	0
+SUB:Cardiopharyngeal LPM	HH17/16	paired	20	10	10	10	17997	0	0	0
+POOL	HH21	paired	16	8	8	8	21953	69	41	24
+SUB:BARX1+	HH21	paired	16	8	8	8	20457	44	22	12
+SUB:Syringeal	HH21	paired	16	8	8	8	19036	2	2	2
+SUB:Ventral spl.	HH21	paired	16	8	8	8	20860	67	43	26
+POOL	HH25	paired	16	8	8	8	22193	475	348	231
+SUB:Syringeal	HH25	paired	14	7	7	7	18926	2	2	1
+SUB:Ventral spl.	HH25	paired	16	8	8	8	22017	565	411	296

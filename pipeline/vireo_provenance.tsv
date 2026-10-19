@@ -1,0 +1,6 @@
+group	canonical_path	n_donors	seed	date_selected	notes
+G6_libpair	libpair_g6/reference_vireo/donor_ids.tsv	37	NA	2026-03-08	merged reference from runA/B/C
+G6_dp500	universal_genotyping/group6/vireo_filt_dp500/donor_ids.tsv	35	NA	2026-03-18	single-seed dp500 filter
+G9_dp100	vireo_seeded/g9_dp100/seed_126746/donor_ids.tsv	19	126746	2026-04-01	multi-seed best; dp100 (200K variants) resolves sex mixing that dp500 (35K) could not
+G2_old	universal_genotyping/group2/old_vireo_chunked/best_seed/donor_ids.tsv	12	NA	2026-03-07	legacy chunked vireo
+G3_unfiltered	vireo_seeded/g3_denovo/seed_46/donor_ids.tsv	11	46	2026-03-25	de novo, multi-seed best

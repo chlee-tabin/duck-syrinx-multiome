@@ -1,0 +1,13 @@
+scope	stage	design	n_samples	n_L_samples	n_R_samples	n_paired_genotypes	n_genes_tested	n_DEG_padj_05	n_DEG_padj_01	n_DEG_padj_001
+POOL	HH13	paired	12	6	6	6	17678	2	2	1
+POOL	HH17/16	paired	30	15	15	15	21288	1	1	0
+SUB:Contamination	HH17/16	paired	6	3	3	3	13137	0	0	0
+SUB:PRRX1+/FOXF1-low mes.	HH17/16	paired	22	11	11	11	18312	0	0	0
+SUB:Skeletogenic LPM	HH17/16	paired	24	12	12	12	19735	0	0	0
+SUB:Venous-pole spl.	HH17/16	paired	14	7	7	7	16957	2	2	0
+POOL	HH21	paired	16	8	8	8	20671	103	65	42
+SUB:Skeletogenic LPM	HH21	paired	16	8	8	8	19552	1	1	1
+SUB:Venous-pole spl.	HH21	paired	16	8	8	8	18796	123	86	51
+POOL	HH25	paired	12	6	6	6	19917	12	8	6
+SUB:Skeletogenic LPM	HH25	paired	8	4	4	4	16177	0	0	0
+SUB:Venous-pole spl.	HH25	paired	10	5	5	5	19251	28	9	7

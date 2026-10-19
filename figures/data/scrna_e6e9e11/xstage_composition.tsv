@@ -1,0 +1,35 @@
+stage	dataset	population	n_cells
+HH13	multiome	Cardiopharyngeal LPM	226
+HH13	multiome	Early LPM	1196
+HH13	multiome	PRRX1+/FOXF1-low mes.	354
+HH13	multiome	Venous-pole spl.	300
+HH17/16	multiome	BARX1+	3156
+HH17/16	multiome	Cardiopharyngeal LPM	2260
+HH17/16	multiome	Dorsal-biased LPM	2564
+HH17/16	multiome	Mesothelium	277
+HH17/16	multiome	PRRX1+/FOXF1-low mes.	2056
+HH17/16	multiome	Skeletogenic LPM	4644
+HH17/16	multiome	Venous-pole spl.	1735
+HH21	multiome	BARX1+	5272
+HH21	multiome	Dorsal sub-epi.	1996
+HH21	multiome	Mesothelium	310
+HH21	multiome	Skeletogenic LPM	3491
+HH21	multiome	Syringeal	2972
+HH21	multiome	Venous-pole spl.	2375
+HH21	multiome	Ventral spl.	7343
+HH25	multiome	Dorsal sub-epi.	2645
+HH25	multiome	Skeletogenic LPM	715
+HH25	multiome	Syringeal	2584
+HH25	multiome	Venous-pole spl.	2312
+HH25	multiome	Ventral spl.	15194
+E06	old_scrna	Dorsal sub-epi.	1015
+E06	old_scrna	Mesothelium	339
+E06	old_scrna	Skeletogenic LPM	1221
+E06	old_scrna	Ventral spl.	1110
+E09	old_scrna	Syringeal chondrocyte	4346
+E09	old_scrna	Dorsal sub-epi.	1366
+E09	old_scrna	Syringeal fibroblast	2958
+E09	old_scrna	Syringeal smooth muscle	66
+E11	old_scrna	Syringeal chondrocyte	3701
+E11	old_scrna	Syringeal fibroblast	6202
+E11	old_scrna	Syringeal smooth muscle	116

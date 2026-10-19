@@ -1,0 +1,45 @@
+# Large data (not distributed in this repository; see GEO GSE336327 / GSE336329)
+*.rds
+*.h5ad
+*.h5Seurat
+*.h5
+*.bam
+*.bam.bai
+*.bai
+*.vcf.gz
+*.vcf.gz.tbi
+*.mtx.gz
+*.tsv.gz
+!figures/data/*.tsv.gz
+!figures/data/**/*.tsv.gz
+
+# Large outputs
+*.html
+*.pptx
+
+# Reference PDFs (cited by DOI in references/README.md)
+references/*.pdf
+references/*.zip
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# IDE
+.vscode/
+.idea/
+
+# Local secrets / API keys
+.env
+*.env

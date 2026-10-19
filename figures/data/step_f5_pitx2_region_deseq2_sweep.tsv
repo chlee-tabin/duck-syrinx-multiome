@@ -1,0 +1,65 @@
+region	stage	n_L	n_R	n_L_fit	n_R_fit	deseq2_log2FC	deseq2_lfcSE	deseq2_padj	model	min_cells	note
+PITX2c_promoter	HH13	8	7	7	7	1.73494736374769	0.423633686963976	4.21448861490587e-05	paired(~genotype+side)	10	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2c_promoter	HH17/16	22	16	14	14	1.30053167301902	0.378878345587374	0.000597859080553279	paired(~genotype+side)	10	
+PITX2c_promoter	HH21	10	10	8	8	1.56469924133298	0.145179734281165	4.38862190688244e-27	paired(~genotype+side)	10	
+PITX2c_promoter	HH25	8	8	8	8	1.46372284144427	0.171698364959112	1.52853803707737e-17	paired(~genotype+side)	10	
+PITX2b_promoter	HH13	8	7	7	7	0.320059252585848	0.389489583633632	0.411224768409725	paired(~genotype+side)	10	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH17/16	22	16	14	14	0.293974591445956	0.293265509686488	0.316141808544279	paired(~genotype+side)	10	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH21	10	10	8	8	-0.0072979139460267	0.125661909643338	0.95368826324167	paired(~genotype+side)	10	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH25	8	8	8	8	0.229150194919581	0.183532846921746	0.211829193578861	paired(~genotype+side)	10	
+PITX2a_promoter	HH13	8	7	7	7	0.56887866279604	0.636927334968237	0.37177095384745	paired(~genotype+side)	10	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2a_promoter	HH17/16	22	16	14	14	0.294587383851142	0.500858482973455	0.556421608808655	paired(~genotype+side)	10	
+PITX2a_promoter	HH21	10	10	8	8	-0.056399277485934	0.286454302755325	0.843915559513405	paired(~genotype+side)	10	
+PITX2a_promoter	HH25	8	8	8	8	0.000518581251713876	0.19388437333824	0.997865905984106	paired(~genotype+side)	10	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2_genebody	HH13	8	7	7	7	0.30802826107857	0.245806234276782	0.210156779228182	paired(~genotype+side)	10	
+PITX2_genebody	HH17/16	22	16	14	14	0.714769398044105	0.203948022079946	0.000457182982348277	paired(~genotype+side)	10	
+PITX2_genebody	HH21	10	10	8	8	0.433075978600313	0.0902049484360737	1.5785760344844e-06	paired(~genotype+side)	10	
+PITX2_genebody	HH25	8	8	8	8	0.52196080824786	0.146239529560816	0.000358047957488078	paired(~genotype+side)	10	
+PITX2c_promoter	HH13	8	7	7	7	1.73494736374769	0.423633686963976	4.21448861490587e-05	paired(~genotype+side)	20	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2c_promoter	HH17/16	19	14	9	9	1.05764683618034	0.423651489424769	0.0125424923469035	paired(~genotype+side)	20	
+PITX2c_promoter	HH21	10	10	8	8	1.56469924133298	0.145179734281165	4.38862190688244e-27	paired(~genotype+side)	20	
+PITX2c_promoter	HH25	8	8	8	8	1.46372284144427	0.171698364959112	1.52853803707737e-17	paired(~genotype+side)	20	
+PITX2b_promoter	HH13	8	7	7	7	0.320059252585848	0.389489583633632	0.411224768409725	paired(~genotype+side)	20	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH17/16	19	14	9	9	0.305928890012399	0.320522638193597	0.339846344266446	paired(~genotype+side)	20	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH21	10	10	8	8	-0.0072979139460267	0.125661909643338	0.95368826324167	paired(~genotype+side)	20	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH25	8	8	8	8	0.229150194919581	0.183532846921746	0.211829193578861	paired(~genotype+side)	20	
+PITX2a_promoter	HH13	8	7	7	7	0.56887866279604	0.636927334968237	0.37177095384745	paired(~genotype+side)	20	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2a_promoter	HH17/16	19	14	9	9	0.25333051715258	0.628136842324216	0.686724112224961	paired(~genotype+side)	20	
+PITX2a_promoter	HH21	10	10	8	8	-0.056399277485934	0.286454302755325	0.843915559513405	paired(~genotype+side)	20	
+PITX2a_promoter	HH25	8	8	8	8	0.000518581251713876	0.19388437333824	0.997865905984106	paired(~genotype+side)	20	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2_genebody	HH13	8	7	7	7	0.30802826107857	0.245806234276782	0.210156779228182	paired(~genotype+side)	20	
+PITX2_genebody	HH17/16	19	14	9	9	0.536824065034496	0.163347827509052	0.00101481727876866	paired(~genotype+side)	20	
+PITX2_genebody	HH21	10	10	8	8	0.433075978600313	0.0902049484360737	1.5785760344844e-06	paired(~genotype+side)	20	
+PITX2_genebody	HH25	8	8	8	8	0.52196080824786	0.146239529560816	0.000358047957488078	paired(~genotype+side)	20	
+PITX2c_promoter	HH13	7	6	5	5	1.90260364303377	0.477697703059713	6.8090528544319e-05	paired(~genotype+side)	30	
+PITX2c_promoter	HH17/16	17	14	8	8	0.757078417431116	0.312154318698543	0.0152943172563932	paired(~genotype+side)	30	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2c_promoter	HH21	10	10	8	8	1.56469924133298	0.145179734281165	4.38862190688244e-27	paired(~genotype+side)	30	
+PITX2c_promoter	HH25	8	8	8	8	1.46372284144427	0.171698364959112	1.52853803707737e-17	paired(~genotype+side)	30	
+PITX2b_promoter	HH13	7	6	5	5	0.501300317111778	0.430985224774563	0.244768787187755	paired(~genotype+side)	30	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH17/16	17	14	8	8	0.340673132189805	0.329675221460052	0.301435535775756	paired(~genotype+side)	30	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH21	10	10	8	8	-0.0072979139460267	0.125661909643338	0.95368826324167	paired(~genotype+side)	30	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH25	8	8	8	8	0.229150194919581	0.183532846921746	0.211829193578861	paired(~genotype+side)	30	
+PITX2a_promoter	HH13	7	6	5	5	0.836579138999843	0.691017105409998	0.226029972076658	paired(~genotype+side)	30	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2a_promoter	HH17/16	17	14	8	8	0.152836264216794	0.706467006131554	0.828723623071143	paired(~genotype+side)	30	
+PITX2a_promoter	HH21	10	10	8	8	-0.056399277485934	0.286454302755325	0.843915559513405	paired(~genotype+side)	30	
+PITX2a_promoter	HH25	8	8	8	8	0.000518581251713876	0.19388437333824	0.997865905984106	paired(~genotype+side)	30	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2_genebody	HH13	7	6	5	5	0.46890982716025	0.290934934373136	0.107019759613291	paired(~genotype+side)	30	
+PITX2_genebody	HH17/16	17	14	8	8	0.530460098181456	0.18173778406606	0.0035135768355235	paired(~genotype+side)	30	
+PITX2_genebody	HH21	10	10	8	8	0.433075978600313	0.0902049484360737	1.5785760344844e-06	paired(~genotype+side)	30	
+PITX2_genebody	HH25	8	8	8	8	0.52196080824786	0.146239529560816	0.000358047957488078	paired(~genotype+side)	30	
+PITX2c_promoter	HH13	1	5	NA	NA	NA	NA	NA	NA	50	insufficient sides (n_L=1, n_R=5)
+PITX2c_promoter	HH17/16	15	8	4	4	0.633584689638575	0.410721377188136	0.122924374579949	paired(~genotype+side)	50	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2c_promoter	HH21	10	10	8	8	1.56469924133298	0.145179734281165	4.38862190688244e-27	paired(~genotype+side)	50	
+PITX2c_promoter	HH25	8	8	8	8	1.46372284144427	0.171698364959112	1.52853803707737e-17	paired(~genotype+side)	50	
+PITX2b_promoter	HH13	1	5	NA	NA	NA	NA	NA	NA	50	insufficient sides (n_L=1, n_R=5)
+PITX2b_promoter	HH17/16	15	8	4	4	0.113540623588246	0.455037579426855	0.802959172671898	paired(~genotype+side)	50	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH21	10	10	8	8	-0.0072979139460267	0.125661909643338	0.95368826324167	paired(~genotype+side)	50	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2b_promoter	HH25	8	8	8	8	0.229150194919581	0.183532846921746	0.211829193578861	paired(~genotype+side)	50	
+PITX2a_promoter	HH13	1	5	NA	NA	NA	NA	NA	NA	50	insufficient sides (n_L=1, n_R=5)
+PITX2a_promoter	HH17/16	15	8	4	4	0.212688865965252	0.77849665823516	0.784695946281704	paired(~genotype+side)	50	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2a_promoter	HH21	10	10	8	8	-0.056399277485934	0.286454302755325	0.843915559513405	paired(~genotype+side)	50	
+PITX2a_promoter	HH25	8	8	8	8	0.000518581251713876	0.19388437333824	0.997865905984106	paired(~genotype+side)	50	single-region: gene-wise dispersion (DESeq2 trend fit not applicable)
+PITX2_genebody	HH13	1	5	NA	NA	NA	NA	NA	NA	50	insufficient sides (n_L=1, n_R=5)
+PITX2_genebody	HH17/16	15	8	4	4	0.408595046330987	0.240569150911076	0.0894225703950617	paired(~genotype+side)	50	
+PITX2_genebody	HH21	10	10	8	8	0.433075978600313	0.0902049484360737	1.5785760344844e-06	paired(~genotype+side)	50	
+PITX2_genebody	HH25	8	8	8	8	0.52196080824786	0.146239529560816	0.000358047957488078	paired(~genotype+side)	50	

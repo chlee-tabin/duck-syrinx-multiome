@@ -1,0 +1,17 @@
+{
+    "fasta_hash": "debd13707bcbcf87dd9e22d7b421b160260469d0",
+    "genomes": [
+        "cr7.reference.gg6a.ncbi.EGFP"
+    ],
+    "gtf_hash.gz": "022c03eb8e1d2651743f96adf29a5de3f1f0de36",
+    "input_fasta_files": [
+        "genome.EGFP.fa"
+    ],
+    "input_gtf_files": [
+        "genes.EGFP.gtf"
+    ],
+    "mem_gb": 60,
+    "mkref_version": "cellranger-cellranger-7.1.0",
+    "threads": 8,
+    "version": null
+}

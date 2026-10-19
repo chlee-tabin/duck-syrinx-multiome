@@ -1,0 +1,10 @@
+stage	side	n_V_half	n_D_half	n_paired	sum_n_cells_V	sum_n_cells_D	dv_testable	paired_testable
+HH17/16	L	14	10	10	2598	863	1	1
+HH17/16	R	11	6	6	1171	195	1	1
+HH17/16	both	25	16	16	3769	1058	1	1
+HH21	L	8	8	8	4694	695	1	1
+HH21	R	8	7	7	2863	542	1	1
+HH21	both	16	15	15	7557	1237	1	1
+HH25	L	8	5	5	4507	223	1	1
+HH25	R	8	6	6	6594	272	1	1
+HH25	both	16	11	11	11101	495	1	1

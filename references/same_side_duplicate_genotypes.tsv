@@ -1,0 +1,13 @@
+# Same-side duplicate genotypes (lane-loading-record split tube: one embryo-half
+# sequenced in two libraries).  One row per candidate genotype with >= 100
+# nuclei in both libraries of a design duplicate pair; is_duplicate = the call.
+# Evidence: cell-type composition chi-square across the two lanes
+# (p_composition, tv_distance; no PITX2 input) and the one-tube nuclei-ratio
+# test (p_tube_ratio).  Read by d2l / d2n; recomputed from
+# figures/data/e3_composition.tsv by pipeline/validate_same_side_duplicates.py,
+# which raises on any disagreement.  Regenerate only with --write-reference.
+genotype	lib_a	lib_b	dup_side	n_a	n_b	chi2	dof	p_composition	tv_distance	is_duplicate	dup_embryos	p_tube_ratio
+G3_unfiltered_donor0	GEX04	GEX0S-duck	L	1431	546	9.182258184	14	0.8192008156	0.05506024374	True	17-5,17-6	0.2804597716
+G3_unfiltered_donor3	GEX04	GEX0S-duck	L	886	308	8.428989499	15	0.9054354365	0.04474363109	True	17-5,17-6	0.2804597716
+G3_unfiltered_donor5	GEX04	GEX0S-duck	L	1669	387	220.0207153	14	4.350093718e-39	0.3040936487	False	17-5,17-6	
+G3_unfiltered_donor9	GEX04	GEX0S-duck	L	1868	434	199.5332578	14	6.84116565e-35	0.3043004174	False	17-5,17-6	

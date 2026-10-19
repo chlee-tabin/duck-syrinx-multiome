@@ -1,0 +1,9 @@
+motif	variant	null_model	rung	observed	null_mean	null_lo	null_hi	null_cap_median	n_sims	p_null_le_observed	p_level_statistic	p_mc_se
+SMAD2_3_4	single	poisson	all genes	1.2269	1.22497	1.1138	1.33293		2000			
+SMAD2_3_4	single	poisson	drop >12 sites	1.13591	1.19201	1.08847	1.2918	9	2000			
+SMAD2_3_4	single	poisson	drop >8 sites	1.04712	1.14411	1.0489	1.23734	7	2000	0.0104948	0.0244878	0.00227866
+SMAD2_3_4	single	poisson	drop >6 sites	1.06315	1.11907	1.02149	1.21417	6	2000			
+SMAD2_3_4	single	nb2	all genes	1.2269	1.22697	1.08822	1.3725		2000			
+SMAD2_3_4	single	nb2	drop >12 sites	1.13591	1.19209	1.06285	1.3253	12	2000			
+SMAD2_3_4	single	nb2	drop >8 sites	1.04712	1.13878	1.01807	1.2592	8	2000	0.03998	0.0624688	0.00438073
+SMAD2_3_4	single	nb2	drop >6 sites	1.06315	1.10195	0.982098	1.22053	6	2000			

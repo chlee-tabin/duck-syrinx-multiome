@@ -1,0 +1,38 @@
+stage	leiden_col	cluster	population	n_cells	n_embryos_paired	n_sides_resolved	n_both_nonzero	n_L_dom	n_R_dom	n_strong_L	n_strong_R	n_bio_concordant	bio_direction	median_log2_fold
+HH13	leiden_0.2	0	Early LPM	1063	8	8	5	5	0	5	0	5	L	2.322
+HH13	leiden_0.2	1	PRRX1+/FOXF1-low mes.	354	7	7	1	0	1	0	1	1	R	-1.585
+HH13	leiden_0.2	2	Venous-pole spl.	300	7	7	2	2	0	2	0	2	L	1.953
+HH13	leiden_0.2	3	Cardiopharyngeal LPM	226	8	8	5	4	1	4	1	4	L	1.585
+HH13	leiden_0.2	4	Early LPM	133	6	6	1	1	0	1	0	1	L	1.585
+HH13	leiden_0.2	5	Contamination	128	7	7	0	0	0	0	0	0	-	
+HH13	leiden_0.2	6	Contamination	29	2	2	0	0	0	0	0	0	-	
+HH17/16	leiden_0.3	0	Skeletogenic LPM	3727	16	16	11	8	2	8	2	8	L	1.585
+HH17/16	leiden_0.3	1	BARX1+	3156	12	12	8	8	0	8	0	8	L	2.807
+HH17/16	leiden_0.3	2	Dorsal-biased LPM	2564	16	16	7	6	1	6	1	6	L	1.585
+HH17/16	leiden_0.3	3	Cardiopharyngeal LPM	2260	16	16	4	4	0	4	0	4	L	1.585
+HH17/16	leiden_0.3	4	PRRX1+/FOXF1-low mes.	2056	14	14	3	3	0	3	0	3	L	1.585
+HH17/16	leiden_0.3	5	Venous-pole spl.	1735	15	15	7	6	1	6	1	6	L	1.585
+HH17/16	leiden_0.3	6	Contamination	953	17	16	1	1	0	1	0	1	L	1.585
+HH17/16	leiden_0.3	7	Skeletogenic LPM	917	16	16	1	1	0	1	0	1	L	1.585
+HH17/16	leiden_0.3	8	Mesothelium	277	12	12	0	0	0	0	0	0	-	
+HH17/16	leiden_0.3	9	Contamination	64	6	5	0	0	0	0	0	0	-	
+HH21	leiden_0.3	0	Ventral spl.	3809	8	8	6	6	0	6	0	6	L	3.254
+HH21	leiden_0.3	1	BARX1+	3600	8	8	8	7	1	6	0	7	L	2.389
+HH21	leiden_0.3	2	Ventral spl.	3534	8	8	8	8	0	8	0	8	L	3.535
+HH21	leiden_0.3	3	Skeletogenic LPM	3491	8	8	5	3	1	3	0	3	L	1.585
+HH21	leiden_0.3	4	Syringeal	2972	8	8	5	5	0	5	0	5	L	2.322
+HH21	leiden_0.3	5	Dorsal sub-epi.	1996	8	8	8	2	4	2	2	4	R	-0.368
+HH21	leiden_0.3	6	Venous-pole spl.	1945	8	8	8	8	0	8	0	8	L	2.933
+HH21	leiden_0.3	7	BARX1+	1672	7	7	4	4	0	4	0	4	L	2.565
+HH21	leiden_0.3	8	Venous-pole spl.	430	8	8	2	2	0	1	0	2	L	1.161
+HH21	leiden_0.3	9	Mesothelium	310	6	6	0	0	0	0	0	0	-	
+HH25	leiden_0.3	0	Ventral spl.	5162	8	8	8	8	0	6	0	8	L	1.85
+HH25	leiden_0.3	1	Ventral spl.	4151	8	8	5	4	1	4	0	4	L	1.585
+HH25	leiden_0.3	2	Ventral spl.	3199	8	8	7	6	0	6	0	6	L	2.322
+HH25	leiden_0.3	3	Dorsal sub-epi.	2645	8	8	8	5	3	2	2	5	L	0.326
+HH25	leiden_0.3	4	Syringeal	2584	8	8	3	2	1	2	1	2	L	1.585
+HH25	leiden_0.3	5	Ventral spl.	2168	8	8	8	8	0	7	0	8	L	2.322
+HH25	leiden_0.3	6	Venous-pole spl.	2121	8	8	7	7	0	7	0	7	L	2.322
+HH25	leiden_0.3	7	Skeletogenic LPM	715	8	8	3	1	2	1	2	2	R	-1.585
+HH25	leiden_0.3	8	Ventral spl.	514	8	8	4	1	2	1	2	2	R	-0.792
+HH25	leiden_0.3	9	Venous-pole spl.	191	6	6	3	3	0	3	0	3	L	2.322

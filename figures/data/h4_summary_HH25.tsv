@@ -1,0 +1,2 @@
+stage	scope	n_pseudobulks	n_L	n_R	n_peaks	p_raw_max	n_perm	obs_L_biased	obs_R_biased	null_L_median	null_R_median	null_L_max	null_R_max	emp_p_obs_L_ge_null	emp_p_obs_R_ge_null	emp_p_obs_L_minus_R_ge_null
+HH25	INFERENCE_POOL	25	10	15	283818	0.05	1000	17677	15610	11828.0	11640.5	17549	18704	0.000999000999000999	0.015984015984015984	0.06793206793206794

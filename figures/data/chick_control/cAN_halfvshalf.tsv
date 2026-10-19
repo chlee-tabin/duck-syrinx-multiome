@@ -1,0 +1,34 @@
+group	donor	stage	gfp	domain	half1_lane	half2_lane	designed_LEFT	concordant	mean_h1	mean_h2	frac_h1	frac_h2	n1	n2	min_cells	abs_log2_mean
+A	donor15	HH13	WT	LPM mes. (HH13)	ARC01	ARC02	groupA-na		0.7158	0.4614	0.15	0.15	20	20	20	0.602
+A	donor3	HH13	WT	LPM mes. (HH13)	ARC01	ARC02	groupA-na		1.0495	1.8642	0.0526	0.25	19	24	19	0.811
+A	donor4	HH13	WT	LPM mes. (HH13)	ARC01	ARC02	groupA-na		0.6362	0.6051	0.1579	0.119	19	42	19	0.069
+A	donor6	HH13	WT	LPM mes. (HH13)	ARC01	ARC02	groupA-na		0.0	0.8378	0.0	0.25	8	20	8	4.854
+B	donor0	HH13	GFP+	LPM mes. (HH13)	GEX09	GEX10	ambiguous		0.4079	0.3625	0.0845	0.125	71	40	40	0.158
+B	donor1	HH13	WT	LPM mes. (HH13)	GEX09	GEX10	GEX10	yes	0.2657	1.2296	0.065	0.2059	123	68	68	2.091
+B	donor11a	HH13	GFP+	LPM mes. (HH13)	GEX09	GEX10	ambiguous		1.089	0.3139	0.1404	0.1224	57	49	49	1.702
+B	donor7	HH13	GFP+	LPM mes. (HH13)	GEX09	GEX10	ambiguous		0.3683	0.9478	0.0661	0.2653	121	98	98	1.296
+A	donor8	HH15-16	WT	Ventral splanchnic pool	ARC01	ARC02	groupA-na		5.4497	0.0	0.7143	0.0	7	5	5	7.513
+A	donor14	HH25	WT	Ventral splanchnic pool	ARC01	ARC02	groupA-na		0.6445	0.6472	0.0807	0.1382	161	123	123	0.006
+A	donor16	HH25	WT	Ventral splanchnic pool	ARC01	ARC02	groupA-na		1.6344	0.8988	0.1029	0.1429	68	420	68	0.841
+A	donor2	HH25	WT	Ventral splanchnic pool	ARC01	ARC02	groupA-na		0.246	0.515	0.0286	0.0918	35	207	35	0.982
+A	donor9	HH25	WT	Ventral splanchnic pool	ARC01	ARC02	groupA-na		0.5831	0.7277	0.0813	0.0877	209	114	114	0.306
+B	donor10	HH15-16	WT	Ventral splanchnic pool	GEX09	GEX10	ambiguous		0.5168	3.8345	0.1111	0.3824	9	34	9	2.821
+B	donor4	HH15-16	GFP+	Ventral splanchnic pool	GEX09	GEX10	GEX09	yes	1.5783	0.6278	0.2361	0.1071	72	28	28	1.29
+B	donor6	HH15-16	WT	Ventral splanchnic pool	GEX09	GEX10	ambiguous		0.5876	0.6042	0.1111	0.0795	18	88	18	0.038
+B	donor9	HH15-16	WT	Ventral splanchnic pool	GEX09	GEX10	ambiguous		2.8673	0.1828	0.3204	0.0556	103	36	36	3.767
+B	donor11b	HH25	GFP+	Ventral splanchnic pool	GEX09	GEX10	GEX09	no	0.824	0.5913	0.1066	0.1094	122	64	64	0.459
+B	donor2a	HH25	WT	Ventral splanchnic pool	GEX09	GEX10	GEX10	yes	0.755	0.636	0.0799	0.1236	1189	89	89	0.237
+B	donor2b	HH25	WT	Ventral splanchnic pool	GEX09	GEX10	GEX10	yes	0.5077	0.5894	0.0621	0.1085	1046	516	516	0.204
+A	donor10	HH15-16	WT	Dorsal sub-epi.	ARC01	ARC02	groupA-na		1.3498	1.3505	0.375	0.25	8	20	8	0.001
+A	donor8	HH15-16	WT	Dorsal sub-epi.	ARC01	ARC02	groupA-na		0.4968	2.5991	0.1	0.3333	10	9	9	2.319
+A	donor14	HH25	WT	Dorsal sub-epi.	ARC01	ARC02	groupA-na		10.8015	11.4547	0.7692	0.6786	13	28	13	0.084
+A	donor16	HH25	WT	Dorsal sub-epi.	ARC01	ARC02	groupA-na		16.2305	6.3728	0.7727	0.6182	22	55	22	1.345
+A	donor2	HH25	WT	Dorsal sub-epi.	ARC01	ARC02	groupA-na		6.8604	6.4271	0.5385	0.66	26	50	26	0.094
+A	donor9	HH25	WT	Dorsal sub-epi.	ARC01	ARC02	groupA-na		16.5335	6.8674	0.7143	0.6818	14	22	14	1.264
+B	donor10	HH15-16	WT	Dorsal sub-epi.	GEX09	GEX10	ambiguous		1.9184	4.8934	0.2424	0.5472	33	53	33	1.337
+B	donor4	HH15-16	GFP+	Dorsal sub-epi.	GEX09	GEX10	GEX09	no	1.3798	2.0831	0.2143	0.2667	56	60	56	0.584
+B	donor6	HH15-16	WT	Dorsal sub-epi.	GEX09	GEX10	ambiguous		1.0973	2.106	0.1522	0.2932	46	133	46	0.922
+B	donor9	HH15-16	WT	Dorsal sub-epi.	GEX09	GEX10	ambiguous		1.0545	0.9264	0.1398	0.2	93	40	40	0.181
+B	donor11b	HH25	GFP+	Dorsal sub-epi.	GEX09	GEX10	GEX09	no	2.2676	17.381	0.2	0.6667	5	6	5	2.922
+B	donor2a	HH25	WT	Dorsal sub-epi.	GEX09	GEX10	GEX10	yes	8.7088	11.1617	0.5	0.7935	228	92	92	0.357
+B	donor2b	HH25	WT	Dorsal sub-epi.	GEX09	GEX10	GEX10	yes	12.128	8.639	0.6608	0.6629	171	89	89	0.488

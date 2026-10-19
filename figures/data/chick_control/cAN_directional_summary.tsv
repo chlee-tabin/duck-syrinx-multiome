@@ -1,0 +1,7 @@
+stage	gfp	n_donors	n_orientable	n_sig	n_sig_orientable	n_sig_concordant
+HH13	GFP+	3	0	1	0	0
+HH13	WT	1	1	1	1	1
+HH15-16	GFP+	1	1	0	0	0
+HH15-16	WT	3	0	1	0	0
+HH25	GFP+	1	1	0	0	0
+HH25	WT	2	2	1	1	1

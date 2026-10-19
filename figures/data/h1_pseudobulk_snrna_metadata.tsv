@@ -1,0 +1,200 @@
+sample_id	genotype	library_m	side	firmness_norm	subcluster	stage_anchor	n_cells	n_stage_mismatch_cells
+g13|PILOTGEX4|L|Cardiopharyngeal LPM|HH13	g13	PILOTGEX4	L	direct	Cardiopharyngeal LPM	HH13	11	0
+g14|GEX08|L|Cardiopharyngeal LPM|HH13	g14	GEX08	L	direct	Cardiopharyngeal LPM	HH13	28	0
+g16|PILOTGEX3|L|Cardiopharyngeal LPM|HH13	g16	PILOTGEX3	L	direct	Cardiopharyngeal LPM	HH13	10	0
+g18|GEX08|L|Cardiopharyngeal LPM|HH13	g18	GEX08	L	direct	Cardiopharyngeal LPM	HH13	28	0
+g21|PILOTGEX4|L|Cardiopharyngeal LPM|HH13	g21	PILOTGEX4	L	placement	Cardiopharyngeal LPM	HH13	15	0
+g25|PILOTGEX3|L|Cardiopharyngeal LPM|HH13	g25	PILOTGEX3	L	direct	Cardiopharyngeal LPM	HH13	7	0
+g32|GEX07|L|Cardiopharyngeal LPM|HH13	g32	GEX07	L	placement	Cardiopharyngeal LPM	HH13	7	0
+g35|GEX07|L|Cardiopharyngeal LPM|HH13	g35	GEX07	L	direct	Cardiopharyngeal LPM	HH13	14	0
+g13|GEX08|R|Cardiopharyngeal LPM|HH13	g13	GEX08	R	direct	Cardiopharyngeal LPM	HH13	14	0
+g14|PILOTGEX4|R|Cardiopharyngeal LPM|HH13	g14	PILOTGEX4	R	direct	Cardiopharyngeal LPM	HH13	18	0
+g16|GEX07|R|Cardiopharyngeal LPM|HH13	g16	GEX07	R	direct	Cardiopharyngeal LPM	HH13	10	0
+g18|PILOTGEX4|R|Cardiopharyngeal LPM|HH13	g18	PILOTGEX4	R	direct	Cardiopharyngeal LPM	HH13	16	0
+g21|GEX08|R|Cardiopharyngeal LPM|HH13	g21	GEX08	R	placement	Cardiopharyngeal LPM	HH13	2	0
+g25|GEX07|R|Cardiopharyngeal LPM|HH13	g25	GEX07	R	direct	Cardiopharyngeal LPM	HH13	15	0
+g32|PILOTGEX3|R|Cardiopharyngeal LPM|HH13	g32	PILOTGEX3	R	placement	Cardiopharyngeal LPM	HH13	8	0
+g35|PILOTGEX3|R|Cardiopharyngeal LPM|HH13	g35	PILOTGEX3	R	direct	Cardiopharyngeal LPM	HH13	13	0
+g13|PILOTGEX4|L|Early LPM|HH13	g13	PILOTGEX4	L	direct	Early LPM	HH13	71	0
+g14|GEX08|L|Early LPM|HH13	g14	GEX08	L	direct	Early LPM	HH13	64	0
+g16|PILOTGEX3|L|Early LPM|HH13	g16	PILOTGEX3	L	direct	Early LPM	HH13	84	0
+g18|GEX08|L|Early LPM|HH13	g18	GEX08	L	direct	Early LPM	HH13	37	0
+g21|PILOTGEX4|L|Early LPM|HH13	g21	PILOTGEX4	L	placement	Early LPM	HH13	85	0
+g25|PILOTGEX3|L|Early LPM|HH13	g25	PILOTGEX3	L	direct	Early LPM	HH13	58	0
+g32|GEX07|L|Early LPM|HH13	g32	GEX07	L	placement	Early LPM	HH13	90	0
+g35|GEX07|L|Early LPM|HH13	g35	GEX07	L	direct	Early LPM	HH13	60	0
+g13|GEX08|R|Early LPM|HH13	g13	GEX08	R	direct	Early LPM	HH13	82	0
+g14|PILOTGEX4|R|Early LPM|HH13	g14	PILOTGEX4	R	direct	Early LPM	HH13	61	0
+g16|GEX07|R|Early LPM|HH13	g16	GEX07	R	direct	Early LPM	HH13	93	0
+g18|PILOTGEX4|R|Early LPM|HH13	g18	PILOTGEX4	R	direct	Early LPM	HH13	29	0
+g21|GEX08|R|Early LPM|HH13	g21	GEX08	R	placement	Early LPM	HH13	5	0
+g25|GEX07|R|Early LPM|HH13	g25	GEX07	R	direct	Early LPM	HH13	122	0
+g32|PILOTGEX3|R|Early LPM|HH13	g32	PILOTGEX3	R	placement	Early LPM	HH13	75	0
+g35|PILOTGEX3|R|Early LPM|HH13	g35	PILOTGEX3	R	direct	Early LPM	HH13	103	0
+G2_genotype_01|GEX03-1|L|BARX1+|HH17/16	G2_genotype_01	GEX03-1	L	direct	BARX1+	HH17/16	398	0
+G2_genotype_02|GEX03-1|L|BARX1+|HH17/16	G2_genotype_02	GEX03-1	L	direct	BARX1+	HH17/16	124	0
+G2_genotype_03|GEX03-2|L|BARX1+|HH17/16	G2_genotype_03	GEX03-2	L	direct	BARX1+	HH17/16	262	0
+G2_genotype_04|GEX03-1|L|BARX1+|HH17/16	G2_genotype_04	GEX03-1	L	direct	BARX1+	HH17/16	167	0
+G2_genotype_11|GEX03-2|L|BARX1+|HH17/16	G2_genotype_11	GEX03-2	L	placement	BARX1+	HH17/16	62	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|BARX1+|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	BARX1+	HH17/16	109	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|BARX1+|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	BARX1+	HH17/16	154	0
+G3_unfiltered_donor5|GEX0S-duck|L|BARX1+|HH17/16	G3_unfiltered_donor5	GEX0S-duck	L	placement	BARX1+	HH17/16	26	0
+G3_unfiltered_donor8|GEX04|L|BARX1+|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	BARX1+	HH17/16	78	0
+G3_unfiltered_donor9|GEX0S-duck|L|BARX1+|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	BARX1+	HH17/16	28	0
+g01|GEX05|L|BARX1+|HH17/16	g01	GEX05	L	direct	BARX1+	HH17/16	179	0
+g08|GEX06|L|BARX1+|HH17/16	g08	GEX06	L	direct	BARX1+	HH17/16	113	0
+g15|GEX08|L|BARX1+|HH17/16	g15	GEX08	L	direct	BARX1+	HH17/16	37	0
+g17|GEX07|L|BARX1+|HH17/16	g17	GEX07	L	direct	BARX1+	HH17/16	176	0
+g20|GEX08|L|BARX1+|HH17/16	g20	GEX08	L	direct	BARX1+	HH17/16	22	0
+g22|GEX08|L|BARX1+|HH17/16	g22	GEX08	L	direct	BARX1+	HH17/16	19	0
+g23|GEX07|L|BARX1+|HH17/16	g23	GEX07	L	direct	BARX1+	HH17/16	1	0
+g24|GEX07|L|BARX1+|HH17/16	g24	GEX07	L	direct	BARX1+	HH17/16	28	0
+g26_split0|PILOTGEX4|L|BARX1+|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	BARX1+	HH17/16	224	0
+g26_split1|PILOTGEX4|L|BARX1+|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	BARX1+	HH17/16	159	0
+G2_genotype_01|GEX03-2|R|BARX1+|HH17/16	G2_genotype_01	GEX03-2	R	direct	BARX1+	HH17/16	16	0
+G2_genotype_02|GEX03-2|R|BARX1+|HH17/16	G2_genotype_02	GEX03-2	R	direct	BARX1+	HH17/16	66	0
+G2_genotype_03|GEX03-1|R|BARX1+|HH17/16	G2_genotype_03	GEX03-1	R	direct	BARX1+	HH17/16	12	0
+G2_genotype_09|GEX03-1|R|BARX1+|HH17/16	G2_genotype_09	GEX03-1	R	placement	BARX1+	HH17/16	3	0
+G3_unfiltered_donor9|GEX04|R|BARX1+|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	BARX1+	HH17/16	2	0
+g01|GEX06|R|BARX1+|HH17/16	g01	GEX06	R	direct	BARX1+	HH17/16	11	0
+g08|GEX05|R|BARX1+|HH17/16	g08	GEX05	R	direct	BARX1+	HH17/16	5	0
+g15|GEX07|R|BARX1+|HH17/16	g15	GEX07	R	direct	BARX1+	HH17/16	96	0
+g17|GEX08|R|BARX1+|HH17/16	g17	GEX08	R	direct	BARX1+	HH17/16	9	0
+g20|GEX03-1|R|BARX1+|HH17/16	g20	GEX03-1	R	direct	BARX1+	HH17/16	72	0
+g22|GEX07|R|BARX1+|HH17/16	g22	GEX07	R	direct	BARX1+	HH17/16	55	0
+g23|GEX08|R|BARX1+|HH17/16	g23	GEX08	R	direct	BARX1+	HH17/16	32	0
+g24|GEX08|R|BARX1+|HH17/16	g24	GEX08	R	direct	BARX1+	HH17/16	285	0
+g28|PILOTGEX4|R|BARX1+|HH17/16	g28	PILOTGEX4	R	singleton_rank	BARX1+	HH17/16	5	0
+g34|PILOTGEX4|R|BARX1+|HH17/16	g34	PILOTGEX4	R	singleton_rank	BARX1+	HH17/16	18	0
+G2_genotype_01|GEX03-1|L|Cardiopharyngeal LPM|HH17/16	G2_genotype_01	GEX03-1	L	direct	Cardiopharyngeal LPM	HH17/16	83	0
+G2_genotype_02|GEX03-1|L|Cardiopharyngeal LPM|HH17/16	G2_genotype_02	GEX03-1	L	direct	Cardiopharyngeal LPM	HH17/16	103	0
+G2_genotype_03|GEX03-2|L|Cardiopharyngeal LPM|HH17/16	G2_genotype_03	GEX03-2	L	direct	Cardiopharyngeal LPM	HH17/16	123	0
+G2_genotype_04|GEX03-1|L|Cardiopharyngeal LPM|HH17/16	G2_genotype_04	GEX03-1	L	direct	Cardiopharyngeal LPM	HH17/16	182	0
+G2_genotype_09|GEX03-2|L|Cardiopharyngeal LPM|HH17/16	G2_genotype_09	GEX03-2	L	placement	Cardiopharyngeal LPM	HH17/16	20	0
+G2_genotype_11|GEX03-2|L|Cardiopharyngeal LPM|HH17/16	G2_genotype_11	GEX03-2	L	placement	Cardiopharyngeal LPM	HH17/16	72	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	Cardiopharyngeal LPM	HH17/16	41	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	Cardiopharyngeal LPM	HH17/16	25	0
+G3_unfiltered_donor5|GEX0S-duck|L|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor5	GEX0S-duck	L	placement	Cardiopharyngeal LPM	HH17/16	17	0
+G3_unfiltered_donor8|GEX04|L|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	Cardiopharyngeal LPM	HH17/16	18	0
+G3_unfiltered_donor9|GEX0S-duck|L|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	Cardiopharyngeal LPM	HH17/16	14	0
+g01|GEX05|L|Cardiopharyngeal LPM|HH17/16	g01	GEX05	L	direct	Cardiopharyngeal LPM	HH17/16	47	0
+g08|GEX06|L|Cardiopharyngeal LPM|HH17/16	g08	GEX06	L	direct	Cardiopharyngeal LPM	HH17/16	49	0
+g15|GEX08|L|Cardiopharyngeal LPM|HH17/16	g15	GEX08	L	direct	Cardiopharyngeal LPM	HH17/16	54	0
+g17|GEX07|L|Cardiopharyngeal LPM|HH17/16	g17	GEX07	L	direct	Cardiopharyngeal LPM	HH17/16	127	0
+g19|GEX08|L|Cardiopharyngeal LPM|HH17/16	g19	GEX08	L	placement	Cardiopharyngeal LPM	HH17/16	86	0
+g20|GEX08|L|Cardiopharyngeal LPM|HH17/16	g20	GEX08	L	direct	Cardiopharyngeal LPM	HH17/16	7	0
+g22|GEX08|L|Cardiopharyngeal LPM|HH17/16	g22	GEX08	L	direct	Cardiopharyngeal LPM	HH17/16	8	0
+g23|GEX07|L|Cardiopharyngeal LPM|HH17/16	g23	GEX07	L	direct	Cardiopharyngeal LPM	HH17/16	30	0
+g24|GEX07|L|Cardiopharyngeal LPM|HH17/16	g24	GEX07	L	direct	Cardiopharyngeal LPM	HH17/16	25	0
+g26_split0|PILOTGEX4|L|Cardiopharyngeal LPM|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	Cardiopharyngeal LPM	HH17/16	85	0
+g26_split1|PILOTGEX4|L|Cardiopharyngeal LPM|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	Cardiopharyngeal LPM	HH17/16	58	0
+G2_genotype_01|GEX03-2|R|Cardiopharyngeal LPM|HH17/16	G2_genotype_01	GEX03-2	R	direct	Cardiopharyngeal LPM	HH17/16	21	0
+G2_genotype_02|GEX03-2|R|Cardiopharyngeal LPM|HH17/16	G2_genotype_02	GEX03-2	R	direct	Cardiopharyngeal LPM	HH17/16	58	0
+G2_genotype_03|GEX03-1|R|Cardiopharyngeal LPM|HH17/16	G2_genotype_03	GEX03-1	R	direct	Cardiopharyngeal LPM	HH17/16	18	0
+G2_genotype_04|GEX03-2|R|Cardiopharyngeal LPM|HH17/16	G2_genotype_04	GEX03-2	R	direct	Cardiopharyngeal LPM	HH17/16	52	0
+G2_genotype_09|GEX03-1|R|Cardiopharyngeal LPM|HH17/16	G2_genotype_09	GEX03-1	R	placement	Cardiopharyngeal LPM	HH17/16	106	0
+G3_unfiltered_donor5|GEX04|R|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor5	GEX04	R	placement	Cardiopharyngeal LPM	HH17/16	4	0
+G3_unfiltered_donor9|GEX04|R|Cardiopharyngeal LPM|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	Cardiopharyngeal LPM	HH17/16	14	0
+g01|GEX06|R|Cardiopharyngeal LPM|HH17/16	g01	GEX06	R	direct	Cardiopharyngeal LPM	HH17/16	54	0
+g08|GEX05|R|Cardiopharyngeal LPM|HH17/16	g08	GEX05	R	direct	Cardiopharyngeal LPM	HH17/16	79	0
+g15|GEX07|R|Cardiopharyngeal LPM|HH17/16	g15	GEX07	R	direct	Cardiopharyngeal LPM	HH17/16	40	0
+g17|GEX08|R|Cardiopharyngeal LPM|HH17/16	g17	GEX08	R	direct	Cardiopharyngeal LPM	HH17/16	76	0
+g19|GEX07|R|Cardiopharyngeal LPM|HH17/16	g19	GEX07	R	placement	Cardiopharyngeal LPM	HH17/16	3	0
+g20|GEX03-1|R|Cardiopharyngeal LPM|HH17/16	g20	GEX03-1	R	direct	Cardiopharyngeal LPM	HH17/16	120	0
+g22|GEX07|R|Cardiopharyngeal LPM|HH17/16	g22	GEX07	R	direct	Cardiopharyngeal LPM	HH17/16	24	0
+g23|GEX08|R|Cardiopharyngeal LPM|HH17/16	g23	GEX08	R	direct	Cardiopharyngeal LPM	HH17/16	54	0
+g24|GEX08|R|Cardiopharyngeal LPM|HH17/16	g24	GEX08	R	direct	Cardiopharyngeal LPM	HH17/16	55	0
+g28|PILOTGEX4|R|Cardiopharyngeal LPM|HH17/16	g28	PILOTGEX4	R	singleton_rank	Cardiopharyngeal LPM	HH17/16	53	0
+g34|PILOTGEX4|R|Cardiopharyngeal LPM|HH17/16	g34	PILOTGEX4	R	singleton_rank	Cardiopharyngeal LPM	HH17/16	63	0
+G2_genotype_05|GEX03-1|L|BARX1+|HH21	G2_genotype_05	GEX03-1	L	direct	BARX1+	HH21	1035	0
+G2_genotype_07|GEX03-1|L|BARX1+|HH21	G2_genotype_07	GEX03-1	L	direct	BARX1+	HH21	265	0
+G2_genotype_08|GEX03-2|L|BARX1+|HH21	G2_genotype_08	GEX03-2	L	direct	BARX1+	HH21	162	0
+G2_genotype_10|GEX03-2|L|BARX1+|HH21	G2_genotype_10	GEX03-2	L	direct	BARX1+	HH21	60	0
+G3_unfiltered_donor10|GEX04|L|BARX1+|HH21	G3_unfiltered_donor10	GEX04	L	singleton_rank	BARX1+	HH21	241	0
+G3_unfiltered_donor7|GEX04|L|BARX1+|HH21	G3_unfiltered_donor7	GEX04	L	singleton_rank	BARX1+	HH21	267	0
+g03|GEX06|L|BARX1+|HH21	g03	GEX06	L	direct	BARX1+	HH21	258	0
+g05|GEX05|L|BARX1+|HH21	g05	GEX05	L	direct	BARX1+	HH21	194	0
+g09|GEX06|L|BARX1+|HH21	g09	GEX06	L	direct	BARX1+	HH21	303	0
+g10|GEX05|L|BARX1+|HH21	g10	GEX05	L	direct	BARX1+	HH21	268	0
+G2_genotype_05|GEX03-2|R|BARX1+|HH21	G2_genotype_05	GEX03-2	R	direct	BARX1+	HH21	225	0
+G2_genotype_07|GEX03-2|R|BARX1+|HH21	G2_genotype_07	GEX03-2	R	direct	BARX1+	HH21	175	0
+G2_genotype_08|GEX03-1|R|BARX1+|HH21	G2_genotype_08	GEX03-1	R	direct	BARX1+	HH21	107	0
+G2_genotype_10|GEX03-1|R|BARX1+|HH21	G2_genotype_10	GEX03-1	R	direct	BARX1+	HH21	56	0
+G3_unfiltered_donor1|GEX04|R|BARX1+|HH21	G3_unfiltered_donor1	GEX04	R	singleton_rank	BARX1+	HH21	176	0
+G3_unfiltered_donor4|GEX04|R|BARX1+|HH21	G3_unfiltered_donor4	GEX04	R	singleton_rank	BARX1+	HH21	208	0
+g03|GEX05|R|BARX1+|HH21	g03	GEX05	R	direct	BARX1+	HH21	256	0
+g05|GEX06|R|BARX1+|HH21	g05	GEX06	R	direct	BARX1+	HH21	330	0
+g09|GEX05|R|BARX1+|HH21	g09	GEX05	R	direct	BARX1+	HH21	378	0
+g10|GEX06|R|BARX1+|HH21	g10	GEX06	R	direct	BARX1+	HH21	118	0
+G2_genotype_05|GEX03-1|L|Syringeal|HH21	G2_genotype_05	GEX03-1	L	direct	Syringeal	HH21	320	0
+G2_genotype_07|GEX03-1|L|Syringeal|HH21	G2_genotype_07	GEX03-1	L	direct	Syringeal	HH21	80	0
+G2_genotype_08|GEX03-2|L|Syringeal|HH21	G2_genotype_08	GEX03-2	L	direct	Syringeal	HH21	100	0
+G2_genotype_10|GEX03-2|L|Syringeal|HH21	G2_genotype_10	GEX03-2	L	direct	Syringeal	HH21	77	0
+G3_unfiltered_donor10|GEX04|L|Syringeal|HH21	G3_unfiltered_donor10	GEX04	L	singleton_rank	Syringeal	HH21	16	0
+G3_unfiltered_donor7|GEX04|L|Syringeal|HH21	G3_unfiltered_donor7	GEX04	L	singleton_rank	Syringeal	HH21	133	0
+g03|GEX06|L|Syringeal|HH21	g03	GEX06	L	direct	Syringeal	HH21	244	0
+g05|GEX05|L|Syringeal|HH21	g05	GEX05	L	direct	Syringeal	HH21	33	0
+g09|GEX06|L|Syringeal|HH21	g09	GEX06	L	direct	Syringeal	HH21	171	0
+g10|GEX05|L|Syringeal|HH21	g10	GEX05	L	direct	Syringeal	HH21	79	0
+G2_genotype_05|GEX03-2|R|Syringeal|HH21	G2_genotype_05	GEX03-2	R	direct	Syringeal	HH21	119	0
+G2_genotype_07|GEX03-2|R|Syringeal|HH21	G2_genotype_07	GEX03-2	R	direct	Syringeal	HH21	188	0
+G2_genotype_08|GEX03-1|R|Syringeal|HH21	G2_genotype_08	GEX03-1	R	direct	Syringeal	HH21	345	0
+G2_genotype_10|GEX03-1|R|Syringeal|HH21	G2_genotype_10	GEX03-1	R	direct	Syringeal	HH21	47	0
+G3_unfiltered_donor1|GEX04|R|Syringeal|HH21	G3_unfiltered_donor1	GEX04	R	singleton_rank	Syringeal	HH21	146	0
+G3_unfiltered_donor4|GEX04|R|Syringeal|HH21	G3_unfiltered_donor4	GEX04	R	singleton_rank	Syringeal	HH21	141	0
+g03|GEX05|R|Syringeal|HH21	g03	GEX05	R	direct	Syringeal	HH21	224	0
+g05|GEX06|R|Syringeal|HH21	g05	GEX06	R	direct	Syringeal	HH21	154	0
+g09|GEX05|R|Syringeal|HH21	g09	GEX05	R	direct	Syringeal	HH21	98	0
+g10|GEX06|R|Syringeal|HH21	g10	GEX06	R	direct	Syringeal	HH21	123	0
+G2_genotype_05|GEX03-1|L|Ventral spl.|HH21	G2_genotype_05	GEX03-1	L	direct	Ventral spl.	HH21	1105	0
+G2_genotype_07|GEX03-1|L|Ventral spl.|HH21	G2_genotype_07	GEX03-1	L	direct	Ventral spl.	HH21	518	0
+G2_genotype_08|GEX03-2|L|Ventral spl.|HH21	G2_genotype_08	GEX03-2	L	direct	Ventral spl.	HH21	323	0
+G2_genotype_10|GEX03-2|L|Ventral spl.|HH21	G2_genotype_10	GEX03-2	L	direct	Ventral spl.	HH21	297	0
+G3_unfiltered_donor10|GEX04|L|Ventral spl.|HH21	G3_unfiltered_donor10	GEX04	L	singleton_rank	Ventral spl.	HH21	193	0
+G3_unfiltered_donor7|GEX04|L|Ventral spl.|HH21	G3_unfiltered_donor7	GEX04	L	singleton_rank	Ventral spl.	HH21	462	0
+g03|GEX06|L|Ventral spl.|HH21	g03	GEX06	L	direct	Ventral spl.	HH21	604	0
+g05|GEX05|L|Ventral spl.|HH21	g05	GEX05	L	direct	Ventral spl.	HH21	247	0
+g09|GEX06|L|Ventral spl.|HH21	g09	GEX06	L	direct	Ventral spl.	HH21	435	0
+g10|GEX05|L|Ventral spl.|HH21	g10	GEX05	L	direct	Ventral spl.	HH21	313	0
+G2_genotype_05|GEX03-2|R|Ventral spl.|HH21	G2_genotype_05	GEX03-2	R	direct	Ventral spl.	HH21	191	0
+G2_genotype_07|GEX03-2|R|Ventral spl.|HH21	G2_genotype_07	GEX03-2	R	direct	Ventral spl.	HH21	249	0
+G2_genotype_08|GEX03-1|R|Ventral spl.|HH21	G2_genotype_08	GEX03-1	R	direct	Ventral spl.	HH21	237	0
+G2_genotype_10|GEX03-1|R|Ventral spl.|HH21	G2_genotype_10	GEX03-1	R	direct	Ventral spl.	HH21	130	0
+G3_unfiltered_donor1|GEX04|R|Ventral spl.|HH21	G3_unfiltered_donor1	GEX04	R	singleton_rank	Ventral spl.	HH21	198	0
+G3_unfiltered_donor4|GEX04|R|Ventral spl.|HH21	G3_unfiltered_donor4	GEX04	R	singleton_rank	Ventral spl.	HH21	236	0
+g03|GEX05|R|Ventral spl.|HH21	g03	GEX05	R	direct	Ventral spl.	HH21	348	0
+g05|GEX06|R|Ventral spl.|HH21	g05	GEX06	R	direct	Ventral spl.	HH21	375	0
+g09|GEX05|R|Ventral spl.|HH21	g09	GEX05	R	direct	Ventral spl.	HH21	278	0
+g10|GEX06|R|Ventral spl.|HH21	g10	GEX06	R	direct	Ventral spl.	HH21	200	0
+dp500_donor29|PILOTGEX3|L|Syringeal|HH25	dp500_donor29	PILOTGEX3	L	direct	Syringeal	HH25	36	0
+g00|GEX05|L|Syringeal|HH25	g00	GEX05	L	direct	Syringeal	HH25	2	0
+g02|PILOTGEX4|L|Syringeal|HH25	g02	PILOTGEX4	L	direct	Syringeal	HH25	64	0
+g04|PILOTGEX4|L|Syringeal|HH25	g04	PILOTGEX4	L	direct	Syringeal	HH25	20	0
+g06|PILOTGEX3|L|Syringeal|HH25	g06	PILOTGEX3	L	direct	Syringeal	HH25	25	0
+g07|GEX05|L|Syringeal|HH25	g07	GEX05	L	direct	Syringeal	HH25	71	0
+g11|GEX06|L|Syringeal|HH25	g11	GEX06	L	direct	Syringeal	HH25	352	0
+g12|GEX06|L|Syringeal|HH25	g12	GEX06	L	direct	Syringeal	HH25	247	0
+dp500_donor29|GEX05|R|Syringeal|HH25	dp500_donor29	GEX05	R	direct	Syringeal	HH25	182	0
+g00|PILOTGEX3|R|Syringeal|HH25	g00	PILOTGEX3	R	direct	Syringeal	HH25	219	0
+g02|GEX06|R|Syringeal|HH25	g02	GEX06	R	direct	Syringeal	HH25	340	0
+g04|GEX06|R|Syringeal|HH25	g04	GEX06	R	direct	Syringeal	HH25	262	0
+g06|GEX05|R|Syringeal|HH25	g06	GEX05	R	direct	Syringeal	HH25	167	0
+g07|PILOTGEX3|R|Syringeal|HH25	g07	PILOTGEX3	R	direct	Syringeal	HH25	114	0
+g11|PILOTGEX4|R|Syringeal|HH25	g11	PILOTGEX4	R	direct	Syringeal	HH25	285	0
+g12|PILOTGEX4|R|Syringeal|HH25	g12	PILOTGEX4	R	direct	Syringeal	HH25	34	0
+dp500_donor29|PILOTGEX3|L|Ventral spl.|HH25	dp500_donor29	PILOTGEX3	L	direct	Ventral spl.	HH25	457	0
+g00|GEX05|L|Ventral spl.|HH25	g00	GEX05	L	direct	Ventral spl.	HH25	744	0
+g02|PILOTGEX4|L|Ventral spl.|HH25	g02	PILOTGEX4	L	direct	Ventral spl.	HH25	178	0
+g04|PILOTGEX4|L|Ventral spl.|HH25	g04	PILOTGEX4	L	direct	Ventral spl.	HH25	102	0
+g06|PILOTGEX3|L|Ventral spl.|HH25	g06	PILOTGEX3	L	direct	Ventral spl.	HH25	210	0
+g07|GEX05|L|Ventral spl.|HH25	g07	GEX05	L	direct	Ventral spl.	HH25	991	0
+g11|GEX06|L|Ventral spl.|HH25	g11	GEX06	L	direct	Ventral spl.	HH25	1335	0
+g12|GEX06|L|Ventral spl.|HH25	g12	GEX06	L	direct	Ventral spl.	HH25	1549	0
+dp500_donor29|GEX05|R|Ventral spl.|HH25	dp500_donor29	GEX05	R	direct	Ventral spl.	HH25	584	0
+g00|PILOTGEX3|R|Ventral spl.|HH25	g00	PILOTGEX3	R	direct	Ventral spl.	HH25	1034	0
+g02|GEX06|R|Ventral spl.|HH25	g02	GEX06	R	direct	Ventral spl.	HH25	2149	0
+g04|GEX06|R|Ventral spl.|HH25	g04	GEX06	R	direct	Ventral spl.	HH25	911	0
+g06|GEX05|R|Ventral spl.|HH25	g06	GEX05	R	direct	Ventral spl.	HH25	1281	0
+g07|PILOTGEX3|R|Ventral spl.|HH25	g07	PILOTGEX3	R	direct	Ventral spl.	HH25	965	0
+g11|PILOTGEX4|R|Ventral spl.|HH25	g11	PILOTGEX4	R	direct	Ventral spl.	HH25	1425	0
+g12|PILOTGEX4|R|Ventral spl.|HH25	g12	PILOTGEX4	R	direct	Ventral spl.	HH25	185	0

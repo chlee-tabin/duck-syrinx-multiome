@@ -1,0 +1,1693 @@
+genotype_id	library	phase	n_cells	total_cells	fraction	cell_type_group	stage
+G2_genotype_01	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX03-1A	G1	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_01	GEX03-1A	G2M	1	1	1.000000	LPM mesenchyme	?
+G2_genotype_01	GEX03-1A	S	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_01	GEX03-1B	G1	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_01	GEX03-1B	G2M	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_01	GEX03-1B	S	0	2	0.000000	LPM mesenchyme	?
+G2_genotype_01	GEX03-2	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX03-2	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX03-2	S	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_01	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX03-1A	G1	0	3	0.000000	LPM mesenchyme	?
+G2_genotype_02	GEX03-1A	G2M	2	3	0.666667	LPM mesenchyme	?
+G2_genotype_02	GEX03-1A	S	1	3	0.333333	LPM mesenchyme	?
+G2_genotype_02	GEX03-1B	G1	0	2	0.000000	LPM mesenchyme	?
+G2_genotype_02	GEX03-1B	G2M	2	2	1.000000	LPM mesenchyme	?
+G2_genotype_02	GEX03-1B	S	0	2	0.000000	LPM mesenchyme	?
+G2_genotype_02	GEX03-2	G1	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_02	GEX03-2	G2M	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_02	GEX03-2	S	0	2	0.000000	LPM mesenchyme	?
+G2_genotype_02	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_02	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-1A	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-1B	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX03-2	G1	0	6	0.000000	LPM mesenchyme	?
+G2_genotype_03	GEX03-2	G2M	4	6	0.666667	LPM mesenchyme	?
+G2_genotype_03	GEX03-2	S	2	6	0.333333	LPM mesenchyme	?
+G2_genotype_03	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_03	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX03-1A	G1	1	1	1.000000	LPM mesenchyme	?
+G2_genotype_04	GEX03-1A	G2M	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_04	GEX03-1A	S	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_04	GEX03-1B	G1	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_04	GEX03-1B	G2M	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_04	GEX03-1B	S	0	2	0.000000	LPM mesenchyme	?
+G2_genotype_04	GEX03-2	G1	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_04	GEX03-2	G2M	1	1	1.000000	LPM mesenchyme	?
+G2_genotype_04	GEX03-2	S	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_04	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_04	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX03-1A	G1	2	4	0.500000	LPM mesenchyme	?
+G2_genotype_05	GEX03-1A	G2M	2	4	0.500000	LPM mesenchyme	?
+G2_genotype_05	GEX03-1A	S	0	4	0.000000	LPM mesenchyme	?
+G2_genotype_05	GEX03-1B	G1	3	6	0.500000	LPM mesenchyme	?
+G2_genotype_05	GEX03-1B	G2M	2	6	0.333333	LPM mesenchyme	?
+G2_genotype_05	GEX03-1B	S	1	6	0.166667	LPM mesenchyme	?
+G2_genotype_05	GEX03-2	G1	1	1	1.000000	LPM mesenchyme	?
+G2_genotype_05	GEX03-2	G2M	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_05	GEX03-2	S	0	1	0.000000	LPM mesenchyme	?
+G2_genotype_05	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_05	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX03-1A	G1	0	3	0.000000	LPM mesenchyme	?
+G2_genotype_07	GEX03-1A	G2M	2	3	0.666667	LPM mesenchyme	?
+G2_genotype_07	GEX03-1A	S	1	3	0.333333	LPM mesenchyme	?
+G2_genotype_07	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX03-1B	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX03-2	G1	0	3	0.000000	LPM mesenchyme	?
+G2_genotype_07	GEX03-2	G2M	2	3	0.666667	LPM mesenchyme	?
+G2_genotype_07	GEX03-2	S	1	3	0.333333	LPM mesenchyme	?
+G2_genotype_07	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_07	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-1A	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-1B	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX03-2	G1	0	3	0.000000	LPM mesenchyme	?
+G2_genotype_08	GEX03-2	G2M	2	3	0.666667	LPM mesenchyme	?
+G2_genotype_08	GEX03-2	S	1	3	0.333333	LPM mesenchyme	?
+G2_genotype_08	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_08	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX03-1A	G1	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_10	GEX03-1A	G2M	1	2	0.500000	LPM mesenchyme	?
+G2_genotype_10	GEX03-1A	S	0	2	0.000000	LPM mesenchyme	?
+G2_genotype_10	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX03-1B	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX03-2	G1	2	4	0.500000	LPM mesenchyme	?
+G2_genotype_10	GEX03-2	G2M	1	4	0.250000	LPM mesenchyme	?
+G2_genotype_10	GEX03-2	S	1	4	0.250000	LPM mesenchyme	?
+G2_genotype_10	GEX04	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX04	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX04	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX05	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX05	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX05	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX06	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX06	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX06	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX07	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX07	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX07	S	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX08	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX08	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	GEX08	S	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G2_genotype_10	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G2_genotype_11	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX0S-duck	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX03-1A	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX03-1A	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX03-1B	G1	0	1	0.000000	LPM mesenchyme	HH17
+G2_genotype_11	GEX03-1B	G2M	1	1	1.000000	LPM mesenchyme	HH17
+G2_genotype_11	GEX03-1B	S	0	1	0.000000	LPM mesenchyme	HH17
+G2_genotype_11	GEX03-2	G1	1	2	0.500000	LPM mesenchyme	HH17
+G2_genotype_11	GEX03-2	G2M	1	2	0.500000	LPM mesenchyme	HH17
+G2_genotype_11	GEX03-2	S	0	2	0.000000	LPM mesenchyme	HH17
+G2_genotype_11	GEX04	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX04	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX04	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX05	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX05	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX05	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX06	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX06	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX06	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX07	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX07	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX07	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX08	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX08	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	GEX08	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX3	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17
+G2_genotype_11	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17
+G3_unfiltered_donor1	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-1A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-1B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-2	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-2	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX03-2	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX04	G1	10	15	0.666667	LPM mesenchyme	?
+G3_unfiltered_donor1	GEX04	G2M	4	15	0.266667	LPM mesenchyme	?
+G3_unfiltered_donor1	GEX04	S	1	15	0.066667	LPM mesenchyme	?
+G3_unfiltered_donor1	GEX05	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX05	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX05	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX06	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX06	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX06	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX07	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX07	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX07	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX08	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX08	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	GEX08	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor1	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX0S-duck	G1	0	1	0.000000	LPM mesenchyme	?
+G3_unfiltered_donor3	GEX0S-duck	G2M	1	1	1.000000	LPM mesenchyme	?
+G3_unfiltered_donor3	GEX0S-duck	S	0	1	0.000000	LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-1A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-1B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-2	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-2	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX03-2	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX04	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX04	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX04	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX05	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX05	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX05	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX06	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX06	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX06	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX07	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX07	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX07	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX08	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX08	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	GEX08	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor3	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-1A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-1B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-2	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-2	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX03-2	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX04	G1	19	32	0.593750	LPM mesenchyme	?
+G3_unfiltered_donor7	GEX04	G2M	9	32	0.281250	LPM mesenchyme	?
+G3_unfiltered_donor7	GEX04	S	4	32	0.125000	LPM mesenchyme	?
+G3_unfiltered_donor7	GEX05	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX05	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX05	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX06	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX06	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX06	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX07	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX07	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX07	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX08	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX08	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	GEX08	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor7	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-1A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-1B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-2	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-2	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX03-2	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX04	G1	1	1	1.000000	LPM mesenchyme	?
+G3_unfiltered_donor8	GEX04	G2M	0	1	0.000000	LPM mesenchyme	?
+G3_unfiltered_donor8	GEX04	S	0	1	0.000000	LPM mesenchyme	?
+G3_unfiltered_donor8	GEX05	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX05	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX05	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX06	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX06	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX06	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX07	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX07	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX07	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX08	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX08	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	GEX08	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor8	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX0S-duck	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX0S-duck	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX0S-duck	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-1A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-1A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-1A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-1B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-1B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-1B	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-2	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-2	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX03-2	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX04	G1	1	1	1.000000	LPM mesenchyme	?
+G3_unfiltered_donor10	GEX04	G2M	0	1	0.000000	LPM mesenchyme	?
+G3_unfiltered_donor10	GEX04	S	0	1	0.000000	LPM mesenchyme	?
+G3_unfiltered_donor10	GEX05	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX05	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX05	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX06	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX06	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX06	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX07	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX07	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX07	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX08	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX08	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	GEX08	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX3	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX3	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX3	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX4A	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX4A	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX4A	S	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX4B	G1	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX4B	G2M	0	0		LPM mesenchyme	?
+G3_unfiltered_donor10	PILOTGEX4B	S	0	0		LPM mesenchyme	?
+dp500_donor29	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX03-2	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX04	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX04	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX04	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX05	G1	605	945	0.640212	LPM mesenchyme	HH25
+dp500_donor29	GEX05	G2M	218	945	0.230688	LPM mesenchyme	HH25
+dp500_donor29	GEX05	S	122	945	0.129101	LPM mesenchyme	HH25
+dp500_donor29	GEX06	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX06	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX06	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX07	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX07	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX07	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX08	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX08	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	GEX08	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX3	G1	529	769	0.687906	LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX3	G2M	175	769	0.227568	LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX3	S	65	769	0.084525	LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH25
+dp500_donor29	PILOTGEX4B	S	0	0		LPM mesenchyme	HH25
+g00	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g00	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g00	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g00	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g00	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g00	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g00	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g00	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g00	GEX04	G1	0	0		LPM mesenchyme	HH25
+g00	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX04	S	0	0		LPM mesenchyme	HH25
+g00	GEX05	G1	1050	1365	0.769231	LPM mesenchyme	HH25
+g00	GEX05	G2M	218	1365	0.159707	LPM mesenchyme	HH25
+g00	GEX05	S	97	1365	0.071062	LPM mesenchyme	HH25
+g00	GEX06	G1	0	0		LPM mesenchyme	HH25
+g00	GEX06	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX06	S	0	0		LPM mesenchyme	HH25
+g00	GEX07	G1	0	0		LPM mesenchyme	HH25
+g00	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX07	S	0	0		LPM mesenchyme	HH25
+g00	GEX08	G1	0	0		LPM mesenchyme	HH25
+g00	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g00	GEX08	S	0	0		LPM mesenchyme	HH25
+g00	PILOTGEX3	G1	1125	1591	0.707102	LPM mesenchyme	HH25
+g00	PILOTGEX3	G2M	336	1591	0.211188	LPM mesenchyme	HH25
+g00	PILOTGEX3	S	130	1591	0.081710	LPM mesenchyme	HH25
+g00	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+g00	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+g00	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+g00	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH25
+g00	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH25
+g00	PILOTGEX4B	S	0	0		LPM mesenchyme	HH25
+g01	GEX0S-duck	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX0S-duck	S	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-1A	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-1A	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-1A	S	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-1B	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-1B	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-1B	S	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-2	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-2	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX03-2	S	0	0		LPM mesenchyme	HH21/16
+g01	GEX04	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX04	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX04	S	0	0		LPM mesenchyme	HH21/16
+g01	GEX05	G1	0	4	0.000000	LPM mesenchyme	HH21/16
+g01	GEX05	G2M	4	4	1.000000	LPM mesenchyme	HH21/16
+g01	GEX05	S	0	4	0.000000	LPM mesenchyme	HH21/16
+g01	GEX06	G1	0	2	0.000000	LPM mesenchyme	HH21/16
+g01	GEX06	G2M	2	2	1.000000	LPM mesenchyme	HH21/16
+g01	GEX06	S	0	2	0.000000	LPM mesenchyme	HH21/16
+g01	GEX07	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX07	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX07	S	0	0		LPM mesenchyme	HH21/16
+g01	GEX08	G1	0	0		LPM mesenchyme	HH21/16
+g01	GEX08	G2M	0	0		LPM mesenchyme	HH21/16
+g01	GEX08	S	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX3	G1	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX3	S	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX4A	S	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH21/16
+g01	PILOTGEX4B	S	0	0		LPM mesenchyme	HH21/16
+g02	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g02	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g02	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g02	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g02	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g02	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g02	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g02	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g02	GEX04	G1	0	0		LPM mesenchyme	HH25
+g02	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX04	S	0	0		LPM mesenchyme	HH25
+g02	GEX05	G1	0	0		LPM mesenchyme	HH25
+g02	GEX05	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX05	S	0	0		LPM mesenchyme	HH25
+g02	GEX06	G1	2288	2961	0.772712	LPM mesenchyme	HH25
+g02	GEX06	G2M	497	2961	0.167849	LPM mesenchyme	HH25
+g02	GEX06	S	176	2961	0.059439	LPM mesenchyme	HH25
+g02	GEX07	G1	0	0		LPM mesenchyme	HH25
+g02	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX07	S	0	0		LPM mesenchyme	HH25
+g02	GEX08	G1	0	0		LPM mesenchyme	HH25
+g02	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g02	GEX08	S	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX3	G1	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX3	S	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+g02	PILOTGEX4B	G1	176	227	0.775330	LPM mesenchyme	HH25
+g02	PILOTGEX4B	G2M	39	227	0.171806	LPM mesenchyme	HH25
+g02	PILOTGEX4B	S	12	227	0.052863	LPM mesenchyme	HH25
+g03	GEX0S-duck	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX0S-duck	S	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-1A	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-1A	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-1A	S	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-1B	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-1B	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-1B	S	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-2	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-2	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX03-2	S	0	0		LPM mesenchyme	HH21/16
+g03	GEX04	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX04	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX04	S	0	0		LPM mesenchyme	HH21/16
+g03	GEX05	G1	37	71	0.521127	LPM mesenchyme	HH21/16
+g03	GEX05	G2M	28	71	0.394366	LPM mesenchyme	HH21/16
+g03	GEX05	S	6	71	0.084507	LPM mesenchyme	HH21/16
+g03	GEX06	G1	26	62	0.419355	LPM mesenchyme	HH21/16
+g03	GEX06	G2M	30	62	0.483871	LPM mesenchyme	HH21/16
+g03	GEX06	S	6	62	0.096774	LPM mesenchyme	HH21/16
+g03	GEX07	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX07	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX07	S	0	0		LPM mesenchyme	HH21/16
+g03	GEX08	G1	0	0		LPM mesenchyme	HH21/16
+g03	GEX08	G2M	0	0		LPM mesenchyme	HH21/16
+g03	GEX08	S	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX3	G1	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX3	S	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX4A	S	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH21/16
+g03	PILOTGEX4B	S	0	0		LPM mesenchyme	HH21/16
+g04	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g04	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g04	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g04	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g04	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g04	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g04	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g04	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g04	GEX04	G1	0	0		LPM mesenchyme	HH25
+g04	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX04	S	0	0		LPM mesenchyme	HH25
+g04	GEX05	G1	0	0		LPM mesenchyme	HH25
+g04	GEX05	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX05	S	0	0		LPM mesenchyme	HH25
+g04	GEX06	G1	1075	1552	0.692655	LPM mesenchyme	HH25
+g04	GEX06	G2M	323	1552	0.208119	LPM mesenchyme	HH25
+g04	GEX06	S	154	1552	0.099227	LPM mesenchyme	HH25
+g04	GEX07	G1	0	0		LPM mesenchyme	HH25
+g04	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX07	S	0	0		LPM mesenchyme	HH25
+g04	GEX08	G1	0	0		LPM mesenchyme	HH25
+g04	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g04	GEX08	S	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX3	G1	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX3	S	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+g04	PILOTGEX4B	G1	97	129	0.751938	LPM mesenchyme	HH25
+g04	PILOTGEX4B	G2M	24	129	0.186047	LPM mesenchyme	HH25
+g04	PILOTGEX4B	S	8	129	0.062016	LPM mesenchyme	HH25
+g05	GEX0S-duck	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX0S-duck	S	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-1A	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-1A	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-1A	S	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-1B	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-1B	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-1B	S	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-2	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-2	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX03-2	S	0	0		LPM mesenchyme	HH21/16
+g05	GEX04	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX04	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX04	S	0	0		LPM mesenchyme	HH21/16
+g05	GEX05	G1	1	8	0.125000	LPM mesenchyme	HH21/16
+g05	GEX05	G2M	7	8	0.875000	LPM mesenchyme	HH21/16
+g05	GEX05	S	0	8	0.000000	LPM mesenchyme	HH21/16
+g05	GEX06	G1	18	33	0.545455	LPM mesenchyme	HH21/16
+g05	GEX06	G2M	15	33	0.454545	LPM mesenchyme	HH21/16
+g05	GEX06	S	0	33	0.000000	LPM mesenchyme	HH21/16
+g05	GEX07	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX07	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX07	S	0	0		LPM mesenchyme	HH21/16
+g05	GEX08	G1	0	0		LPM mesenchyme	HH21/16
+g05	GEX08	G2M	0	0		LPM mesenchyme	HH21/16
+g05	GEX08	S	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX3	G1	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX3	S	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX4A	S	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH21/16
+g05	PILOTGEX4B	S	0	0		LPM mesenchyme	HH21/16
+g06	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g06	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g06	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g06	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g06	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g06	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g06	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g06	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g06	GEX04	G1	0	0		LPM mesenchyme	HH25
+g06	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX04	S	0	0		LPM mesenchyme	HH25
+g06	GEX05	G1	1233	1640	0.751829	LPM mesenchyme	HH25
+g06	GEX05	G2M	279	1640	0.170122	LPM mesenchyme	HH25
+g06	GEX05	S	128	1640	0.078049	LPM mesenchyme	HH25
+g06	GEX06	G1	0	0		LPM mesenchyme	HH25
+g06	GEX06	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX06	S	0	0		LPM mesenchyme	HH25
+g06	GEX07	G1	0	0		LPM mesenchyme	HH25
+g06	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX07	S	0	0		LPM mesenchyme	HH25
+g06	GEX08	G1	0	0		LPM mesenchyme	HH25
+g06	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g06	GEX08	S	0	0		LPM mesenchyme	HH25
+g06	PILOTGEX3	G1	325	416	0.781250	LPM mesenchyme	HH25
+g06	PILOTGEX3	G2M	64	416	0.153846	LPM mesenchyme	HH25
+g06	PILOTGEX3	S	27	416	0.064904	LPM mesenchyme	HH25
+g06	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+g06	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+g06	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+g06	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH25
+g06	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH25
+g06	PILOTGEX4B	S	0	0		LPM mesenchyme	HH25
+g07	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g07	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g07	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g07	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g07	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g07	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g07	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g07	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g07	GEX04	G1	0	0		LPM mesenchyme	HH25
+g07	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX04	S	0	0		LPM mesenchyme	HH25
+g07	GEX05	G1	1167	1489	0.783747	LPM mesenchyme	HH25
+g07	GEX05	G2M	228	1489	0.153123	LPM mesenchyme	HH25
+g07	GEX05	S	94	1489	0.063130	LPM mesenchyme	HH25
+g07	GEX06	G1	0	0		LPM mesenchyme	HH25
+g07	GEX06	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX06	S	0	0		LPM mesenchyme	HH25
+g07	GEX07	G1	0	0		LPM mesenchyme	HH25
+g07	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX07	S	0	0		LPM mesenchyme	HH25
+g07	GEX08	G1	0	0		LPM mesenchyme	HH25
+g07	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g07	GEX08	S	0	0		LPM mesenchyme	HH25
+g07	PILOTGEX3	G1	921	1288	0.715062	LPM mesenchyme	HH25
+g07	PILOTGEX3	G2M	253	1288	0.196429	LPM mesenchyme	HH25
+g07	PILOTGEX3	S	114	1288	0.088509	LPM mesenchyme	HH25
+g07	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+g07	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+g07	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+g07	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH25
+g07	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH25
+g07	PILOTGEX4B	S	0	0		LPM mesenchyme	HH25
+g08	GEX0S-duck	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX0S-duck	S	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-1A	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-1A	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-1A	S	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-1B	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-1B	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-1B	S	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-2	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-2	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX03-2	S	0	0		LPM mesenchyme	HH21/16
+g08	GEX04	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX04	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX04	S	0	0		LPM mesenchyme	HH21/16
+g08	GEX05	G1	0	3	0.000000	LPM mesenchyme	HH21/16
+g08	GEX05	G2M	2	3	0.666667	LPM mesenchyme	HH21/16
+g08	GEX05	S	1	3	0.333333	LPM mesenchyme	HH21/16
+g08	GEX06	G1	1	5	0.200000	LPM mesenchyme	HH21/16
+g08	GEX06	G2M	3	5	0.600000	LPM mesenchyme	HH21/16
+g08	GEX06	S	1	5	0.200000	LPM mesenchyme	HH21/16
+g08	GEX07	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX07	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX07	S	0	0		LPM mesenchyme	HH21/16
+g08	GEX08	G1	0	0		LPM mesenchyme	HH21/16
+g08	GEX08	G2M	0	0		LPM mesenchyme	HH21/16
+g08	GEX08	S	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX3	G1	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX3	S	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX4A	S	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH21/16
+g08	PILOTGEX4B	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX0S-duck	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX0S-duck	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-1A	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-1A	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-1A	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-1B	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-1B	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-1B	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-2	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-2	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX03-2	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX04	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX04	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX04	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX05	G1	11	31	0.354839	LPM mesenchyme	HH21/16
+g09	GEX05	G2M	17	31	0.548387	LPM mesenchyme	HH21/16
+g09	GEX05	S	3	31	0.096774	LPM mesenchyme	HH21/16
+g09	GEX06	G1	11	38	0.289474	LPM mesenchyme	HH21/16
+g09	GEX06	G2M	23	38	0.605263	LPM mesenchyme	HH21/16
+g09	GEX06	S	4	38	0.105263	LPM mesenchyme	HH21/16
+g09	GEX07	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX07	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX07	S	0	0		LPM mesenchyme	HH21/16
+g09	GEX08	G1	0	0		LPM mesenchyme	HH21/16
+g09	GEX08	G2M	0	0		LPM mesenchyme	HH21/16
+g09	GEX08	S	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX3	G1	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX3	S	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX4A	S	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH21/16
+g09	PILOTGEX4B	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX0S-duck	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX0S-duck	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-1A	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-1A	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-1A	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-1B	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-1B	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-1B	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-2	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-2	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX03-2	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX04	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX04	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX04	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX05	G1	6	14	0.428571	LPM mesenchyme	HH21/16
+g10	GEX05	G2M	6	14	0.428571	LPM mesenchyme	HH21/16
+g10	GEX05	S	2	14	0.142857	LPM mesenchyme	HH21/16
+g10	GEX06	G1	3	3	1.000000	LPM mesenchyme	HH21/16
+g10	GEX06	G2M	0	3	0.000000	LPM mesenchyme	HH21/16
+g10	GEX06	S	0	3	0.000000	LPM mesenchyme	HH21/16
+g10	GEX07	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX07	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX07	S	0	0		LPM mesenchyme	HH21/16
+g10	GEX08	G1	0	0		LPM mesenchyme	HH21/16
+g10	GEX08	G2M	0	0		LPM mesenchyme	HH21/16
+g10	GEX08	S	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX3	G1	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX3	S	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX4A	S	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH21/16
+g10	PILOTGEX4B	S	0	0		LPM mesenchyme	HH21/16
+g11	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g11	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g11	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g11	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g11	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g11	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g11	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g11	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g11	GEX04	G1	0	0		LPM mesenchyme	HH25
+g11	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX04	S	0	0		LPM mesenchyme	HH25
+g11	GEX05	G1	0	0		LPM mesenchyme	HH25
+g11	GEX05	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX05	S	0	0		LPM mesenchyme	HH25
+g11	GEX06	G1	1370	1870	0.732620	LPM mesenchyme	HH25
+g11	GEX06	G2M	332	1870	0.177540	LPM mesenchyme	HH25
+g11	GEX06	S	168	1870	0.089840	LPM mesenchyme	HH25
+g11	GEX07	G1	0	0		LPM mesenchyme	HH25
+g11	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX07	S	0	0		LPM mesenchyme	HH25
+g11	GEX08	G1	0	0		LPM mesenchyme	HH25
+g11	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g11	GEX08	S	0	0		LPM mesenchyme	HH25
+g11	PILOTGEX3	G1	0	0		LPM mesenchyme	HH25
+g11	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH25
+g11	PILOTGEX3	S	0	0		LPM mesenchyme	HH25
+g11	PILOTGEX4A	G1	1161	1556	0.746144	LPM mesenchyme	HH25
+g11	PILOTGEX4A	G2M	308	1556	0.197943	LPM mesenchyme	HH25
+g11	PILOTGEX4A	S	87	1556	0.055913	LPM mesenchyme	HH25
+g11	PILOTGEX4B	G1	212	297	0.713805	LPM mesenchyme	HH25
+g11	PILOTGEX4B	G2M	58	297	0.195286	LPM mesenchyme	HH25
+g11	PILOTGEX4B	S	27	297	0.090909	LPM mesenchyme	HH25
+g12	GEX0S-duck	G1	0	0		LPM mesenchyme	HH25
+g12	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX0S-duck	S	0	0		LPM mesenchyme	HH25
+g12	GEX03-1A	G1	0	0		LPM mesenchyme	HH25
+g12	GEX03-1A	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX03-1A	S	0	0		LPM mesenchyme	HH25
+g12	GEX03-1B	G1	0	0		LPM mesenchyme	HH25
+g12	GEX03-1B	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX03-1B	S	0	0		LPM mesenchyme	HH25
+g12	GEX03-2	G1	0	0		LPM mesenchyme	HH25
+g12	GEX03-2	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX03-2	S	0	0		LPM mesenchyme	HH25
+g12	GEX04	G1	0	0		LPM mesenchyme	HH25
+g12	GEX04	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX04	S	0	0		LPM mesenchyme	HH25
+g12	GEX05	G1	0	0		LPM mesenchyme	HH25
+g12	GEX05	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX05	S	0	0		LPM mesenchyme	HH25
+g12	GEX06	G1	1716	2154	0.796657	LPM mesenchyme	HH25
+g12	GEX06	G2M	306	2154	0.142061	LPM mesenchyme	HH25
+g12	GEX06	S	132	2154	0.061281	LPM mesenchyme	HH25
+g12	GEX07	G1	0	0		LPM mesenchyme	HH25
+g12	GEX07	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX07	S	0	0		LPM mesenchyme	HH25
+g12	GEX08	G1	0	0		LPM mesenchyme	HH25
+g12	GEX08	G2M	0	0		LPM mesenchyme	HH25
+g12	GEX08	S	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX3	G1	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX3	S	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX4A	S	0	0		LPM mesenchyme	HH25
+g12	PILOTGEX4B	G1	185	255	0.725490	LPM mesenchyme	HH25
+g12	PILOTGEX4B	G2M	48	255	0.188235	LPM mesenchyme	HH25
+g12	PILOTGEX4B	S	22	255	0.086275	LPM mesenchyme	HH25
+g13	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g13	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g13	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g13	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g13	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g13	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g13	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g13	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g13	GEX04	G1	0	0		LPM mesenchyme	HH13
+g13	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX04	S	0	0		LPM mesenchyme	HH13
+g13	GEX05	G1	0	0		LPM mesenchyme	HH13
+g13	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX05	S	0	0		LPM mesenchyme	HH13
+g13	GEX06	G1	0	0		LPM mesenchyme	HH13
+g13	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX06	S	0	0		LPM mesenchyme	HH13
+g13	GEX07	G1	0	0		LPM mesenchyme	HH13
+g13	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX07	S	0	0		LPM mesenchyme	HH13
+g13	GEX08	G1	0	0		LPM mesenchyme	HH13
+g13	GEX08	G2M	0	0		LPM mesenchyme	HH13
+g13	GEX08	S	0	0		LPM mesenchyme	HH13
+g13	PILOTGEX3	G1	0	0		LPM mesenchyme	HH13
+g13	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH13
+g13	PILOTGEX3	S	0	0		LPM mesenchyme	HH13
+g13	PILOTGEX4A	G1	1	7	0.142857	LPM mesenchyme	HH13
+g13	PILOTGEX4A	G2M	3	7	0.428571	LPM mesenchyme	HH13
+g13	PILOTGEX4A	S	3	7	0.428571	LPM mesenchyme	HH13
+g13	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g13	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g13	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g14	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g14	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g14	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g14	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g14	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g14	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g14	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g14	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g14	GEX04	G1	0	0		LPM mesenchyme	HH13
+g14	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX04	S	0	0		LPM mesenchyme	HH13
+g14	GEX05	G1	0	0		LPM mesenchyme	HH13
+g14	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX05	S	0	0		LPM mesenchyme	HH13
+g14	GEX06	G1	0	0		LPM mesenchyme	HH13
+g14	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX06	S	0	0		LPM mesenchyme	HH13
+g14	GEX07	G1	0	0		LPM mesenchyme	HH13
+g14	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g14	GEX07	S	0	0		LPM mesenchyme	HH13
+g14	GEX08	G1	1	2	0.500000	LPM mesenchyme	HH13
+g14	GEX08	G2M	1	2	0.500000	LPM mesenchyme	HH13
+g14	GEX08	S	0	2	0.000000	LPM mesenchyme	HH13
+g14	PILOTGEX3	G1	0	0		LPM mesenchyme	HH13
+g14	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH13
+g14	PILOTGEX3	S	0	0		LPM mesenchyme	HH13
+g14	PILOTGEX4A	G1	3	5	0.600000	LPM mesenchyme	HH13
+g14	PILOTGEX4A	G2M	2	5	0.400000	LPM mesenchyme	HH13
+g14	PILOTGEX4A	S	0	5	0.000000	LPM mesenchyme	HH13
+g14	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g14	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g14	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g15	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX0S-duck	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-1A	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-1A	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-1B	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-1B	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-2	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-2	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX03-2	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX04	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX04	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX04	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX05	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX05	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX05	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX06	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX06	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX06	S	0	0		LPM mesenchyme	HH17/16
+g15	GEX07	G1	0	2	0.000000	LPM mesenchyme	HH17/16
+g15	GEX07	G2M	1	2	0.500000	LPM mesenchyme	HH17/16
+g15	GEX07	S	1	2	0.500000	LPM mesenchyme	HH17/16
+g15	GEX08	G1	0	0		LPM mesenchyme	HH17/16
+g15	GEX08	G2M	0	0		LPM mesenchyme	HH17/16
+g15	GEX08	S	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX3	S	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17/16
+g15	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17/16
+g16	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g16	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g16	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g16	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g16	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g16	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g16	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g16	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g16	GEX04	G1	0	0		LPM mesenchyme	HH13
+g16	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX04	S	0	0		LPM mesenchyme	HH13
+g16	GEX05	G1	0	0		LPM mesenchyme	HH13
+g16	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX05	S	0	0		LPM mesenchyme	HH13
+g16	GEX06	G1	0	0		LPM mesenchyme	HH13
+g16	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX06	S	0	0		LPM mesenchyme	HH13
+g16	GEX07	G1	0	0		LPM mesenchyme	HH13
+g16	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX07	S	0	0		LPM mesenchyme	HH13
+g16	GEX08	G1	0	0		LPM mesenchyme	HH13
+g16	GEX08	G2M	0	0		LPM mesenchyme	HH13
+g16	GEX08	S	0	0		LPM mesenchyme	HH13
+g16	PILOTGEX3	G1	0	1	0.000000	LPM mesenchyme	HH13
+g16	PILOTGEX3	G2M	1	1	1.000000	LPM mesenchyme	HH13
+g16	PILOTGEX3	S	0	1	0.000000	LPM mesenchyme	HH13
+g16	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH13
+g16	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH13
+g16	PILOTGEX4A	S	0	0		LPM mesenchyme	HH13
+g16	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g16	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g16	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g17	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX0S-duck	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-1A	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-1A	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-1B	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-1B	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-2	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-2	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX03-2	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX04	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX04	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX04	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX05	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX05	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX05	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX06	G1	0	0		LPM mesenchyme	HH17/16
+g17	GEX06	G2M	0	0		LPM mesenchyme	HH17/16
+g17	GEX06	S	0	0		LPM mesenchyme	HH17/16
+g17	GEX07	G1	1	2	0.500000	LPM mesenchyme	HH17/16
+g17	GEX07	G2M	1	2	0.500000	LPM mesenchyme	HH17/16
+g17	GEX07	S	0	2	0.000000	LPM mesenchyme	HH17/16
+g17	GEX08	G1	1	4	0.250000	LPM mesenchyme	HH17/16
+g17	GEX08	G2M	3	4	0.750000	LPM mesenchyme	HH17/16
+g17	GEX08	S	0	4	0.000000	LPM mesenchyme	HH17/16
+g17	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX3	S	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17/16
+g17	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17/16
+g18	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g18	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g18	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g18	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g18	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g18	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g18	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g18	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g18	GEX04	G1	0	0		LPM mesenchyme	HH13
+g18	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX04	S	0	0		LPM mesenchyme	HH13
+g18	GEX05	G1	0	0		LPM mesenchyme	HH13
+g18	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX05	S	0	0		LPM mesenchyme	HH13
+g18	GEX06	G1	0	0		LPM mesenchyme	HH13
+g18	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX06	S	0	0		LPM mesenchyme	HH13
+g18	GEX07	G1	0	0		LPM mesenchyme	HH13
+g18	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g18	GEX07	S	0	0		LPM mesenchyme	HH13
+g18	GEX08	G1	0	1	0.000000	LPM mesenchyme	HH13
+g18	GEX08	G2M	1	1	1.000000	LPM mesenchyme	HH13
+g18	GEX08	S	0	1	0.000000	LPM mesenchyme	HH13
+g18	PILOTGEX3	G1	0	0		LPM mesenchyme	HH13
+g18	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH13
+g18	PILOTGEX3	S	0	0		LPM mesenchyme	HH13
+g18	PILOTGEX4A	G1	0	1	0.000000	LPM mesenchyme	HH13
+g18	PILOTGEX4A	G2M	1	1	1.000000	LPM mesenchyme	HH13
+g18	PILOTGEX4A	S	0	1	0.000000	LPM mesenchyme	HH13
+g18	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g18	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g18	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g19	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX0S-duck	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-1A	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-1A	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-1B	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-1B	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-2	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-2	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX03-2	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX04	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX04	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX04	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX05	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX05	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX05	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX06	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX06	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX06	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX07	G1	0	0		LPM mesenchyme	HH17/16
+g19	GEX07	G2M	0	0		LPM mesenchyme	HH17/16
+g19	GEX07	S	0	0		LPM mesenchyme	HH17/16
+g19	GEX08	G1	1	3	0.333333	LPM mesenchyme	HH17/16
+g19	GEX08	G2M	2	3	0.666667	LPM mesenchyme	HH17/16
+g19	GEX08	S	0	3	0.000000	LPM mesenchyme	HH17/16
+g19	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX3	S	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17/16
+g19	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17/16
+g20	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17
+g20	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX0S-duck	S	0	0		LPM mesenchyme	HH17
+g20	GEX03-1A	G1	0	0		LPM mesenchyme	HH17
+g20	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX03-1A	S	0	0		LPM mesenchyme	HH17
+g20	GEX03-1B	G1	1	2	0.500000	LPM mesenchyme	HH17
+g20	GEX03-1B	G2M	1	2	0.500000	LPM mesenchyme	HH17
+g20	GEX03-1B	S	0	2	0.000000	LPM mesenchyme	HH17
+g20	GEX03-2	G1	0	0		LPM mesenchyme	HH17
+g20	GEX03-2	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX03-2	S	0	0		LPM mesenchyme	HH17
+g20	GEX04	G1	0	0		LPM mesenchyme	HH17
+g20	GEX04	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX04	S	0	0		LPM mesenchyme	HH17
+g20	GEX05	G1	0	0		LPM mesenchyme	HH17
+g20	GEX05	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX05	S	0	0		LPM mesenchyme	HH17
+g20	GEX06	G1	0	0		LPM mesenchyme	HH17
+g20	GEX06	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX06	S	0	0		LPM mesenchyme	HH17
+g20	GEX07	G1	0	0		LPM mesenchyme	HH17
+g20	GEX07	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX07	S	0	0		LPM mesenchyme	HH17
+g20	GEX08	G1	0	0		LPM mesenchyme	HH17
+g20	GEX08	G2M	0	0		LPM mesenchyme	HH17
+g20	GEX08	S	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX3	S	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17
+g20	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17
+g21	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g21	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g21	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g21	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g21	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g21	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g21	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g21	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g21	GEX04	G1	0	0		LPM mesenchyme	HH13
+g21	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX04	S	0	0		LPM mesenchyme	HH13
+g21	GEX05	G1	0	0		LPM mesenchyme	HH13
+g21	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX05	S	0	0		LPM mesenchyme	HH13
+g21	GEX06	G1	0	0		LPM mesenchyme	HH13
+g21	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX06	S	0	0		LPM mesenchyme	HH13
+g21	GEX07	G1	0	0		LPM mesenchyme	HH13
+g21	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX07	S	0	0		LPM mesenchyme	HH13
+g21	GEX08	G1	0	0		LPM mesenchyme	HH13
+g21	GEX08	G2M	0	0		LPM mesenchyme	HH13
+g21	GEX08	S	0	0		LPM mesenchyme	HH13
+g21	PILOTGEX3	G1	0	0		LPM mesenchyme	HH13
+g21	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH13
+g21	PILOTGEX3	S	0	0		LPM mesenchyme	HH13
+g21	PILOTGEX4A	G1	0	1	0.000000	LPM mesenchyme	HH13
+g21	PILOTGEX4A	G2M	1	1	1.000000	LPM mesenchyme	HH13
+g21	PILOTGEX4A	S	0	1	0.000000	LPM mesenchyme	HH13
+g21	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g21	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g21	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g22	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX0S-duck	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-1A	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-1A	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-1B	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-1B	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-2	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-2	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX03-2	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX04	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX04	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX04	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX05	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX05	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX05	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX06	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX06	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX06	S	0	0		LPM mesenchyme	HH17/16
+g22	GEX07	G1	0	1	0.000000	LPM mesenchyme	HH17/16
+g22	GEX07	G2M	1	1	1.000000	LPM mesenchyme	HH17/16
+g22	GEX07	S	0	1	0.000000	LPM mesenchyme	HH17/16
+g22	GEX08	G1	0	0		LPM mesenchyme	HH17/16
+g22	GEX08	G2M	0	0		LPM mesenchyme	HH17/16
+g22	GEX08	S	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX3	S	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17/16
+g22	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX0S-duck	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-1A	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-1A	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-1B	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-1B	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-2	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-2	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX03-2	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX04	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX04	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX04	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX05	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX05	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX05	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX06	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX06	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX06	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX07	G1	0	0		LPM mesenchyme	HH17/16
+g23	GEX07	G2M	0	0		LPM mesenchyme	HH17/16
+g23	GEX07	S	0	0		LPM mesenchyme	HH17/16
+g23	GEX08	G1	0	1	0.000000	LPM mesenchyme	HH17/16
+g23	GEX08	G2M	1	1	1.000000	LPM mesenchyme	HH17/16
+g23	GEX08	S	0	1	0.000000	LPM mesenchyme	HH17/16
+g23	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX3	S	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17/16
+g23	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX0S-duck	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-1A	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-1A	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-1B	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-1B	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-2	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-2	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX03-2	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX04	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX04	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX04	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX05	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX05	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX05	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX06	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX06	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX06	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX07	G1	0	0		LPM mesenchyme	HH17/16
+g24	GEX07	G2M	0	0		LPM mesenchyme	HH17/16
+g24	GEX07	S	0	0		LPM mesenchyme	HH17/16
+g24	GEX08	G1	0	1	0.000000	LPM mesenchyme	HH17/16
+g24	GEX08	G2M	1	1	1.000000	LPM mesenchyme	HH17/16
+g24	GEX08	S	0	1	0.000000	LPM mesenchyme	HH17/16
+g24	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX3	S	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX4A	S	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17/16
+g24	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17/16
+g25	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g25	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g25	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g25	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g25	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g25	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g25	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g25	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g25	GEX04	G1	0	0		LPM mesenchyme	HH13
+g25	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX04	S	0	0		LPM mesenchyme	HH13
+g25	GEX05	G1	0	0		LPM mesenchyme	HH13
+g25	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX05	S	0	0		LPM mesenchyme	HH13
+g25	GEX06	G1	0	0		LPM mesenchyme	HH13
+g25	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX06	S	0	0		LPM mesenchyme	HH13
+g25	GEX07	G1	0	0		LPM mesenchyme	HH13
+g25	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX07	S	0	0		LPM mesenchyme	HH13
+g25	GEX08	G1	0	0		LPM mesenchyme	HH13
+g25	GEX08	G2M	0	0		LPM mesenchyme	HH13
+g25	GEX08	S	0	0		LPM mesenchyme	HH13
+g25	PILOTGEX3	G1	1	1	1.000000	LPM mesenchyme	HH13
+g25	PILOTGEX3	G2M	0	1	0.000000	LPM mesenchyme	HH13
+g25	PILOTGEX3	S	0	1	0.000000	LPM mesenchyme	HH13
+g25	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH13
+g25	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH13
+g25	PILOTGEX4A	S	0	0		LPM mesenchyme	HH13
+g25	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g25	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g25	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g26_split0	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX0S-duck	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-1A	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-1A	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-1B	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-1B	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-2	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-2	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX03-2	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX04	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX04	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX04	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX05	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX05	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX05	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX06	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX06	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX06	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX07	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX07	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX07	S	0	0		LPM mesenchyme	HH17
+g26_split0	GEX08	G1	0	0		LPM mesenchyme	HH17
+g26_split0	GEX08	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	GEX08	S	0	0		LPM mesenchyme	HH17
+g26_split0	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17
+g26_split0	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	PILOTGEX3	S	0	0		LPM mesenchyme	HH17
+g26_split0	PILOTGEX4A	G1	1	5	0.200000	LPM mesenchyme	HH17
+g26_split0	PILOTGEX4A	G2M	3	5	0.600000	LPM mesenchyme	HH17
+g26_split0	PILOTGEX4A	S	1	5	0.200000	LPM mesenchyme	HH17
+g26_split0	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17
+g26_split0	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17
+g26_split0	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX0S-duck	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-1A	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-1A	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-1B	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-1B	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-2	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-2	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX03-2	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX04	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX04	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX04	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX05	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX05	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX05	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX06	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX06	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX06	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX07	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX07	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX07	S	0	0		LPM mesenchyme	HH17
+g26_split1	GEX08	G1	0	0		LPM mesenchyme	HH17
+g26_split1	GEX08	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	GEX08	S	0	0		LPM mesenchyme	HH17
+g26_split1	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17
+g26_split1	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	PILOTGEX3	S	0	0		LPM mesenchyme	HH17
+g26_split1	PILOTGEX4A	G1	2	6	0.333333	LPM mesenchyme	HH17
+g26_split1	PILOTGEX4A	G2M	4	6	0.666667	LPM mesenchyme	HH17
+g26_split1	PILOTGEX4A	S	0	6	0.000000	LPM mesenchyme	HH17
+g26_split1	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17
+g26_split1	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17
+g26_split1	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17
+g28	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17
+g28	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX0S-duck	S	0	0		LPM mesenchyme	HH17
+g28	GEX03-1A	G1	0	0		LPM mesenchyme	HH17
+g28	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX03-1A	S	0	0		LPM mesenchyme	HH17
+g28	GEX03-1B	G1	0	0		LPM mesenchyme	HH17
+g28	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX03-1B	S	0	0		LPM mesenchyme	HH17
+g28	GEX03-2	G1	0	0		LPM mesenchyme	HH17
+g28	GEX03-2	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX03-2	S	0	0		LPM mesenchyme	HH17
+g28	GEX04	G1	0	0		LPM mesenchyme	HH17
+g28	GEX04	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX04	S	0	0		LPM mesenchyme	HH17
+g28	GEX05	G1	0	0		LPM mesenchyme	HH17
+g28	GEX05	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX05	S	0	0		LPM mesenchyme	HH17
+g28	GEX06	G1	0	0		LPM mesenchyme	HH17
+g28	GEX06	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX06	S	0	0		LPM mesenchyme	HH17
+g28	GEX07	G1	0	0		LPM mesenchyme	HH17
+g28	GEX07	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX07	S	0	0		LPM mesenchyme	HH17
+g28	GEX08	G1	0	0		LPM mesenchyme	HH17
+g28	GEX08	G2M	0	0		LPM mesenchyme	HH17
+g28	GEX08	S	0	0		LPM mesenchyme	HH17
+g28	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17
+g28	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17
+g28	PILOTGEX3	S	0	0		LPM mesenchyme	HH17
+g28	PILOTGEX4A	G1	5	8	0.625000	LPM mesenchyme	HH17
+g28	PILOTGEX4A	G2M	3	8	0.375000	LPM mesenchyme	HH17
+g28	PILOTGEX4A	S	0	8	0.000000	LPM mesenchyme	HH17
+g28	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH17
+g28	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH17
+g28	PILOTGEX4B	S	0	0		LPM mesenchyme	HH17
+g32	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g32	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g32	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g32	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g32	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g32	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g32	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g32	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g32	GEX04	G1	0	0		LPM mesenchyme	HH13
+g32	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX04	S	0	0		LPM mesenchyme	HH13
+g32	GEX05	G1	0	0		LPM mesenchyme	HH13
+g32	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX05	S	0	0		LPM mesenchyme	HH13
+g32	GEX06	G1	0	0		LPM mesenchyme	HH13
+g32	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX06	S	0	0		LPM mesenchyme	HH13
+g32	GEX07	G1	0	1	0.000000	LPM mesenchyme	HH13
+g32	GEX07	G2M	1	1	1.000000	LPM mesenchyme	HH13
+g32	GEX07	S	0	1	0.000000	LPM mesenchyme	HH13
+g32	GEX08	G1	0	0		LPM mesenchyme	HH13
+g32	GEX08	G2M	0	0		LPM mesenchyme	HH13
+g32	GEX08	S	0	0		LPM mesenchyme	HH13
+g32	PILOTGEX3	G1	0	1	0.000000	LPM mesenchyme	HH13
+g32	PILOTGEX3	G2M	1	1	1.000000	LPM mesenchyme	HH13
+g32	PILOTGEX3	S	0	1	0.000000	LPM mesenchyme	HH13
+g32	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH13
+g32	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH13
+g32	PILOTGEX4A	S	0	0		LPM mesenchyme	HH13
+g32	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g32	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g32	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13
+g34	GEX0S-duck	G1	0	0		LPM mesenchyme	HH17
+g34	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX0S-duck	S	0	0		LPM mesenchyme	HH17
+g34	GEX03-1A	G1	0	0		LPM mesenchyme	HH17
+g34	GEX03-1A	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX03-1A	S	0	0		LPM mesenchyme	HH17
+g34	GEX03-1B	G1	0	0		LPM mesenchyme	HH17
+g34	GEX03-1B	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX03-1B	S	0	0		LPM mesenchyme	HH17
+g34	GEX03-2	G1	0	0		LPM mesenchyme	HH17
+g34	GEX03-2	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX03-2	S	0	0		LPM mesenchyme	HH17
+g34	GEX04	G1	0	0		LPM mesenchyme	HH17
+g34	GEX04	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX04	S	0	0		LPM mesenchyme	HH17
+g34	GEX05	G1	0	0		LPM mesenchyme	HH17
+g34	GEX05	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX05	S	0	0		LPM mesenchyme	HH17
+g34	GEX06	G1	0	0		LPM mesenchyme	HH17
+g34	GEX06	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX06	S	0	0		LPM mesenchyme	HH17
+g34	GEX07	G1	0	0		LPM mesenchyme	HH17
+g34	GEX07	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX07	S	0	0		LPM mesenchyme	HH17
+g34	GEX08	G1	0	0		LPM mesenchyme	HH17
+g34	GEX08	G2M	0	0		LPM mesenchyme	HH17
+g34	GEX08	S	0	0		LPM mesenchyme	HH17
+g34	PILOTGEX3	G1	0	0		LPM mesenchyme	HH17
+g34	PILOTGEX3	G2M	0	0		LPM mesenchyme	HH17
+g34	PILOTGEX3	S	0	0		LPM mesenchyme	HH17
+g34	PILOTGEX4A	G1	3	8	0.375000	LPM mesenchyme	HH17
+g34	PILOTGEX4A	G2M	3	8	0.375000	LPM mesenchyme	HH17
+g34	PILOTGEX4A	S	2	8	0.250000	LPM mesenchyme	HH17
+g34	PILOTGEX4B	G1	1	1	1.000000	LPM mesenchyme	HH17
+g34	PILOTGEX4B	G2M	0	1	0.000000	LPM mesenchyme	HH17
+g34	PILOTGEX4B	S	0	1	0.000000	LPM mesenchyme	HH17
+g35	GEX0S-duck	G1	0	0		LPM mesenchyme	HH13
+g35	GEX0S-duck	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX0S-duck	S	0	0		LPM mesenchyme	HH13
+g35	GEX03-1A	G1	0	0		LPM mesenchyme	HH13
+g35	GEX03-1A	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX03-1A	S	0	0		LPM mesenchyme	HH13
+g35	GEX03-1B	G1	0	0		LPM mesenchyme	HH13
+g35	GEX03-1B	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX03-1B	S	0	0		LPM mesenchyme	HH13
+g35	GEX03-2	G1	0	0		LPM mesenchyme	HH13
+g35	GEX03-2	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX03-2	S	0	0		LPM mesenchyme	HH13
+g35	GEX04	G1	0	0		LPM mesenchyme	HH13
+g35	GEX04	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX04	S	0	0		LPM mesenchyme	HH13
+g35	GEX05	G1	0	0		LPM mesenchyme	HH13
+g35	GEX05	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX05	S	0	0		LPM mesenchyme	HH13
+g35	GEX06	G1	0	0		LPM mesenchyme	HH13
+g35	GEX06	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX06	S	0	0		LPM mesenchyme	HH13
+g35	GEX07	G1	0	0		LPM mesenchyme	HH13
+g35	GEX07	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX07	S	0	0		LPM mesenchyme	HH13
+g35	GEX08	G1	0	0		LPM mesenchyme	HH13
+g35	GEX08	G2M	0	0		LPM mesenchyme	HH13
+g35	GEX08	S	0	0		LPM mesenchyme	HH13
+g35	PILOTGEX3	G1	1	2	0.500000	LPM mesenchyme	HH13
+g35	PILOTGEX3	G2M	1	2	0.500000	LPM mesenchyme	HH13
+g35	PILOTGEX3	S	0	2	0.000000	LPM mesenchyme	HH13
+g35	PILOTGEX4A	G1	0	0		LPM mesenchyme	HH13
+g35	PILOTGEX4A	G2M	0	0		LPM mesenchyme	HH13
+g35	PILOTGEX4A	S	0	0		LPM mesenchyme	HH13
+g35	PILOTGEX4B	G1	0	0		LPM mesenchyme	HH13
+g35	PILOTGEX4B	G2M	0	0		LPM mesenchyme	HH13
+g35	PILOTGEX4B	S	0	0		LPM mesenchyme	HH13

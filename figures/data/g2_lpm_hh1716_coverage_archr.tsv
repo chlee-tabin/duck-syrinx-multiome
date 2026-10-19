@@ -1,0 +1,7 @@
+scope	n_buckets	n_genotypes	median_n_cells	min_n_cells	max_n_cells	n_paired	populations
+INFERENCE_POOL	15	11	176.0	56.0	487.0	4	Early LPM,Cardiopharyngeal LPM,BARX1+
+SUB_Early LPM	15	11	76.0	54.0	255.0	4	Early LPM
+SUB_Cardiopharyngeal LPM	2	2	75.0	61.0	89.0	0	Cardiopharyngeal LPM
+SUB_BARX1+	11	10	118.0	52.0	347.0	1	BARX1+
+NEG_Dorsal_biased_LPM	7	7	96.0	68.0	171.0	0	Dorsal-biased LPM
+NEG_Paraxial	0	0				0	Sclerotome,Dermomyotome

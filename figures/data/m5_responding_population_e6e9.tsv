@@ -1,0 +1,27 @@
+block	stage	population	estimate	unit	n	n_unit	p	direction	notes
+composition	E06	Contamination	41.0	cells	4.0	donors with >=5 cells			
+composition	E06	Dorsal sub-epi.	1015.0	cells	8.0	donors with >=5 cells			
+composition	E06	Mesothelium	339.0	cells	7.0	donors with >=5 cells			
+composition	E06	Skeletogenic LPM	1221.0	cells	8.0	donors with >=5 cells			
+composition	E06	Ventral spl.	1110.0	cells	8.0	donors with >=5 cells			
+composition	E09	Dorsal sub-epi.	1366.0	cells	8.0	donors with >=5 cells			
+composition	E09	Syringeal chondrocyte	4346.0	cells	8.0	donors with >=5 cells			
+composition	E09	Syringeal fibroblast	2958.0	cells	8.0	donors with >=5 cells			
+composition	E09	Syringeal smooth muscle	66.0	cells	7.0	donors with >=5 cells			
+composition	E11	Contamination	20.0	cells	2.0	donors with >=5 cells			
+composition	E11	Syringeal chondrocyte	3701.0	cells	8.0	donors with >=5 cells			
+composition	E11	Syringeal fibroblast	6202.0	cells	8.0	donors with >=5 cells			
+composition	E11	Syringeal smooth muscle	116.0	cells	8.0	donors with >=5 cells			
+cycling_LR	E09	Syringeal chondrocyte	0.1366	cycling fraction (L - R, mean of donor diffs)	6.0	donor pairs (dissected sides)	0.0312	6/6 L>R	M: mean +0.161, 4/4 L>R; F: mean +0.088, 2/2 L>R
+cycling_LR	E09	Syringeal fibroblast	0.0433	cycling fraction (L - R, mean of donor diffs)	6.0	donor pairs (dissected sides)	0.1562	5/6 L>R	M: mean +0.057, 4/4 L>R; F: mean +0.016, 1/2 L>R
+cycling_LR	E09	Dorsal sub-epi.	0.0295	cycling fraction (L - R, mean of donor diffs)	6.0	donor pairs (dissected sides)	0.5625	4/6 L>R	M: mean +0.081, 4/4 L>R; F: mean -0.074, 0/2 L>R
+cycling_LR	E11	Syringeal chondrocyte	0.0547	cycling fraction (L - R, mean of donor diffs)	8.0	donor pairs (dissected sides)	0.1953	6/8 L>R	M: mean +0.137, 4/4 L>R; F: mean -0.028, 2/4 L>R
+cycling_LR	E11	Syringeal fibroblast	-0.0163	cycling fraction (L - R, mean of donor diffs)	8.0	donor pairs (dissected sides)	0.5469	3/8 L>R	M: mean +0.024, 2/4 L>R; F: mean -0.057, 1/4 L>R
+cycling_LR	E11	Dorsal sub-epi.		cycling fraction (L - R)	0.0	donor pairs			fewer than 4 pairs — not tested
+hh25_backcheck	HH25	Syringeal	-3.1224	percentage points	8.0	embryos	0.3125	2/8 L>R	HH25 chondro-precursor (Syringeal) SHARE of pool, L-R — no compositional bias of the precursor state at E6
+hh25_backcheck	HH25	Syringeal	-0.0208	fraction of pool cells	5.0	embryos	0.625	2/5 L>R	HH25 cycling WITHIN the chondro-precursor (Syringeal), L-R
+xstage_direct_HH25xE09	HH25xE09	Dorsal sub-epi.	0.857	MetaNeighbor AUROC vs best E09 match (Dorsal sub-epi.)				reciprocal-best	Syringeal chondrocyte 0.161; Dorsal sub-epi. 0.857; Syringeal fibroblast 0.663; Syringeal smooth muscle 0.647
+xstage_direct_HH25xE09	HH25xE09	Skeletogenic LPM	0.887	MetaNeighbor AUROC vs best E09 match (Syringeal smooth muscle)				reciprocal-best	Syringeal chondrocyte 0.296; Dorsal sub-epi. 0.344; Syringeal fibroblast 0.779; Syringeal smooth muscle 0.887
+xstage_direct_HH25xE09	HH25xE09	Syringeal	0.755	MetaNeighbor AUROC vs best E09 match (Syringeal smooth muscle)				NOT reciprocal	Syringeal chondrocyte 0.610; Dorsal sub-epi. 0.389; Syringeal fibroblast 0.427; Syringeal smooth muscle 0.755
+xstage_direct_HH25xE09	HH25xE09	Venous-pole spl.	0.823	MetaNeighbor AUROC vs best E09 match (Syringeal fibroblast)				reciprocal-best	Syringeal chondrocyte 0.244; Dorsal sub-epi. 0.408; Syringeal fibroblast 0.823; Syringeal smooth muscle 0.730
+xstage_direct_HH25xE09	HH25xE09	Ventral spl.	0.756	MetaNeighbor AUROC vs best E09 match (Syringeal chondrocyte)				reciprocal-best	Syringeal chondrocyte 0.756; Dorsal sub-epi. 0.426; Syringeal fibroblast 0.279; Syringeal smooth muscle 0.191

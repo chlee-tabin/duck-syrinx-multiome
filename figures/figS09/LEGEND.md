@@ -1,0 +1,7 @@
+# Figure S15 (page 2 of 3): BMP, not TGF-β, is the active SMAD arm in the syrinx-forming mesenchyme
+
+*Manuscript Figure S15, page 2 of 3, carrying the single panel **E**. Panel letters run continuously across the three pages: **A–D** on page 1 (WNT screen), **E** here, **F–I** on page 3 (BMP ligands and receptors).*
+
+**The receptor-regulated SMADs of the BMP arm (SMAD1/5/9) and the TGF-β arm (SMAD2/3) in the E6/E9/E11 duck scRNA-seq, resolved into dorsal–ventral mesenchymal subpopulations rather than pooled mesoderm, show the active BMP arm is carried specifically by the syrinx-fated populations, confirming the pSMAD1/5/9 result at single-cell resolution.** Violins are coloured by mesenchymal subpopulation (canonical palette, as in Figure S14).
+
+**(E)** BMP-arm versus TGF-β-arm SMADs by mesenchymal subpopulation across stage. Per-gene violins of log-normalized expression, subpopulations on the x-axis and stage (E06/E09/E11) as nested columns; rows grouped into the BMP arm (SMAD1, SMAD5, SMAD9) and the TGF-β arm (SMAD2, SMAD3); black point = median. The BMP-responsive SMAD1 and SMAD5 are expressed across the syrinx-fated mesenchyme at all three stages; the TGF-β effector SMAD2 is expressed at low, diffuse levels (comparable to the BMP arm's SMAD9) and total SMAD3 transcript is present at SMAD5-comparable levels — so it is SMAD *activation* (the pSMAD1/5/9 read out in the main text), not total mRNA, that distinguishes the arms, consistent with the BMP, not the TGF-β, arm being the active intracellular effector in these populations.

@@ -1,0 +1,5 @@
+scope	n_L_pseudobulks	n_R_pseudobulks	L_total_fragments	R_total_fragments	n_peaks	n_binom_sig_padj_005	n_binom_sig_padj_010	n_log2FC_gt_1	n_log2FC_lt_neg1	max_log2FC	min_log2FC
+INFERENCE_POOL	18	10	5796843	1855817	25541	42	83	164	86	2.153900	-1.757900
+SUB_Early_LPM	9	6	2200166	1278195	25541	6	6	424	211	2.966700	-1.968200
+SUB_Cardiopharyngeal_LPM	1	1	165075	91369	25541	1	1	6127	4293	6.700200	-6.468500
+SUB_BARX1	8	3	3431602	486253	25541	67	97	1866	494	4.719900	-2.647500

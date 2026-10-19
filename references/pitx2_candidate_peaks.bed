@@ -1,0 +1,86 @@
+# PITX2 candidate peaks for per-peak motif scan (§5.7 follow-up).
+#
+# ⚠ HEADLINE vs EXPLORATORY (2026-06-19).  The locus-FDR candidate TABLE
+# (scripts/compute_locus_fdr_h6_h7.py) and molecular_model §8.7.12 report ONLY
+# the headline set — peaks with a standing basis: Peak_1 (PITX2c promoter,
+# a-priori), Peak_3 (+5.4 kb, independent motif basis per fig04), and
+# PITX2a_promoter (bilateral within-locus control).  ASE_region, SMAD5plus,
+# Peak_2, Peak_4 and Peak_5 are RETIRED FROM THE HEADLINE (significance-driven /
+# since-reframed selection — ASE's Welsh citation retracted; SMAD5 shown to be a
+# broad-domain property, not a focal BRE; Peak_2 reframed as gene-body — see
+# docs/pitx2_locus_window_rationale.md, not distributed).  They stay in THIS file only so the
+# exploratory motif / co-accessibility / gkm-SVM scans that documented their
+# weakness still reproduce; do not present them as candidates.
+#
+# These are the 6 candidate peaks downstream of Peak #1 in the §5 chromatin-
+# laterality narrative (Peak #1 is the PITX2c proximal promoter, already
+# covered by references/pitx2_promoter_regions.bed as promoter|PITX2c and
+# scanned in g3_pitx2_motif_scan_p5e-3.tsv).  Coordinates are NC_051775.1,
+# zju1, 0-based half-open (BED convention).
+#
+# Source of coordinates:
+#   - Peak #2..#5 + PITX2a promoter peak + SMAD5+ composite all appear as
+#     rows in figures/data/h0_lvr_peaks_pitx2_locus.tsv (h0 = 329 peaks
+#     within PITX2 ±500 kb on NC_051775.1, derived from ArchR pseudobulk).
+#   - Candidate-peak short labels match the CANDIDATE_PEAKS list of the
+#     co-accessibility script (not distributed), which is the §5.4 co-accessibility
+#     consumer.
+#
+# Peak descriptions (relative to PITX2c TSS at 3,971,385):
+#   Peak #2     +599 bp   over PITX2c exon 1 CDS (§8.7.2 chick synteny)
+#   Peak #3     +5.4 kb   intragenic, PITX+SMAD2/3 motif hits in h0
+#   Peak #4     +552 kb   far 3' distal
+#   Peak #5     -2.06 Mb  far 5' distal
+#   SMAD5+     +11.0 kb  composite peak (was previously labeled "+6 kb" in
+#                          docs/h1; the analytical position has been
+#                          NC_051775.1:3,982,405-3,982,906 = +11 kb 3' of
+#                          PITX2c TSS at 3,971,385 since all g3b/h2/h6/h7
+#                          DESeq2 + motif analyses ran on this coord)
+#                          NAME CAVEAT (2026-06-16): "SMAD5plus" is a legacy
+#                          landmark label from a curated SMAD5-PWM (MA1557.1)
+#                          *presence* call — NOT a validated SMAD/BMP footprint.
+#                          The focal footprint/occupancy probe found 0 direct
+#                          SMAD at this locus (SMAD5 ~ background; BMP
+#                          indirect); the cross-species BRE scan (g3d) finds
+#                          this window's BRE at chance rate
+#                          (1 of 5 scattered non-specific windows); the de-novo
+#                          "SMAD5" motif enrichment was a retracted attribution
+#                          artefact (GTCT core = NODAL SBE, not the BMP
+#                          GC-rich BRE). Name
+#                          retained as a coordinate landmark only (cf. the
+#                          ASE_region precedent below); it does NOT assert
+#                          SMAD/BMP function.
+#   PITX2a_promoter  -10 kb 5'   over PITX2a TSS at 3,961,387
+#   ASE_region  +3.0 kb   syntenic-position to a chick PITX2c last-intron
+#                          "ASE region" cited in our internal docs.
+#                          PRIMARY CITATION PENDING — was originally
+#                          attributed to Welsh et al. 2015 (PMID 26411685)
+#                          but that paper is about CTCF + Playrr-mediated
+#                          chromatin asymmetry, NOT a PITX2c last-intron
+#                          ASE or FoxH1 binding. Verified against PubMed
+#                          on 2026-05-22. The position 3974421-3974922
+#                          was chosen for motif-conservation testing;
+#                          the substantive scan result (0/0/2 FoxH1 hits
+#                          at p<5e-4 / 5e-3 / 1e-2, contrasted with
+#                          Peak #4 at 6/10 hits) is independent of the
+#                          motivating citation. raw-significant L-biased
+#                          peak from h0 (log2FC=+1.05, raw binom_p=0.003,
+#                          padj=0.74 at genome-wide 283K-burden FDR;
+#                          locus padj 0.043 at HH25 h7 unpaired —
+#                          newly emerging).
+#
+# Peak #1 (PITX2c proximal promoter) IS included even though g3 already
+# scanned the 601-bp `promoter|PITX2c` BED region containing it — we
+# want apples-to-apples comparison across all 7 peaks at the same
+# 501-bp window AND with the same 27-motif catalog (g3 used 21 motifs;
+# g3b adds MEIS1/2/3 + PBX1/2/3).
+#
+# chrom        start      end       name              score  strand
+NC_051775.1	3971182	3971683	Peak_1	0	+
+NC_051775.1	3971734	3972235	Peak_2	0	+
+NC_051775.1	3976533	3977034	Peak_3	0	+
+NC_051775.1	4528903	4529404	Peak_4	0	+
+NC_051775.1	1900018	1900519	Peak_5	0	+
+NC_051775.1	3982405	3982906	SMAD5plus	0	+
+NC_051775.1	3961167	3961668	PITX2a_promoter	0	+
+NC_051775.1	3974421	3974922	ASE_region	0	+

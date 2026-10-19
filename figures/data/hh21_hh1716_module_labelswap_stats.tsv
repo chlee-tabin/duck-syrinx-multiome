@@ -1,0 +1,11 @@
+stage	floor	module_inputs_sha	scan_sha	module	n	mean	test	alt	p
+HH21	20	sha:cb66b56fc33f	sha:39282ecfcd44	L-up	8	0.1578907356528066	labelswap_permutation	greater	0.05078125
+HH21	20	sha:cb66b56fc33f	sha:39282ecfcd44	R-up	8	-0.019563306977695746	labelswap_permutation	less	0.41015625
+HH21	20	sha:cb66b56fc33f	sha:39282ecfcd44	PITX2c_ref	8	1.4799159392910304	labelswap_permutation	greater	0.00390625
+HH21	20	sha:cb66b56fc33f	sha:39282ecfcd44	PITX2ab_ctrl	8	-0.03926194391138317	labelswap_permutation	two-sided	0.8203125
+HH21	20	sha:cb66b56fc33f	sha:39282ecfcd44	directionality	8	0.17745404263050235	labelswap_permutation	greater	0.03125
+HH17/16	20	sha:cb66b56fc33f	sha:39282ecfcd44	L-up	8	0.020695381746269267	labelswap_permutation	greater	0.4296875
+HH17/16	20	sha:cb66b56fc33f	sha:39282ecfcd44	R-up	8	0.03762002941259676	labelswap_permutation	less	0.66015625
+HH17/16	20	sha:cb66b56fc33f	sha:39282ecfcd44	PITX2c_ref	8	1.2401555098660477	labelswap_permutation	greater	0.00390625
+HH17/16	20	sha:cb66b56fc33f	sha:39282ecfcd44	PITX2ab_ctrl	8	0.16343090579955855	labelswap_permutation	two-sided	0.6484375
+HH17/16	20	sha:cb66b56fc33f	sha:39282ecfcd44	directionality	8	-0.016924647666327487	labelswap_permutation	greater	0.57421875

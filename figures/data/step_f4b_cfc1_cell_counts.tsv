@@ -1,0 +1,7 @@
+group	n_cells	frag_bed	coverage_sum_locus	coverage_sum_per_cell
+HH13_L	402	/n/scratch/users/c/cl266/FC_08656/phase2/atac/lr_pileup/fragments/HH13_L.bed.gz	65742	163.53731343283582
+HH13_R	487	/n/scratch/users/c/cl266/FC_08656/phase2/atac/lr_pileup/fragments/HH13_R.bed.gz	82901	170.22792607802876
+HH21_L	5542	/n/scratch/users/c/cl266/FC_08656/phase2/atac/lr_pileup/fragments/HH21_L.bed.gz	1032750	186.34969325153375
+HH21_R	3606	/n/scratch/users/c/cl266/FC_08656/phase2/atac/lr_pileup/fragments/HH21_R.bed.gz	641134	177.79645036051025
+HH25_L	4632	/n/scratch/users/c/cl266/FC_08656/phase2/atac/lr_pileup/fragments/HH25_L.bed.gz	964818	208.2940414507772
+HH25_R	6667	/n/scratch/users/c/cl266/FC_08656/phase2/atac/lr_pileup/fragments/HH25_R.bed.gz	1098470	164.76226188690566

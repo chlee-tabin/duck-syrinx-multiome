@@ -1,0 +1,17 @@
+column	donor_id	side	sex	n_cells
+expD1_donor11__L	expD1_donor11	L	M	1362
+expD1_donor11__R	expD1_donor11	R	M	1352
+expD1_donor4__L	expD1_donor4	L	M	1165
+expD1_donor4__R	expD1_donor4	R	M	898
+expD1_donor6__L	expD1_donor6	L	F	670
+expD1_donor6__R	expD1_donor6	R	F	162
+expD1_donor8__L	expD1_donor8	L	F	502
+expD1_donor8__R	expD1_donor8	R	F	371
+expD23_donor0__L	expD23_donor0	L	F	190
+expD23_donor0__R	expD23_donor0	R	F	364
+expD23_donor1__L	expD23_donor1	L	F	197
+expD23_donor1__R	expD23_donor1	R	F	492
+expD23_donor4__L	expD23_donor4	L	M	471
+expD23_donor4__R	expD23_donor4	R	M	403
+expD23_donor9__L	expD23_donor9	L	M	454
+expD23_donor9__R	expD23_donor9	R	M	426

@@ -1,0 +1,16 @@
+# DOCUMENTATION-ONLY reference table — not read by any script. Canonical clade partitions are
+# hardcoded in scripts/stagef/deltasvm_clade_fixed.py (BULLA/SYMM), the PhyloAcc sbatch -t/-g
+# targets (stagef_06/08/09), and figures/exploratory/stagef_clade_phyloacc/generate.py; if a
+# species is re-classified there, update this table to match.
+species	clade	bulla_state	role
+duck	Anatinae	asymmetric	foreground
+pintail	Anatinae	asymmetric	foreground
+tufted	Anatinae	asymmetric	foreground
+muteswan	Anserinae	symmetric	background
+blackswan	Anserinae	symmetric	background
+swangoose	Anserinae	symmetric	background
+magpiegoose	Anseranatidae	symmetric	background
+screamer	Anhimidae	symmetric	background
+chicken	Galliformes	absent	outgroup
+turkey	Galliformes	absent	outgroup
+ostrich	Palaeognathae	absent	outgroup

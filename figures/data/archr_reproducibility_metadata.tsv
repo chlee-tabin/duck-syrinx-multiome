@@ -1,0 +1,18 @@
+peak_pool	n_cells	n_replicates	n_peaks
+HH17/16|BARX1+	2209	23	105117
+HH17/16|Cardiopharyngeal LPM	813	24	64589
+HH17/16|Dermomyotome	2008	12	115091
+HH17/16|Dorsal-biased LPM	1474	24	80014
+HH17/16|Early LPM	2084	24	94408
+HH17/16|Sclerotome	2308	12	106295
+HH17/16|Somatic	2521	24	97901
+HH21|BARX1+	1285	11	85192
+HH21|Dorsal sub-epi.	1319	12	60502
+HH21|Splanchnic	1868	12	87434
+HH21|Syringeal	2054	12	80309
+HH21|Ventral spl.	5597	12	150000
+HH25|Chondrogenic LPM	1612	8	78470
+HH25|Epithelial	987	8	102303
+HH25|Somatic	839	8	73021
+HH25|Syringeal	920	8	68866
+HH25|Ventral spl.	8375	8	147602

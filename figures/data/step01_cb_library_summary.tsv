@@ -1,0 +1,13 @@
+library	n_cells	median_genes	median_counts	median_pct_mito	mean_pct_mito	median_pct_rbc	cellbender_h5
+GEX03-1A	64808	726.0	909.0	3.65	5.94	0.14	GEX03-1A_cellbender_filtered.h5
+GEX03-1B	34269	1332.0	1921.0	1.3	4.64	0.04	GEX03-1B_cellbender_filtered.h5
+GEX03-2	33132	1045.0	1420.0	1.32	4.25	0.06	GEX03-2_cellbender_filtered.h5
+GEX04	24203	1774.0	2911.0	1.8	7.88	0.04	GEX04_cellbender_filtered.h5
+GEX05	29304	1432.0	2300.0	1.31	5.22	0.02	GEX05_cellbender_filtered.h5
+GEX06	36431	1398.0	2203.0	0.9	3.84	0.0	GEX06_cellbender_filtered.h5
+GEX07	37406	1487.0	2182.0	1.71	7.79	0.0	GEX07_cellbender_filtered.h5
+GEX08	35798	1804.0	2972.0	0.95	5.28	0.0	GEX08_cellbender_filtered.h5
+GEX0S-duck	5267	516.0	836.0	0.15	6.98	0.0	GEX0S-duck_cellbender_filtered.h5
+PILOTGEX3	14430	2023.0	3839.0	1.37	6.72	0.0	PILOTGEX3_cellbender_filtered.h5
+PILOTGEX4A	40560	1846.0	3074.0	1.01	5.43	0.0	PILOTGEX4A_cellbender_filtered.h5
+PILOTGEX4B	6755	2067.0	3764.0	0.47	4.66	0.0	PILOTGEX4B_cellbender_filtered.h5

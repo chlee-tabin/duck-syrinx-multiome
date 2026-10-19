@@ -1,0 +1,25 @@
+region	stage	design	n_L	n_R	n_paired_genotypes	log2FoldChange	lfcSE	pvalue	padj	baseMean	sex_levels	error_message
+CFC1_promoter	HH13	unpaired	8	7	NA	NA	NA	NA	NA	NA	NA	all gene-wise dispersion estimates are within 2 orders of magnitude from the minimum value, and so the standard curve fitting techniques will not work. One can instead use the gene-wise estimates as final estimates: dds <- estimateDispersionsGeneEst(dds) dispersions(dds) <- mcols(dds)$dispGeneEst ...then continue with testing using nbinomWaldTest or nbinomLRT
+CFC1_promoter	HH13	unpaired+sex	8	7	NA	NA	NA	NA	NA	NA	NA	all gene-wise dispersion estimates are within 2 orders of magnitude from the minimum value, and so the standard curve fitting techniques will not work. One can instead use the gene-wise estimates as final estimates: dds <- estimateDispersionsGeneEst(dds) dispersions(dds) <- mcols(dds)$dispGeneEst ...then continue with testing using nbinomWaldTest or nbinomLRT
+CFC1_promoter	HH13	paired	7	7	NA	NA	NA	NA	NA	NA	NA	all gene-wise dispersion estimates are within 2 orders of magnitude from the minimum value, and so the standard curve fitting techniques will not work. One can instead use the gene-wise estimates as final estimates: dds <- estimateDispersionsGeneEst(dds) dispersions(dds) <- mcols(dds)$dispGeneEst ...then continue with testing using nbinomWaldTest or nbinomLRT
+CFC1_promoter	HH17/16	unpaired	19	15	NA	-0.150367321016568	0.501941899644984	0.764504279448011	0.764504279448011	2.33846101018289	F,M	NA
+CFC1_promoter	HH17/16	unpaired+sex	19	15	NA	-0.33152341130065	0.482939248762733	0.4924166385913	0.4924166385913	2.33846101018289	F,M	NA
+CFC1_promoter	HH17/16	paired	11	11	11	-0.507985217624909	0.734281393908252	0.489054939561474	0.489054939561474	2.0849438277809	F,M	NA
+CFC1_promoter	HH21	unpaired	10	10	NA	-0.985257933177224	0.363543296633194	0.0067252190246745	0.0067252190246745	4.86261554092553	F,M	NA
+CFC1_promoter	HH21	unpaired+sex	10	10	NA	-0.996914958853304	0.375141265086541	0.00787368814240889	0.00787368814240889	4.86261554092553	F,M	NA
+CFC1_promoter	HH21	paired	8	8	8	-1.16737241023276	0.571758211326833	0.0411789257424663	0.0411789257424663	4.37891473485676	F,M	NA
+CFC1_promoter	HH25	unpaired	8	8	NA	0.232562486791436	0.394011425384365	0.555027745805044	0.555027745805044	4.66097719854169	F,M	NA
+CFC1_promoter	HH25	unpaired+sex	8	8	NA	0.130870769614674	0.348302566443891	0.707111129722583	0.707111129722583	4.66097719854169	F,M	NA
+CFC1_promoter	HH25	paired	8	8	8	0.355644397852632	0.469575366352053	0.448825542197444	0.448825542197444	4.66097719854169	F,M	NA
+CFC1_genebody	HH13	unpaired	8	7	NA	-1.01732766065146	0.555004140597656	0.0668012123407729	0.0668012123407729	2.65379237445891	F,M	NA
+CFC1_genebody	HH13	unpaired+sex	8	7	NA	-1.08343446338842	0.559142796119716	0.0526634435027197	0.0526634435027197	2.65379237445891	F,M	NA
+CFC1_genebody	HH13	paired	7	7	NA	NA	NA	NA	NA	NA	NA	all gene-wise dispersion estimates are within 2 orders of magnitude from the minimum value, and so the standard curve fitting techniques will not work. One can instead use the gene-wise estimates as final estimates: dds <- estimateDispersionsGeneEst(dds) dispersions(dds) <- mcols(dds)$dispGeneEst ...then continue with testing using nbinomWaldTest or nbinomLRT
+CFC1_genebody	HH17/16	unpaired	19	15	NA	-0.577309344297919	0.364202295350785	0.112935952532865	0.112935952532865	11.3268897384906	F,M	NA
+CFC1_genebody	HH17/16	unpaired+sex	19	15	NA	-0.751436949714373	0.327626892380278	0.0218149052128688	0.0218149052128688	11.3268897384906	F,M	NA
+CFC1_genebody	HH17/16	paired	11	11	11	-1.17825134379074	0.349556191537147	0.000749756771785097	0.000749756771785097	11.2749214171681	F,M	NA
+CFC1_genebody	HH21	unpaired	10	10	NA	-0.03894044507771	0.256831501306354	0.879487724212527	0.879487724212527	19.5380508531706	F,M	NA
+CFC1_genebody	HH21	unpaired+sex	10	10	NA	-0.0360846124153515	0.212807956183458	0.865352873220439	0.865352873220439	19.5380508531706	F,M	NA
+CFC1_genebody	HH21	paired	8	8	NA	NA	NA	NA	NA	NA	NA	all gene-wise dispersion estimates are within 2 orders of magnitude from the minimum value, and so the standard curve fitting techniques will not work. One can instead use the gene-wise estimates as final estimates: dds <- estimateDispersionsGeneEst(dds) dispersions(dds) <- mcols(dds)$dispGeneEst ...then continue with testing using nbinomWaldTest or nbinomLRT
+CFC1_genebody	HH25	unpaired	8	8	NA	0.328785232925789	0.209818924961764	0.117115830691958	0.117115830691958	26.3587714667523	F,M	NA
+CFC1_genebody	HH25	unpaired+sex	8	8	NA	0.24650835892686	0.17978096379267	0.170325270571024	0.170325270571024	26.3587714667523	F,M	NA
+CFC1_genebody	HH25	paired	8	8	8	0.29042368462257	0.286842429607598	0.31130616968279	0.31130616968279	26.3587714667523	F,M	NA

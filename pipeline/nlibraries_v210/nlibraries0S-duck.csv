@@ -1,0 +1,3 @@
+fastqs,sample,library_type
+<FASTQ_DIR>/FC_08565/multiome-gex2/outs/fastq_path,GEX0S,Gene Expression
+<FASTQ_DIR>/FC_08566/multiome-atac2/outs/fastq_path,ATAC0S,Chromatin Accessibility

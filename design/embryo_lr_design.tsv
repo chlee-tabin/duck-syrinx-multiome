@@ -1,0 +1,118 @@
+embryo	stage	library	suffix	side	source	notes
+25-5	HH25	GEX05	-5	R	markdown_cell777
+25-5	HH25	PILOTGEX3	-3	L	inferred	same embryo, opposite side from GEX05
+25-6	HH25	GEX05	-5	R	markdown_cell777
+25-6	HH25	PILOTGEX3	-3	L	inferred	same embryo, opposite side from GEX05
+25-7	HH25	GEX05	-5	L	markdown_cell777
+25-7	HH25	PILOTGEX3	-3	R	inferred	same embryo, opposite side from GEX05
+25-8	HH25	GEX05	-5	L	markdown_cell777
+25-8	HH25	PILOTGEX3	-3	R	2024_notebook	corrected: 25-8 IS in PG3 (confirmed by 2024 ARC genotype_18: 2057 ARC05 + 569 PILOTARC3)
+25-11	HH25	GEX06	-6	R	markdown_cell777
+25-11	HH25	PILOTGEX4A	-1	L	inferred	same embryo, opposite side from GEX06
+25-11	HH25	PILOTGEX4B	-2	L	inferred	tech rep of PILOTGEX4A
+25-12	HH25	GEX06	-6	R	markdown_cell777
+25-12	HH25	PILOTGEX4A	-1	L	inferred	same embryo, opposite side from GEX06
+25-12	HH25	PILOTGEX4B	-2	L	inferred	tech rep of PILOTGEX4A
+25-13	HH25	GEX06	-6	L	markdown_cell777
+25-13	HH25	PILOTGEX4A	-1	R	inferred	same embryo, opposite side from GEX06
+25-13	HH25	PILOTGEX4B	-2	R	inferred	tech rep of PILOTGEX4A
+25-14	HH25	GEX06	-6	L	markdown_cell777
+25-14	HH25	PILOTGEX4A	-1	R	inferred	same embryo, opposite side from GEX06
+25-14	HH25	PILOTGEX4B	-2	R	inferred	tech rep of PILOTGEX4A
+21-5	HH21	GEX05	-5	L	markdown_cell777
+21-5	HH21	GEX06	-6	R	markdown_cell777
+21-6	HH21	GEX05	-5	L	markdown_cell777
+21-6	HH21	GEX06	-6	R	markdown_cell777
+21-7	HH21	GEX05	-5	R	markdown_cell777
+21-7	HH21	GEX06	-6	L	markdown_cell777
+21-8	HH21	GEX05	-5	R	markdown_cell777
+21-8	HH21	GEX06	-6	L	markdown_cell777
+21-13	HH21	GEX03-1A	-1	L	markdown_cell641
+21-13	HH21	GEX03-1B	-2	L	markdown_cell641	tech rep of GEX03-1A
+21-13	HH21	GEX03-2	-3	R	markdown_cell641
+21-14	HH21	GEX03-1A	-1	L	markdown_cell641
+21-14	HH21	GEX03-1B	-2	L	markdown_cell641	tech rep of GEX03-1A
+21-14	HH21	GEX03-2	-3	R	markdown_cell641
+21-15	HH21	GEX03-1A	-1	R	markdown_cell641
+21-15	HH21	GEX03-1B	-2	R	markdown_cell641	tech rep of GEX03-1A
+21-15	HH21	GEX03-2	-3	L	markdown_cell641
+21-16	HH21	GEX03-1A	-1	R	markdown_cell641
+21-16	HH21	GEX03-1B	-2	R	markdown_cell641	tech rep of GEX03-1A
+21-16	HH21	GEX03-2	-3	L	markdown_cell641
+21-1	HH21	GEX04	-4	L	provisional_balanced	G3; unpaired (GEX04 only)
+21-2	HH21	GEX04	-4	L	provisional_balanced	G3; unpaired (GEX04 only)
+21-3	HH21	GEX04	-4	R	provisional_balanced	G3; unpaired (GEX04 only)
+21-4	HH21	GEX04	-4	R	provisional_balanced	G3; unpaired (GEX04 only)
+17-9	HH17	GEX07	-7	L	provisional_balanced	balanced design; specific assignment provisional
+17-9	HH17	GEX08	-8	R	provisional_balanced	opposite side from GEX07
+17-10	HH17	GEX07	-7	L	provisional_balanced	balanced design
+17-10	HH17	GEX08	-8	R	provisional_balanced	opposite side from GEX07
+17-11	HH17	GEX07	-7	R	provisional_balanced	balanced design
+17-11	HH17	GEX08	-8	L	provisional_balanced	opposite side from GEX07
+17-12	HH17	GEX07	-7	R	provisional_balanced	balanced design
+17-12	HH17	GEX08	-8	L	provisional_balanced	opposite side from GEX07
+17-A	HH17	PILOTGEX4A	-1	L	provisional_balanced	PILOT only; balanced within PILOT4
+17-A	HH17	PILOTGEX4B	-2	L	provisional_balanced	tech rep of PILOTGEX4A
+17-B	HH17	PILOTGEX4A	-1	L	provisional_balanced	PILOT only
+17-B	HH17	PILOTGEX4B	-2	L	provisional_balanced	tech rep of PILOTGEX4A
+17-C	HH17	PILOTGEX4A	-1	R	provisional_balanced	PILOT only
+17-C	HH17	PILOTGEX4B	-2	R	provisional_balanced	tech rep of PILOTGEX4A
+17-D	HH17	PILOTGEX4A	-1	R	provisional_balanced	PILOT only
+17-D	HH17	PILOTGEX4B	-2	R	provisional_balanced	tech rep of PILOTGEX4A
+17-Md-13	HH17	GEX03-1A	-1	R	markdown_cell641	cross-group bridge
+17-Md-13	HH17	GEX03-1B	-2	R	markdown_cell641	tech rep of GEX03-1A
+17-Md-13	HH17	GEX08	-8	L	inferred	opposite side from GEX03-1A/B
+17-Md-14	HH17	GEX03-1A	-1	R	markdown_cell641
+17-Md-14	HH17	GEX03-1B	-2	R	markdown_cell641	tech rep of GEX03-1A
+17-Md-14	HH17	GEX03-2	-3	L	markdown_cell641
+17-KC-1	HH17	GEX03-2	-3	L	markdown_cell641	GEX03-2 only
+17-KC-2	HH17	GEX03-1A	-1	L	markdown_cell641
+17-KC-2	HH17	GEX03-1B	-2	L	markdown_cell641	tech rep of GEX03-1A
+17-KC-2	HH17	GEX03-2	-3	R	markdown_cell641
+17-KC-3	HH17	GEX03-1A	-1	L	markdown_cell641
+17-KC-3	HH17	GEX03-1B	-2	L	markdown_cell641	tech rep of GEX03-1A
+17-KC-3	HH17	GEX03-2	-3	R	markdown_cell641
+17-5	HH17	GEX04	-4	L	provisional_balanced	G3; lane-loading-record tube 17-B(2)-L (green): left-half tube split across ARC04 and ARC0S; same tissue as the GEX0S-duck row; right half not sequenced
+17-5	HH17	GEX0S-duck	-S	L	lane_loading_record	left-half tube split with GEX04 (lane-loading-record tube 17-B); same tissue in both lanes; right half not sequenced
+17-6	HH17	GEX04	-4	L	provisional_balanced	G3; lane-loading-record tube 17-B(2)-L (green): left-half tube split across ARC04 and ARC0S; same tissue as the GEX0S-duck row; right half not sequenced
+17-6	HH17	GEX0S-duck	-S	L	lane_loading_record	left-half tube split with GEX04 (lane-loading-record tube 17-B); same tissue in both lanes; right half not sequenced
+17-7	HH17	GEX04	-4	R	provisional_balanced	G3; lane-loading-record tube 17-A(2)-R: right half; left half in GEX0S-duck (lane-loading-record tube 17-A(2)-L)
+17-7	HH17	GEX0S-duck	-S	L	provisional_balanced	lane-loading-record tube 17-A(2)-L (light green): left half; right half in GEX04 (lane-loading-record tube 17-A(2)-R)
+17-8	HH17	GEX04	-4	R	provisional_balanced	G3; lane-loading-record tube 17-A(2)-R: right half; left half in GEX0S-duck (lane-loading-record tube 17-A(2)-L)
+17-8	HH17	GEX0S-duck	-S	L	provisional_balanced	lane-loading-record tube 17-A(2)-L (light green): left half; right half in GEX04 (lane-loading-record tube 17-A(2)-R)
+16-6	HH16	GEX05	-5	L	markdown_cell777
+16-6	HH16	GEX06	-6	R	markdown_cell777
+16-7	HH16	GEX05	-5	R	markdown_cell777
+16-7	HH16	GEX06	-6	L	markdown_cell777
+16-8	HH16	GEX07	-7	L	provisional_balanced	balanced design; specific assignment provisional
+16-8	HH16	GEX08	-8	R	provisional_balanced	opposite side from GEX07
+16-9	HH16	GEX07	-7	R	provisional_balanced	balanced design
+16-9	HH16	GEX08	-8	L	provisional_balanced	opposite side from GEX07
+16-Md-1	HH16	GEX03-1A	-1	L	markdown_cell641
+16-Md-1	HH16	GEX03-1B	-2	L	markdown_cell641	tech rep of GEX03-1A
+16-Md-1	HH16	GEX03-2	-3	R	markdown_cell641
+16-KC-1	HH16	GEX03-1A	-1	R	markdown_cell641
+16-KC-1	HH16	GEX03-1B	-2	R	markdown_cell641	tech rep of GEX03-1A
+16-KC-1	HH16	GEX03-2	-3	L	markdown_cell641
+16-4	HH16	GEX04	-4	L	provisional_balanced	G3; unpaired (GEX04 only)
+16-5	HH16	GEX04	-4	R	provisional_balanced	G3; unpaired (GEX04 only)
+13-5	HH13	GEX07	-7	L	pitx2c_isoform	{13-5,13-6} pair: PG3=R confirmed by low PITX2c in g32/g35
+13-5	HH13	PILOTGEX3	-3	R	pitx2c_isoform	opposite side from GEX07
+13-6	HH13	GEX07	-7	L	pitx2c_isoform	{13-5,13-6} pair: within-pair arbitrary
+13-6	HH13	PILOTGEX3	-3	R	pitx2c_isoform	opposite side from GEX07
+13-7	HH13	GEX07	-7	R	pitx2c_isoform	{13-7,13-8} pair: PG3=L confirmed by PITX2c in g16/g25
+13-7	HH13	PILOTGEX3	-3	L	pitx2c_isoform	opposite side from GEX07
+13-8	HH13	GEX07	-7	R	pitx2c_isoform	{13-7,13-8} pair: within-pair arbitrary
+13-8	HH13	PILOTGEX3	-3	L	pitx2c_isoform	opposite side from GEX07
+13-11	HH13	GEX08	-8	L	pitx2c_isoform	g14: PITX2c=3 in GEX08 confirms LEFT
+13-11	HH13	PILOTGEX4A	-1	R	pitx2c_isoform	opposite side from GEX08
+13-11	HH13	PILOTGEX4B	-2	R	pitx2c_isoform	tech rep of PILOTGEX4A
+13-12	HH13	GEX08	-8	R	pitx2c_isoform	g13: PITX2c=0 in GEX08, 1 in PG4B → RIGHT
+13-12	HH13	PILOTGEX4A	-1	L	pitx2c_isoform	opposite side from GEX08
+13-12	HH13	PILOTGEX4B	-2	L	pitx2c_isoform	tech rep of PILOTGEX4A
+13-13	HH13	GEX08	-8	L	pitx2c_isoform	g21: PITX2c=1 in PG4A → GEX08=LEFT
+13-13	HH13	PILOTGEX4A	-1	R	pitx2c_isoform	opposite side from GEX08
+13-13	HH13	PILOTGEX4B	-2	R	pitx2c_isoform	tech rep of PILOTGEX4A
+13-14	HH13	GEX08	-8	R	pitx2c_isoform	g18: PITX2c=2 in GEX08 (noise), 0 in PG4
+13-14	HH13	PILOTGEX4A	-1	L	pitx2c_isoform	opposite side from GEX08
+13-14	HH13	PILOTGEX4B	-2	L	pitx2c_isoform	tech rep of PILOTGEX4A

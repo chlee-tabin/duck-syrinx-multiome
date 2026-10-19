@@ -1,0 +1,10 @@
+candidate_name	peak_id	in_strict_positives	n_bp	motif_01_hits	motif_02_hits	motif_03_hits	motif_04_hits	motif_05_hits	motif_06_hits	motif_07_hits	motif_08_hits	motif_09_hits	motif_10_hits
+Peak_5	NC_051775.1:1900018-1900519	True	501.0	3.0	2.0	1.0	2.0	0.0	2.0	1.0	0.0	0.0	0.0
+PITX2a_promoter	NC_051775.1:3961167-3961668	False	0.0										
+Peak_1	NC_051775.1:3971182-3971683	True	501.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0	0.0
+Peak_2	NC_051775.1:3971734-3972235	True	501.0	0.0	1.0	0.0	3.0	0.0	0.0	0.0	0.0	0.0	0.0
+ASE_region	NC_051775.1:3974421-3974922	False	0.0										
+Peak_3	NC_051775.1:3976533-3977034	True	501.0	2.0	2.0	1.0	4.0	0.0	0.0	0.0	0.0	0.0	0.0
+SMAD5plus	NC_051775.1:3982405-3982906	False	0.0										
+Peak_4	NC_051775.1:4528903-4529404	True	501.0	4.0	5.0	0.0	8.0	1.0	0.0	3.0	1.0	0.0	0.0
+_TOTAL_HITS_PER_MOTIF		True		9.0	10.0	2.0	17.0	1.0	2.0	4.0	1.0	0.0	0.0

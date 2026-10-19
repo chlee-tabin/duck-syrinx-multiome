@@ -1,0 +1,43 @@
+genotype	embryo_id	library_m	stage	stage_anchor	design_stage	is_singleton	n_inference	pitx2_pos	pitx2c_pos	pitx2ab_pos	pitx2_mean	pitx2c_frags_per_cell	pitx2_genebody_frags_per_cell	n_pitx2c_frags	n_genebody_frags	pitx2c_open_frac	pitx2_genebody_open_frac	n_pitx2c_open	n_genebody_open	low_n_flag	partner_lib	votes	n_nontie	firmness	inferred_side	singleton_rank	pair_constraint_ok	modality
+G2_genotype_01	?	GEX03-1	HH17/16	HH17/16	HH17/16	False	496					0.147177	0.919355	73	456	0.108871	0.423387	54	210	False	GEX03-2	+	1	chromatin_direct	L		True	chromatin
+G2_genotype_01	?	GEX03-2	HH17/16	HH17/16	HH17/16	False	49					0.081633	0.510204	4	25	0.040816	0.306122	2	15	False	GEX03-1	+	1	chromatin_direct	R		True	chromatin
+G2_genotype_02	17-Md-14	GEX03-1	HH17/16	HH17/16	HH17/16	False	209					0.143541	0.837321	30	175	0.129187	0.421053	27	88	False	GEX03-2	+	1	chromatin_direct	L		True	chromatin
+G2_genotype_02	17-Md-14	GEX03-2	HH17/16	HH17/16	HH17/16	False	159					0.044025	0.509434	7	81	0.044025	0.352201	7	56	False	GEX03-1	+	1	chromatin_direct	R		True	chromatin
+G2_genotype_03	21-13	GEX03-1	HH17/16	HH17/16	HH17/16	False	18					0.055556	0.666667	1	12	0.055556	0.333333	1	6	True	GEX03-2	-	1	chromatin_direct	R		True	chromatin
+G2_genotype_03	21-13	GEX03-2	HH17/16	HH17/16	HH17/16	False	391					0.099744	0.565217	39	221	0.076726	0.312020	30	122	False	GEX03-1	-	1	chromatin_direct	L		True	chromatin
+G2_genotype_04	17-KC-2	GEX03-1	HH17/16	HH17/16	HH17/16	False	487					0.104723	0.652977	51	318	0.084189	0.359343	41	175	False	GEX03-2	+	1	chromatin_direct	L		True	chromatin
+G2_genotype_04	17-KC-2	GEX03-2	HH17/16	HH17/16	HH17/16	False	34					0.029412	0.382353	1	13	0.029412	0.176471	1	6	False	GEX03-1	+	1	chromatin_direct	R		True	chromatin
+G2_genotype_09	17-KC-3	GEX03-1	HH17/16	HH17/16	HH17/16	False	111					0.045045	0.432432	5	48	0.045045	0.288288	5	32	False	GEX03-2	low_n	0	chromatin_placement	R		True	chromatin
+G2_genotype_09	17-KC-3	GEX03-2	HH17/16	HH17/16	HH17/16	False	2					0.500000	2.500000	1	5	0.500000	0.500000	1	1	True	GEX03-1	low_n	0	chromatin_placement	L		True	chromatin
+G2_genotype_11	17-KC-1	GEX03-2	HH17	HH17/16	HH17/16	True	110					0.200000	1.372727	22	151	0.136364	0.536364	15	59	False			0	chromatin_placement	L	1.000000	True	chromatin
+G3_unfiltered_donor0	?	GEX04	HH17/16	HH17/16	HH17/16	False	142					0.112676	0.978873	16	139	0.084507	0.500000	12	71	False	GEX0S-duck	dup	0	chromatin_same_side_dup	L		False	chromatin
+G3_unfiltered_donor0	?	GEX0S-duck	HH17/16	HH17/16	HH17/16	False	36					0.083333	1.305556	3	47	0.083333	0.583333	3	21	False	GEX04	dup	0	chromatin_same_side_dup	L		True	chromatin
+G3_unfiltered_donor3	?	GEX04	HH17/16	HH17/16	HH17/16	False	129					0.170543	0.968992	22	125	0.155039	0.488372	20	63	False	GEX0S-duck	dup	0	chromatin_same_side_dup	L		False	chromatin
+G3_unfiltered_donor3	?	GEX0S-duck	HH17/16	HH17/16	HH17/16	False	33					0.303030	1.393939	10	46	0.242424	0.636364	8	21	False	GEX04	dup	0	chromatin_same_side_dup	L		True	chromatin
+G3_unfiltered_donor5	?	GEX04	HH17/16	HH17/16	HH17/16	False	1					0.000000	0.000000	0	0	0.000000	0.000000	0	0	True	GEX0S-duck	low_n	0	chromatin_placement	R		False	chromatin
+G3_unfiltered_donor5	?	GEX0S-duck	HH17/16	HH17/16	HH17/16	False	31					0.096774	1.258065	3	39	0.064516	0.483871	2	15	False	GEX04	low_n	0	chromatin_placement	L		True	chromatin
+G3_unfiltered_donor8	?	GEX04	HH17/16	HH17/16	HH17/16	True	108					0.277778	1.324074	30	143	0.185185	0.611111	20	66	False			0	chromatin_singleton_rank	L	1.000000	False	chromatin
+G3_unfiltered_donor9	?	GEX04	HH17/16	HH17/16	HH17/16	False	50					0.020000	0.640000	1	32	0.020000	0.440000	1	22	False	GEX0S-duck	-	1	chromatin_direct	R		False	chromatin
+G3_unfiltered_donor9	?	GEX0S-duck	HH17/16	HH17/16	HH17/16	False	41					0.390244	1.902439	16	78	0.243902	0.731707	10	30	False	GEX04	-	1	chromatin_direct	L		True	chromatin
+g01	21-7	GEX05	HH16	HH17/16	HH17/16	False	232					0.116379	0.982759	27	228	0.090517	0.482759	21	112	False	GEX06	+	1	chromatin_direct	L		True	chromatin
+g01	21-7	GEX06	HH16	HH17/16	HH17/16	False	36					0.055556	0.722222	2	26	0.027778	0.333333	1	12	False	GEX05	+	1	chromatin_direct	R		True	chromatin
+g08	21-5	GEX05	HH16	HH17/16	HH17/16	False	124					0.032258	0.588710	4	73	0.032258	0.330645	4	41	False	GEX06	-	1	chromatin_direct	R		True	chromatin
+g08	21-5	GEX06	HH16	HH17/16	HH17/16	False	168					0.113095	0.934524	19	157	0.095238	0.470238	16	79	False	GEX05	-	1	chromatin_direct	L		True	chromatin
+g15	17-11	GEX07	HH17/16	HH17/16	HH17/16	False	136					0.051471	0.654412	7	89	0.044118	0.389706	6	53	False	GEX08	-	1	chromatin_direct	R		True	chromatin
+g15	17-11	GEX08	HH17/16	HH17/16	HH17/16	False	95					0.063158	0.631579	6	60	0.063158	0.452632	6	43	False	GEX07	-	1	chromatin_direct	L		True	chromatin
+g17	17-9	GEX07	HH17/16	HH17/16	HH17/16	False	260					0.134615	0.757692	35	197	0.115385	0.415385	30	108	False	GEX08	+	1	chromatin_direct	L		True	chromatin
+g17	17-9	GEX08	HH17/16	HH17/16	HH17/16	False	100					0.060000	0.580000	6	58	0.040000	0.300000	4	30	False	GEX07	+	1	chromatin_direct	R		True	chromatin
+g19	16-8	GEX07	HH17/16	HH17/16	HH17/16	False	7					0.142857	1.142857	1	8	0.142857	0.714286	1	5	True	GEX08	low_n	0	chromatin_placement	R		True	chromatin
+g19	16-8	GEX08	HH17/16	HH17/16	HH17/16	False	76					0.052632	0.342105	4	26	0.039474	0.250000	3	19	False	GEX07	low_n	0	chromatin_placement	L		True	chromatin
+g20	17-Md-13	GEX03-1	HH17	HH17/16	HH17/16	False	230					0.021739	0.321739	5	74	0.021739	0.239130	5	55	False	GEX08	-	1	chromatin_direct	R		True	chromatin
+g20	17-Md-13	GEX08	HH17	HH17/16	HH17/16	False	19					0.315789	0.789474	6	15	0.263158	0.526316	5	10	True	GEX03-1	-	1	chromatin_direct	L		True	chromatin
+g22	16-9	GEX07	HH17/16	HH17/16	HH17/16	False	71					0.056338	0.507042	4	36	0.042254	0.366197	3	26	False	GEX08	-	1	chromatin_direct	R		True	chromatin
+g22	16-9	GEX08	HH17/16	HH17/16	HH17/16	False	21					0.142857	0.571429	3	12	0.142857	0.285714	3	6	True	GEX07	-	1	chromatin_direct	L		True	chromatin
+g23	17-12	GEX07	HH17/16	HH17/16	HH17/16	False	49					0.163265	1.061224	8	52	0.163265	0.612245	8	30	False	GEX08	+	1	chromatin_direct	L		True	chromatin
+g23	17-12	GEX08	HH17/16	HH17/16	HH17/16	False	50					0.020000	0.640000	1	32	0.020000	0.440000	1	22	False	GEX07	+	1	chromatin_direct	R		True	chromatin
+g24	17-10	GEX07	HH17/16	HH17/16	HH17/16	False	64					0.093750	0.484375	6	31	0.078125	0.375000	5	24	False	GEX08	+	1	chromatin_direct	L		True	chromatin
+g24	17-10	GEX08	HH17/16	HH17/16	HH17/16	False	210					0.047619	0.495238	10	104	0.047619	0.276190	10	58	False	GEX07	+	1	chromatin_direct	R		True	chromatin
+g26_split0	?	PILOTGEX4	HH17	HH17/16	HH17/16	True	229					0.148472	0.742358	34	170	0.117904	0.414847	27	95	False			0	chromatin_singleton_rank	L	1.000000	True	chromatin
+g26_split1	?	PILOTGEX4	HH17	HH17/16	HH17/16	True	206					0.111650	0.771845	23	159	0.106796	0.393204	22	81	False			0	chromatin_singleton_rank	L	2.000000	True	chromatin
+g28	17-B	PILOTGEX4	HH17	HH17/16	HH17/16	True	46					0.065217	0.804348	3	37	0.065217	0.239130	3	11	False			0	chromatin_singleton_rank	R	3.000000	True	chromatin
+g34	17-C	PILOTGEX4	HH17	HH17/16	HH17/16	True	94					0.042553	0.553191	4	52	0.042553	0.297872	4	28	False			0	chromatin_singleton_rank	R	4.000000	True	chromatin

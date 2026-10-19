@@ -1,0 +1,7 @@
+track	safe_key	stage	population	n_cells	total_depth
+HH13|LPM mesenchyme	HH13_LPM_mesenchyme	HH13	LPM mesenchyme	1586	133731
+HH15-16|Ventral (pooled)	HH15_16_Ventral_pooled	HH15-16	Ventral (pooled)	2774	83153
+HH25|Dorsal sub-epi.	HH25_Dorsal_sub_epi	HH25	Dorsal sub-epi.	1007	164431
+HH25|Ventral spl.	HH25_Ventral_spl	HH25	Ventral spl.	1321	13011
+HH25|Syringeal-Cardio	HH25_Syringeal_Cardio	HH25	Syringeal-Cardio	1831	25509
+ANTISENSE control	antisense	control	antisense (-f 16)	8519	43915

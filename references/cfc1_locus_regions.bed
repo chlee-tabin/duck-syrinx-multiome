@@ -1,0 +1,67 @@
+# CFC1 locus annotation for duck ZJU1.0 (NC_051804.1, - strand, Z chromosome).
+#
+# Source: duck GTF from the cellranger-arc reference crarc_zju1_PITX2
+# (NCBI Annotation Release 104, assembly ZJU1.0 / GCF_015476345.1).
+# Extracted 2026-04-28 via zgrep on
+# /n/groups/tabin/chlee/singlecell/reference/crarc_zju1_PITX2/genes/genes.gtf.gz
+#
+# BED6 format: 0-based half-open (GTF - 1 on the start).  Strand column
+# is the gene / transcript strand.
+#
+# Gene model
+# ----------
+#   GTF transcript        TSS         3' end       Strand   Length
+#   XM_013100073.4        45,155,798  45,151,913   -        3,886 bp
+#
+# Single Gnomon transcript — CFC1 is a small EGF-CFC family receptor
+# with one annotated isoform in the duck assembly (LOC101799976,
+# protein XP_012955527.1).  Compare to PITX2 which has 3 isoforms;
+# CFC1 has no isoform-resolution problem to disambiguate.
+#
+# Z chromosome context
+# --------------------
+# NC_051804.1 is the duck Z chromosome (84.5 Mb in ZJU1.0;
+# verified against fasta.fai 2026-04-28).  CFC1 falls at 45.15 Mb,
+# roughly mid-Z.  Z-dosage compensation in birds is incomplete:
+# female (ZW) cells carry one Z, male (ZZ) cells carry two.  Naive
+# fragments-per-cell comparisons across sexes can confound L vs R
+# signal with sex; the chromatin DESeq2 design must include sex as a
+# covariate (matching the snRNA --unpaired --control-sex DESeq2 that
+# established the R>L mRNA finding).
+#
+# Chick correspondence (TBD)
+# --------------------------
+# Chick CFC1 ortholog (gene symbol CFC1 in NCBI chick GTF) is on
+# chick Z chromosome (NC_006127.5 in galGal6 / GCF_000002315.6, or
+# NC_052572.1 in galGal7b / GCF_016699485.2).  The synteny block
+# carrying CFC1 in figures/data/pitx2_playrr_synteny_blocks.tsv-style
+# parent block is not yet computed for the Z chromosome — the
+# 2026-04-23 synteny pipeline only ran on chr 1 (PITX2).  TODO if
+# chick TSS coordinate is needed for cross-species priming claims;
+# not blocking the chromatin-only DA fit because that uses duck
+# coords throughout.
+#
+# Region usage by downstream consumers
+# ------------------------------------
+# - tss|XM_013100073.4|CFC1   : per-transcript TSS, 1-bp interval.
+#                                Mirrors PITX2 BED's tss|... rows.
+# - promoter|CFC1              : TSS ± 300 bp (601 bp inclusive).  This
+#                                is the directional voting region used
+#                                by f5_cfc1, f6_cfc1, and the locus pile-
+#                                up scripts.  In BED 0-based half-open
+#                                this is 45155497-45156098 (matches the
+#                                1-based-inclusive 45,155,498-45,156,098
+#                                used inline in the f5/f6 REGIONS dicts).
+# - gene|CFC1                  : full gene body.  Used as a "transcrip-
+#                                tion proxy" (CFC1 expression load
+#                                proxy at the chromatin level).
+# - locus_50kb|CFC1            : ±50 kb flanking window for L vs R
+#                                manhattan or DA-fit analysis (mirrors
+#                                fig03 supplementary panel F's locus_50kb|
+#                                PITX2 entry).
+#
+# chrom        start      end        name                                              score  strand
+NC_051804.1	45155797	45155798	tss|XM_013100073.4|CFC1	0	-
+NC_051804.1	45155497	45156098	promoter|CFC1	0	-
+NC_051804.1	45151912	45155798	gene|CFC1	0	-
+NC_051804.1	45101912	45205798	locus_50kb|CFC1	0	-

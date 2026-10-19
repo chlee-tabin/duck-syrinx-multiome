@@ -1,0 +1,53 @@
+genotype_id	display_name	group	stage	source
+g00	g00	25-5..7	HH25	G6+G9
+g06	g06	25-5..7	HH25	G6+G9
+g07	g07	25-5..7	HH25	G6+G9
+g02	g02	25-11..14	HH25	G6+G9
+g04	g04	25-11..14	HH25	G6
+g11	g11	25-11..14	HH25	G6+G9
+g12	g12	25-11..14	HH25	G6+G9
+g03	g03	21-5..8 or 16-6/7	HH21/16	G6
+g05	g05	21-5..8 or 16-6/7	HH21/16	G6
+g08	g08	21-5..8 or 16-6/7	HH21/16	G6
+g09	g09	21-5..8 or 16-6/7	HH21/16	G6
+g01	g01	21-5..8 or 16-6/7	HH21/16	G6
+g10	g10	21-5..8 or 16-6/7	HH21/16	G6
+g17	g17	17-9..12 or 16-8/9	HH17/16	G6
+g22	g22	17-9..12 or 16-8/9	HH17/16	G6
+g23	g23	17-9..12 or 16-8/9	HH17/16	G6
+g24	g24	17-9..12 or 16-8/9	HH17/16	G6
+g15	g15	17-9..12 or 16-8/9	HH17/16	G6
+g19	g19	17-9..12 or 16-8/9	HH17/16	G6
+g16	g16	13-5..8	HH13	G6+G9
+g25	g25	13-5..8	HH13	G6+G9
+g32	g32	13-5..8	HH13	G6+G9
+g35	g35	13-5..8	HH13	G6+G9
+g13	g13	13-11..14	HH13	G6+G9
+g14	g14	13-11..14	HH13	G6+G9
+g18	g18	13-11..14	HH13	G6+G9
+g21	g21	13-11..14	HH13	G6+G9
+g20	17-Md-13	17-Md-13	HH17	G6+G2
+g26_split0	g26a	17-A..D	HH17	G6+G9
+g26_split1	g26b	17-A..D	HH17	G6+G9
+g28	g28	17-A..D	HH17	G6
+g34	g34	17-A..D	HH17	G6+G9
+G2_genotype_01	g36	G2	?	G2
+G2_genotype_02	g37	G2	?	G2
+G2_genotype_03	g39	G2	?	G2
+G2_genotype_04	g38	G2	?	G2
+G2_genotype_05	g40	G2	?	G2
+G2_genotype_07	g43	G2	?	G2
+G2_genotype_08	g42	G2	?	G2
+G2_genotype_09	g41	G2	?	G2
+G2_genotype_10	g49	G2	?	G2
+G2_genotype_11	17-KC-1	17-KC-1	HH17	G2
+dp500_donor29	25-8	25-8	HH25	G6_dp500
+G3_unfiltered_donor0	g46	G3	?	G3
+G3_unfiltered_donor1	g51	G3	?	G3
+G3_unfiltered_donor3	g52	G3	?	G3
+G3_unfiltered_donor4	g50	G3	?	G3
+G3_unfiltered_donor5	g45	G3	?	G3
+G3_unfiltered_donor7	g48	G3	?	G3
+G3_unfiltered_donor8	g47	G3	?	G3
+G3_unfiltered_donor9	g44	G3	?	G3
+G3_unfiltered_donor10	g53	G3	?	G3

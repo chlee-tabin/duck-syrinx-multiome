@@ -1,0 +1,328 @@
+sample_id	genotype	library_m	side	firmness_norm	subcluster	stage_anchor	n_cells	n_stage_mismatch_cells
+g13|PILOTGEX4|L|Contamination|HH13	g13	PILOTGEX4	L	direct	Contamination	HH13	7	0
+g14|GEX08|L|Contamination|HH13	g14	GEX08	L	direct	Contamination	HH13	2	0
+g16|PILOTGEX3|L|Contamination|HH13	g16	PILOTGEX3	L	direct	Contamination	HH13	8	0
+g18|GEX08|L|Contamination|HH13	g18	GEX08	L	direct	Contamination	HH13	5	0
+g21|PILOTGEX4|L|Contamination|HH13	g21	PILOTGEX4	L	placement	Contamination	HH13	7	0
+g25|PILOTGEX3|L|Contamination|HH13	g25	PILOTGEX3	L	direct	Contamination	HH13	14	0
+g32|GEX07|L|Contamination|HH13	g32	GEX07	L	placement	Contamination	HH13	3	0
+g35|GEX07|L|Contamination|HH13	g35	GEX07	L	direct	Contamination	HH13	5	0
+g13|GEX08|R|Contamination|HH13	g13	GEX08	R	direct	Contamination	HH13	6	0
+g14|PILOTGEX4|R|Contamination|HH13	g14	PILOTGEX4	R	direct	Contamination	HH13	5	0
+g16|GEX07|R|Contamination|HH13	g16	GEX07	R	direct	Contamination	HH13	8	0
+g18|PILOTGEX4|R|Contamination|HH13	g18	PILOTGEX4	R	direct	Contamination	HH13	1	0
+g21|GEX08|R|Contamination|HH13	g21	GEX08	R	placement	Contamination	HH13	3	0
+g25|GEX07|R|Contamination|HH13	g25	GEX07	R	direct	Contamination	HH13	10	0
+g32|PILOTGEX3|R|Contamination|HH13	g32	PILOTGEX3	R	placement	Contamination	HH13	20	0
+g35|PILOTGEX3|R|Contamination|HH13	g35	PILOTGEX3	R	direct	Contamination	HH13	51	0
+g13|PILOTGEX4|L|PRRX1+/FOXF1-low mes.|HH13	g13	PILOTGEX4	L	direct	PRRX1+/FOXF1-low mes.	HH13	16	0
+g14|GEX08|L|PRRX1+/FOXF1-low mes.|HH13	g14	GEX08	L	direct	PRRX1+/FOXF1-low mes.	HH13	29	0
+g16|PILOTGEX3|L|PRRX1+/FOXF1-low mes.|HH13	g16	PILOTGEX3	L	direct	PRRX1+/FOXF1-low mes.	HH13	12	0
+g18|GEX08|L|PRRX1+/FOXF1-low mes.|HH13	g18	GEX08	L	direct	PRRX1+/FOXF1-low mes.	HH13	13	0
+g21|PILOTGEX4|L|PRRX1+/FOXF1-low mes.|HH13	g21	PILOTGEX4	L	placement	PRRX1+/FOXF1-low mes.	HH13	43	0
+g25|PILOTGEX3|L|PRRX1+/FOXF1-low mes.|HH13	g25	PILOTGEX3	L	direct	PRRX1+/FOXF1-low mes.	HH13	26	0
+g32|GEX07|L|PRRX1+/FOXF1-low mes.|HH13	g32	GEX07	L	placement	PRRX1+/FOXF1-low mes.	HH13	21	0
+g35|GEX07|L|PRRX1+/FOXF1-low mes.|HH13	g35	GEX07	L	direct	PRRX1+/FOXF1-low mes.	HH13	36	0
+g13|GEX08|R|PRRX1+/FOXF1-low mes.|HH13	g13	GEX08	R	direct	PRRX1+/FOXF1-low mes.	HH13	47	0
+g14|PILOTGEX4|R|PRRX1+/FOXF1-low mes.|HH13	g14	PILOTGEX4	R	direct	PRRX1+/FOXF1-low mes.	HH13	12	0
+g16|GEX07|R|PRRX1+/FOXF1-low mes.|HH13	g16	GEX07	R	direct	PRRX1+/FOXF1-low mes.	HH13	22	0
+g18|PILOTGEX4|R|PRRX1+/FOXF1-low mes.|HH13	g18	PILOTGEX4	R	direct	PRRX1+/FOXF1-low mes.	HH13	3	0
+g25|GEX07|R|PRRX1+/FOXF1-low mes.|HH13	g25	GEX07	R	direct	PRRX1+/FOXF1-low mes.	HH13	37	0
+g32|PILOTGEX3|R|PRRX1+/FOXF1-low mes.|HH13	g32	PILOTGEX3	R	placement	PRRX1+/FOXF1-low mes.	HH13	11	0
+g35|PILOTGEX3|R|PRRX1+/FOXF1-low mes.|HH13	g35	PILOTGEX3	R	direct	PRRX1+/FOXF1-low mes.	HH13	17	0
+g13|PILOTGEX4|L|Venous-pole spl.|HH13	g13	PILOTGEX4	L	direct	Venous-pole spl.	HH13	4	0
+g14|GEX08|L|Venous-pole spl.|HH13	g14	GEX08	L	direct	Venous-pole spl.	HH13	2	0
+g16|PILOTGEX3|L|Venous-pole spl.|HH13	g16	PILOTGEX3	L	direct	Venous-pole spl.	HH13	14	0
+g18|GEX08|L|Venous-pole spl.|HH13	g18	GEX08	L	direct	Venous-pole spl.	HH13	1	0
+g21|PILOTGEX4|L|Venous-pole spl.|HH13	g21	PILOTGEX4	L	placement	Venous-pole spl.	HH13	34	0
+g25|PILOTGEX3|L|Venous-pole spl.|HH13	g25	PILOTGEX3	L	direct	Venous-pole spl.	HH13	19	0
+g32|GEX07|L|Venous-pole spl.|HH13	g32	GEX07	L	placement	Venous-pole spl.	HH13	12	0
+g35|GEX07|L|Venous-pole spl.|HH13	g35	GEX07	L	direct	Venous-pole spl.	HH13	19	0
+g13|GEX08|R|Venous-pole spl.|HH13	g13	GEX08	R	direct	Venous-pole spl.	HH13	50	0
+g14|PILOTGEX4|R|Venous-pole spl.|HH13	g14	PILOTGEX4	R	direct	Venous-pole spl.	HH13	10	0
+g16|GEX07|R|Venous-pole spl.|HH13	g16	GEX07	R	direct	Venous-pole spl.	HH13	31	0
+g18|PILOTGEX4|R|Venous-pole spl.|HH13	g18	PILOTGEX4	R	direct	Venous-pole spl.	HH13	5	0
+g25|GEX07|R|Venous-pole spl.|HH13	g25	GEX07	R	direct	Venous-pole spl.	HH13	50	0
+g32|PILOTGEX3|R|Venous-pole spl.|HH13	g32	PILOTGEX3	R	placement	Venous-pole spl.	HH13	20	0
+g35|PILOTGEX3|R|Venous-pole spl.|HH13	g35	PILOTGEX3	R	direct	Venous-pole spl.	HH13	24	0
+G2_genotype_01|GEX03-1|L|Contamination|HH17/16	G2_genotype_01	GEX03-1	L	direct	Contamination	HH17/16	68	0
+G2_genotype_02|GEX03-1|L|Contamination|HH17/16	G2_genotype_02	GEX03-1	L	direct	Contamination	HH17/16	56	0
+G2_genotype_03|GEX03-2|L|Contamination|HH17/16	G2_genotype_03	GEX03-2	L	direct	Contamination	HH17/16	54	0
+G2_genotype_04|GEX03-1|L|Contamination|HH17/16	G2_genotype_04	GEX03-1	L	direct	Contamination	HH17/16	89	0
+G2_genotype_09|GEX03-2|L|Contamination|HH17/16	G2_genotype_09	GEX03-2	L	placement	Contamination	HH17/16	5	0
+G2_genotype_11|GEX03-2|L|Contamination|HH17/16	G2_genotype_11	GEX03-2	L	placement	Contamination	HH17/16	8	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|Contamination|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	Contamination	HH17/16	71	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|Contamination|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	Contamination	HH17/16	32	0
+G3_unfiltered_donor5|GEX0S-duck|L|Contamination|HH17/16	G3_unfiltered_donor5	GEX0S-duck	L	placement	Contamination	HH17/16	16	0
+G3_unfiltered_donor8|GEX04|L|Contamination|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	Contamination	HH17/16	27	0
+G3_unfiltered_donor9|GEX0S-duck|L|Contamination|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	Contamination	HH17/16	14	0
+g01|GEX05|L|Contamination|HH17/16	g01	GEX05	L	direct	Contamination	HH17/16	25	0
+g08|GEX06|L|Contamination|HH17/16	g08	GEX06	L	direct	Contamination	HH17/16	28	0
+g15|GEX08|L|Contamination|HH17/16	g15	GEX08	L	direct	Contamination	HH17/16	30	0
+g17|GEX07|L|Contamination|HH17/16	g17	GEX07	L	direct	Contamination	HH17/16	31	0
+g19|GEX08|L|Contamination|HH17/16	g19	GEX08	L	placement	Contamination	HH17/16	14	0
+g20|GEX08|L|Contamination|HH17/16	g20	GEX08	L	direct	Contamination	HH17/16	8	0
+g22|GEX08|L|Contamination|HH17/16	g22	GEX08	L	direct	Contamination	HH17/16	1	0
+g23|GEX07|L|Contamination|HH17/16	g23	GEX07	L	direct	Contamination	HH17/16	18	0
+g24|GEX07|L|Contamination|HH17/16	g24	GEX07	L	direct	Contamination	HH17/16	16	0
+g26_split0|PILOTGEX4|L|Contamination|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	Contamination	HH17/16	48	0
+g26_split1|PILOTGEX4|L|Contamination|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	Contamination	HH17/16	30	0
+G2_genotype_01|GEX03-2|R|Contamination|HH17/16	G2_genotype_01	GEX03-2	R	direct	Contamination	HH17/16	10	0
+G2_genotype_02|GEX03-2|R|Contamination|HH17/16	G2_genotype_02	GEX03-2	R	direct	Contamination	HH17/16	28	0
+G2_genotype_03|GEX03-1|R|Contamination|HH17/16	G2_genotype_03	GEX03-1	R	direct	Contamination	HH17/16	4	0
+G2_genotype_04|GEX03-2|R|Contamination|HH17/16	G2_genotype_04	GEX03-2	R	direct	Contamination	HH17/16	4	0
+G2_genotype_09|GEX03-1|R|Contamination|HH17/16	G2_genotype_09	GEX03-1	R	placement	Contamination	HH17/16	21	0
+G3_unfiltered_donor5|GEX04|R|Contamination|HH17/16	G3_unfiltered_donor5	GEX04	R	placement	Contamination	HH17/16	8	0
+G3_unfiltered_donor9|GEX04|R|Contamination|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	Contamination	HH17/16	10	0
+g01|GEX06|R|Contamination|HH17/16	g01	GEX06	R	direct	Contamination	HH17/16	8	0
+g08|GEX05|R|Contamination|HH17/16	g08	GEX05	R	direct	Contamination	HH17/16	10	0
+g15|GEX07|R|Contamination|HH17/16	g15	GEX07	R	direct	Contamination	HH17/16	24	0
+g17|GEX08|R|Contamination|HH17/16	g17	GEX08	R	direct	Contamination	HH17/16	25	0
+g19|GEX07|R|Contamination|HH17/16	g19	GEX07	R	placement	Contamination	HH17/16	1	0
+g20|GEX03-1|R|Contamination|HH17/16	g20	GEX03-1	R	direct	Contamination	HH17/16	44	0
+g22|GEX07|R|Contamination|HH17/16	g22	GEX07	R	direct	Contamination	HH17/16	11	0
+g23|GEX08|R|Contamination|HH17/16	g23	GEX08	R	direct	Contamination	HH17/16	8	0
+g24|GEX08|R|Contamination|HH17/16	g24	GEX08	R	direct	Contamination	HH17/16	46	0
+g28|PILOTGEX4|R|Contamination|HH17/16	g28	PILOTGEX4	R	singleton_rank	Contamination	HH17/16	16	0
+g34|PILOTGEX4|R|Contamination|HH17/16	g34	PILOTGEX4	R	singleton_rank	Contamination	HH17/16	26	0
+G2_genotype_01|GEX03-1|L|Mesothelium|HH17/16	G2_genotype_01	GEX03-1	L	direct	Mesothelium	HH17/16	24	0
+G2_genotype_02|GEX03-1|L|Mesothelium|HH17/16	G2_genotype_02	GEX03-1	L	direct	Mesothelium	HH17/16	13	0
+G2_genotype_03|GEX03-2|L|Mesothelium|HH17/16	G2_genotype_03	GEX03-2	L	direct	Mesothelium	HH17/16	2	0
+G2_genotype_04|GEX03-1|L|Mesothelium|HH17/16	G2_genotype_04	GEX03-1	L	direct	Mesothelium	HH17/16	4	0
+G2_genotype_11|GEX03-2|L|Mesothelium|HH17/16	G2_genotype_11	GEX03-2	L	placement	Mesothelium	HH17/16	4	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|Mesothelium|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	Mesothelium	HH17/16	9	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|Mesothelium|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	Mesothelium	HH17/16	8	0
+G3_unfiltered_donor8|GEX04|L|Mesothelium|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	Mesothelium	HH17/16	2	0
+G3_unfiltered_donor9|GEX0S-duck|L|Mesothelium|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	Mesothelium	HH17/16	1	0
+g01|GEX05|L|Mesothelium|HH17/16	g01	GEX05	L	direct	Mesothelium	HH17/16	4	0
+g08|GEX06|L|Mesothelium|HH17/16	g08	GEX06	L	direct	Mesothelium	HH17/16	11	0
+g15|GEX08|L|Mesothelium|HH17/16	g15	GEX08	L	direct	Mesothelium	HH17/16	1	0
+g17|GEX07|L|Mesothelium|HH17/16	g17	GEX07	L	direct	Mesothelium	HH17/16	6	0
+g19|GEX08|L|Mesothelium|HH17/16	g19	GEX08	L	placement	Mesothelium	HH17/16	7	0
+g20|GEX08|L|Mesothelium|HH17/16	g20	GEX08	L	direct	Mesothelium	HH17/16	1	0
+g22|GEX08|L|Mesothelium|HH17/16	g22	GEX08	L	direct	Mesothelium	HH17/16	1	0
+g23|GEX07|L|Mesothelium|HH17/16	g23	GEX07	L	direct	Mesothelium	HH17/16	6	0
+g24|GEX07|L|Mesothelium|HH17/16	g24	GEX07	L	direct	Mesothelium	HH17/16	14	0
+g26_split0|PILOTGEX4|L|Mesothelium|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	Mesothelium	HH17/16	5	0
+g26_split1|PILOTGEX4|L|Mesothelium|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	Mesothelium	HH17/16	11	0
+G2_genotype_01|GEX03-2|R|Mesothelium|HH17/16	G2_genotype_01	GEX03-2	R	direct	Mesothelium	HH17/16	5	0
+G2_genotype_02|GEX03-2|R|Mesothelium|HH17/16	G2_genotype_02	GEX03-2	R	direct	Mesothelium	HH17/16	5	0
+G2_genotype_03|GEX03-1|R|Mesothelium|HH17/16	G2_genotype_03	GEX03-1	R	direct	Mesothelium	HH17/16	5	0
+G2_genotype_04|GEX03-2|R|Mesothelium|HH17/16	G2_genotype_04	GEX03-2	R	direct	Mesothelium	HH17/16	5	0
+G3_unfiltered_donor5|GEX04|R|Mesothelium|HH17/16	G3_unfiltered_donor5	GEX04	R	placement	Mesothelium	HH17/16	11	0
+G3_unfiltered_donor9|GEX04|R|Mesothelium|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	Mesothelium	HH17/16	9	0
+g08|GEX05|R|Mesothelium|HH17/16	g08	GEX05	R	direct	Mesothelium	HH17/16	6	0
+g15|GEX07|R|Mesothelium|HH17/16	g15	GEX07	R	direct	Mesothelium	HH17/16	6	0
+g17|GEX08|R|Mesothelium|HH17/16	g17	GEX08	R	direct	Mesothelium	HH17/16	10	0
+g20|GEX03-1|R|Mesothelium|HH17/16	g20	GEX03-1	R	direct	Mesothelium	HH17/16	17	0
+g22|GEX07|R|Mesothelium|HH17/16	g22	GEX07	R	direct	Mesothelium	HH17/16	4	0
+g23|GEX08|R|Mesothelium|HH17/16	g23	GEX08	R	direct	Mesothelium	HH17/16	9	0
+g24|GEX08|R|Mesothelium|HH17/16	g24	GEX08	R	direct	Mesothelium	HH17/16	15	0
+g28|PILOTGEX4|R|Mesothelium|HH17/16	g28	PILOTGEX4	R	singleton_rank	Mesothelium	HH17/16	11	0
+g34|PILOTGEX4|R|Mesothelium|HH17/16	g34	PILOTGEX4	R	singleton_rank	Mesothelium	HH17/16	11	0
+G2_genotype_01|GEX03-1|L|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_01	GEX03-1	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	53	0
+G2_genotype_02|GEX03-1|L|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_02	GEX03-1	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	145	0
+G2_genotype_03|GEX03-2|L|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_03	GEX03-2	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	25	0
+G2_genotype_04|GEX03-1|L|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_04	GEX03-1	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	110	0
+G2_genotype_09|GEX03-2|L|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_09	GEX03-2	L	placement	PRRX1+/FOXF1-low mes.	HH17/16	34	0
+G2_genotype_11|GEX03-2|L|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_11	GEX03-2	L	placement	PRRX1+/FOXF1-low mes.	HH17/16	28	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	PRRX1+/FOXF1-low mes.	HH17/16	22	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	PRRX1+/FOXF1-low mes.	HH17/16	13	0
+G3_unfiltered_donor5|GEX0S-duck|L|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor5	GEX0S-duck	L	placement	PRRX1+/FOXF1-low mes.	HH17/16	13	0
+G3_unfiltered_donor8|GEX04|L|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	PRRX1+/FOXF1-low mes.	HH17/16	8	0
+G3_unfiltered_donor9|GEX0S-duck|L|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	25	0
+g01|GEX05|L|PRRX1+/FOXF1-low mes.|HH17/16	g01	GEX05	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	21	0
+g08|GEX06|L|PRRX1+/FOXF1-low mes.|HH17/16	g08	GEX06	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	60	0
+g15|GEX08|L|PRRX1+/FOXF1-low mes.|HH17/16	g15	GEX08	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	37	0
+g17|GEX07|L|PRRX1+/FOXF1-low mes.|HH17/16	g17	GEX07	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	28	0
+g19|GEX08|L|PRRX1+/FOXF1-low mes.|HH17/16	g19	GEX08	L	placement	PRRX1+/FOXF1-low mes.	HH17/16	29	0
+g22|GEX08|L|PRRX1+/FOXF1-low mes.|HH17/16	g22	GEX08	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	14	0
+g23|GEX07|L|PRRX1+/FOXF1-low mes.|HH17/16	g23	GEX07	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	79	0
+g24|GEX07|L|PRRX1+/FOXF1-low mes.|HH17/16	g24	GEX07	L	direct	PRRX1+/FOXF1-low mes.	HH17/16	91	0
+g26_split0|PILOTGEX4|L|PRRX1+/FOXF1-low mes.|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	PRRX1+/FOXF1-low mes.	HH17/16	102	0
+g26_split1|PILOTGEX4|L|PRRX1+/FOXF1-low mes.|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	PRRX1+/FOXF1-low mes.	HH17/16	72	0
+G2_genotype_01|GEX03-2|R|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_01	GEX03-2	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	61	0
+G2_genotype_02|GEX03-2|R|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_02	GEX03-2	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	28	0
+G2_genotype_03|GEX03-1|R|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_03	GEX03-1	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	3	0
+G2_genotype_04|GEX03-2|R|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_04	GEX03-2	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	46	0
+G2_genotype_09|GEX03-1|R|PRRX1+/FOXF1-low mes.|HH17/16	G2_genotype_09	GEX03-1	R	placement	PRRX1+/FOXF1-low mes.	HH17/16	35	0
+G3_unfiltered_donor5|GEX04|R|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor5	GEX04	R	placement	PRRX1+/FOXF1-low mes.	HH17/16	99	0
+G3_unfiltered_donor9|GEX04|R|PRRX1+/FOXF1-low mes.|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	57	0
+g01|GEX06|R|PRRX1+/FOXF1-low mes.|HH17/16	g01	GEX06	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	75	0
+g08|GEX05|R|PRRX1+/FOXF1-low mes.|HH17/16	g08	GEX05	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	43	0
+g15|GEX07|R|PRRX1+/FOXF1-low mes.|HH17/16	g15	GEX07	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	42	0
+g17|GEX08|R|PRRX1+/FOXF1-low mes.|HH17/16	g17	GEX08	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	56	0
+g20|GEX03-1|R|PRRX1+/FOXF1-low mes.|HH17/16	g20	GEX03-1	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	93	0
+g22|GEX07|R|PRRX1+/FOXF1-low mes.|HH17/16	g22	GEX07	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	32	0
+g23|GEX08|R|PRRX1+/FOXF1-low mes.|HH17/16	g23	GEX08	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	75	0
+g24|GEX08|R|PRRX1+/FOXF1-low mes.|HH17/16	g24	GEX08	R	direct	PRRX1+/FOXF1-low mes.	HH17/16	74	0
+g28|PILOTGEX4|R|PRRX1+/FOXF1-low mes.|HH17/16	g28	PILOTGEX4	R	singleton_rank	PRRX1+/FOXF1-low mes.	HH17/16	64	0
+g34|PILOTGEX4|R|PRRX1+/FOXF1-low mes.|HH17/16	g34	PILOTGEX4	R	singleton_rank	PRRX1+/FOXF1-low mes.	HH17/16	47	0
+G2_genotype_01|GEX03-1|L|Skeletogenic LPM|HH17/16	G2_genotype_01	GEX03-1	L	direct	Skeletogenic LPM	HH17/16	302	0
+G2_genotype_02|GEX03-1|L|Skeletogenic LPM|HH17/16	G2_genotype_02	GEX03-1	L	direct	Skeletogenic LPM	HH17/16	243	0
+G2_genotype_03|GEX03-2|L|Skeletogenic LPM|HH17/16	G2_genotype_03	GEX03-2	L	direct	Skeletogenic LPM	HH17/16	292	0
+G2_genotype_04|GEX03-1|L|Skeletogenic LPM|HH17/16	G2_genotype_04	GEX03-1	L	direct	Skeletogenic LPM	HH17/16	383	0
+G2_genotype_09|GEX03-2|L|Skeletogenic LPM|HH17/16	G2_genotype_09	GEX03-2	L	placement	Skeletogenic LPM	HH17/16	39	0
+G2_genotype_11|GEX03-2|L|Skeletogenic LPM|HH17/16	G2_genotype_11	GEX03-2	L	placement	Skeletogenic LPM	HH17/16	82	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|Skeletogenic LPM|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	Skeletogenic LPM	HH17/16	126	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|Skeletogenic LPM|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	Skeletogenic LPM	HH17/16	36	0
+G3_unfiltered_donor5|GEX0S-duck|L|Skeletogenic LPM|HH17/16	G3_unfiltered_donor5	GEX0S-duck	L	placement	Skeletogenic LPM	HH17/16	20	0
+G3_unfiltered_donor8|GEX04|L|Skeletogenic LPM|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	Skeletogenic LPM	HH17/16	90	0
+G3_unfiltered_donor9|GEX0S-duck|L|Skeletogenic LPM|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	Skeletogenic LPM	HH17/16	21	0
+g01|GEX05|L|Skeletogenic LPM|HH17/16	g01	GEX05	L	direct	Skeletogenic LPM	HH17/16	119	0
+g08|GEX06|L|Skeletogenic LPM|HH17/16	g08	GEX06	L	direct	Skeletogenic LPM	HH17/16	156	0
+g15|GEX08|L|Skeletogenic LPM|HH17/16	g15	GEX08	L	direct	Skeletogenic LPM	HH17/16	131	0
+g17|GEX07|L|Skeletogenic LPM|HH17/16	g17	GEX07	L	direct	Skeletogenic LPM	HH17/16	177	0
+g19|GEX08|L|Skeletogenic LPM|HH17/16	g19	GEX08	L	placement	Skeletogenic LPM	HH17/16	113	0
+g20|GEX08|L|Skeletogenic LPM|HH17/16	g20	GEX08	L	direct	Skeletogenic LPM	HH17/16	25	0
+g22|GEX08|L|Skeletogenic LPM|HH17/16	g22	GEX08	L	direct	Skeletogenic LPM	HH17/16	16	0
+g23|GEX07|L|Skeletogenic LPM|HH17/16	g23	GEX07	L	direct	Skeletogenic LPM	HH17/16	109	0
+g24|GEX07|L|Skeletogenic LPM|HH17/16	g24	GEX07	L	direct	Skeletogenic LPM	HH17/16	100	0
+g26_split0|PILOTGEX4|L|Skeletogenic LPM|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	Skeletogenic LPM	HH17/16	153	0
+g26_split1|PILOTGEX4|L|Skeletogenic LPM|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	Skeletogenic LPM	HH17/16	192	0
+G2_genotype_01|GEX03-2|R|Skeletogenic LPM|HH17/16	G2_genotype_01	GEX03-2	R	direct	Skeletogenic LPM	HH17/16	71	0
+G2_genotype_02|GEX03-2|R|Skeletogenic LPM|HH17/16	G2_genotype_02	GEX03-2	R	direct	Skeletogenic LPM	HH17/16	135	0
+G2_genotype_03|GEX03-1|R|Skeletogenic LPM|HH17/16	G2_genotype_03	GEX03-1	R	direct	Skeletogenic LPM	HH17/16	14	0
+G2_genotype_04|GEX03-2|R|Skeletogenic LPM|HH17/16	G2_genotype_04	GEX03-2	R	direct	Skeletogenic LPM	HH17/16	35	0
+G2_genotype_09|GEX03-1|R|Skeletogenic LPM|HH17/16	G2_genotype_09	GEX03-1	R	placement	Skeletogenic LPM	HH17/16	86	0
+G3_unfiltered_donor5|GEX04|R|Skeletogenic LPM|HH17/16	G3_unfiltered_donor5	GEX04	R	placement	Skeletogenic LPM	HH17/16	42	0
+G3_unfiltered_donor9|GEX04|R|Skeletogenic LPM|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	Skeletogenic LPM	HH17/16	87	0
+g01|GEX06|R|Skeletogenic LPM|HH17/16	g01	GEX06	R	direct	Skeletogenic LPM	HH17/16	15	0
+g08|GEX05|R|Skeletogenic LPM|HH17/16	g08	GEX05	R	direct	Skeletogenic LPM	HH17/16	111	0
+g15|GEX07|R|Skeletogenic LPM|HH17/16	g15	GEX07	R	direct	Skeletogenic LPM	HH17/16	99	0
+g17|GEX08|R|Skeletogenic LPM|HH17/16	g17	GEX08	R	direct	Skeletogenic LPM	HH17/16	125	0
+g19|GEX07|R|Skeletogenic LPM|HH17/16	g19	GEX07	R	placement	Skeletogenic LPM	HH17/16	4	0
+g20|GEX03-1|R|Skeletogenic LPM|HH17/16	g20	GEX03-1	R	direct	Skeletogenic LPM	HH17/16	175	0
+g22|GEX07|R|Skeletogenic LPM|HH17/16	g22	GEX07	R	direct	Skeletogenic LPM	HH17/16	59	0
+g23|GEX08|R|Skeletogenic LPM|HH17/16	g23	GEX08	R	direct	Skeletogenic LPM	HH17/16	30	0
+g24|GEX08|R|Skeletogenic LPM|HH17/16	g24	GEX08	R	direct	Skeletogenic LPM	HH17/16	146	0
+g28|PILOTGEX4|R|Skeletogenic LPM|HH17/16	g28	PILOTGEX4	R	singleton_rank	Skeletogenic LPM	HH17/16	75	0
+g34|PILOTGEX4|R|Skeletogenic LPM|HH17/16	g34	PILOTGEX4	R	singleton_rank	Skeletogenic LPM	HH17/16	138	0
+G2_genotype_01|GEX03-1|L|Venous-pole spl.|HH17/16	G2_genotype_01	GEX03-1	L	direct	Venous-pole spl.	HH17/16	84	0
+G2_genotype_02|GEX03-1|L|Venous-pole spl.|HH17/16	G2_genotype_02	GEX03-1	L	direct	Venous-pole spl.	HH17/16	63	0
+G2_genotype_03|GEX03-2|L|Venous-pole spl.|HH17/16	G2_genotype_03	GEX03-2	L	direct	Venous-pole spl.	HH17/16	136	0
+G2_genotype_04|GEX03-1|L|Venous-pole spl.|HH17/16	G2_genotype_04	GEX03-1	L	direct	Venous-pole spl.	HH17/16	142	0
+G2_genotype_09|GEX03-2|L|Venous-pole spl.|HH17/16	G2_genotype_09	GEX03-2	L	placement	Venous-pole spl.	HH17/16	3	0
+G2_genotype_11|GEX03-2|L|Venous-pole spl.|HH17/16	G2_genotype_11	GEX03-2	L	placement	Venous-pole spl.	HH17/16	29	0
+G3_unfiltered_donor0|GEX04+GEX0S-duck|L|Venous-pole spl.|HH17/16	G3_unfiltered_donor0	GEX04+GEX0S-duck	L	same_side_dup	Venous-pole spl.	HH17/16	32	0
+G3_unfiltered_donor3|GEX04+GEX0S-duck|L|Venous-pole spl.|HH17/16	G3_unfiltered_donor3	GEX04+GEX0S-duck	L	same_side_dup	Venous-pole spl.	HH17/16	26	0
+G3_unfiltered_donor5|GEX0S-duck|L|Venous-pole spl.|HH17/16	G3_unfiltered_donor5	GEX0S-duck	L	placement	Venous-pole spl.	HH17/16	8	0
+G3_unfiltered_donor8|GEX04|L|Venous-pole spl.|HH17/16	G3_unfiltered_donor8	GEX04	L	singleton_rank	Venous-pole spl.	HH17/16	33	0
+G3_unfiltered_donor9|GEX0S-duck|L|Venous-pole spl.|HH17/16	G3_unfiltered_donor9	GEX0S-duck	L	direct	Venous-pole spl.	HH17/16	16	0
+g01|GEX05|L|Venous-pole spl.|HH17/16	g01	GEX05	L	direct	Venous-pole spl.	HH17/16	48	0
+g08|GEX06|L|Venous-pole spl.|HH17/16	g08	GEX06	L	direct	Venous-pole spl.	HH17/16	46	0
+g15|GEX08|L|Venous-pole spl.|HH17/16	g15	GEX08	L	direct	Venous-pole spl.	HH17/16	55	0
+g17|GEX07|L|Venous-pole spl.|HH17/16	g17	GEX07	L	direct	Venous-pole spl.	HH17/16	73	0
+g19|GEX08|L|Venous-pole spl.|HH17/16	g19	GEX08	L	placement	Venous-pole spl.	HH17/16	22	0
+g20|GEX08|L|Venous-pole spl.|HH17/16	g20	GEX08	L	direct	Venous-pole spl.	HH17/16	4	0
+g22|GEX08|L|Venous-pole spl.|HH17/16	g22	GEX08	L	direct	Venous-pole spl.	HH17/16	16	0
+g23|GEX07|L|Venous-pole spl.|HH17/16	g23	GEX07	L	direct	Venous-pole spl.	HH17/16	15	0
+g24|GEX07|L|Venous-pole spl.|HH17/16	g24	GEX07	L	direct	Venous-pole spl.	HH17/16	24	0
+g26_split0|PILOTGEX4|L|Venous-pole spl.|HH17/16	g26_split0	PILOTGEX4	L	singleton_rank	Venous-pole spl.	HH17/16	63	0
+g26_split1|PILOTGEX4|L|Venous-pole spl.|HH17/16	g26_split1	PILOTGEX4	L	singleton_rank	Venous-pole spl.	HH17/16	73	0
+G2_genotype_01|GEX03-2|R|Venous-pole spl.|HH17/16	G2_genotype_01	GEX03-2	R	direct	Venous-pole spl.	HH17/16	67	0
+G2_genotype_02|GEX03-2|R|Venous-pole spl.|HH17/16	G2_genotype_02	GEX03-2	R	direct	Venous-pole spl.	HH17/16	50	0
+G2_genotype_03|GEX03-1|R|Venous-pole spl.|HH17/16	G2_genotype_03	GEX03-1	R	direct	Venous-pole spl.	HH17/16	9	0
+G2_genotype_04|GEX03-2|R|Venous-pole spl.|HH17/16	G2_genotype_04	GEX03-2	R	direct	Venous-pole spl.	HH17/16	5	0
+G2_genotype_09|GEX03-1|R|Venous-pole spl.|HH17/16	G2_genotype_09	GEX03-1	R	placement	Venous-pole spl.	HH17/16	18	0
+G3_unfiltered_donor9|GEX04|R|Venous-pole spl.|HH17/16	G3_unfiltered_donor9	GEX04	R	direct	Venous-pole spl.	HH17/16	20	0
+g01|GEX06|R|Venous-pole spl.|HH17/16	g01	GEX06	R	direct	Venous-pole spl.	HH17/16	28	0
+g08|GEX05|R|Venous-pole spl.|HH17/16	g08	GEX05	R	direct	Venous-pole spl.	HH17/16	52	0
+g15|GEX07|R|Venous-pole spl.|HH17/16	g15	GEX07	R	direct	Venous-pole spl.	HH17/16	54	0
+g17|GEX08|R|Venous-pole spl.|HH17/16	g17	GEX08	R	direct	Venous-pole spl.	HH17/16	39	0
+g19|GEX07|R|Venous-pole spl.|HH17/16	g19	GEX07	R	placement	Venous-pole spl.	HH17/16	5	0
+g20|GEX03-1|R|Venous-pole spl.|HH17/16	g20	GEX03-1	R	direct	Venous-pole spl.	HH17/16	110	0
+g22|GEX07|R|Venous-pole spl.|HH17/16	g22	GEX07	R	direct	Venous-pole spl.	HH17/16	27	0
+g23|GEX08|R|Venous-pole spl.|HH17/16	g23	GEX08	R	direct	Venous-pole spl.	HH17/16	33	0
+g24|GEX08|R|Venous-pole spl.|HH17/16	g24	GEX08	R	direct	Venous-pole spl.	HH17/16	70	0
+g28|PILOTGEX4|R|Venous-pole spl.|HH17/16	g28	PILOTGEX4	R	singleton_rank	Venous-pole spl.	HH17/16	36	0
+g34|PILOTGEX4|R|Venous-pole spl.|HH17/16	g34	PILOTGEX4	R	singleton_rank	Venous-pole spl.	HH17/16	40	0
+G2_genotype_05|GEX03-1|L|Mesothelium|HH21	G2_genotype_05	GEX03-1	L	direct	Mesothelium	HH21	11	0
+G2_genotype_07|GEX03-1|L|Mesothelium|HH21	G2_genotype_07	GEX03-1	L	direct	Mesothelium	HH21	2	0
+G2_genotype_08|GEX03-2|L|Mesothelium|HH21	G2_genotype_08	GEX03-2	L	direct	Mesothelium	HH21	1	0
+G3_unfiltered_donor10|GEX04|L|Mesothelium|HH21	G3_unfiltered_donor10	GEX04	L	singleton_rank	Mesothelium	HH21	26	0
+G3_unfiltered_donor7|GEX04|L|Mesothelium|HH21	G3_unfiltered_donor7	GEX04	L	singleton_rank	Mesothelium	HH21	7	0
+g09|GEX06|L|Mesothelium|HH21	g09	GEX06	L	direct	Mesothelium	HH21	1	0
+g10|GEX05|L|Mesothelium|HH21	g10	GEX05	L	direct	Mesothelium	HH21	1	0
+G2_genotype_05|GEX03-2|R|Mesothelium|HH21	G2_genotype_05	GEX03-2	R	direct	Mesothelium	HH21	5	0
+G2_genotype_07|GEX03-2|R|Mesothelium|HH21	G2_genotype_07	GEX03-2	R	direct	Mesothelium	HH21	20	0
+G2_genotype_08|GEX03-1|R|Mesothelium|HH21	G2_genotype_08	GEX03-1	R	direct	Mesothelium	HH21	12	0
+G2_genotype_10|GEX03-1|R|Mesothelium|HH21	G2_genotype_10	GEX03-1	R	direct	Mesothelium	HH21	36	0
+G3_unfiltered_donor1|GEX04|R|Mesothelium|HH21	G3_unfiltered_donor1	GEX04	R	singleton_rank	Mesothelium	HH21	21	0
+G3_unfiltered_donor4|GEX04|R|Mesothelium|HH21	G3_unfiltered_donor4	GEX04	R	singleton_rank	Mesothelium	HH21	19	0
+g03|GEX05|R|Mesothelium|HH21	g03	GEX05	R	direct	Mesothelium	HH21	32	0
+g05|GEX06|R|Mesothelium|HH21	g05	GEX06	R	direct	Mesothelium	HH21	50	0
+g09|GEX05|R|Mesothelium|HH21	g09	GEX05	R	direct	Mesothelium	HH21	20	0
+g10|GEX06|R|Mesothelium|HH21	g10	GEX06	R	direct	Mesothelium	HH21	14	0
+G2_genotype_05|GEX03-1|L|Skeletogenic LPM|HH21	G2_genotype_05	GEX03-1	L	direct	Skeletogenic LPM	HH21	451	0
+G2_genotype_07|GEX03-1|L|Skeletogenic LPM|HH21	G2_genotype_07	GEX03-1	L	direct	Skeletogenic LPM	HH21	141	0
+G2_genotype_08|GEX03-2|L|Skeletogenic LPM|HH21	G2_genotype_08	GEX03-2	L	direct	Skeletogenic LPM	HH21	105	0
+G2_genotype_10|GEX03-2|L|Skeletogenic LPM|HH21	G2_genotype_10	GEX03-2	L	direct	Skeletogenic LPM	HH21	99	0
+G3_unfiltered_donor10|GEX04|L|Skeletogenic LPM|HH21	G3_unfiltered_donor10	GEX04	L	singleton_rank	Skeletogenic LPM	HH21	34	0
+G3_unfiltered_donor7|GEX04|L|Skeletogenic LPM|HH21	G3_unfiltered_donor7	GEX04	L	singleton_rank	Skeletogenic LPM	HH21	185	0
+g03|GEX06|L|Skeletogenic LPM|HH21	g03	GEX06	L	direct	Skeletogenic LPM	HH21	211	0
+g05|GEX05|L|Skeletogenic LPM|HH21	g05	GEX05	L	direct	Skeletogenic LPM	HH21	77	0
+g09|GEX06|L|Skeletogenic LPM|HH21	g09	GEX06	L	direct	Skeletogenic LPM	HH21	183	0
+g10|GEX05|L|Skeletogenic LPM|HH21	g10	GEX05	L	direct	Skeletogenic LPM	HH21	119	0
+G2_genotype_05|GEX03-2|R|Skeletogenic LPM|HH21	G2_genotype_05	GEX03-2	R	direct	Skeletogenic LPM	HH21	96	0
+G2_genotype_07|GEX03-2|R|Skeletogenic LPM|HH21	G2_genotype_07	GEX03-2	R	direct	Skeletogenic LPM	HH21	163	0
+G2_genotype_08|GEX03-1|R|Skeletogenic LPM|HH21	G2_genotype_08	GEX03-1	R	direct	Skeletogenic LPM	HH21	207	0
+G2_genotype_10|GEX03-1|R|Skeletogenic LPM|HH21	G2_genotype_10	GEX03-1	R	direct	Skeletogenic LPM	HH21	178	0
+G3_unfiltered_donor1|GEX04|R|Skeletogenic LPM|HH21	G3_unfiltered_donor1	GEX04	R	singleton_rank	Skeletogenic LPM	HH21	233	0
+G3_unfiltered_donor4|GEX04|R|Skeletogenic LPM|HH21	G3_unfiltered_donor4	GEX04	R	singleton_rank	Skeletogenic LPM	HH21	121	0
+g03|GEX05|R|Skeletogenic LPM|HH21	g03	GEX05	R	direct	Skeletogenic LPM	HH21	219	0
+g05|GEX06|R|Skeletogenic LPM|HH21	g05	GEX06	R	direct	Skeletogenic LPM	HH21	148	0
+g09|GEX05|R|Skeletogenic LPM|HH21	g09	GEX05	R	direct	Skeletogenic LPM	HH21	201	0
+g10|GEX06|R|Skeletogenic LPM|HH21	g10	GEX06	R	direct	Skeletogenic LPM	HH21	117	0
+G2_genotype_05|GEX03-1|L|Venous-pole spl.|HH21	G2_genotype_05	GEX03-1	L	direct	Venous-pole spl.	HH21	253	0
+G2_genotype_07|GEX03-1|L|Venous-pole spl.|HH21	G2_genotype_07	GEX03-1	L	direct	Venous-pole spl.	HH21	107	0
+G2_genotype_08|GEX03-2|L|Venous-pole spl.|HH21	G2_genotype_08	GEX03-2	L	direct	Venous-pole spl.	HH21	113	0
+G2_genotype_10|GEX03-2|L|Venous-pole spl.|HH21	G2_genotype_10	GEX03-2	L	direct	Venous-pole spl.	HH21	88	0
+G3_unfiltered_donor10|GEX04|L|Venous-pole spl.|HH21	G3_unfiltered_donor10	GEX04	L	singleton_rank	Venous-pole spl.	HH21	24	0
+G3_unfiltered_donor7|GEX04|L|Venous-pole spl.|HH21	G3_unfiltered_donor7	GEX04	L	singleton_rank	Venous-pole spl.	HH21	157	0
+g03|GEX06|L|Venous-pole spl.|HH21	g03	GEX06	L	direct	Venous-pole spl.	HH21	266	0
+g05|GEX05|L|Venous-pole spl.|HH21	g05	GEX05	L	direct	Venous-pole spl.	HH21	55	0
+g09|GEX06|L|Venous-pole spl.|HH21	g09	GEX06	L	direct	Venous-pole spl.	HH21	123	0
+g10|GEX05|L|Venous-pole spl.|HH21	g10	GEX05	L	direct	Venous-pole spl.	HH21	72	0
+G2_genotype_05|GEX03-2|R|Venous-pole spl.|HH21	G2_genotype_05	GEX03-2	R	direct	Venous-pole spl.	HH21	65	0
+G2_genotype_07|GEX03-2|R|Venous-pole spl.|HH21	G2_genotype_07	GEX03-2	R	direct	Venous-pole spl.	HH21	141	0
+G2_genotype_08|GEX03-1|R|Venous-pole spl.|HH21	G2_genotype_08	GEX03-1	R	direct	Venous-pole spl.	HH21	91	0
+G2_genotype_10|GEX03-1|R|Venous-pole spl.|HH21	G2_genotype_10	GEX03-1	R	direct	Venous-pole spl.	HH21	35	0
+G3_unfiltered_donor1|GEX04|R|Venous-pole spl.|HH21	G3_unfiltered_donor1	GEX04	R	singleton_rank	Venous-pole spl.	HH21	87	0
+G3_unfiltered_donor4|GEX04|R|Venous-pole spl.|HH21	G3_unfiltered_donor4	GEX04	R	singleton_rank	Venous-pole spl.	HH21	100	0
+g03|GEX05|R|Venous-pole spl.|HH21	g03	GEX05	R	direct	Venous-pole spl.	HH21	118	0
+g05|GEX06|R|Venous-pole spl.|HH21	g05	GEX06	R	direct	Venous-pole spl.	HH21	128	0
+g09|GEX05|R|Venous-pole spl.|HH21	g09	GEX05	R	direct	Venous-pole spl.	HH21	140	0
+g10|GEX06|R|Venous-pole spl.|HH21	g10	GEX06	R	direct	Venous-pole spl.	HH21	72	0
+dp500_donor29|PILOTGEX3|L|Skeletogenic LPM|HH25	dp500_donor29	PILOTGEX3	L	direct	Skeletogenic LPM	HH25	7	0
+g00|GEX05|L|Skeletogenic LPM|HH25	g00	GEX05	L	direct	Skeletogenic LPM	HH25	6	0
+g02|PILOTGEX4|L|Skeletogenic LPM|HH25	g02	PILOTGEX4	L	direct	Skeletogenic LPM	HH25	20	0
+g04|PILOTGEX4|L|Skeletogenic LPM|HH25	g04	PILOTGEX4	L	direct	Skeletogenic LPM	HH25	5	0
+g06|PILOTGEX3|L|Skeletogenic LPM|HH25	g06	PILOTGEX3	L	direct	Skeletogenic LPM	HH25	21	0
+g07|GEX05|L|Skeletogenic LPM|HH25	g07	GEX05	L	direct	Skeletogenic LPM	HH25	44	0
+g11|GEX06|L|Skeletogenic LPM|HH25	g11	GEX06	L	direct	Skeletogenic LPM	HH25	133	0
+g12|GEX06|L|Skeletogenic LPM|HH25	g12	GEX06	L	direct	Skeletogenic LPM	HH25	42	0
+dp500_donor29|GEX05|R|Skeletogenic LPM|HH25	dp500_donor29	GEX05	R	direct	Skeletogenic LPM	HH25	16	0
+g00|PILOTGEX3|R|Skeletogenic LPM|HH25	g00	PILOTGEX3	R	direct	Skeletogenic LPM	HH25	12	0
+g02|GEX06|R|Skeletogenic LPM|HH25	g02	GEX06	R	direct	Skeletogenic LPM	HH25	75	0
+g04|GEX06|R|Skeletogenic LPM|HH25	g04	GEX06	R	direct	Skeletogenic LPM	HH25	49	0
+g06|GEX05|R|Skeletogenic LPM|HH25	g06	GEX05	R	direct	Skeletogenic LPM	HH25	42	0
+g07|PILOTGEX3|R|Skeletogenic LPM|HH25	g07	PILOTGEX3	R	direct	Skeletogenic LPM	HH25	32	0
+g11|PILOTGEX4|R|Skeletogenic LPM|HH25	g11	PILOTGEX4	R	direct	Skeletogenic LPM	HH25	116	0
+g12|PILOTGEX4|R|Skeletogenic LPM|HH25	g12	PILOTGEX4	R	direct	Skeletogenic LPM	HH25	6	0
+dp500_donor29|PILOTGEX3|L|Venous-pole spl.|HH25	dp500_donor29	PILOTGEX3	L	direct	Venous-pole spl.	HH25	253	0
+g00|GEX05|L|Venous-pole spl.|HH25	g00	GEX05	L	direct	Venous-pole spl.	HH25	340	0
+g02|PILOTGEX4|L|Venous-pole spl.|HH25	g02	PILOTGEX4	L	direct	Venous-pole spl.	HH25	13	0
+g04|PILOTGEX4|L|Venous-pole spl.|HH25	g04	PILOTGEX4	L	direct	Venous-pole spl.	HH25	8	0
+g06|PILOTGEX3|L|Venous-pole spl.|HH25	g06	PILOTGEX3	L	direct	Venous-pole spl.	HH25	101	0
+g07|GEX05|L|Venous-pole spl.|HH25	g07	GEX05	L	direct	Venous-pole spl.	HH25	231	0
+g11|GEX06|L|Venous-pole spl.|HH25	g11	GEX06	L	direct	Venous-pole spl.	HH25	103	0
+g12|GEX06|L|Venous-pole spl.|HH25	g12	GEX06	L	direct	Venous-pole spl.	HH25	92	0
+dp500_donor29|GEX05|R|Venous-pole spl.|HH25	dp500_donor29	GEX05	R	direct	Venous-pole spl.	HH25	233	0
+g00|PILOTGEX3|R|Venous-pole spl.|HH25	g00	PILOTGEX3	R	direct	Venous-pole spl.	HH25	170	0
+g02|GEX06|R|Venous-pole spl.|HH25	g02	GEX06	R	direct	Venous-pole spl.	HH25	161	0
+g04|GEX06|R|Venous-pole spl.|HH25	g04	GEX06	R	direct	Venous-pole spl.	HH25	179	0
+g06|GEX05|R|Venous-pole spl.|HH25	g06	GEX05	R	direct	Venous-pole spl.	HH25	58	0
+g07|PILOTGEX3|R|Venous-pole spl.|HH25	g07	PILOTGEX3	R	direct	Venous-pole spl.	HH25	58	0
+g11|PILOTGEX4|R|Venous-pole spl.|HH25	g11	PILOTGEX4	R	direct	Venous-pole spl.	HH25	79	0
+g12|PILOTGEX4|R|Venous-pole spl.|HH25	g12	PILOTGEX4	R	direct	Venous-pole spl.	HH25	2	0

@@ -1,0 +1,2 @@
+mode	neg_match	model	kmer_len	n_kmers_scored	n_positive_weight	weight_mean	weight_sd	top1_kmer	top1_weight	top_n	frac_top_low_complexity	top_mean_gc	n_motifs	top_motif_consensus	top_motif_n_members	motifs_with_homeodomain	motifs_with_FOX	motifs_with_SMAD23_NODAL	motifs_with_SMAD15_BMP	motifs_with_SMAD15_BMP_degenerate	predict_sec
+strict	genomicbg	/n/scratch/users/c/cl266/FC_08656/phase2/atac/gkmsvm/rightpeak/foc_peak/h9_dorsalbg_focPeak.model.txt	10	524800	227167	-0.1113	0.5402	AGAAAATGAA	2.3292	200	0.1	0.511	5	AGAAAATGAA	32	0	0	0	0	0	120.6

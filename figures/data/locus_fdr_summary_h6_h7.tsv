@@ -1,0 +1,7 @@
+stage	classifier	locus_window	n_locus_in_index	n_locus_tested	n_locus_dropped	n_L_locus_padj_010	n_R_locus_padj_010	n_L_locus_padj_005	n_R_locus_padj_005
+HH17_16	h6_paired	pitx2_500kb_fam241a_359	359	85	274	0	0	0	0
+HH25	h6_paired	pitx2_500kb_fam241a_359	359	359	0	16	19	15	12
+HH13	h7_unpaired	pitx2_500kb_fam241a_359	359	30	329	0	0	0	0
+HH17_16	h7_unpaired	pitx2_500kb_fam241a_359	359	358	1	2	0	1	0
+HH21	h7_unpaired	pitx2_500kb_fam241a_359	359	359	0	11	1	10	0
+HH25	h7_unpaired	pitx2_500kb_fam241a_359	359	359	0	24	30	18	22

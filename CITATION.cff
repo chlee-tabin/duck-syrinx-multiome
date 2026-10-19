@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the accompanying manuscript."
 title: "duck-syrinx-multiome: analysis code for the duck syrinx left-right asymmetry and sexual dimorphism study"
 type: software
+version: "1.0.0"
 license: MIT
 repository-code: "https://github.com/chlee-tabin/duck-syrinx-multiome"
 authors: &authors
@@ -23,7 +24,9 @@ authors: &authors
     given-names: Clifford J.
 preferred-citation:
   type: article
-  title: "Epigenetic memory of early left-right patterning and integration of left-right asymmetry with sexual dimorphism in the duck syrinx"
-  journal: "Proceedings of the National Academy of Sciences of the United States of America"
-  year: 2026
+  title: "Integration of sexual dimorphism and left-right asymmetry in the development of the duck syrinx"
+  journal: "bioRxiv"
+  doi: "10.1101/2024.12.10.627783"
+  url: "https://www.biorxiv.org/content/10.1101/2024.12.10.627783"
+  year: 2024
   authors: *authors

@@ -1,0 +1,300 @@
+motif	group	n	mean_sites	mean_sites_ref	ref_group	log_rate_ratio	se	z	p_two_sided	p_one_sided_gt	p_one_sided_lt	degenerate	readout	test_side	p_preregistered	n_too_small	excluded_from_discovery	padj_motif_panel
+TAATCC_raw	L-up_anti	4	1	0.281896	bilateral_flat							False	count	two-sided		True	True	
+SMAD2_3_4	L-up_anti	4	3.75	4.08019	bilateral_flat							False	count	two-sided		True	True	
+SMAD3	L-up_anti	4	1.25	0.890235	bilateral_flat							False	count	two-sided		True	True	
+SMAD4	L-up_anti	4	0.75	1.38382	bilateral_flat							False	count	two-sided		True	True	
+SMAD5	L-up_anti	4	1.25	1.13257	bilateral_flat							False	count	two-sided		True	True	
+FOXH1	L-up_anti	4	1	1.2206	bilateral_flat							False	count	two-sided		True	True	
+NKX6_1	L-up_anti	4	0.5	1.06415	bilateral_flat							False	count	two-sided		True	True	
+Foxf1	L-up_anti	4	1	1.83036	bilateral_flat							False	count	two-sided		True	True	
+FOXC1	L-up_anti	4	1.75	2.59016	bilateral_flat							False	count	two-sided		True	True	
+GATA4	L-up_anti	4	2	1.51889	bilateral_flat							False	count	two-sided		True	True	
+ISL1	L-up_anti	4	1	0.965075	bilateral_flat							False	count	two-sided		True	True	
+TBX5	L-up_anti	4	3.25	2.91376	bilateral_flat							False	count	two-sided		True	True	
+PITX2	L-up_anti	4	2	0.916964	bilateral_flat							False	count	one-sided(gt)		True	True	
+GATA4	L-up_concordant	15	2.33333	1.51889	bilateral_flat	-0.351973	0.270603	-1.3007	0.193362	0.903319	0.0966812	False	count	two-sided	0.193362	False	False	0.59263
+NKX6_1	L-up_concordant	15	2.26667	1.06415	bilateral_flat	0.205874	0.163009	1.26296	0.206604	0.103302	0.896698	False	count	two-sided	0.206604	False	False	0.59263
+SMAD5	L-up_concordant	15	1	1.13257	bilateral_flat	-0.389807	0.352184	-1.10683	0.268368	0.865816	0.134184	False	count	two-sided	0.268368	False	False	0.59263
+SMAD4	L-up_concordant	15	1.6	1.38382	bilateral_flat	-0.309528	0.283816	-1.09059	0.275452	0.862274	0.137726	False	count	two-sided	0.275452	False	False	0.59263
+Foxf1	L-up_concordant	15	3.2	1.83036	bilateral_flat	-0.212276	0.211363	-1.00432	0.315224	0.842388	0.157612	False	count	two-sided	0.315224	False	False	0.59263
+SMAD2_3_4	L-up_concordant	15	5.6	4.08019	bilateral_flat	0.133835	0.135637	0.986715	0.323782	0.161891	0.838109	False	count	two-sided	0.323782	False	False	0.59263
+FOXC1	L-up_concordant	15	4.46667	2.59016	bilateral_flat	-0.263575	0.279519	-0.942962	0.345701	0.82715	0.17285	False	count	two-sided	0.345701	False	False	0.59263
+ISL1	L-up_concordant	15	1.53333	0.965075	bilateral_flat	-0.151157	0.229051	-0.659928	0.5093	0.74535	0.25465	False	count	two-sided	0.5093	False	False	0.694354
+SMAD3	L-up_concordant	15	1.2	0.890235	bilateral_flat	-0.204269	0.348991	-0.585313	0.558337	0.720832	0.279168	False	count	two-sided	0.558337	False	False	0.694354
+PITX2	L-up_concordant	15	1.6	0.916964	bilateral_flat	-0.0545945	0.202927	-0.269034	0.787903	0.606048	0.393952	False	count	one-sided(gt)	0.606048	False	False	0.694354
+FOXH1	L-up_concordant	15	2.53333	1.2206	bilateral_flat	-0.0634118	0.134173	-0.472611	0.636491	0.681755	0.318245	False	count	two-sided	0.636491	False	False	0.694354
+TAATCC_raw	L-up_concordant	15	0.4	0.281896	bilateral_flat	-0.116782	0.317808	-0.367462	0.713274	0.643363	0.356637	False	count	two-sided	0.713274	False	False	
+TBX5	L-up_concordant	15	3.4	2.91376	bilateral_flat	-0.00910389	0.186519	-0.0488095	0.961071	0.519464	0.480536	False	count	two-sided	0.961071	False	False	0.961071
+SMAD2_3_4	L-up_flat	27	6.18519	4.08019	bilateral_flat	0.295514	0.115017	2.56931	0.01019	0.005095	0.994905	False	count	two-sided	0.01019	False	False	0.12228
+SMAD4	L-up_flat	27	1.22222	1.38382	bilateral_flat	-0.257047	0.159667	-1.6099	0.10742	0.94629	0.0537102	False	count	two-sided	0.10742	False	False	0.644523
+ISL1	L-up_flat	27	0.703704	0.965075	bilateral_flat	-0.39475	0.284296	-1.38852	0.16498	0.91751	0.0824898	False	count	two-sided	0.16498	False	False	0.659918
+GATA4	L-up_flat	27	2.18519	1.51889	bilateral_flat	0.132493	0.112928	1.17325	0.240696	0.120348	0.879652	False	count	two-sided	0.240696	False	False	0.722089
+FOXH1	L-up_flat	27	1.14815	1.2206	bilateral_flat	-0.226993	0.2203	-1.03038	0.302829	0.848585	0.151415	False	count	two-sided	0.302829	False	False	0.726791
+TBX5	L-up_flat	27	2.77778	2.91376	bilateral_flat	-0.0719359	0.121597	-0.591594	0.554123	0.722939	0.277061	False	count	two-sided	0.554123	False	False	0.888524
+FOXC1	L-up_flat	27	3.33333	2.59016	bilateral_flat	0.102309	0.21974	0.46559	0.641509	0.320755	0.679245	False	count	two-sided	0.641509	False	False	0.888524
+SMAD3	L-up_flat	27	0.925926	0.890235	bilateral_flat	-0.127533	0.28675	-0.444753	0.656498	0.671751	0.328249	False	count	two-sided	0.656498	False	False	0.888524
+SMAD5	L-up_flat	27	1.37037	1.13257	bilateral_flat	0.0651419	0.194081	0.335644	0.73714	0.36857	0.63143	False	count	two-sided	0.73714	False	False	0.888524
+PITX2	L-up_flat	27	0.925926	0.916964	bilateral_flat	-0.116685	0.180994	-0.644691	0.519127	0.740436	0.259564	False	count	one-sided(gt)	0.740436	False	False	0.888524
+TAATCC_raw	L-up_flat	27	0.333333	0.281896	bilateral_flat	0.0747695	0.321831	0.232325	0.816285	0.408143	0.591857	False	count	two-sided	0.816285	False	False	
+NKX6_1	L-up_flat	27	1.18519	1.06415	bilateral_flat	0.0550793	0.352616	0.156202	0.875874	0.437937	0.562063	False	count	two-sided	0.875874	False	False	0.892628
+Foxf1	L-up_flat	27	2.14815	1.83036	bilateral_flat	0.0350578	0.259727	0.134979	0.892628	0.446314	0.553686	False	count	two-sided	0.892628	False	False	0.892628
+SMAD3	L-up_flat_vs_R-up_flat	27	0.925926	1.46154	R-up_flat	-0.487902	0.361044	-1.35136	0.176579	0.911711	0.0882894	False	count	two-sided	0.176579	False	False	0.708612
+GATA4	L-up_flat_vs_R-up_flat	27	2.18519	1.53846	R-up_flat	0.281666	0.24584	1.14573	0.251908	0.125954	0.874046	False	count	two-sided	0.251908	False	False	0.708612
+SMAD5	L-up_flat_vs_R-up_flat	27	1.37037	1.76923	R-up_flat	-0.273292	0.246049	-1.11073	0.266687	0.866657	0.133343	False	count	two-sided	0.266687	False	False	0.708612
+SMAD2_3_4	L-up_flat_vs_R-up_flat	27	6.18519	4.92308	R-up_flat	0.245095	0.231833	1.05721	0.290417	0.145208	0.854792	False	count	two-sided	0.290417	False	False	0.708612
+NKX6_1	L-up_flat_vs_R-up_flat	27	1.18519	1.76923	R-up_flat	-0.507518	0.521877	-0.972485	0.330809	0.834595	0.165405	False	count	two-sided	0.330809	False	False	0.708612
+PITX2	L-up_flat_vs_R-up_flat	27	0.925926	0.769231	R-up_flat	0.138174	0.369726	0.373721	0.708612	0.354306	0.645694	False	count	one-sided(gt)	0.354306	False	False	0.708612
+TBX5	L-up_flat_vs_R-up_flat	27	2.77778	2.30769	R-up_flat	0.177562	0.226375	0.78437	0.432823	0.216411	0.783589	False	count	two-sided	0.432823	False	False	0.741982
+FOXH1	L-up_flat_vs_R-up_flat	27	1.14815	1.38462	R-up_flat	-0.268443	0.412174	-0.651286	0.514862	0.742569	0.257431	False	count	two-sided	0.514862	False	False	0.742112
+ISL1	L-up_flat_vs_R-up_flat	27	0.703704	0.846154	R-up_flat	-0.236177	0.428566	-0.551087	0.581574	0.709213	0.290787	False	count	two-sided	0.581574	False	False	0.742112
+SMAD4	L-up_flat_vs_R-up_flat	27	1.22222	1.38462	R-up_flat	-0.124145	0.249246	-0.498081	0.618427	0.690787	0.309213	False	count	two-sided	0.618427	False	False	0.742112
+FOXC1	L-up_flat_vs_R-up_flat	27	3.33333	2.46154	R-up_flat	0.141637	0.395391	0.358219	0.720179	0.36009	0.63991	False	count	two-sided	0.720179	False	False	0.772168
+Foxf1	L-up_flat_vs_R-up_flat	27	2.14815	1.69231	R-up_flat	0.098055	0.338657	0.289541	0.772168	0.386084	0.613916	False	count	two-sided	0.772168	False	False	0.772168
+TAATCC_raw	L-up_flat_vs_R-up_flat	27	0.333333	0.307692	R-up_flat	0.0581392	0.514441	0.113014	0.910019	0.45501	0.54499	False	count	two-sided	0.910019	False	False	
+FOXH1	L-up_mid	23	0.521739	1.2206	bilateral_flat	-1.04333	0.332151	-3.14112	0.00168302	0.999158	0.000841508	False	count	two-sided	0.00168302	False	False	0.0201962
+SMAD4	L-up_mid	23	1	1.38382	bilateral_flat	-0.470374	0.165097	-2.84908	0.00438454	0.997808	0.00219227	False	count	two-sided	0.00438454	False	False	0.0263073
+TBX5	L-up_mid	23	2.08696	2.91376	bilateral_flat	-0.355553	0.138133	-2.57399	0.0100534	0.994973	0.00502668	False	count	two-sided	0.0100534	False	False	0.0312838
+GATA4	L-up_mid	23	5.04348	1.51889	bilateral_flat	0.945464	0.370347	2.55291	0.0106827	0.00534133	0.994659	False	count	two-sided	0.0106827	False	False	0.0312838
+SMAD3	L-up_mid	23	0.565217	0.890235	bilateral_flat	-0.633246	0.255052	-2.48281	0.0130349	0.993483	0.00651747	False	count	two-sided	0.0130349	False	False	0.0312838
+SMAD5	L-up_mid	23	0.869565	1.13257	bilateral_flat	-0.400293	0.256015	-1.56355	0.117922	0.941039	0.0589611	False	count	two-sided	0.117922	False	False	0.235845
+FOXC1	L-up_mid	23	3.78261	2.59016	bilateral_flat	0.190929	0.166382	1.14753	0.251161	0.12558	0.87442	False	count	two-sided	0.251161	False	False	0.390016
+NKX6_1	L-up_mid	23	0.782609	1.06415	bilateral_flat	-0.370282	0.328741	-1.12637	0.260011	0.869995	0.130005	False	count	two-sided	0.260011	False	False	0.390016
+TAATCC_raw	L-up_mid	23	0.217391	0.281896	bilateral_flat	-0.359413	0.39128	-0.918555	0.358328	0.820836	0.179164	False	count	two-sided	0.358328	False	False	
+Foxf1	L-up_mid	23	1.78261	1.83036	bilateral_flat	-0.184624	0.202823	-0.910268	0.362681	0.818659	0.181341	False	count	two-sided	0.362681	False	False	0.483575
+PITX2	L-up_mid	23	1	0.916964	bilateral_flat	-0.0533006	0.230674	-0.231065	0.817265	0.591368	0.408632	False	count	one-sided(gt)	0.591368	False	False	0.609501
+SMAD2_3_4	L-up_mid	23	5.30435	4.08019	bilateral_flat	0.121271	0.236532	0.512702	0.608159	0.30408	0.69592	False	count	two-sided	0.608159	False	False	0.609501
+ISL1	L-up_mid	23	0.956522	0.965075	bilateral_flat	-0.101613	0.198934	-0.510785	0.609501	0.695249	0.304751	False	count	two-sided	0.609501	False	False	0.609501
+TAATCC_raw	R-up_anti	4	0	0.281896	bilateral_flat							False	count	two-sided		True	True	
+SMAD2_3_4	R-up_anti	4	5.5	4.08019	bilateral_flat							False	count	two-sided		True	True	
+SMAD3	R-up_anti	4	0.75	0.890235	bilateral_flat							False	count	two-sided		True	True	
+SMAD4	R-up_anti	4	0.25	1.38382	bilateral_flat							False	count	two-sided		True	True	
+SMAD5	R-up_anti	4	1.25	1.13257	bilateral_flat							False	count	two-sided		True	True	
+FOXH1	R-up_anti	4	2	1.2206	bilateral_flat							False	count	two-sided		True	True	
+NKX6_1	R-up_anti	4	1	1.06415	bilateral_flat							False	count	two-sided		True	True	
+Foxf1	R-up_anti	4	3.75	1.83036	bilateral_flat							False	count	two-sided		True	True	
+FOXC1	R-up_anti	4	5.5	2.59016	bilateral_flat							False	count	two-sided		True	True	
+GATA4	R-up_anti	4	1.5	1.51889	bilateral_flat							False	count	two-sided		True	True	
+ISL1	R-up_anti	4	1.25	0.965075	bilateral_flat							False	count	two-sided		True	True	
+TBX5	R-up_anti	4	1.75	2.91376	bilateral_flat							False	count	two-sided		True	True	
+PITX2	R-up_anti	4	0.5	0.916964	bilateral_flat							False	count	one-sided(gt)		True	True	
+FOXH1	R-up_concordant	18	0.611111	1.2206	bilateral_flat	-0.60132	0.241019	-2.4949	0.0125991	0.9937	0.00629956	False	count	two-sided	0.0125991	False	False	0.151189
+SMAD5	R-up_concordant	18	0.611111	1.13257	bilateral_flat	-0.688031	0.390633	-1.76132	0.0781839	0.960908	0.039092	False	count	two-sided	0.0781839	False	False	0.339634
+SMAD4	R-up_concordant	18	1	1.38382	bilateral_flat	-0.37948	0.234004	-1.62168	0.104872	0.947564	0.0524358	False	count	two-sided	0.104872	False	False	0.339634
+SMAD3	R-up_concordant	18	0.555556	0.890235	bilateral_flat	-0.520576	0.328663	-1.58392	0.113211	0.943394	0.0566057	False	count	two-sided	0.113211	False	False	0.339634
+NKX6_1	R-up_concordant	18	1.38889	1.06415	bilateral_flat	0.435925	0.298652	1.45964	0.144389	0.0721946	0.927805	False	count	two-sided	0.144389	False	False	0.346534
+TBX5	R-up_concordant	18	3.44444	2.91376	bilateral_flat	0.176458	0.163061	1.08216	0.279183	0.139591	0.860409	False	count	two-sided	0.279183	False	False	0.554079
+SMAD2_3_4	R-up_concordant	18	5	4.08019	bilateral_flat	0.088445	0.0974434	0.907655	0.36406	0.18203	0.81797	False	count	two-sided	0.36406	False	False	0.554079
+Foxf1	R-up_concordant	18	1.11111	1.83036	bilateral_flat	-0.316595	0.352703	-0.897625	0.369386	0.815307	0.184693	False	count	two-sided	0.369386	False	False	0.554079
+FOXC1	R-up_concordant	18	1.83333	2.59016	bilateral_flat	-0.162695	0.237149	-0.686046	0.492684	0.753658	0.246342	False	count	two-sided	0.492684	False	False	0.656912
+TAATCC_raw	R-up_concordant	18	0.333333	0.281896	bilateral_flat	0.185837	0.312376	0.594914	0.551901	0.27595	0.72405	False	count	two-sided	0.551901	False	False	
+ISL1	R-up_concordant	18	0.777778	0.965075	bilateral_flat	-0.107365	0.246491	-0.435575	0.663145	0.668427	0.331573	False	count	two-sided	0.663145	False	False	0.71907
+PITX2	R-up_concordant	18	0.777778	0.916964	bilateral_flat	-0.118634	0.249082	-0.476285	0.633871	0.683064	0.316936	False	count	one-sided(gt)	0.683064	False	False	0.71907
+GATA4	R-up_concordant	18	1.38889	1.51889	bilateral_flat	-0.093298	0.259376	-0.359702	0.71907	0.640465	0.359535	False	count	two-sided	0.71907	False	False	0.71907
+SMAD5	R-up_flat	13	1.76923	1.13257	bilateral_flat	0.338434	0.157575	2.14776	0.0317327	0.0158664	0.984134	False	count	two-sided	0.0317327	False	False	0.380793
+SMAD3	R-up_flat	13	1.46154	0.890235	bilateral_flat	0.360369	0.225121	1.60078	0.109426	0.0547131	0.945287	False	count	two-sided	0.109426	False	False	0.585898
+NKX6_1	R-up_flat	13	1.76923	1.06415	bilateral_flat	0.562597	0.387437	1.4521	0.146474	0.0732372	0.926763	False	count	two-sided	0.146474	False	False	0.585898
+TBX5	R-up_flat	13	2.30769	2.91376	bilateral_flat	-0.249498	0.192684	-1.29485	0.195371	0.902314	0.0976856	False	count	two-sided	0.195371	False	False	0.586113
+SMAD4	R-up_flat	13	1.38462	1.38382	bilateral_flat	-0.132903	0.195012	-0.681509	0.49555	0.752225	0.247775	False	count	two-sided	0.49555	False	False	0.90566
+GATA4	R-up_flat	13	1.53846	1.51889	bilateral_flat	-0.149173	0.222524	-0.670369	0.502623	0.748689	0.251311	False	count	two-sided	0.502623	False	False	0.90566
+ISL1	R-up_flat	13	0.846154	0.965075	bilateral_flat	-0.158572	0.324919	-0.488038	0.625523	0.687238	0.312762	False	count	two-sided	0.625523	False	False	0.90566
+Foxf1	R-up_flat	13	1.69231	1.83036	bilateral_flat	-0.0629972	0.220956	-0.285112	0.775558	0.612221	0.387779	False	count	two-sided	0.775558	False	False	0.90566
+PITX2	R-up_flat	13	0.769231	0.916964	bilateral_flat	-0.25486	0.325543	-0.782875	0.433701	0.78315	0.21685	False	count	one-sided(gt)	0.78315	False	False	0.90566
+SMAD2_3_4	R-up_flat	13	4.92308	4.08019	bilateral_flat	0.0504185	0.202336	0.249183	0.80322	0.40161	0.59839	False	count	two-sided	0.80322	False	False	0.90566
+FOXC1	R-up_flat	13	2.46154	2.59016	bilateral_flat	-0.0393282	0.331416	-0.118667	0.905539	0.547231	0.452769	False	count	two-sided	0.905539	False	False	0.90566
+FOXH1	R-up_flat	13	1.38462	1.2206	bilateral_flat	0.0414498	0.349743	0.118515	0.90566	0.45283	0.54717	False	count	two-sided	0.90566	False	False	0.90566
+TAATCC_raw	R-up_flat	13	0.307692	0.281896	bilateral_flat	0.0166304	0.407972	0.0407635	0.967484	0.483742	0.516258	False	count	two-sided	0.967484	False	False	
+ISL1	R-up_mid	13	0.538462	0.965075	bilateral_flat	-0.665123	0.261224	-2.54618	0.010891	0.994554	0.00544551	False	count	two-sided	0.010891	False	False	0.130692
+FOXH1	R-up_mid	13	0.846154	1.2206	bilateral_flat	-0.501699	0.24867	-2.01753	0.0436402	0.97818	0.0218201	False	count	two-sided	0.0436402	False	False	0.261841
+Foxf1	R-up_mid	13	0.846154	1.83036	bilateral_flat	-0.816502	0.498518	-1.63786	0.101451	0.949274	0.0507257	False	count	two-sided	0.101451	False	False	0.402575
+NKX6_1	R-up_mid	13	0.615385	1.06415	bilateral_flat	-0.561387	0.374814	-1.49778	0.134192	0.932904	0.0670958	False	count	two-sided	0.134192	False	False	0.402575
+FOXC1	R-up_mid	13	2	2.59016	bilateral_flat	-0.305761	0.22516	-1.35797	0.174472	0.912764	0.087236	False	count	two-sided	0.174472	False	False	0.418733
+TAATCC_raw	R-up_mid	13	0.153846	0.281896	bilateral_flat	-0.717196	0.682899	-1.05022	0.293616	0.853192	0.146808	False	count	two-sided	0.293616	False	False	
+SMAD5	R-up_mid	13	0.769231	1.13257	bilateral_flat	-0.507431	0.511403	-0.992233	0.321084	0.839458	0.160542	False	count	two-sided	0.321084	False	False	0.544311
+SMAD3	R-up_mid	13	0.769231	0.890235	bilateral_flat	-0.315669	0.357564	-0.882832	0.377327	0.811337	0.188663	False	count	two-sided	0.377327	False	False	0.544311
+GATA4	R-up_mid	13	1.61538	1.51889	bilateral_flat	-0.14557	0.187109	-0.777992	0.436574	0.781713	0.218287	False	count	two-sided	0.436574	False	False	0.544311
+SMAD4	R-up_mid	13	1.38462	1.38382	bilateral_flat	-0.159824	0.210754	-0.758344	0.448245	0.775878	0.224122	False	count	two-sided	0.448245	False	False	0.544311
+SMAD2_3_4	R-up_mid	13	4.23077	4.08019	bilateral_flat	-0.090373	0.12578	-0.718501	0.472448	0.763776	0.236224	False	count	two-sided	0.472448	False	False	0.544311
+TBX5	R-up_mid	13	2.69231	2.91376	bilateral_flat	-0.114505	0.169352	-0.67614	0.498951	0.750524	0.249476	False	count	two-sided	0.498951	False	False	0.544311
+PITX2	R-up_mid	13	0.846154	0.916964	bilateral_flat	-0.208819	0.276325	-0.755701	0.449829	0.775086	0.224914	False	count	one-sided(gt)	0.775086	False	False	0.775086
+SMAD4	bilateral_Lbias	749	1.40988	1.38382	bilateral_flat	-0.104053	0.0394085	-2.64036	0.00828177	0.995859	0.00414089	False	count	two-sided	0.00828177	False	False	0.0993813
+NKX6_1	bilateral_Lbias	749	1.23899	1.06415	bilateral_flat	0.122024	0.0709367	1.72018	0.0854001	0.0427	0.9573	False	count	two-sided	0.0854001	False	False	0.396155
+SMAD3	bilateral_Lbias	749	1.08545	0.890235	bilateral_flat	0.0882519	0.0535012	1.64953	0.0990388	0.0495194	0.950481	False	count	two-sided	0.0990388	False	False	0.396155
+ISL1	bilateral_Lbias	749	0.987984	0.965075	bilateral_flat	-0.0665494	0.0480868	-1.38394	0.166376	0.916812	0.0831879	False	count	two-sided	0.166376	False	False	0.406048
+SMAD2_3_4	bilateral_Lbias	749	4.5474	4.08019	bilateral_flat	0.0403872	0.0293763	1.37482	0.169186	0.0845932	0.915407	False	count	two-sided	0.169186	False	False	0.406048
+Foxf1	bilateral_Lbias	749	1.82644	1.83036	bilateral_flat	-0.0504954	0.0449998	-1.12213	0.261809	0.869095	0.130905	False	count	two-sided	0.261809	False	False	0.523618
+GATA4	bilateral_Lbias	749	1.79039	1.51889	bilateral_flat	0.0247303	0.0389146	0.635501	0.525101	0.262551	0.737449	False	count	two-sided	0.525101	False	False	0.879323
+TAATCC_raw	bilateral_Lbias	749	0.299065	0.281896	bilateral_flat	-0.0385173	0.0815565	-0.472278	0.636729	0.681636	0.318364	False	count	two-sided	0.636729	False	False	
+TBX5	bilateral_Lbias	749	3.07076	2.91376	bilateral_flat	0.0133582	0.0293629	0.454934	0.649157	0.324578	0.675422	False	count	two-sided	0.649157	False	False	0.879323
+SMAD5	bilateral_Lbias	749	1.22697	1.13257	bilateral_flat	0.0179492	0.0517983	0.34652	0.728952	0.364476	0.635524	False	count	two-sided	0.728952	False	False	0.879323
+PITX2	bilateral_Lbias	749	0.985314	0.916964	bilateral_flat	-0.0341991	0.0477821	-0.71573	0.474158	0.762921	0.237079	False	count	one-sided(gt)	0.762921	False	False	0.879323
+FOXC1	bilateral_Lbias	749	2.73832	2.59016	bilateral_flat	0.0128549	0.0523558	0.24553	0.806046	0.403023	0.596977	False	count	two-sided	0.806046	False	False	0.879323
+FOXH1	bilateral_Lbias	749	1.36449	1.2206	bilateral_flat	-0.000783375	0.0378353	-0.0207049	0.983481	0.508259	0.491741	False	count	two-sided	0.983481	False	False	0.983481
+FOXH1	bilateral_Rbias	2056	1.02091	1.2206	bilateral_flat	-0.084534	0.0302108	-2.79814	0.00513984	0.99743	0.00256992	False	count	two-sided	0.00513984	False	False	0.061678
+Foxf1	bilateral_Rbias	2056	1.57588	1.83036	bilateral_flat	-0.0767942	0.036025	-2.13169	0.0330322	0.983484	0.0165161	False	count	two-sided	0.0330322	False	False	0.159562
+ISL1	bilateral_Rbias	2056	0.821012	0.965075	bilateral_flat	-0.084206	0.0409785	-2.05488	0.0398905	0.980055	0.0199453	False	count	two-sided	0.0398905	False	False	0.159562
+SMAD4	bilateral_Rbias	2056	1.21498	1.38382	bilateral_flat	-0.0563549	0.0325602	-1.73079	0.0834886	0.958256	0.0417443	False	count	two-sided	0.0834886	False	False	0.250466
+GATA4	bilateral_Rbias	2056	1.46304	1.51889	bilateral_flat	0.0630286	0.0400613	1.5733	0.115648	0.0578242	0.942176	False	count	two-sided	0.115648	False	False	0.277556
+PITX2	bilateral_Rbias	2056	0.852626	0.916964	bilateral_flat	0.00819456	0.0381488	0.214805	0.829919	0.41496	0.58504	False	count	one-sided(gt)	0.41496	False	False	0.804894
+FOXC1	bilateral_Rbias	2056	2.33901	2.59016	bilateral_flat	-0.0292722	0.0404727	-0.723258	0.469521	0.765239	0.234761	False	count	two-sided	0.469521	False	False	0.804894
+SMAD3	bilateral_Rbias	2056	0.814689	0.890235	bilateral_flat	-0.0164403	0.042524	-0.386613	0.699043	0.650479	0.349521	False	count	two-sided	0.699043	False	False	0.948781
+NKX6_1	bilateral_Rbias	2056	1.02043	1.06415	bilateral_flat	0.012884	0.0447013	0.288225	0.773175	0.386587	0.613413	False	count	two-sided	0.773175	False	False	0.948781
+SMAD5	bilateral_Rbias	2056	1.0822	1.13257	bilateral_flat	-0.00743041	0.0375714	-0.197768	0.843227	0.578387	0.421613	False	count	two-sided	0.843227	False	False	0.948781
+SMAD2_3_4	bilateral_Rbias	2056	3.95963	4.08019	bilateral_flat	0.00177313	0.0182059	0.097393	0.922414	0.461207	0.538793	False	count	two-sided	0.922414	False	False	0.948781
+TBX5	bilateral_Rbias	2056	2.84095	2.91376	bilateral_flat	0.00153701	0.023927	0.0642377	0.948781	0.47439	0.52561	False	count	two-sided	0.948781	False	False	0.948781
+TAATCC_raw	bilateral_Rbias	2056	0.263619	0.281896	bilateral_flat	0.00143076	0.0767331	0.0186459	0.985124	0.492562	0.507438	False	count	two-sided	0.985124	False	False	
+GATA4	bilateral_mid	2809	1.56568	1.51889	bilateral_flat	0.0636421	0.0289436	2.19883	0.0278898	0.0139449	0.986055	False	count	two-sided	0.0278898	False	False	0.334678
+NKX6_1	bilateral_mid	2809	1.09968	1.06415	bilateral_flat	0.062497	0.0366208	1.7066	0.0878966	0.0439483	0.956052	False	count	two-sided	0.0878966	False	False	0.364184
+Foxf1	bilateral_mid	2809	1.67925	1.83036	bilateral_flat	-0.0474605	0.0298017	-1.59254	0.111263	0.944369	0.0556313	False	count	two-sided	0.111263	False	False	0.364184
+ISL1	bilateral_mid	2809	0.887504	0.965075	bilateral_flat	-0.0537601	0.0355292	-1.51312	0.130248	0.934876	0.0651241	False	count	two-sided	0.130248	False	False	0.364184
+FOXC1	bilateral_mid	2809	2.37202	2.59016	bilateral_flat	-0.0477478	0.0343363	-1.39059	0.164349	0.917826	0.0821744	False	count	two-sided	0.164349	False	False	0.364184
+SMAD4	bilateral_mid	2809	1.30972	1.38382	bilateral_flat	-0.037311	0.0279621	-1.33434	0.182092	0.908954	0.0910459	False	count	two-sided	0.182092	False	False	0.364184
+SMAD2_3_4	bilateral_mid	2809	4.1189	4.08019	bilateral_flat	0.0133121	0.0170238	0.781974	0.43423	0.217115	0.782885	False	count	two-sided	0.43423	False	False	0.744394
+TAATCC_raw	bilateral_mid	2809	0.266999	0.281896	bilateral_flat	-0.0333162	0.0580137	-0.574281	0.565777	0.717111	0.282889	False	count	two-sided	0.565777	False	False	
+SMAD3	bilateral_mid	2809	0.881452	0.890235	bilateral_flat	0.0102237	0.0365829	0.279467	0.779886	0.389943	0.610057	False	count	two-sided	0.779886	False	False	0.962856
+SMAD5	bilateral_mid	2809	1.11855	1.13257	bilateral_flat	-0.00328132	0.0334053	-0.0982275	0.921752	0.539124	0.460876	False	count	two-sided	0.921752	False	False	0.962856
+TBX5	bilateral_mid	2809	2.89605	2.91376	bilateral_flat	0.00167743	0.0205789	0.0815121	0.935035	0.467517	0.532483	False	count	two-sided	0.935035	False	False	0.962856
+PITX2	bilateral_mid	2809	0.843361	0.916964	bilateral_flat	-0.0557521	0.0316574	-1.76111	0.0782201	0.96089	0.03911	False	count	one-sided(gt)	0.96089	False	False	0.962856
+FOXH1	bilateral_mid	2809	1.17515	1.2206	bilateral_flat	-0.00122547	0.0263145	-0.0465699	0.962856	0.518572	0.481428	False	count	two-sided	0.962856	False	False	0.962856
+TAATCC_raw	L-up_anti	4	0.75	0.224163	bilateral_flat							True	presence	two-sided		True	True	
+SMAD2_3_4	L-up_anti	4	1	0.968282	bilateral_flat							True	presence	two-sided		True	True	
+SMAD3	L-up_anti	4	0.75	0.458304	bilateral_flat							True	presence	two-sided		True	True	
+SMAD4	L-up_anti	4	0.75	0.685674	bilateral_flat							True	presence	two-sided		True	True	
+SMAD5	L-up_anti	4	0.75	0.538845	bilateral_flat							True	presence	two-sided		True	True	
+FOXH1	L-up_anti	4	0.75	0.605488	bilateral_flat							True	presence	two-sided		True	True	
+NKX6_1	L-up_anti	4	0.5	0.488952	bilateral_flat							True	presence	two-sided		True	True	
+Foxf1	L-up_anti	4	0.75	0.662153	bilateral_flat							True	presence	two-sided		True	True	
+FOXC1	L-up_anti	4	0.75	0.703493	bilateral_flat							True	presence	two-sided		True	True	
+GATA4	L-up_anti	4	0.75	0.690663	bilateral_flat							True	presence	two-sided		True	True	
+ISL1	L-up_anti	4	0.75	0.539558	bilateral_flat							True	presence	two-sided		True	True	
+TBX5	L-up_anti	4	0.75	0.904847	bilateral_flat							True	presence	two-sided		True	True	
+PITX2	L-up_anti	4	0.75	0.531718	bilateral_flat							True	presence	one-sided(gt)		True	True	
+SMAD4	L-up_concordant	15	0.666667	0.685674	bilateral_flat	-0.943318	0.560741	-1.68227	0.0925161	0.953742	0.0462581	False	presence	two-sided	0.0925161	False	False	1
+SMAD5	L-up_concordant	15	0.466667	0.538845	bilateral_flat	-0.657109	0.521623	-1.25974	0.207764	0.896118	0.103882	False	presence	two-sided	0.207764	False	False	1
+SMAD3	L-up_concordant	15	0.466667	0.458304	bilateral_flat	-0.607837	0.590402	-1.02953	0.303231	0.848385	0.151615	False	presence	two-sided	0.303231	False	False	1
+ISL1	L-up_concordant	15	0.666667	0.539558	bilateral_flat	-0.301627	0.609171	-0.495143	0.620499	0.689751	0.310249	False	presence	two-sided	0.620499	False	False	1
+TAATCC_raw	L-up_concordant	15	0.333333	0.224163	bilateral_flat	-0.0273986	0.494516	-0.0554049	0.955816	0.522092	0.477908	False	presence	two-sided	0.955816	False	False	
+PITX2	L-up_concordant	15	0.533333	0.531718	bilateral_flat	-0.893758	0.440229	-2.03021	0.042335	0.978833	0.0211675	False	presence	one-sided(gt)	0.978833	False	False	1
+NKX6_1	L-up_concordant	15	0.666667	0.488952	bilateral_flat	-0.00164607	0.615779	-0.00267314	0.997867	0.501066	0.498934	False	presence	two-sided	0.997867	False	False	1
+SMAD2_3_4	L-up_concordant	15	1	0.968282	bilateral_flat							True	presence	two-sided		False	True	
+FOXH1	L-up_concordant	15	0.866667	0.605488	bilateral_flat							True	presence	two-sided		False	True	
+Foxf1	L-up_concordant	15	0.8	0.662153	bilateral_flat							True	presence	two-sided		False	True	
+FOXC1	L-up_concordant	15	0.933333	0.703493	bilateral_flat							True	presence	two-sided		False	True	
+GATA4	L-up_concordant	15	0.866667	0.690663	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	L-up_concordant	15	0.933333	0.904847	bilateral_flat							True	presence	two-sided		False	True	
+FOXH1	L-up_flat	27	0.777778	0.605488	bilateral_flat	0.616737	0.491805	1.25403	0.209833	0.104916	0.895084	False	presence	two-sided	0.209833	False	False	1
+ISL1	L-up_flat	27	0.481481	0.539558	bilateral_flat	-0.478962	0.481949	-0.993801	0.32032	0.83984	0.16016	False	presence	two-sided	0.32032	False	False	1
+SMAD5	L-up_flat	27	0.666667	0.538845	bilateral_flat	0.389147	0.416068	0.935296	0.349636	0.174818	0.825182	False	presence	two-sided	0.349636	False	False	1
+TAATCC_raw	L-up_flat	27	0.296296	0.224163	bilateral_flat	0.216627	0.440023	0.492308	0.622502	0.311251	0.688749	False	presence	two-sided	0.622502	False	False	
+PITX2	L-up_flat	27	0.555556	0.531718	bilateral_flat	-0.126932	0.398858	-0.318238	0.750304	0.624848	0.375152	False	presence	one-sided(gt)	0.624848	False	False	1
+NKX6_1	L-up_flat	27	0.481481	0.488952	bilateral_flat	-0.176846	0.42372	-0.417365	0.676411	0.661794	0.338206	False	presence	two-sided	0.676411	False	False	1
+FOXC1	L-up_flat	27	0.814815	0.703493	bilateral_flat	0.214237	0.535957	0.399727	0.689358	0.344679	0.655321	False	presence	two-sided	0.689358	False	False	1
+Foxf1	L-up_flat	27	0.703704	0.662153	bilateral_flat	-0.157548	0.517042	-0.304711	0.760587	0.619707	0.380293	False	presence	two-sided	0.760587	False	False	1
+SMAD3	L-up_flat	27	0.481481	0.458304	bilateral_flat	-0.106952	0.413095	-0.258904	0.795709	0.602145	0.397855	False	presence	two-sided	0.795709	False	False	1
+SMAD4	L-up_flat	27	0.740741	0.685674	bilateral_flat	-0.0611563	0.484608	-0.126197	0.899576	0.550212	0.449788	False	presence	two-sided	0.899576	False	False	1
+GATA4	L-up_flat	27	0.777778	0.690663	bilateral_flat	0.0532139	0.516889	0.10295	0.918002	0.459001	0.540999	False	presence	two-sided	0.918002	False	False	1
+SMAD2_3_4	L-up_flat	27	1	0.968282	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	L-up_flat	27	0.925926	0.904847	bilateral_flat							True	presence	two-sided		False	True	
+FOXH1	L-up_mid	23	0.304348	0.605488	bilateral_flat	-1.95098	0.524202	-3.72182	0.000197795	0.999901	9.88974e-05	False	presence	two-sided	0.000197795	False	False	0.00237354
+SMAD5	L-up_mid	23	0.434783	0.538845	bilateral_flat	-0.586501	0.424199	-1.38261	0.166785	0.916608	0.0833924	False	presence	two-sided	0.166785	False	False	0.607365
+NKX6_1	L-up_mid	23	0.391304	0.488952	bilateral_flat	-0.570073	0.489701	-1.16412	0.244373	0.877813	0.122187	False	presence	two-sided	0.244373	False	False	0.607365
+ISL1	L-up_mid	23	0.478261	0.539558	bilateral_flat	-0.45095	0.391142	-1.15291	0.248949	0.875525	0.124475	False	presence	two-sided	0.248949	False	False	0.607365
+SMAD4	L-up_mid	23	0.652174	0.685674	bilateral_flat	-0.525498	0.459783	-1.14293	0.253069	0.873466	0.126534	False	presence	two-sided	0.253069	False	False	0.607365
+SMAD3	L-up_mid	23	0.434783	0.458304	bilateral_flat	-0.305675	0.440559	-0.693834	0.487786	0.756107	0.243893	False	presence	two-sided	0.487786	False	False	0.916719
+PITX2	L-up_mid	23	0.565217	0.531718	bilateral_flat	-0.0435548	0.49935	-0.087223	0.930494	0.534753	0.465247	False	presence	one-sided(gt)	0.534753	False	False	0.916719
+TAATCC_raw	L-up_mid	23	0.217391	0.224163	bilateral_flat	-0.222777	0.521885	-0.426869	0.669474	0.665263	0.334737	False	presence	two-sided	0.669474	False	False	
+Foxf1	L-up_mid	23	0.695652	0.662153	bilateral_flat	-0.0360261	0.472641	-0.0762229	0.939242	0.530379	0.469621	False	presence	two-sided	0.939242	False	False	1
+SMAD2_3_4	L-up_mid	23	1	0.968282	bilateral_flat							True	presence	two-sided		False	True	
+FOXC1	L-up_mid	23	0.826087	0.703493	bilateral_flat							True	presence	two-sided		False	True	
+GATA4	L-up_mid	23	0.826087	0.690663	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	L-up_mid	23	0.826087	0.904847	bilateral_flat							True	presence	two-sided		False	True	
+TAATCC_raw	R-up_anti	4	0	0.224163	bilateral_flat							True	presence	two-sided		True	True	
+SMAD2_3_4	R-up_anti	4	1	0.968282	bilateral_flat							True	presence	two-sided		True	True	
+SMAD3	R-up_anti	4	0.5	0.458304	bilateral_flat							True	presence	two-sided		True	True	
+SMAD4	R-up_anti	4	0.25	0.685674	bilateral_flat							True	presence	two-sided		True	True	
+SMAD5	R-up_anti	4	0.75	0.538845	bilateral_flat							True	presence	two-sided		True	True	
+FOXH1	R-up_anti	4	0.75	0.605488	bilateral_flat							True	presence	two-sided		True	True	
+NKX6_1	R-up_anti	4	0.5	0.488952	bilateral_flat							True	presence	two-sided		True	True	
+Foxf1	R-up_anti	4	1	0.662153	bilateral_flat							True	presence	two-sided		True	True	
+FOXC1	R-up_anti	4	1	0.703493	bilateral_flat							True	presence	two-sided		True	True	
+GATA4	R-up_anti	4	0.75	0.690663	bilateral_flat							True	presence	two-sided		True	True	
+ISL1	R-up_anti	4	0.5	0.539558	bilateral_flat							True	presence	two-sided		True	True	
+TBX5	R-up_anti	4	0.75	0.904847	bilateral_flat							True	presence	two-sided		True	True	
+PITX2	R-up_anti	4	0.25	0.531718	bilateral_flat							True	presence	one-sided(gt)		True	True	
+NKX6_1	R-up_concordant	18	0.722222	0.488952	bilateral_flat	1.31087	0.603193	2.17322	0.0297634	0.0148817	0.985118	False	presence	two-sided	0.0297634	False	False	0.235837
+FOXH1	R-up_concordant	18	0.388889	0.605488	bilateral_flat	-0.976669	0.512587	-1.90537	0.0567319	0.971634	0.028366	False	presence	two-sided	0.0567319	False	False	0.235837
+SMAD5	R-up_concordant	18	0.333333	0.538845	bilateral_flat	-0.925251	0.490118	-1.88781	0.059051	0.970475	0.0295255	False	presence	two-sided	0.059051	False	False	0.235837
+SMAD4	R-up_concordant	18	0.555556	0.685674	bilateral_flat	-0.79437	0.451656	-1.7588	0.0786123	0.960694	0.0393061	False	presence	two-sided	0.0786123	False	False	0.235837
+SMAD3	R-up_concordant	18	0.333333	0.458304	bilateral_flat	-0.600802	0.493005	-1.21865	0.222976	0.888512	0.111488	False	presence	two-sided	0.222976	False	False	0.467925
+Foxf1	R-up_concordant	18	0.5	0.662153	bilateral_flat	-0.720797	0.605604	-1.19021	0.233963	0.883019	0.116981	False	presence	two-sided	0.233963	False	False	0.467925
+TAATCC_raw	R-up_concordant	18	0.333333	0.224163	bilateral_flat	0.525438	0.491232	1.06963	0.284784	0.142392	0.857608	False	presence	two-sided	0.284784	False	False	
+PITX2	R-up_concordant	18	0.5	0.531718	bilateral_flat	-0.104906	0.475809	-0.220479	0.825498	0.587251	0.412749	False	presence	one-sided(gt)	0.587251	False	False	0.993059
+GATA4	R-up_concordant	18	0.666667	0.690663	bilateral_flat	-0.221174	0.576603	-0.383582	0.701289	0.649356	0.350644	False	presence	two-sided	0.701289	False	False	0.993059
+FOXC1	R-up_concordant	18	0.666667	0.703493	bilateral_flat	-0.2138	0.656814	-0.325511	0.744794	0.627603	0.372397	False	presence	two-sided	0.744794	False	False	0.993059
+ISL1	R-up_concordant	18	0.5	0.539558	bilateral_flat	-0.0769431	0.470532	-0.163524	0.870106	0.564947	0.435053	False	presence	two-sided	0.870106	False	False	1
+SMAD2_3_4	R-up_concordant	18	1	0.968282	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	R-up_concordant	18	0.888889	0.904847	bilateral_flat							True	presence	two-sided		False	True	
+ISL1	R-up_flat	13	0.615385	0.539558	bilateral_flat	0.374822	0.675471	0.554905	0.57896	0.28948	0.71052	False	presence	two-sided	0.57896	False	False	1
+NKX6_1	R-up_flat	13	0.538462	0.488952	bilateral_flat	0.332562	0.686748	0.484257	0.628203	0.314102	0.685898	False	presence	two-sided	0.628203	False	False	1
+PITX2	R-up_flat	13	0.461538	0.531718	bilateral_flat	-0.391148	0.699509	-0.559176	0.576042	0.711979	0.288021	False	presence	one-sided(gt)	0.711979	False	False	1
+FOXH1	R-up_flat	13	0.615385	0.605488	bilateral_flat	0.0476645	0.800604	0.0595357	0.952525	0.476263	0.523737	False	presence	two-sided	0.952525	False	False	1
+TAATCC_raw	R-up_flat	13	0.307692	0.224163	bilateral_flat							True	presence	two-sided		False	True	
+SMAD2_3_4	R-up_flat	13	0.923077	0.968282	bilateral_flat							True	presence	two-sided		False	True	
+SMAD3	R-up_flat	13	0.769231	0.458304	bilateral_flat							True	presence	two-sided		False	True	
+SMAD4	R-up_flat	13	0.769231	0.685674	bilateral_flat							True	presence	two-sided		False	True	
+SMAD5	R-up_flat	13	0.846154	0.538845	bilateral_flat							True	presence	two-sided		False	True	
+Foxf1	R-up_flat	13	0.846154	0.662153	bilateral_flat							True	presence	two-sided		False	True	
+FOXC1	R-up_flat	13	0.692308	0.703493	bilateral_flat							True	presence	two-sided		False	True	
+GATA4	R-up_flat	13	0.692308	0.690663	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	R-up_flat	13	0.846154	0.904847	bilateral_flat							True	presence	two-sided		False	True	
+Foxf1	R-up_mid	13	0.384615	0.662153	bilateral_flat	-1.87787	0.793811	-2.36564	0.017999	0.991	0.0089995	False	presence	two-sided	0.017999	False	False	0.215988
+ISL1	R-up_mid	13	0.461538	0.539558	bilateral_flat	-0.570268	0.567736	-1.00446	0.315157	0.842421	0.157579	False	presence	two-sided	0.315157	False	False	1
+FOXH1	R-up_mid	13	0.538462	0.605488	bilateral_flat	-0.641868	0.686356	-0.935183	0.349694	0.825153	0.174847	False	presence	two-sided	0.349694	False	False	1
+PITX2	R-up_mid	13	0.615385	0.531718	bilateral_flat	0.168603	0.627882	0.268526	0.788294	0.394147	0.605853	False	presence	one-sided(gt)	0.394147	False	False	1
+SMAD3	R-up_mid	13	0.461538	0.458304	bilateral_flat	-0.193657	0.501617	-0.386065	0.699449	0.650276	0.349724	False	presence	two-sided	0.699449	False	False	1
+NKX6_1	R-up_mid	13	0.461538	0.488952	bilateral_flat	-0.261446	0.717071	-0.364603	0.715408	0.642296	0.357704	False	presence	two-sided	0.715408	False	False	1
+TAATCC_raw	R-up_mid	13	0.153846	0.224163	bilateral_flat							True	presence	two-sided		False	True	
+SMAD2_3_4	R-up_mid	13	1	0.968282	bilateral_flat							True	presence	two-sided		False	True	
+SMAD4	R-up_mid	13	0.692308	0.685674	bilateral_flat							True	presence	two-sided		False	True	
+SMAD5	R-up_mid	13	0.307692	0.538845	bilateral_flat							True	presence	two-sided		False	True	
+FOXC1	R-up_mid	13	0.769231	0.703493	bilateral_flat							True	presence	two-sided		False	True	
+GATA4	R-up_mid	13	0.769231	0.690663	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	R-up_mid	13	0.846154	0.904847	bilateral_flat							True	presence	two-sided		False	True	
+TBX5	bilateral_Lbias	749	0.934579	0.904847	bilateral_flat	0.260986	0.165701	1.57504	0.115246	0.0576232	0.942377	False	presence	two-sided	0.115246	False	False	0.816452
+SMAD2_3_4	bilateral_Lbias	749	0.981308	0.968282	bilateral_flat	0.415956	0.29389	1.41535	0.156967	0.0784833	0.921517	False	presence	two-sided	0.156967	False	False	0.816452
+SMAD4	bilateral_Lbias	749	0.70494	0.685674	bilateral_flat	-0.120334	0.0947569	-1.26992	0.204113	0.897944	0.102056	False	presence	two-sided	0.204113	False	False	0.816452
+PITX2	bilateral_Lbias	749	0.568758	0.531718	bilateral_flat	0.0303658	0.0907938	0.334447	0.738042	0.369021	0.630979	False	presence	one-sided(gt)	0.369021	False	False	0.881026
+FOXH1	bilateral_Lbias	749	0.6502	0.605488	bilateral_flat	0.0736702	0.0966485	0.762249	0.445911	0.222956	0.777044	False	presence	two-sided	0.445911	False	False	0.881026
+GATA4	bilateral_Lbias	749	0.738318	0.690663	bilateral_flat	0.0525364	0.101914	0.515495	0.606207	0.303104	0.696896	False	presence	two-sided	0.606207	False	False	0.881026
+ISL1	bilateral_Lbias	749	0.559413	0.539558	bilateral_flat	-0.0420126	0.092021	-0.456554	0.647991	0.676004	0.323996	False	presence	two-sided	0.647991	False	False	0.881026
+SMAD3	bilateral_Lbias	749	0.497997	0.458304	bilateral_flat	0.0376508	0.0851797	0.442016	0.658478	0.329239	0.670761	False	presence	two-sided	0.658478	False	False	0.881026
+NKX6_1	bilateral_Lbias	749	0.502003	0.488952	bilateral_flat	-0.0386946	0.0912151	-0.424213	0.671411	0.664295	0.335705	False	presence	two-sided	0.671411	False	False	0.881026
+SMAD5	bilateral_Lbias	749	0.551402	0.538845	bilateral_flat	-0.0172942	0.0847844	-0.203978	0.838371	0.580815	0.419185	False	presence	two-sided	0.838371	False	False	0.881026
+Foxf1	bilateral_Lbias	749	0.686248	0.662153	bilateral_flat	-0.015529	0.10314	-0.150562	0.880321	0.559839	0.440161	False	presence	two-sided	0.880321	False	False	0.881026
+FOXC1	bilateral_Lbias	749	0.738318	0.703493	bilateral_flat	0.016254	0.1086	0.149669	0.881026	0.440513	0.559487	False	presence	two-sided	0.881026	False	False	0.881026
+TAATCC_raw	bilateral_Lbias	749	0.245661	0.224163	bilateral_flat	-0.0110752	0.100597	-0.110095	0.912334	0.543833	0.456167	False	presence	two-sided	0.912334	False	False	
+ISL1	bilateral_Rbias	2056	0.473249	0.539558	bilateral_flat	-0.165221	0.0626454	-2.6374	0.0083544	0.995823	0.0041772	False	presence	two-sided	0.0083544	False	False	0.100253
+Foxf1	bilateral_Rbias	2056	0.601654	0.662153	bilateral_flat	-0.136813	0.0687787	-1.98917	0.0466824	0.976659	0.0233412	False	presence	two-sided	0.0466824	False	False	0.280095
+SMAD3	bilateral_Rbias	2056	0.411479	0.458304	bilateral_flat	-0.104109	0.0606718	-1.71594	0.0861732	0.956913	0.0430866	False	presence	two-sided	0.0861732	False	False	0.302406
+FOXH1	bilateral_Rbias	2056	0.548638	0.605488	bilateral_flat	-0.10372	0.0660585	-1.57012	0.116387	0.941806	0.0581936	False	presence	two-sided	0.116387	False	False	0.302406
+SMAD4	bilateral_Rbias	2056	0.636673	0.685674	bilateral_flat	-0.0937177	0.0635588	-1.4745	0.140346	0.929827	0.070173	False	presence	two-sided	0.140346	False	False	0.302406
+SMAD5	bilateral_Rbias	2056	0.506323	0.538845	bilateral_flat	-0.0822191	0.0589479	-1.39478	0.163083	0.918458	0.0815417	False	presence	two-sided	0.163083	False	False	0.302406
+SMAD2_3_4	bilateral_Rbias	2056	0.958171	0.968282	bilateral_flat	-0.197869	0.154411	-1.28144	0.200038	0.899981	0.100019	False	presence	two-sided	0.200038	False	False	0.302406
+NKX6_1	bilateral_Rbias	2056	0.444066	0.488952	bilateral_flat	-0.0804901	0.0630309	-1.277	0.201604	0.899198	0.100802	False	presence	two-sided	0.201604	False	False	0.302406
+PITX2	bilateral_Rbias	2056	0.511187	0.531718	bilateral_flat	0.0375582	0.0616229	0.609484	0.542203	0.271102	0.728898	False	presence	one-sided(gt)	0.271102	False	False	0.361469
+GATA4	bilateral_Rbias	2056	0.643482	0.690663	bilateral_flat	-0.0497984	0.0695819	-0.71568	0.474189	0.762906	0.237094	False	presence	two-sided	0.474189	False	False	0.569027
+TAATCC_raw	bilateral_Rbias	2056	0.202335	0.224163	bilateral_flat	-0.0423398	0.072718	-0.582246	0.560401	0.7198	0.2802	False	presence	two-sided	0.560401	False	False	
+FOXC1	bilateral_Rbias	2056	0.671206	0.703493	bilateral_flat	0.0390682	0.0733246	0.532812	0.594164	0.297082	0.702918	False	presence	two-sided	0.594164	False	False	0.648179
+TBX5	bilateral_Rbias	2056	0.896401	0.904847	bilateral_flat	0.027126	0.0986745	0.274904	0.78339	0.391695	0.608305	False	presence	two-sided	0.78339	False	False	0.78339
+SMAD4	bilateral_mid	2809	0.666429	0.685674	bilateral_flat	-0.0581787	0.0590628	-0.985032	0.324609	0.837696	0.162304	False	presence	two-sided	0.324609	False	False	0.764305
+SMAD2_3_4	bilateral_mid	2809	0.971876	0.968282	bilateral_flat	0.149291	0.156846	0.951834	0.341181	0.170591	0.829409	False	presence	two-sided	0.341181	False	False	0.764305
+GATA4	bilateral_mid	2809	0.689213	0.690663	bilateral_flat	0.0603255	0.0638768	0.944404	0.344963	0.172482	0.827518	False	presence	two-sided	0.344963	False	False	0.764305
+TBX5	bilateral_mid	2809	0.908864	0.904847	bilateral_flat	0.0877799	0.0933609	0.940222	0.347104	0.173552	0.826448	False	presence	two-sided	0.347104	False	False	0.764305
+SMAD5	bilateral_mid	2809	0.523318	0.538845	bilateral_flat	-0.0487235	0.0538412	-0.904948	0.365493	0.817254	0.182746	False	presence	two-sided	0.365493	False	False	0.764305
+SMAD3	bilateral_mid	2809	0.44215	0.458304	bilateral_flat	-0.0401743	0.0549612	-0.730959	0.464804	0.767598	0.232402	False	presence	two-sided	0.464804	False	False	0.764305
+Foxf1	bilateral_mid	2809	0.641509	0.662153	bilateral_flat	-0.0409115	0.0637329	-0.641922	0.520924	0.739538	0.260462	False	presence	two-sided	0.520924	False	False	0.764305
+PITX2	bilateral_mid	2809	0.52047	0.531718	bilateral_flat	-0.00532544	0.0564575	-0.0943265	0.92485	0.537575	0.462425	False	presence	one-sided(gt)	0.537575	False	False	0.764305
+NKX6_1	bilateral_mid	2809	0.484158	0.488952	bilateral_flat	0.0312365	0.0574429	0.543784	0.58659	0.293295	0.706705	False	presence	two-sided	0.58659	False	False	0.764305
+FOXH1	bilateral_mid	2809	0.586686	0.605488	bilateral_flat	-0.0285827	0.0605555	-0.472008	0.636921	0.68154	0.31846	False	presence	two-sided	0.636921	False	False	0.764305
+ISL1	bilateral_mid	2809	0.525098	0.539558	bilateral_flat	-0.0150275	0.0573866	-0.261864	0.793427	0.603287	0.396713	False	presence	two-sided	0.793427	False	False	0.865556
+FOXC1	bilateral_mid	2809	0.691349	0.703493	bilateral_flat	0.00869543	0.0672168	0.129364	0.89707	0.448535	0.551465	False	presence	two-sided	0.89707	False	False	0.89707
+TAATCC_raw	bilateral_mid	2809	0.220007	0.224163	bilateral_flat	0.00113987	0.0653687	0.0174375	0.986088	0.493044	0.506956	False	presence	two-sided	0.986088	False	False	

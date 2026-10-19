@@ -1,0 +1,2 @@
+stage	neg_source	positive_filter	tss_win	n_distal_peaks	n_pos	n_neg	neg_ratio	realized_neg_ratio	n_deficit_bins	cpm_cutoff	pos_gc_mean	neg_gc_mean	pos_repeat_mean	neg_repeat_mean	gc_only_auc	repeat_only_auc	L	k	d	t	cv_folds	cv_auc	n_shuffle	null_auc_mean	null_auc_max	shuffle_emp_p	elapsed_sec	model_prefix
+dynLostFloor	peak	none		-1	1473	1471	1	0.9986	1		0.6224	0.6213	0.1928	0.1917	0.5027	0.5008	6	5	1	2	5	0.9999995384863182	10	0.5022	0.5253	0.0909	9.4	/n/scratch/users/c/cl266/FC_08656/phase2/atac/gkmsvm/rightpeak/dynlost_floor/h9_dorsalbg_dynLostFloor

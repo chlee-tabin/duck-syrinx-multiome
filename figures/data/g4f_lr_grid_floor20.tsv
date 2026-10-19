@@ -1,0 +1,15 @@
+stage	compartment	design	n_L_half	n_R_half	n_paired	status	n_locus_tested	n_L_sig	n_R_sig	median_log2FC	frac_L_of_tested
+HH13	ventral	unpaired	8	6	6	ok	224	0	0	-0.0567	0.4777
+HH13	ventral	paired	6	6	6	ok	191	0	0	-0.0975	0.4712
+HH17/16	ventral	unpaired	16	11	8	ok	358	8	0	0.3544	0.7486
+HH17/16	ventral	paired	8	8	8	ok	346	0	0	0.3163	0.6994
+HH21	ventral	unpaired	8	8	8	ok	359	11	0	-0.0265	0.4624
+HH21	ventral	paired	8	8	8	ok	359	10	0	-0.0312	0.4763
+HH25	ventral	unpaired	8	8	8	ok	359	22	23	-0.1028	0.3928
+HH25	ventral	paired	8	8	8	ok	359	16	15	-0.0938	0.4039
+HH17/16	dorsal	unpaired	12	5	3	ok	316	0	0	0.4443	0.6582
+HH17/16	dorsal	paired	3	3	3	ok	47	0	0	0.4615	0.5532
+HH21	dorsal	unpaired	6	5	4	ok	98	0	0	-0.056	0.4898
+HH21	dorsal	paired	4	4	4	ok	66	0	0	-0.2221	0.4091
+HH25	dorsal	unpaired	5	7	4	ok	205	0	0	0.2146	0.5854
+HH25	dorsal	paired	4	4	4	ok	89	0	0	0.1608	0.618

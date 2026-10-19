@@ -1,0 +1,141 @@
+metric	gene	subcluster	value
+n_paired_embryos			13
+pool_floor_nuclei			20
+pool_median_nuclei			86
+share_nuclei_median_L		Cardiopharyngeal LPM	0.419142
+share_nuclei_median_R		Cardiopharyngeal LPM	0.625
+share_nuclei_n_R_gt_L		Cardiopharyngeal LPM	9
+share_nuclei_wilcoxon_p_exact		Cardiopharyngeal LPM	0.0942383
+share_nuclei_n_zero_diff		Cardiopharyngeal LPM	0
+share_umi_median_L		Cardiopharyngeal LPM	0.366393
+share_umi_median_R		Cardiopharyngeal LPM	0.605303
+share_nuclei_median_L		BARX1+	0.580858
+share_nuclei_median_R		BARX1+	0.375
+share_nuclei_n_R_gt_L		BARX1+	4
+share_nuclei_wilcoxon_p_exact		BARX1+	0.0942383
+share_nuclei_n_zero_diff		BARX1+	0
+share_umi_median_L		BARX1+	0.633607
+share_umi_median_R		BARX1+	0.394697
+pooled_cpm_mean_L	AHR		118.421
+pooled_cpm_mean_R	AHR		255.737
+delta_mean	AHR		137.316
+composition_mean	AHR		59.5111
+within_mean	AHR		77.8049
+composition_pct_of_delta	AHR		43.3388
+n_embryos_R_gt_L	AHR		11
+within_n_R_gt_L	AHR		11
+composition_n_R_gt_L	AHR		9
+pooled_cpm_mean_L	CHRM2		161.392
+pooled_cpm_mean_R	CHRM2		406.954
+delta_mean	CHRM2		245.562
+composition_mean	CHRM2		116.674
+within_mean	CHRM2		128.888
+composition_pct_of_delta	CHRM2		47.5129
+n_embryos_R_gt_L	CHRM2		12
+within_n_R_gt_L	CHRM2		12
+composition_n_R_gt_L	CHRM2		9
+pooled_cpm_mean_L	PITX2		80.1964
+pooled_cpm_mean_R	PITX2		36.2632
+delta_mean	PITX2		-43.9331
+composition_mean	PITX2		-0.47429
+within_mean	PITX2		-43.4588
+composition_pct_of_delta	PITX2		1.07957
+n_embryos_R_gt_L	PITX2		3
+within_n_R_gt_L	PITX2		3
+composition_n_R_gt_L	PITX2		6
+n_embryos_focal_gt_other	AHR	Cardiopharyngeal LPM > BARX1+	13
+fold_focal_over_other_median	AHR	Cardiopharyngeal LPM / BARX1+	7.08441
+fold_focal_over_other_n_zero_denominator	AHR	Cardiopharyngeal LPM / BARX1+	0
+fold_focal_over_other_n_undefined	AHR	Cardiopharyngeal LPM / BARX1+	0
+n_embryos_focal_gt_other	CHRM2	Cardiopharyngeal LPM > BARX1+	13
+fold_focal_over_other_median	CHRM2	Cardiopharyngeal LPM / BARX1+	13.1893
+fold_focal_over_other_n_zero_denominator	CHRM2	Cardiopharyngeal LPM / BARX1+	1
+fold_focal_over_other_n_undefined	CHRM2	Cardiopharyngeal LPM / BARX1+	0
+n_embryos_focal_gt_other	PITX2	Cardiopharyngeal LPM > BARX1+	1
+fold_focal_over_other_median	PITX2	Cardiopharyngeal LPM / BARX1+	0.421367
+fold_focal_over_other_n_zero_denominator	PITX2	Cardiopharyngeal LPM / BARX1+	0
+fold_focal_over_other_n_undefined	PITX2	Cardiopharyngeal LPM / BARX1+	0
+cpm_both_halves_mean	AHR	Cardiopharyngeal LPM	293.256
+cpm_both_halves_median	AHR	Cardiopharyngeal LPM	259.924
+cpm_median_L	AHR	Cardiopharyngeal LPM	206.004
+cpm_median_R	AHR	Cardiopharyngeal LPM	332.848
+within_k_mean	AHR	Cardiopharyngeal LPM	71.344
+composition_k_mean	AHR	Cardiopharyngeal LPM	65.6264
+gene_umi_sum_L	AHR	Cardiopharyngeal LPM	312
+gene_umi_sum_R	AHR	Cardiopharyngeal LPM	504
+cpm_lr_n_embryos_unborrowed	AHR	Cardiopharyngeal LPM	13
+cpm_lr_median_L_unborrowed	AHR	Cardiopharyngeal LPM	206.004
+cpm_lr_median_R_unborrowed	AHR	Cardiopharyngeal LPM	332.848
+cpm_lr_n_R_gt_L_unborrowed	AHR	Cardiopharyngeal LPM	11
+cpm_lr_wilcoxon_p_exact_unborrowed	AHR	Cardiopharyngeal LPM	0.0134277
+cpm_lr_n_zero_diff_unborrowed	AHR	Cardiopharyngeal LPM	0
+cpm_both_halves_mean	AHR	BARX1+	45.0242
+cpm_both_halves_median	AHR	BARX1+	30.1896
+cpm_median_L	AHR	BARX1+	15.4786
+cpm_median_R	AHR	BARX1+	37.6294
+within_k_mean	AHR	BARX1+	6.46084
+composition_k_mean	AHR	BARX1+	-6.11533
+gene_umi_sum_L	AHR	BARX1+	89
+gene_umi_sum_R	AHR	BARX1+	54
+cpm_lr_n_embryos_unborrowed	AHR	BARX1+	11
+cpm_lr_median_L_unborrowed	AHR	BARX1+	14.3055
+cpm_lr_median_R_unborrowed	AHR	BARX1+	37.6294
+cpm_lr_n_R_gt_L_unborrowed	AHR	BARX1+	7
+cpm_lr_wilcoxon_p_exact_unborrowed	AHR	BARX1+	0.240234
+cpm_lr_n_zero_diff_unborrowed	AHR	BARX1+	0
+cpm_both_halves_mean	CHRM2	Cardiopharyngeal LPM	462.139
+cpm_both_halves_median	CHRM2	Cardiopharyngeal LPM	455.651
+cpm_median_L	CHRM2	Cardiopharyngeal LPM	382.89
+cpm_median_R	CHRM2	Cardiopharyngeal LPM	538.317
+within_k_mean	CHRM2	Cardiopharyngeal LPM	115.31
+composition_k_mean	CHRM2	Cardiopharyngeal LPM	120.204
+gene_umi_sum_L	CHRM2	Cardiopharyngeal LPM	608
+gene_umi_sum_R	CHRM2	Cardiopharyngeal LPM	709
+cpm_lr_n_embryos_unborrowed	CHRM2	Cardiopharyngeal LPM	13
+cpm_lr_median_L_unborrowed	CHRM2	Cardiopharyngeal LPM	382.89
+cpm_lr_median_R_unborrowed	CHRM2	Cardiopharyngeal LPM	538.317
+cpm_lr_n_R_gt_L_unborrowed	CHRM2	Cardiopharyngeal LPM	11
+cpm_lr_wilcoxon_p_exact_unborrowed	CHRM2	Cardiopharyngeal LPM	0.0214844
+cpm_lr_n_zero_diff_unborrowed	CHRM2	Cardiopharyngeal LPM	0
+cpm_both_halves_mean	CHRM2	BARX1+	33.5342
+cpm_both_halves_median	CHRM2	BARX1+	32.7868
+cpm_median_L	CHRM2	BARX1+	10.8054
+cpm_median_R	CHRM2	BARX1+	36.2801
+within_k_mean	CHRM2	BARX1+	13.5782
+composition_k_mean	CHRM2	BARX1+	-3.53006
+gene_umi_sum_L	CHRM2	BARX1+	63
+gene_umi_sum_R	CHRM2	BARX1+	69
+cpm_lr_n_embryos_unborrowed	CHRM2	BARX1+	11
+cpm_lr_median_L_unborrowed	CHRM2	BARX1+	10.8054
+cpm_lr_median_R_unborrowed	CHRM2	BARX1+	36.7396
+cpm_lr_n_R_gt_L_unborrowed	CHRM2	BARX1+	7
+cpm_lr_wilcoxon_p_exact_unborrowed	CHRM2	BARX1+	0.206055
+cpm_lr_n_zero_diff_unborrowed	CHRM2	BARX1+	0
+cpm_both_halves_mean	PITX2	Cardiopharyngeal LPM	38.2527
+cpm_both_halves_median	PITX2	Cardiopharyngeal LPM	34.0338
+cpm_median_L	PITX2	Cardiopharyngeal LPM	37.1198
+cpm_median_R	PITX2	Cardiopharyngeal LPM	16.5417
+within_k_mean	PITX2	Cardiopharyngeal LPM	-15.617
+composition_k_mean	PITX2	Cardiopharyngeal LPM	10.2409
+gene_umi_sum_L	PITX2	Cardiopharyngeal LPM	81
+gene_umi_sum_R	PITX2	Cardiopharyngeal LPM	31
+cpm_lr_n_embryos_unborrowed	PITX2	Cardiopharyngeal LPM	13
+cpm_lr_median_L_unborrowed	PITX2	Cardiopharyngeal LPM	37.1198
+cpm_lr_median_R_unborrowed	PITX2	Cardiopharyngeal LPM	16.5417
+cpm_lr_n_R_gt_L_unborrowed	PITX2	Cardiopharyngeal LPM	3
+cpm_lr_wilcoxon_p_exact_unborrowed	PITX2	Cardiopharyngeal LPM	0.273438
+cpm_lr_n_zero_diff_unborrowed	PITX2	Cardiopharyngeal LPM	0
+cpm_both_halves_mean	PITX2	BARX1+	105.429
+cpm_both_halves_median	PITX2	BARX1+	78.0576
+cpm_median_L	PITX2	BARX1+	110.222
+cpm_median_R	PITX2	BARX1+	44.195
+within_k_mean	PITX2	BARX1+	-27.8418
+composition_k_mean	PITX2	BARX1+	-10.7152
+gene_umi_sum_L	PITX2	BARX1+	269
+gene_umi_sum_R	PITX2	BARX1+	97
+cpm_lr_n_embryos_unborrowed	PITX2	BARX1+	11
+cpm_lr_median_L_unborrowed	PITX2	BARX1+	81.7528
+cpm_lr_median_R_unborrowed	PITX2	BARX1+	0
+cpm_lr_n_R_gt_L_unborrowed	PITX2	BARX1+	2
+cpm_lr_wilcoxon_p_exact_unborrowed	PITX2	BARX1+	0.174805
+cpm_lr_n_zero_diff_unborrowed	PITX2	BARX1+	0

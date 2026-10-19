@@ -1,0 +1,5 @@
+fastqs,sample,library_type
+<FASTQ_DIR>/FC_08470/multiome-pilot-gex/outs/fastq_path,PILOTGEX4B,Gene Expression
+<FASTQ_DIR>/FC_08475_BaseSpace/multiome-pilot-atac/outs/fastq_path,PILOTATAC4B,Chromatin Accessibility
+<FASTQ_DIR>/FC_08483/multiome-pilot-atac/outs/fastq_path,PILOTATAC4B,Chromatin Accessibility
+<FASTQ_DIR>/FC_08487/multiome-pilot-atac/outs/fastq_path,PILOTATAC4B,Chromatin Accessibility

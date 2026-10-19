@@ -1,0 +1,17 @@
+cluster	annotation	marker_genes	n_cells
+0	LPM mesenchyme		46208
+1	Neural progenitor		37673
+2	Splanchnic mesenchyme		20944
+3	Sclerotome		16335
+4	Neural crest		11202
+5	Dermomyotome		9195
+6	Epithelial		8192
+7	Pharyngeal endoderm		7811
+8	Endothelial		4436
+9	Otic placode		3400
+10	Diff. neuron		3284
+11	Dorsal neural prog.		3093
+12	Ventral neural prog.		2451
+13	Notochord		1382
+14	Cardiomyocyte		972
+15	RBC		355

@@ -1,0 +1,134 @@
+#!/bin/bash
+# .githooks/pre-commit — installed via:  git config core.hooksPath .githooks
+#
+# Runs scripts/verify_derived_data.py against the current repo state
+# ONLY when the commit touches paths that could change the derived-data
+# partition (figures/data/, cluster_annotations.tsv, subcluster
+# alphabet files, the manifest, or the validator itself).  Commits to
+# unrelated files skip the check — otherwise unrelated work would be
+# blocked on a still-stale repo until the first pipeline round-trip,
+# training users to alias SKIP_DERIVED_DATA_CHECK=1 into muscle memory.
+#
+# To force a full validation on any commit:
+#   FORCE_DERIVED_DATA_CHECK=1 git commit ...
+# To bypass even when triggered:
+#   SKIP_DERIVED_DATA_CHECK=1 git commit ...
+#
+# Also runs scripts/verify_portable_paths.py on the STAGED .py/.sh/.R files, to
+# stop a new single-user hardcoded root (/n/scratch/users/<u>/…, /home/<u>, …)
+# from creeping back in.  See docs/audit_hardcoded_paths.md.
+#   Bypass:  SKIP_PORTABLE_PATHS_CHECK=1 git commit ...
+
+set -euo pipefail
+
+REPO_ROOT=$(git rev-parse --show-toplevel)
+# The staged path list, read ONCE.  Every trigger test below greps this variable through
+# a here-string, never `git diff --cached ... | grep -q`: under pipefail, grep -q exiting
+# on an early match can SIGPIPE the writer on a long list, the pipeline returns 141, and
+# the check would be skipped without a word.
+STAGED=$(git diff --cached --name-only)
+
+# ── Portable-path guardrail ────────────────────────────────────────────
+# NOT path-triggered (unlike the derived-data check): a new root literal can
+# appear in ANY .py/.sh/.R, and the whole point is that the lock-in cannot creep
+# back.  It only inspects STAGED files, so it is fast and never blocks on
+# pre-existing state.
+PORTABLE_PATHS="$REPO_ROOT/scripts/verify_portable_paths.py"
+if [ -f "$PORTABLE_PATHS" ] && [ "${SKIP_PORTABLE_PATHS_CHECK:-0}" != "1" ]; then
+    if ! python3 "$PORTABLE_PATHS"; then
+        echo ""
+        echo "pre-commit: portable-path check FAILED (docs/audit_hardcoded_paths.md)."
+        echo "Bypass with:  SKIP_PORTABLE_PATHS_CHECK=1 git commit ..."
+        exit 1
+    fi
+fi
+
+# Cluster-executed Python, checked against an interpreter <= the cluster's. Staged .py only, so
+# it costs nothing on an unrelated commit. Bypass: SKIP_CLUSTER_PYTHON_CHECK=1
+CLUSTER_PY_CHECK="$REPO_ROOT/scripts/verify_cluster_python.py"
+if [ -f "$CLUSTER_PY_CHECK" ] && [ "${SKIP_CLUSTER_PYTHON_CHECK:-0}" != "1" ]; then
+    STAGED_PY=$(git diff --cached --name-only --diff-filter=ACM | grep '\.py$' || true)
+    if [ -n "$STAGED_PY" ]; then
+        # shellcheck disable=SC2086
+        if ! (cd "$REPO_ROOT" && python3 "$CLUSTER_PY_CHECK" $STAGED_PY); then
+            echo ""
+            echo "pre-commit: cluster-python check FAILED — these run on the cluster (3.11)."
+            echo "Bypass with:  SKIP_CLUSTER_PYTHON_CHECK=1 git commit ..."
+            exit 1
+        fi
+    fi
+fi
+
+# ── Same-side duplicate reference vs e3 ───────────────────────────────
+# d2l/d2n read references/same_side_duplicate_genotypes.tsv, and their loader
+# checks only its SHAPE (two GEX04+GEX0S-duck L rows citing 17-5,17-6), so a
+# hand edit that names the wrong two genotypes would load.  The validator
+# recomputes the calls from e3 and raises on any disagreement.  Triggered by its
+# inputs and code.  It runs on the STAGED content: every file it reads (data and
+# code) is exported from the index into a temporary mirror of the repo layout and
+# the validator runs from there (its paths derive from __file__), so a bad version
+# that is staged but then reverted in the working tree is still caught.  It needs
+# pandas + scipy, which the system python3 lacks, so it runs under
+# $DUCK_PYTHON_SCI (default: the duckfig conda env, ~5 s) and FAILS the commit if
+# that interpreter cannot run it.
+#   Bypass:  SKIP_SAME_SIDE_DUP_CHECK=1 git commit ...
+SSD_FILES="references/same_side_duplicate_genotypes.tsv figures/data/e3_composition.tsv design/embryo_lr_design.tsv design/lane_loading_record_layout.tsv pipeline/_same_side_duplicates.py pipeline/validate_same_side_duplicates.py figures/_shared/__init__.py figures/_shared/lr_firmness.py figures/_shared/library_naming.py"
+SSD_TRIGGER_RE='^(references/same_side_duplicate_genotypes\.tsv|figures/data/e3_composition\.tsv|design/embryo_lr_design\.tsv|design/lane_loading_record_layout\.tsv|pipeline/_same_side_duplicates\.py|pipeline/validate_same_side_duplicates\.py|figures/_shared/(__init__|lr_firmness|library_naming)\.py|\.githooks/pre-commit)$'
+if [ "${SKIP_SAME_SIDE_DUP_CHECK:-0}" != "1" ] \
+   && grep -Eq "$SSD_TRIGGER_RE" <<<"$STAGED"; then
+    echo "pre-commit: running validate_same_side_duplicates.py on the staged content..."
+    SSD_TMP=$(mktemp -d "${TMPDIR:-/tmp}/ssd_staged.XXXXXX")
+    trap 'rm -rf "$SSD_TMP"' EXIT
+    for f in $SSD_FILES; do
+        mkdir -p "$SSD_TMP/$(dirname "$f")"
+        if ! git show ":$f" > "$SSD_TMP/$f" 2>/dev/null; then
+            echo "pre-commit: same-side duplicate check cannot read staged '$f' (not in the index)."
+            echo "Bypass with:  SKIP_SAME_SIDE_DUP_CHECK=1 git commit ..."
+            exit 1
+        fi
+    done
+    # shellcheck disable=SC2086
+    if ! (cd "$SSD_TMP" && ${DUCK_PYTHON_SCI:-conda run -n duckfig python3} \
+            "$SSD_TMP/pipeline/validate_same_side_duplicates.py"); then
+        echo ""
+        echo "pre-commit: same-side duplicate check FAILED on the staged content (or its"
+        echo "interpreter is unavailable: set DUCK_PYTHON_SCI to a python3 with pandas + scipy)."
+        echo "Bypass with:  SKIP_SAME_SIDE_DUP_CHECK=1 git commit ..."
+        exit 1
+    fi
+fi
+
+if [ "${SKIP_DERIVED_DATA_CHECK:-0}" = "1" ]; then
+    echo "pre-commit: SKIP_DERIVED_DATA_CHECK=1 — skipping derived data check"
+    exit 0
+fi
+
+VALIDATOR="$REPO_ROOT/scripts/verify_derived_data.py"
+MANIFEST="$REPO_ROOT/pipeline/derived_data_manifest.tsv"
+
+if [ ! -f "$VALIDATOR" ] || [ ! -f "$MANIFEST" ]; then
+    # Infra not yet installed on this branch — skip silently.
+    exit 0
+fi
+
+# Paths whose staged changes trigger the validator.  If none are in the
+# index, the commit can't regress derived-data freshness, so the check
+# is a waste of time (and a papercut that encourages SKIP bypass).
+TRIGGER_RE='^(figures/data/|references/cluster_annotations\.tsv$|references/d2g_subcluster_annotations\.tsv$|pipeline/derived_data_manifest\.tsv$|scripts/verify_derived_data\.py$|\.githooks/pre-commit$)'
+
+if [ "${FORCE_DERIVED_DATA_CHECK:-0}" != "1" ]; then
+    if ! grep -Eq "$TRIGGER_RE" <<<"$STAGED"; then
+        # No derived-data-relevant paths in this commit.  Skip silently.
+        exit 0
+    fi
+fi
+
+echo "pre-commit: running verify_derived_data.py..."
+if ! python3 "$VALIDATOR"; then
+    echo ""
+    echo "pre-commit: derived data verification FAILED."
+    echo "Bypass with:  SKIP_DERIVED_DATA_CHECK=1 git commit ..."
+    echo "Or regenerate the derived tables from the pipeline (see figures/data/README.md)."
+    exit 1
+fi
+echo "pre-commit: derived data OK"

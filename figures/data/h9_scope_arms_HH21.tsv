@@ -1,0 +1,5 @@
+arm	role	positive_filter	n_pos	n_neg	realized_neg_ratio	pos_gc_mean	neg_gc_mean	gc_only_auc	cv_auc	null_auc_mean	n_motifs	top_motif_consensus	smad15_bmp_exact	smad15_bmp_degenerate	smad23_nodal	interpretation
+distal_real	real load-bearing distal arm, re-trained on NC_-only negatives	distal	2000	1080	0.540	0.6243	0.5444	0.7112	0.9023	0.4924	5	CAGCCGGGCT	0	0	0	no exact AND no degenerate(GRCGNC) SMAD in dorsal-open distal enhancers (clean negatives)
+degen_floor	floor: plant GACGTC (degenerate GC-SBE) into distal positives	distal	1000	529	0.529	0.6207	0.5362	0.7192	1.0000	0.4971	3	TGAGACGTCT	0	2	3	method RECOVERS the planted DEGENERATE GC-SBE (top motif) -> degenerate sensitivity validated
+promoter_floor	floor: plant GGCGCC (exact BRE) into promoter positives	promoter	1000	69	0.069	0.7520	0.6530	0.9362	1.0000	0.4878	4	TGAGGCGCCT	2	2	1	method RECOVERS the planted BRE (top motif) despite SEVERE GC-starvation -> promoter validatable
+promoter_real	real readout, promoter positives, no plant	promoter	2000	193	0.0965	0.7489	0.6493	0.8940	0.9874	0.5089	4	GCCCGCCCCG	0	0	0	no exact AND no degenerate SMAD in promoter chromatin (top motif = GC-box / CpG grammar)

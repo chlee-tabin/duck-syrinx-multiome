@@ -1,0 +1,6 @@
+compartment	stage_pair	design	n_early_half	n_late_half	gw_tested	gw_gained	gw_lost	gw_median_log2FC	locus_tested	locus_gained	locus_lost	locus_median_log2FC
+ventral	HH13->HH17/16	inferred_side+commit_stage	3	17	283259	0	1	0.2337	358	0	0	0.1893
+ventral	HH17/16->HH21	inferred_side+commit_stage	17	16	283818	11055	9247	0.1394	359	22	17	0.1133
+ventral	HH21->HH25	inferred_side+commit_stage	16	16	283818	29938	26230	-0.0439	359	58	38	0.0615
+dorsal	HH17/16->HH21	commit_stage	7	2	216448	0	0	-0.3997	279	0	0	-0.1828
+dorsal	HH21->HH25	inferred_side+commit_stage	2	7	156590	0	0	0.1743	178	0	0	0.1025

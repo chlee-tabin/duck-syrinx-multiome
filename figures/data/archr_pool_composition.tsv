@@ -1,0 +1,79 @@
+peak_pool	stage	pool_n_cells	label_kind	label	n_cells	frac
+HH13|Early LPM	HH13	584	d2g_population	Early LPM	553	0.946917808219178
+HH13|Early LPM	HH13	584	d2g_population	Contamination	14	0.023972602739726
+HH13|Early LPM	HH13	584	d2g_population	Cardiopharyngeal LPM	8	0.0136986301369863
+HH13|Early LPM	HH13	584	d2g_population	PRRX1+/FOXF1-low mes.	6	0.0102739726027397
+HH13|Early LPM	HH13	584	d2g_population	Venous-pole spl.	3	0.00513698630136986
+HH13|Sclerotome	HH13	619	global_cell_type_outside_d2g	Sclerotome	619	1
+HH17/16|BARX1+	HH17/16	2209	d2g_population	BARX1+	2204	0.997736532367587
+HH17/16|BARX1+	HH17/16	2209	d2g_population	Venous-pole spl.	2	0.000905387052965143
+HH17/16|BARX1+	HH17/16	2209	d2g_population	Contamination	2	0.000905387052965143
+HH17/16|BARX1+	HH17/16	2209	d2g_population	Cardiopharyngeal LPM	1	0.000452693526482571
+HH17/16|Cardiopharyngeal LPM	HH17/16	813	d2g_population	Cardiopharyngeal LPM	804	0.988929889298893
+HH17/16|Cardiopharyngeal LPM	HH17/16	813	d2g_population	PRRX1+/FOXF1-low mes.	8	0.00984009840098401
+HH17/16|Cardiopharyngeal LPM	HH17/16	813	d2g_population	Skeletogenic LPM	1	0.001230012300123
+HH17/16|Dermomyotome	HH17/16	2008	global_cell_type_outside_d2g	Dermomyotome	2008	1
+HH17/16|Dorsal-biased LPM	HH17/16	1474	d2g_population	Dorsal-biased LPM	1143	0.775440976933514
+HH17/16|Dorsal-biased LPM	HH17/16	1474	d2g_population	BARX1+	129	0.087516960651289
+HH17/16|Dorsal-biased LPM	HH17/16	1474	d2g_population	Venous-pole spl.	117	0.0793758480325645
+HH17/16|Dorsal-biased LPM	HH17/16	1474	d2g_population	Skeletogenic LPM	80	0.0542740841248304
+HH17/16|Dorsal-biased LPM	HH17/16	1474	d2g_population	Contamination	5	0.0033921302578019
+HH17/16|Early LPM	HH17/16	2084	d2g_population	Skeletogenic LPM	1238	0.59404990403071
+HH17/16|Early LPM	HH17/16	2084	d2g_population	Venous-pole spl.	602	0.288867562380038
+HH17/16|Early LPM	HH17/16	2084	d2g_population	Cardiopharyngeal LPM	224	0.107485604606526
+HH17/16|Early LPM	HH17/16	2084	d2g_population	Contamination	9	0.00431861804222649
+HH17/16|Early LPM	HH17/16	2084	d2g_population	Dorsal-biased LPM	7	0.00335892514395393
+HH17/16|Early LPM	HH17/16	2084	d2g_population	BARX1+	4	0.00191938579654511
+HH17/16|Epicardial mes.	HH17/16	569	d2g_population	Dorsal-biased LPM	358	0.629173989455185
+HH17/16|Epicardial mes.	HH17/16	569	d2g_population	Mesothelium	149	0.261862917398946
+HH17/16|Epicardial mes.	HH17/16	569	d2g_population	PRRX1+/FOXF1-low mes.	61	0.107205623901582
+HH17/16|Epicardial mes.	HH17/16	569	d2g_population	Contamination	1	0.00175746924428823
+HH17/16|Sclerotome	HH17/16	2308	global_cell_type_outside_d2g	Sclerotome	2308	1
+HH17/16|Somatic	HH17/16	2521	d2g_population	Skeletogenic LPM	1245	0.493851646172154
+HH17/16|Somatic	HH17/16	2521	d2g_population	Contamination	472	0.187227290757636
+HH17/16|Somatic	HH17/16	2521	d2g_population	Cardiopharyngeal LPM	460	0.182467274890916
+HH17/16|Somatic	HH17/16	2521	d2g_population	PRRX1+/FOXF1-low mes.	327	0.129710432368108
+HH17/16|Somatic	HH17/16	2521	d2g_population	BARX1+	8	0.00317334391114637
+HH17/16|Somatic	HH17/16	2521	d2g_population	Dorsal-biased LPM	8	0.00317334391114637
+HH17/16|Somatic	HH17/16	2521	d2g_population	Venous-pole spl.	1	0.000396667988893296
+HH21|BARX1+	HH21	1285	d2g_population	BARX1+	1283	0.998443579766537
+HH21|BARX1+	HH21	1285	d2g_population	Syringeal	1	0.000778210116731518
+HH21|BARX1+	HH21	1285	d2g_population	Venous-pole spl.	1	0.000778210116731518
+HH21|Dorsal sub-epi.	HH21	1319	d2g_population	Ventral spl.	583	0.442001516300227
+HH21|Dorsal sub-epi.	HH21	1319	d2g_population	Dorsal sub-epi.	441	0.33434420015163
+HH21|Dorsal sub-epi.	HH21	1319	d2g_population	Skeletogenic LPM	288	0.218347232752085
+HH21|Dorsal sub-epi.	HH21	1319	d2g_population	BARX1+	5	0.00379075056861259
+HH21|Dorsal sub-epi.	HH21	1319	d2g_population	Syringeal	2	0.00151630022744503
+HH21|Somatic	HH21	619	d2g_population	Skeletogenic LPM	615	0.993537964458804
+HH21|Somatic	HH21	619	d2g_population	Syringeal	4	0.00646203554119548
+HH21|Splanchnic	HH21	1868	d2g_population	BARX1+	1654	0.885438972162741
+HH21|Splanchnic	HH21	1868	d2g_population	Venous-pole spl.	180	0.0963597430406852
+HH21|Splanchnic	HH21	1868	d2g_population	Ventral spl.	29	0.015524625267666
+HH21|Splanchnic	HH21	1868	d2g_population	Dorsal sub-epi.	3	0.00160599571734475
+HH21|Splanchnic	HH21	1868	d2g_population	Skeletogenic LPM	1	0.000535331905781585
+HH21|Splanchnic	HH21	1868	d2g_population	Syringeal	1	0.000535331905781585
+HH21|Syringeal	HH21	2054	d2g_population	Syringeal	1949	0.94888023369036
+HH21|Syringeal	HH21	2054	d2g_population	Ventral spl.	53	0.0258033106134372
+HH21|Syringeal	HH21	2054	d2g_population	Skeletogenic LPM	30	0.0146056475170399
+HH21|Syringeal	HH21	2054	d2g_population	Venous-pole spl.	22	0.0107108081791626
+HH21|Ventral spl.	HH21	5597	d2g_population	Ventral spl.	4027	0.719492585313561
+HH21|Ventral spl.	HH21	5597	d2g_population	Venous-pole spl.	1268	0.2265499374665
+HH21|Ventral spl.	HH21	5597	d2g_population	Syringeal	186	0.033232088618903
+HH21|Ventral spl.	HH21	5597	d2g_population	Dorsal sub-epi.	76	0.013578702876541
+HH21|Ventral spl.	HH21	5597	d2g_population	BARX1+	26	0.00464534572092192
+HH21|Ventral spl.	HH21	5597	d2g_population	Skeletogenic LPM	10	0.00178667143112382
+HH21|Ventral spl.	HH21	5597	d2g_population	Mesothelium	4	0.000714668572449526
+HH25|Chondrogenic LPM	HH25	1612	d2g_population	Syringeal	1569	0.973325062034739
+HH25|Chondrogenic LPM	HH25	1612	d2g_population	Ventral spl.	40	0.0248138957816377
+HH25|Chondrogenic LPM	HH25	1612	d2g_population	Venous-pole spl.	3	0.00186104218362283
+HH25|Epithelial	HH25	987	global_cell_type_outside_d2g	Epithelial	987	1
+HH25|Somatic	HH25	839	d2g_population	Ventral spl.	382	0.455303933253874
+HH25|Somatic	HH25	839	d2g_population	Skeletogenic LPM	378	0.450536352800954
+HH25|Somatic	HH25	839	d2g_population	Dorsal sub-epi.	79	0.0941597139451728
+HH25|Syringeal	HH25	920	d2g_population	Ventral spl.	916	0.995652173913044
+HH25|Syringeal	HH25	920	d2g_population	Syringeal	2	0.00217391304347826
+HH25|Syringeal	HH25	920	d2g_population	Venous-pole spl.	2	0.00217391304347826
+HH25|Ventral spl.	HH25	8375	d2g_population	Ventral spl.	7571	0.904
+HH25|Ventral spl.	HH25	8375	d2g_population	Venous-pole spl.	660	0.0788059701492537
+HH25|Ventral spl.	HH25	8375	d2g_population	Dorsal sub-epi.	132	0.0157611940298507
+HH25|Ventral spl.	HH25	8375	d2g_population	Syringeal	12	0.00143283582089552

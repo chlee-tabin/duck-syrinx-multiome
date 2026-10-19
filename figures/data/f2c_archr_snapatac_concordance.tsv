@@ -1,0 +1,11 @@
+check	value
+n_peaks_snapatac	25541.0
+n_peaks_archr	283818.0
+width_median_snapatac	501.0
+width_median_archr	501.0
+width_min_snapatac	357.0
+width_min_archr	501.0
+width_max_snapatac	501.0
+width_max_archr	501.0
+snapatac_matched_in_archr_pct	94.14275087114835
+archr_matched_in_snapatac_pct	8.471978521446843

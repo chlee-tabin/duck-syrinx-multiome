@@ -1,0 +1,2 @@
+stage	neg_source	positive_filter	tss_win	n_distal_peaks	n_pos	n_neg	neg_ratio	realized_neg_ratio	n_deficit_bins	cpm_cutoff	pos_gc_mean	neg_gc_mean	pos_repeat_mean	neg_repeat_mean	gc_only_auc	repeat_only_auc	L	k	d	t	cv_folds	cv_auc	n_shuffle	null_auc_mean	null_auc_max	shuffle_emp_p	elapsed_sec	model_prefix
+focGenomic	genomic	none		-1	359	347	1	0.9666	11		0.4531	0.4439	0.1647	0.1582	0.5175	0.5224	6	5	1	2	5	0.7135173753542099	200	0.4984	0.573	0.005	5.8	/n/scratch/users/c/cl266/FC_08656/phase2/atac/gkmsvm/rightpeak/foc_genomic/h9_dorsalbg_focGenomic

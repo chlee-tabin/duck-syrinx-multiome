@@ -1,0 +1,23 @@
+# g3h duck BMP7-locus windows for the chick lift + PITX-motif scan.
+# name=<label>|<class>. 0-based. See scripts/make_bmp7_motif_windows.py.
+# duck background in this window: 38/119 = 0.319 PITX2-motif+ per 501-bp peak.
+# The promoter window is appended by pipeline/run_g3h_bmp7_chick.sh (needs the GTF).
+NC_051792.1	9441138	9441639	BMP7_L79kb|Lopen_motif	0	+
+NC_051792.1	9426938	9427439	BMP7_L65kb|Lopen_motif	0	+
+NC_051792.1	9375769	9376270	BMP7_L13kb|Lopen_motif	0	+
+NC_051792.1	9214998	9215499	BMP7_bg00_100kb_m0|bg	0	+
+NC_051792.1	9221529	9222030	BMP7_bg01_93kb_m1|bg	0	+
+NC_051792.1	9226645	9227146	BMP7_bg02_88kb_m0|bg	0	+
+NC_051792.1	9239138	9239639	BMP7_bg03_75kb_m0|bg	0	+
+NC_051792.1	9244787	9245288	BMP7_bg04_70kb_m1|bg	0	+
+NC_051792.1	9261299	9261800	BMP7_bg05_53kb_m0|bg	0	+
+NC_051792.1	9317529	9318030	BMP7_bg06_0kb_m0|bg	0	+
+NC_051792.1	9319486	9319987	BMP7_bg07_0kb_m1|bg	0	+
+NC_051792.1	9337190	9337691	BMP7_bg08_0kb_m1|bg	0	+
+NC_051792.1	9346403	9346904	BMP7_bg09_0kb_m0|bg	0	+
+NC_051792.1	9382553	9383054	BMP7_bg10_20kb_m1|bg	0	+
+NC_051792.1	9388820	9389321	BMP7_bg11_26kb_m1|bg	0	+
+NC_051792.1	9396081	9396582	BMP7_bg12_34kb_m0|bg	0	+
+NC_051792.1	9405383	9405884	BMP7_bg13_43kb_m1|bg	0	+
+NC_051792.1	9430598	9431099	BMP7_bg14_68kb_m1|bg	0	+
+NC_051792.1	9436341	9436842	BMP7_bg15_74kb_m0|bg	0	+

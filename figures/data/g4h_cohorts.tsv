@@ -1,0 +1,6 @@
+stage	compartment	design	status	n_L	n_R	n_paired	n_peaks	n_L_sig	n_R_sig
+HH17/16	ventral	paired	ok	2	2	2	88272	0	0
+HH17/16	ventral	unpaired	ok	11	6	2	282890	0	0
+HH21	ventral	paired	ok	8	8	8	283818	3	0
+HH21	ventral	unpaired	ok	8	8	8	283818	3	0
+HH21	dorsal	unpaired	skipped_sides	1	1	0	0	0	0

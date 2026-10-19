@@ -1,0 +1,2 @@
+mode	path_choice	tool	homer_version	n_pos	n_neg	motif_lengths	n_opt_per_length	n_motifs_discovered	n_known_results	real_top1_log10_p	null_top1_log10_p_len8	null_real_log10_p_diff	elapsed_sec_real	elapsed_sec_null	n_pitx2_candidates_in_pos	out_dir
+strict	A	HOMER findMotifs.pl	5.1	99	990	6,8,10,12	25	30	440	-10.473510869751106	-5.765463799966644	4.708047069784462	0.0	0.0	5	/n/scratch/users/c/cl266/FC_08656/phase2/atac/gkmsvm_logos_strict

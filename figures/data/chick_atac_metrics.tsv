@@ -1,0 +1,6 @@
+library	est_cells	atac_sequenced_pairs	atac_mean_reads_per_cell	atac_median_hq_fragments_per_cell	atac_frac_hq_fragments_in_cells	atac_frac_hq_fragments_in_peaks	atac_frac_hq_fragments_in_tss	atac_tss_enrichment	atac_pct_duplicates	atac_n_peaks_arc	atac_frac_genome_in_peaks	atac_frac_tn5_in_peaks_in_cells
+ARC01	4337	6.77371e+08	156184	32368	0.8535	0.1446	0.2173	2.8571	0.6392	28662	0.0227	0.1229
+ARC02	5732	8.51076e+08	148478	29423.5	0.8692	0.1499	0.221	2.9904	0.6791	30264	0.024	0.1294
+ARC09	21175	7.56325e+08	35717.8	10628	0.8576	0.15	0.2149	3.1528	0.4658	32748	0.0262	0.1381
+ARC0S-chick	2956	1.04693e+09	354172	12579.5	0.5616	0.2206	0.2625	3.1596	0.7987	34503	0.0274	0.1954
+ARC10	10614	8.24599e+08	77689.8	17137.5	0.806	0.1362	0.2131	2.9105	0.6028	27761	0.0222	0.125

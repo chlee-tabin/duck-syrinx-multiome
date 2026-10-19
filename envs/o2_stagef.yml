@@ -1,0 +1,22 @@
+name: stagef
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - nodefaults
+dependencies:
+  - _openmp_mutex=4.5
+  - coreutils=8.25
+  - grep=3.4
+  - lastz=1.04.52
+  - libgcc=15.2.0
+  - libgcc-ng=15.2.0
+  - libgfortran=15.2.0
+  - libgfortran5=15.2.0
+  - libgomp=15.2.0
+  - libopenblas=0.3.33
+  - libstdcxx=15.2.0
+  - libstdcxx-ng=15.2.0
+  - multiz=11.2
+  - pcre=8.45
+  - phast=1.9.7

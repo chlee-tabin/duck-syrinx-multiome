@@ -1,0 +1,32 @@
+metric	value	note
+d2n_vs_d2l rows total	42	
+d2n covers (n)	42	
+d2l covers (n)	42	
+both cover (n)	42	
+d2n firmness chromatin_direct	26	
+d2n firmness chromatin_placement	7	
+d2n firmness chromatin_singleton_rank	5	
+d2n firmness weak	0	
+d2n firmness chromatin_same_side_dup	4	
+d2l firmness direct	30	
+d2l firmness placement	2	
+d2l firmness singleton_rank	6	
+d2l firmness weak	0	
+d2l firmness same_side_dup	4	
+transition agree	34	
+transition flip	4	
+transition d2l_weak_to_d2n_firm	0	
+transition d2l_firm_to_d2n_weak	0	
+transition d2l_only	0	
+transition d2n_only	0	
+transition both_missing	0	
+transition same_side_dup	4	
+transition other	0	
+L/R agreement rate (both firm)	0.895	(34 of 38)
+d2m_multiome_vs_d2m rows	24	
+genotypes narrowed by chromatin (delta < 0)	0	
+genotypes worse by chromatin (delta > 0)	0	
+genotypes unchanged (delta == 0)	24	
+median cardinality delta	0.0	
+conflicts resolved by chromatin	12	
+conflicts introduced by chromatin	0	

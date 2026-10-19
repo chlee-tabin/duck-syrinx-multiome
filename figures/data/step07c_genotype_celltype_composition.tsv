@@ -1,0 +1,833 @@
+unified_genotype_id	annotation	n_cells	fraction
+G2_genotype_01	Cardiomyocyte	47	0.0056
+G2_genotype_01	Dermomyotome	708	0.0847
+G2_genotype_01	Diff. neuron	300	0.0359
+G2_genotype_01	Dorsal neural prog.	242	0.0289
+G2_genotype_01	Endothelial	170	0.0203
+G2_genotype_01	Epithelial	285	0.0341
+G2_genotype_01	LPM mesenchyme	1587	0.1898
+G2_genotype_01	Neural crest	438	0.0524
+G2_genotype_01	Neural progenitor	2724	0.3257
+G2_genotype_01	Notochord	112	0.0134
+G2_genotype_01	Otic placode	230	0.0275
+G2_genotype_01	Pharyngeal endoderm	398	0.0476
+G2_genotype_01	RBC	15	0.0018
+G2_genotype_01	Sclerotome	963	0.1152
+G2_genotype_01	Splanchnic mesenchyme	3	0.0004
+G2_genotype_01	Ventral neural prog.	141	0.0169
+G2_genotype_02	Cardiomyocyte	33	0.0044
+G2_genotype_02	Dermomyotome	658	0.0883
+G2_genotype_02	Diff. neuron	200	0.0268
+G2_genotype_02	Dorsal neural prog.	172	0.0231
+G2_genotype_02	Endothelial	242	0.0325
+G2_genotype_02	Epithelial	281	0.0377
+G2_genotype_02	LPM mesenchyme	1356	0.1819
+G2_genotype_02	Neural crest	535	0.0718
+G2_genotype_02	Neural progenitor	2318	0.3109
+G2_genotype_02	Notochord	101	0.0135
+G2_genotype_02	Otic placode	239	0.0321
+G2_genotype_02	Pharyngeal endoderm	402	0.0539
+G2_genotype_02	RBC	24	0.0032
+G2_genotype_02	Sclerotome	793	0.1064
+G2_genotype_02	Splanchnic mesenchyme	7	0.0009
+G2_genotype_02	Ventral neural prog.	95	0.0127
+G2_genotype_03	Cardiomyocyte	15	0.0022
+G2_genotype_03	Dermomyotome	299	0.0431
+G2_genotype_03	Diff. neuron	303	0.0436
+G2_genotype_03	Dorsal neural prog.	209	0.0301
+G2_genotype_03	Endothelial	191	0.0275
+G2_genotype_03	Epithelial	232	0.0334
+G2_genotype_03	LPM mesenchyme	1184	0.1705
+G2_genotype_03	Neural crest	542	0.0781
+G2_genotype_03	Neural progenitor	2486	0.3580
+G2_genotype_03	Notochord	56	0.0081
+G2_genotype_03	Otic placode	191	0.0275
+G2_genotype_03	Pharyngeal endoderm	310	0.0446
+G2_genotype_03	RBC	16	0.0023
+G2_genotype_03	Sclerotome	784	0.1129
+G2_genotype_03	Splanchnic mesenchyme	6	0.0009
+G2_genotype_03	Ventral neural prog.	120	0.0173
+G2_genotype_04	Cardiomyocyte	46	0.0065
+G2_genotype_04	Dermomyotome	561	0.0789
+G2_genotype_04	Diff. neuron	142	0.0200
+G2_genotype_04	Dorsal neural prog.	154	0.0217
+G2_genotype_04	Endothelial	184	0.0259
+G2_genotype_04	Epithelial	265	0.0373
+G2_genotype_04	LPM mesenchyme	1462	0.2057
+G2_genotype_04	Neural crest	463	0.0652
+G2_genotype_04	Neural progenitor	1902	0.2677
+G2_genotype_04	Notochord	104	0.0146
+G2_genotype_04	Otic placode	184	0.0259
+G2_genotype_04	Pharyngeal endoderm	445	0.0626
+G2_genotype_04	RBC	16	0.0023
+G2_genotype_04	Sclerotome	1041	0.1465
+G2_genotype_04	Splanchnic mesenchyme	4	0.0006
+G2_genotype_04	Ventral neural prog.	133	0.0187
+G2_genotype_05	Cardiomyocyte	3	0.0006
+G2_genotype_05	Dermomyotome	18	0.0034
+G2_genotype_05	Diff. neuron	11	0.0021
+G2_genotype_05	Dorsal neural prog.	6	0.0011
+G2_genotype_05	Endothelial	124	0.0238
+G2_genotype_05	Epithelial	398	0.0762
+G2_genotype_05	LPM mesenchyme	4284	0.8207
+G2_genotype_05	Neural crest	273	0.0523
+G2_genotype_05	Neural progenitor	51	0.0098
+G2_genotype_05	Notochord	1	0.0002
+G2_genotype_05	Otic placode	6	0.0011
+G2_genotype_05	Pharyngeal endoderm	6	0.0011
+G2_genotype_05	RBC	7	0.0013
+G2_genotype_05	Sclerotome	16	0.0031
+G2_genotype_05	Splanchnic mesenchyme	11	0.0021
+G2_genotype_05	Ventral neural prog.	5	0.0010
+G2_genotype_07	Cardiomyocyte	3	0.0011
+G2_genotype_07	Dermomyotome	3	0.0011
+G2_genotype_07	Diff. neuron	2	0.0007
+G2_genotype_07	Dorsal neural prog.	1	0.0004
+G2_genotype_07	Endothelial	64	0.0230
+G2_genotype_07	Epithelial	171	0.0615
+G2_genotype_07	LPM mesenchyme	2313	0.8320
+G2_genotype_07	Neural crest	173	0.0622
+G2_genotype_07	Neural progenitor	17	0.0061
+G2_genotype_07	Notochord	5	0.0018
+G2_genotype_07	Otic placode	4	0.0014
+G2_genotype_07	Pharyngeal endoderm	10	0.0036
+G2_genotype_07	RBC	1	0.0004
+G2_genotype_07	Sclerotome	4	0.0014
+G2_genotype_07	Splanchnic mesenchyme	6	0.0022
+G2_genotype_07	Ventral neural prog.	3	0.0011
+G2_genotype_08	Cardiomyocyte	1	0.0004
+G2_genotype_08	Dermomyotome	7	0.0025
+G2_genotype_08	Diff. neuron	2	0.0007
+G2_genotype_08	Dorsal neural prog.	5	0.0018
+G2_genotype_08	Endothelial	69	0.0245
+G2_genotype_08	Epithelial	361	0.1280
+G2_genotype_08	LPM mesenchyme	1953	0.6926
+G2_genotype_08	Neural crest	341	0.1209
+G2_genotype_08	Neural progenitor	14	0.0050
+G2_genotype_08	Notochord	0	0.0000
+G2_genotype_08	Otic placode	4	0.0014
+G2_genotype_08	Pharyngeal endoderm	48	0.0170
+G2_genotype_08	RBC	4	0.0014
+G2_genotype_08	Sclerotome	6	0.0021
+G2_genotype_08	Splanchnic mesenchyme	3	0.0011
+G2_genotype_08	Ventral neural prog.	2	0.0007
+G2_genotype_09	Cardiomyocyte	22	0.0075
+G2_genotype_09	Dermomyotome	247	0.0847
+G2_genotype_09	Diff. neuron	54	0.0185
+G2_genotype_09	Dorsal neural prog.	92	0.0315
+G2_genotype_09	Endothelial	48	0.0165
+G2_genotype_09	Epithelial	89	0.0305
+G2_genotype_09	LPM mesenchyme	391	0.1340
+G2_genotype_09	Neural crest	161	0.0552
+G2_genotype_09	Neural progenitor	912	0.3126
+G2_genotype_09	Notochord	35	0.0120
+G2_genotype_09	Otic placode	160	0.0549
+G2_genotype_09	Pharyngeal endoderm	252	0.0864
+G2_genotype_09	RBC	4	0.0014
+G2_genotype_09	Sclerotome	387	0.1327
+G2_genotype_09	Splanchnic mesenchyme	0	0.0000
+G2_genotype_09	Ventral neural prog.	63	0.0216
+G2_genotype_10	Cardiomyocyte	0	0.0000
+G2_genotype_10	Dermomyotome	3	0.0020
+G2_genotype_10	Diff. neuron	2	0.0013
+G2_genotype_10	Dorsal neural prog.	2	0.0013
+G2_genotype_10	Endothelial	46	0.0305
+G2_genotype_10	Epithelial	78	0.0518
+G2_genotype_10	LPM mesenchyme	1280	0.8494
+G2_genotype_10	Neural crest	75	0.0498
+G2_genotype_10	Neural progenitor	7	0.0046
+G2_genotype_10	Notochord	1	0.0007
+G2_genotype_10	Otic placode	3	0.0020
+G2_genotype_10	Pharyngeal endoderm	0	0.0000
+G2_genotype_10	RBC	1	0.0007
+G2_genotype_10	Sclerotome	3	0.0020
+G2_genotype_10	Splanchnic mesenchyme	6	0.0040
+G2_genotype_10	Ventral neural prog.	0	0.0000
+G2_genotype_11	Cardiomyocyte	23	0.0135
+G2_genotype_11	Dermomyotome	156	0.0914
+G2_genotype_11	Diff. neuron	47	0.0275
+G2_genotype_11	Dorsal neural prog.	31	0.0182
+G2_genotype_11	Endothelial	41	0.0240
+G2_genotype_11	Epithelial	93	0.0545
+G2_genotype_11	LPM mesenchyme	342	0.2005
+G2_genotype_11	Neural crest	95	0.0557
+G2_genotype_11	Neural progenitor	508	0.2978
+G2_genotype_11	Notochord	28	0.0164
+G2_genotype_11	Otic placode	60	0.0352
+G2_genotype_11	Pharyngeal endoderm	81	0.0475
+G2_genotype_11	RBC	15	0.0088
+G2_genotype_11	Sclerotome	147	0.0862
+G2_genotype_11	Splanchnic mesenchyme	3	0.0018
+G2_genotype_11	Ventral neural prog.	36	0.0211
+G3_unfiltered_donor0	Cardiomyocyte	6	0.0030
+G3_unfiltered_donor0	Dermomyotome	157	0.0794
+G3_unfiltered_donor0	Diff. neuron	37	0.0187
+G3_unfiltered_donor0	Dorsal neural prog.	25	0.0126
+G3_unfiltered_donor0	Endothelial	49	0.0248
+G3_unfiltered_donor0	Epithelial	56	0.0283
+G3_unfiltered_donor0	LPM mesenchyme	493	0.2494
+G3_unfiltered_donor0	Neural crest	152	0.0769
+G3_unfiltered_donor0	Neural progenitor	424	0.2145
+G3_unfiltered_donor0	Notochord	23	0.0116
+G3_unfiltered_donor0	Otic placode	58	0.0293
+G3_unfiltered_donor0	Pharyngeal endoderm	78	0.0395
+G3_unfiltered_donor0	RBC	6	0.0030
+G3_unfiltered_donor0	Sclerotome	400	0.2023
+G3_unfiltered_donor0	Splanchnic mesenchyme	0	0.0000
+G3_unfiltered_donor0	Ventral neural prog.	13	0.0066
+G3_unfiltered_donor1	Cardiomyocyte	0	0.0000
+G3_unfiltered_donor1	Dermomyotome	1	0.0008
+G3_unfiltered_donor1	Diff. neuron	3	0.0024
+G3_unfiltered_donor1	Dorsal neural prog.	0	0.0000
+G3_unfiltered_donor1	Endothelial	27	0.0212
+G3_unfiltered_donor1	Epithelial	104	0.0816
+G3_unfiltered_donor1	LPM mesenchyme	964	0.7567
+G3_unfiltered_donor1	Neural crest	146	0.1146
+G3_unfiltered_donor1	Neural progenitor	0	0.0000
+G3_unfiltered_donor1	Notochord	0	0.0000
+G3_unfiltered_donor1	Otic placode	0	0.0000
+G3_unfiltered_donor1	Pharyngeal endoderm	9	0.0071
+G3_unfiltered_donor1	RBC	5	0.0039
+G3_unfiltered_donor1	Sclerotome	0	0.0000
+G3_unfiltered_donor1	Splanchnic mesenchyme	15	0.0118
+G3_unfiltered_donor1	Ventral neural prog.	0	0.0000
+G3_unfiltered_donor3	Cardiomyocyte	4	0.0034
+G3_unfiltered_donor3	Dermomyotome	65	0.0544
+G3_unfiltered_donor3	Diff. neuron	32	0.0268
+G3_unfiltered_donor3	Dorsal neural prog.	29	0.0243
+G3_unfiltered_donor3	Endothelial	22	0.0184
+G3_unfiltered_donor3	Epithelial	63	0.0528
+G3_unfiltered_donor3	LPM mesenchyme	371	0.3107
+G3_unfiltered_donor3	Neural crest	44	0.0369
+G3_unfiltered_donor3	Neural progenitor	353	0.2956
+G3_unfiltered_donor3	Notochord	14	0.0117
+G3_unfiltered_donor3	Otic placode	23	0.0193
+G3_unfiltered_donor3	Pharyngeal endoderm	53	0.0444
+G3_unfiltered_donor3	RBC	4	0.0034
+G3_unfiltered_donor3	Sclerotome	101	0.0846
+G3_unfiltered_donor3	Splanchnic mesenchyme	1	0.0008
+G3_unfiltered_donor3	Ventral neural prog.	15	0.0126
+G3_unfiltered_donor4	Cardiomyocyte	1	0.0008
+G3_unfiltered_donor4	Dermomyotome	0	0.0000
+G3_unfiltered_donor4	Diff. neuron	0	0.0000
+G3_unfiltered_donor4	Dorsal neural prog.	0	0.0000
+G3_unfiltered_donor4	Endothelial	38	0.0299
+G3_unfiltered_donor4	Epithelial	145	0.1141
+G3_unfiltered_donor4	LPM mesenchyme	925	0.7278
+G3_unfiltered_donor4	Neural crest	139	0.1094
+G3_unfiltered_donor4	Neural progenitor	0	0.0000
+G3_unfiltered_donor4	Notochord	0	0.0000
+G3_unfiltered_donor4	Otic placode	0	0.0000
+G3_unfiltered_donor4	Pharyngeal endoderm	15	0.0118
+G3_unfiltered_donor4	RBC	5	0.0039
+G3_unfiltered_donor4	Sclerotome	3	0.0024
+G3_unfiltered_donor4	Splanchnic mesenchyme	0	0.0000
+G3_unfiltered_donor4	Ventral neural prog.	0	0.0000
+G3_unfiltered_donor5	Cardiomyocyte	9	0.0044
+G3_unfiltered_donor5	Dermomyotome	183	0.0890
+G3_unfiltered_donor5	Diff. neuron	60	0.0292
+G3_unfiltered_donor5	Dorsal neural prog.	50	0.0243
+G3_unfiltered_donor5	Endothelial	62	0.0302
+G3_unfiltered_donor5	Epithelial	86	0.0418
+G3_unfiltered_donor5	LPM mesenchyme	303	0.1474
+G3_unfiltered_donor5	Neural crest	75	0.0365
+G3_unfiltered_donor5	Neural progenitor	677	0.3293
+G3_unfiltered_donor5	Notochord	16	0.0078
+G3_unfiltered_donor5	Otic placode	64	0.0311
+G3_unfiltered_donor5	Pharyngeal endoderm	129	0.0627
+G3_unfiltered_donor5	RBC	4	0.0019
+G3_unfiltered_donor5	Sclerotome	289	0.1406
+G3_unfiltered_donor5	Splanchnic mesenchyme	0	0.0000
+G3_unfiltered_donor5	Ventral neural prog.	49	0.0238
+G3_unfiltered_donor7	Cardiomyocyte	3	0.0019
+G3_unfiltered_donor7	Dermomyotome	0	0.0000
+G3_unfiltered_donor7	Diff. neuron	1	0.0006
+G3_unfiltered_donor7	Dorsal neural prog.	0	0.0000
+G3_unfiltered_donor7	Endothelial	34	0.0210
+G3_unfiltered_donor7	Epithelial	127	0.0784
+G3_unfiltered_donor7	LPM mesenchyme	1279	0.7895
+G3_unfiltered_donor7	Neural crest	131	0.0809
+G3_unfiltered_donor7	Neural progenitor	0	0.0000
+G3_unfiltered_donor7	Notochord	0	0.0000
+G3_unfiltered_donor7	Otic placode	0	0.0000
+G3_unfiltered_donor7	Pharyngeal endoderm	7	0.0043
+G3_unfiltered_donor7	RBC	4	0.0025
+G3_unfiltered_donor7	Sclerotome	2	0.0012
+G3_unfiltered_donor7	Splanchnic mesenchyme	32	0.0198
+G3_unfiltered_donor7	Ventral neural prog.	0	0.0000
+G3_unfiltered_donor8	Cardiomyocyte	3	0.0016
+G3_unfiltered_donor8	Dermomyotome	159	0.0828
+G3_unfiltered_donor8	Diff. neuron	54	0.0281
+G3_unfiltered_donor8	Dorsal neural prog.	38	0.0198
+G3_unfiltered_donor8	Endothelial	36	0.0187
+G3_unfiltered_donor8	Epithelial	89	0.0463
+G3_unfiltered_donor8	LPM mesenchyme	327	0.1702
+G3_unfiltered_donor8	Neural crest	125	0.0651
+G3_unfiltered_donor8	Neural progenitor	535	0.2785
+G3_unfiltered_donor8	Notochord	38	0.0198
+G3_unfiltered_donor8	Otic placode	40	0.0208
+G3_unfiltered_donor8	Pharyngeal endoderm	89	0.0463
+G3_unfiltered_donor8	RBC	18	0.0094
+G3_unfiltered_donor8	Sclerotome	310	0.1614
+G3_unfiltered_donor8	Splanchnic mesenchyme	1	0.0005
+G3_unfiltered_donor8	Ventral neural prog.	59	0.0307
+G3_unfiltered_donor9	Cardiomyocyte	11	0.0048
+G3_unfiltered_donor9	Dermomyotome	169	0.0734
+G3_unfiltered_donor9	Diff. neuron	68	0.0295
+G3_unfiltered_donor9	Dorsal neural prog.	70	0.0304
+G3_unfiltered_donor9	Endothelial	37	0.0161
+G3_unfiltered_donor9	Epithelial	80	0.0348
+G3_unfiltered_donor9	LPM mesenchyme	381	0.1655
+G3_unfiltered_donor9	Neural crest	116	0.0504
+G3_unfiltered_donor9	Neural progenitor	833	0.3619
+G3_unfiltered_donor9	Notochord	27	0.0117
+G3_unfiltered_donor9	Otic placode	52	0.0226
+G3_unfiltered_donor9	Pharyngeal endoderm	136	0.0591
+G3_unfiltered_donor9	RBC	6	0.0026
+G3_unfiltered_donor9	Sclerotome	263	0.1142
+G3_unfiltered_donor9	Splanchnic mesenchyme	0	0.0000
+G3_unfiltered_donor9	Ventral neural prog.	53	0.0230
+G3_unfiltered_donor10	Cardiomyocyte	0	0.0000
+G3_unfiltered_donor10	Dermomyotome	0	0.0000
+G3_unfiltered_donor10	Diff. neuron	0	0.0000
+G3_unfiltered_donor10	Dorsal neural prog.	0	0.0000
+G3_unfiltered_donor10	Endothelial	14	0.0186
+G3_unfiltered_donor10	Epithelial	60	0.0797
+G3_unfiltered_donor10	LPM mesenchyme	604	0.8021
+G3_unfiltered_donor10	Neural crest	42	0.0558
+G3_unfiltered_donor10	Neural progenitor	0	0.0000
+G3_unfiltered_donor10	Notochord	0	0.0000
+G3_unfiltered_donor10	Otic placode	0	0.0000
+G3_unfiltered_donor10	Pharyngeal endoderm	29	0.0385
+G3_unfiltered_donor10	RBC	3	0.0040
+G3_unfiltered_donor10	Sclerotome	0	0.0000
+G3_unfiltered_donor10	Splanchnic mesenchyme	1	0.0013
+G3_unfiltered_donor10	Ventral neural prog.	0	0.0000
+dp500_donor29	Cardiomyocyte	3	0.0013
+dp500_donor29	Dermomyotome	0	0.0000
+dp500_donor29	Diff. neuron	2	0.0008
+dp500_donor29	Dorsal neural prog.	0	0.0000
+dp500_donor29	Endothelial	37	0.0154
+dp500_donor29	Epithelial	186	0.0776
+dp500_donor29	LPM mesenchyme	393	0.1639
+dp500_donor29	Neural crest	60	0.0250
+dp500_donor29	Neural progenitor	0	0.0000
+dp500_donor29	Notochord	0	0.0000
+dp500_donor29	Otic placode	0	0.0000
+dp500_donor29	Pharyngeal endoderm	0	0.0000
+dp500_donor29	RBC	3	0.0013
+dp500_donor29	Sclerotome	0	0.0000
+dp500_donor29	Splanchnic mesenchyme	1714	0.7148
+dp500_donor29	Ventral neural prog.	0	0.0000
+g00	Cardiomyocyte	4	0.0011
+g00	Dermomyotome	0	0.0000
+g00	Diff. neuron	11	0.0031
+g00	Dorsal neural prog.	1	0.0003
+g00	Endothelial	43	0.0122
+g00	Epithelial	140	0.0397
+g00	LPM mesenchyme	317	0.0899
+g00	Neural crest	48	0.0136
+g00	Neural progenitor	0	0.0000
+g00	Notochord	1	0.0003
+g00	Otic placode	0	0.0000
+g00	Pharyngeal endoderm	1	0.0003
+g00	RBC	3	0.0009
+g00	Sclerotome	0	0.0000
+g00	Splanchnic mesenchyme	2956	0.8386
+g00	Ventral neural prog.	0	0.0000
+g01	Cardiomyocyte	11	0.0027
+g01	Dermomyotome	406	0.0987
+g01	Diff. neuron	85	0.0207
+g01	Dorsal neural prog.	93	0.0226
+g01	Endothelial	128	0.0311
+g01	Epithelial	119	0.0289
+g01	LPM mesenchyme	835	0.2031
+g01	Neural crest	322	0.0783
+g01	Neural progenitor	877	0.2133
+g01	Notochord	64	0.0156
+g01	Otic placode	80	0.0195
+g01	Pharyngeal endoderm	223	0.0542
+g01	RBC	10	0.0024
+g01	Sclerotome	797	0.1938
+g01	Splanchnic mesenchyme	6	0.0015
+g01	Ventral neural prog.	56	0.0136
+g02	Cardiomyocyte	1	0.0003
+g02	Dermomyotome	2	0.0005
+g02	Diff. neuron	3	0.0008
+g02	Dorsal neural prog.	0	0.0000
+g02	Endothelial	43	0.0109
+g02	Epithelial	166	0.0420
+g02	LPM mesenchyme	496	0.1256
+g02	Neural crest	48	0.0122
+g02	Neural progenitor	0	0.0000
+g02	Notochord	0	0.0000
+g02	Otic placode	0	0.0000
+g02	Pharyngeal endoderm	0	0.0000
+g02	RBC	1	0.0003
+g02	Sclerotome	0	0.0000
+g02	Splanchnic mesenchyme	3188	0.8073
+g02	Ventral neural prog.	1	0.0003
+g03	Cardiomyocyte	6	0.0014
+g03	Dermomyotome	0	0.0000
+g03	Diff. neuron	7	0.0016
+g03	Dorsal neural prog.	2	0.0005
+g03	Endothelial	102	0.0239
+g03	Epithelial	390	0.0913
+g03	LPM mesenchyme	3268	0.7652
+g03	Neural crest	330	0.0773
+g03	Neural progenitor	7	0.0016
+g03	Notochord	0	0.0000
+g03	Otic placode	1	0.0002
+g03	Pharyngeal endoderm	18	0.0042
+g03	RBC	2	0.0005
+g03	Sclerotome	5	0.0012
+g03	Splanchnic mesenchyme	133	0.0311
+g03	Ventral neural prog.	0	0.0000
+g04	Cardiomyocyte	2	0.0010
+g04	Dermomyotome	2	0.0010
+g04	Diff. neuron	2	0.0010
+g04	Dorsal neural prog.	0	0.0000
+g04	Endothelial	22	0.0107
+g04	Epithelial	86	0.0419
+g04	LPM mesenchyme	234	0.1140
+g04	Neural crest	23	0.0112
+g04	Neural progenitor	0	0.0000
+g04	Notochord	0	0.0000
+g04	Otic placode	0	0.0000
+g04	Pharyngeal endoderm	0	0.0000
+g04	RBC	0	0.0000
+g04	Sclerotome	0	0.0000
+g04	Splanchnic mesenchyme	1681	0.8188
+g04	Ventral neural prog.	1	0.0005
+g05	Cardiomyocyte	0	0.0000
+g05	Dermomyotome	0	0.0000
+g05	Diff. neuron	7	0.0028
+g05	Dorsal neural prog.	0	0.0000
+g05	Endothelial	48	0.0189
+g05	Epithelial	174	0.0684
+g05	LPM mesenchyme	2121	0.8341
+g05	Neural crest	142	0.0558
+g05	Neural progenitor	1	0.0004
+g05	Notochord	0	0.0000
+g05	Otic placode	0	0.0000
+g05	Pharyngeal endoderm	1	0.0004
+g05	RBC	7	0.0028
+g05	Sclerotome	1	0.0004
+g05	Splanchnic mesenchyme	41	0.0161
+g05	Ventral neural prog.	0	0.0000
+g06	Cardiomyocyte	2	0.0008
+g06	Dermomyotome	0	0.0000
+g06	Diff. neuron	5	0.0020
+g06	Dorsal neural prog.	0	0.0000
+g06	Endothelial	35	0.0139
+g06	Epithelial	185	0.0737
+g06	LPM mesenchyme	186	0.0741
+g06	Neural crest	34	0.0136
+g06	Neural progenitor	0	0.0000
+g06	Notochord	0	0.0000
+g06	Otic placode	0	0.0000
+g06	Pharyngeal endoderm	0	0.0000
+g06	RBC	6	0.0024
+g06	Sclerotome	0	0.0000
+g06	Splanchnic mesenchyme	2056	0.8194
+g06	Ventral neural prog.	0	0.0000
+g07	Cardiomyocyte	0	0.0000
+g07	Dermomyotome	1	0.0003
+g07	Diff. neuron	2	0.0006
+g07	Dorsal neural prog.	0	0.0000
+g07	Endothelial	56	0.0162
+g07	Epithelial	291	0.0843
+g07	LPM mesenchyme	274	0.0794
+g07	Neural crest	43	0.0125
+g07	Neural progenitor	0	0.0000
+g07	Notochord	0	0.0000
+g07	Otic placode	0	0.0000
+g07	Pharyngeal endoderm	0	0.0000
+g07	RBC	6	0.0017
+g07	Sclerotome	0	0.0000
+g07	Splanchnic mesenchyme	2777	0.8049
+g07	Ventral neural prog.	0	0.0000
+g08	Cardiomyocyte	21	0.0039
+g08	Dermomyotome	472	0.0873
+g08	Diff. neuron	128	0.0237
+g08	Dorsal neural prog.	142	0.0263
+g08	Endothelial	173	0.0320
+g08	Epithelial	191	0.0353
+g08	LPM mesenchyme	1002	0.1853
+g08	Neural crest	397	0.0734
+g08	Neural progenitor	1511	0.2795
+g08	Notochord	39	0.0072
+g08	Otic placode	205	0.0379
+g08	Pharyngeal endoderm	315	0.0583
+g08	RBC	15	0.0028
+g08	Sclerotome	705	0.1304
+g08	Splanchnic mesenchyme	8	0.0015
+g08	Ventral neural prog.	82	0.0152
+g09	Cardiomyocyte	3	0.0009
+g09	Dermomyotome	0	0.0000
+g09	Diff. neuron	2	0.0006
+g09	Dorsal neural prog.	1	0.0003
+g09	Endothelial	76	0.0230
+g09	Epithelial	209	0.0634
+g09	LPM mesenchyme	2714	0.8227
+g09	Neural crest	191	0.0579
+g09	Neural progenitor	2	0.0006
+g09	Notochord	0	0.0000
+g09	Otic placode	0	0.0000
+g09	Pharyngeal endoderm	16	0.0048
+g09	RBC	13	0.0039
+g09	Sclerotome	2	0.0006
+g09	Splanchnic mesenchyme	69	0.0209
+g09	Ventral neural prog.	1	0.0003
+g10	Cardiomyocyte	3	0.0012
+g10	Dermomyotome	1	0.0004
+g10	Diff. neuron	3	0.0012
+g10	Dorsal neural prog.	0	0.0000
+g10	Endothelial	58	0.0242
+g10	Epithelial	240	0.1000
+g10	LPM mesenchyme	1720	0.7164
+g10	Neural crest	228	0.0950
+g10	Neural progenitor	1	0.0004
+g10	Notochord	0	0.0000
+g10	Otic placode	1	0.0004
+g10	Pharyngeal endoderm	117	0.0487
+g10	RBC	5	0.0021
+g10	Sclerotome	5	0.0021
+g10	Splanchnic mesenchyme	17	0.0071
+g10	Ventral neural prog.	2	0.0008
+g11	Cardiomyocyte	1	0.0002
+g11	Dermomyotome	2	0.0004
+g11	Diff. neuron	11	0.0022
+g11	Dorsal neural prog.	0	0.0000
+g11	Endothelial	65	0.0131
+g11	Epithelial	165	0.0334
+g11	LPM mesenchyme	855	0.1729
+g11	Neural crest	114	0.0231
+g11	Neural progenitor	0	0.0000
+g11	Notochord	1	0.0002
+g11	Otic placode	1	0.0002
+g11	Pharyngeal endoderm	3	0.0006
+g11	RBC	1	0.0002
+g11	Sclerotome	2	0.0004
+g11	Splanchnic mesenchyme	3723	0.7529
+g11	Ventral neural prog.	1	0.0002
+g12	Cardiomyocyte	0	0.0000
+g12	Dermomyotome	0	0.0000
+g12	Diff. neuron	0	0.0000
+g12	Dorsal neural prog.	0	0.0000
+g12	Endothelial	26	0.0093
+g12	Epithelial	139	0.0499
+g12	LPM mesenchyme	192	0.0689
+g12	Neural crest	18	0.0065
+g12	Neural progenitor	1	0.0004
+g12	Notochord	0	0.0000
+g12	Otic placode	0	0.0000
+g12	Pharyngeal endoderm	0	0.0000
+g12	RBC	1	0.0004
+g12	Sclerotome	0	0.0000
+g12	Splanchnic mesenchyme	2409	0.8647
+g12	Ventral neural prog.	0	0.0000
+g13	Cardiomyocyte	27	0.0110
+g13	Dermomyotome	122	0.0497
+g13	Diff. neuron	32	0.0130
+g13	Dorsal neural prog.	53	0.0216
+g13	Endothelial	61	0.0248
+g13	Epithelial	88	0.0358
+g13	LPM mesenchyme	317	0.1290
+g13	Neural crest	197	0.0802
+g13	Neural progenitor	819	0.3333
+g13	Notochord	8	0.0033
+g13	Otic placode	63	0.0256
+g13	Pharyngeal endoderm	168	0.0684
+g13	RBC	5	0.0020
+g13	Sclerotome	418	0.1701
+g13	Splanchnic mesenchyme	7	0.0028
+g13	Ventral neural prog.	72	0.0293
+g14	Cardiomyocyte	26	0.0089
+g14	Dermomyotome	108	0.0372
+g14	Diff. neuron	24	0.0083
+g14	Dorsal neural prog.	51	0.0175
+g14	Endothelial	121	0.0416
+g14	Epithelial	132	0.0454
+g14	LPM mesenchyme	248	0.0853
+g14	Neural crest	302	0.1039
+g14	Neural progenitor	868	0.2987
+g14	Notochord	13	0.0045
+g14	Otic placode	57	0.0196
+g14	Pharyngeal endoderm	382	0.1315
+g14	RBC	5	0.0017
+g14	Sclerotome	485	0.1669
+g14	Splanchnic mesenchyme	7	0.0024
+g14	Ventral neural prog.	77	0.0265
+g15	Cardiomyocyte	33	0.0065
+g15	Dermomyotome	354	0.0693
+g15	Diff. neuron	128	0.0251
+g15	Dorsal neural prog.	151	0.0296
+g15	Endothelial	109	0.0213
+g15	Epithelial	171	0.0335
+g15	LPM mesenchyme	830	0.1625
+g15	Neural crest	328	0.0642
+g15	Neural progenitor	1633	0.3198
+g15	Notochord	53	0.0104
+g15	Otic placode	166	0.0325
+g15	Pharyngeal endoderm	377	0.0738
+g15	RBC	4	0.0008
+g15	Sclerotome	691	0.1353
+g15	Splanchnic mesenchyme	2	0.0004
+g15	Ventral neural prog.	77	0.0151
+g16	Cardiomyocyte	14	0.0053
+g16	Dermomyotome	117	0.0444
+g16	Diff. neuron	22	0.0083
+g16	Dorsal neural prog.	37	0.0140
+g16	Endothelial	95	0.0360
+g16	Epithelial	90	0.0341
+g16	LPM mesenchyme	302	0.1145
+g16	Neural crest	235	0.0891
+g16	Neural progenitor	832	0.3155
+g16	Notochord	10	0.0038
+g16	Otic placode	69	0.0262
+g16	Pharyngeal endoderm	330	0.1251
+g16	RBC	13	0.0049
+g16	Sclerotome	391	0.1483
+g16	Splanchnic mesenchyme	1	0.0004
+g16	Ventral neural prog.	79	0.0300
+g17	Cardiomyocyte	61	0.0087
+g17	Dermomyotome	571	0.0810
+g17	Diff. neuron	194	0.0275
+g17	Dorsal neural prog.	200	0.0284
+g17	Endothelial	174	0.0247
+g17	Epithelial	325	0.0461
+g17	LPM mesenchyme	1156	0.1640
+g17	Neural crest	712	0.1010
+g17	Neural progenitor	1735	0.2461
+g17	Notochord	75	0.0106
+g17	Otic placode	217	0.0308
+g17	Pharyngeal endoderm	489	0.0694
+g17	RBC	14	0.0020
+g17	Sclerotome	1034	0.1467
+g17	Splanchnic mesenchyme	6	0.0009
+g17	Ventral neural prog.	86	0.0122
+g18	Cardiomyocyte	31	0.0157
+g18	Dermomyotome	64	0.0324
+g18	Diff. neuron	15	0.0076
+g18	Dorsal neural prog.	24	0.0122
+g18	Endothelial	77	0.0390
+g18	Epithelial	74	0.0375
+g18	LPM mesenchyme	143	0.0724
+g18	Neural crest	156	0.0790
+g18	Neural progenitor	641	0.3246
+g18	Notochord	7	0.0035
+g18	Otic placode	59	0.0299
+g18	Pharyngeal endoderm	248	0.1256
+g18	RBC	0	0.0000
+g18	Sclerotome	361	0.1828
+g18	Splanchnic mesenchyme	2	0.0010
+g18	Ventral neural prog.	73	0.0370
+g19	Cardiomyocyte	13	0.0037
+g19	Dermomyotome	244	0.0696
+g19	Diff. neuron	128	0.0365
+g19	Dorsal neural prog.	93	0.0265
+g19	Endothelial	90	0.0257
+g19	Epithelial	164	0.0468
+g19	LPM mesenchyme	318	0.0906
+g19	Neural crest	200	0.0570
+g19	Neural progenitor	1428	0.4071
+g19	Notochord	18	0.0051
+g19	Otic placode	160	0.0456
+g19	Pharyngeal endoderm	171	0.0487
+g19	RBC	8	0.0023
+g19	Sclerotome	396	0.1129
+g19	Splanchnic mesenchyme	3	0.0009
+g19	Ventral neural prog.	74	0.0211
+g20	Cardiomyocyte	77	0.0118
+g20	Dermomyotome	549	0.0840
+g20	Diff. neuron	215	0.0329
+g20	Dorsal neural prog.	207	0.0317
+g20	Endothelial	183	0.0280
+g20	Epithelial	225	0.0344
+g20	LPM mesenchyme	830	0.1269
+g20	Neural crest	555	0.0849
+g20	Neural progenitor	2222	0.3398
+g20	Notochord	62	0.0095
+g20	Otic placode	167	0.0255
+g20	Pharyngeal endoderm	431	0.0659
+g20	RBC	10	0.0015
+g20	Sclerotome	687	0.1051
+g20	Splanchnic mesenchyme	2	0.0003
+g20	Ventral neural prog.	117	0.0179
+g21	Cardiomyocyte	19	0.0083
+g21	Dermomyotome	76	0.0332
+g21	Diff. neuron	17	0.0074
+g21	Dorsal neural prog.	43	0.0188
+g21	Endothelial	76	0.0332
+g21	Epithelial	73	0.0319
+g21	LPM mesenchyme	197	0.0860
+g21	Neural crest	207	0.0904
+g21	Neural progenitor	844	0.3686
+g21	Notochord	1	0.0004
+g21	Otic placode	65	0.0284
+g21	Pharyngeal endoderm	271	0.1183
+g21	RBC	4	0.0017
+g21	Sclerotome	324	0.1415
+g21	Splanchnic mesenchyme	1	0.0004
+g21	Ventral neural prog.	72	0.0314
+g22	Cardiomyocyte	10	0.0038
+g22	Dermomyotome	230	0.0879
+g22	Diff. neuron	100	0.0382
+g22	Dorsal neural prog.	64	0.0244
+g22	Endothelial	77	0.0294
+g22	Epithelial	94	0.0359
+g22	LPM mesenchyme	348	0.1329
+g22	Neural crest	155	0.0592
+g22	Neural progenitor	933	0.3564
+g22	Notochord	33	0.0126
+g22	Otic placode	79	0.0302
+g22	Pharyngeal endoderm	149	0.0569
+g22	RBC	6	0.0023
+g22	Sclerotome	282	0.1077
+g22	Splanchnic mesenchyme	1	0.0004
+g22	Ventral neural prog.	57	0.0218
+g23	Cardiomyocyte	22	0.0047
+g23	Dermomyotome	361	0.0771
+g23	Diff. neuron	132	0.0282
+g23	Dorsal neural prog.	181	0.0386
+g23	Endothelial	110	0.0235
+g23	Epithelial	108	0.0231
+g23	LPM mesenchyme	576	0.1229
+g23	Neural crest	265	0.0566
+g23	Neural progenitor	1797	0.3836
+g23	Notochord	69	0.0147
+g23	Otic placode	127	0.0271
+g23	Pharyngeal endoderm	293	0.0625
+g23	RBC	11	0.0023
+g23	Sclerotome	544	0.1161
+g23	Splanchnic mesenchyme	1	0.0002
+g23	Ventral neural prog.	88	0.0188
+g24	Cardiomyocyte	63	0.0102
+g24	Dermomyotome	638	0.1035
+g24	Diff. neuron	221	0.0359
+g24	Dorsal neural prog.	110	0.0179
+g24	Endothelial	184	0.0299
+g24	Epithelial	252	0.0409
+g24	LPM mesenchyme	1236	0.2006
+g24	Neural crest	400	0.0649
+g24	Neural progenitor	1661	0.2696
+g24	Notochord	88	0.0143
+g24	Otic placode	67	0.0109
+g24	Pharyngeal endoderm	167	0.0271
+g24	RBC	12	0.0019
+g24	Sclerotome	918	0.1490
+g24	Splanchnic mesenchyme	1	0.0002
+g24	Ventral neural prog.	144	0.0234
+g25	Cardiomyocyte	71	0.0313
+g25	Dermomyotome	118	0.0520
+g25	Diff. neuron	11	0.0049
+g25	Dorsal neural prog.	18	0.0079
+g25	Endothelial	78	0.0344
+g25	Epithelial	77	0.0340
+g25	LPM mesenchyme	367	0.1618
+g25	Neural crest	147	0.0648
+g25	Neural progenitor	738	0.3254
+g25	Notochord	9	0.0040
+g25	Otic placode	39	0.0172
+g25	Pharyngeal endoderm	195	0.0860
+g25	RBC	10	0.0044
+g25	Sclerotome	307	0.1354
+g25	Splanchnic mesenchyme	1	0.0004
+g25	Ventral neural prog.	82	0.0362
+g26_split0	Cardiomyocyte	37	0.0101
+g26_split0	Dermomyotome	360	0.0987
+g26_split0	Diff. neuron	95	0.0260
+g26_split0	Dorsal neural prog.	87	0.0238
+g26_split0	Endothelial	134	0.0367
+g26_split0	Epithelial	174	0.0477
+g26_split0	LPM mesenchyme	835	0.2288
+g26_split0	Neural crest	250	0.0685
+g26_split0	Neural progenitor	882	0.2417
+g26_split0	Notochord	71	0.0195
+g26_split0	Otic placode	86	0.0236
+g26_split0	Pharyngeal endoderm	159	0.0436
+g26_split0	RBC	6	0.0016
+g26_split0	Sclerotome	432	0.1184
+g26_split0	Splanchnic mesenchyme	5	0.0014
+g26_split0	Ventral neural prog.	36	0.0099
+g26_split1	Cardiomyocyte	57	0.0164
+g26_split1	Dermomyotome	267	0.0769
+g26_split1	Diff. neuron	117	0.0337
+g26_split1	Dorsal neural prog.	101	0.0291
+g26_split1	Endothelial	99	0.0285
+g26_split1	Epithelial	121	0.0349
+g26_split1	LPM mesenchyme	776	0.2235
+g26_split1	Neural crest	207	0.0596
+g26_split1	Neural progenitor	925	0.2664
+g26_split1	Notochord	63	0.0181
+g26_split1	Otic placode	85	0.0245
+g26_split1	Pharyngeal endoderm	128	0.0369
+g26_split1	RBC	3	0.0009
+g26_split1	Sclerotome	451	0.1299
+g26_split1	Splanchnic mesenchyme	6	0.0017
+g26_split1	Ventral neural prog.	66	0.0190
+g28	Cardiomyocyte	5	0.0015
+g28	Dermomyotome	294	0.0862
+g28	Diff. neuron	123	0.0361
+g28	Dorsal neural prog.	147	0.0431
+g28	Endothelial	103	0.0302
+g28	Epithelial	96	0.0282
+g28	LPM mesenchyme	280	0.0821
+g28	Neural crest	234	0.0686
+g28	Neural progenitor	1191	0.3493
+g28	Notochord	80	0.0235
+g28	Otic placode	99	0.0290
+g28	Pharyngeal endoderm	182	0.0534
+g28	RBC	5	0.0015
+g28	Sclerotome	453	0.1328
+g28	Splanchnic mesenchyme	8	0.0023
+g28	Ventral neural prog.	110	0.0323
+g32	Cardiomyocyte	40	0.0252
+g32	Dermomyotome	86	0.0541
+g32	Diff. neuron	13	0.0082
+g32	Dorsal neural prog.	22	0.0138
+g32	Endothelial	60	0.0377
+g32	Epithelial	22	0.0138
+g32	LPM mesenchyme	278	0.1748
+g32	Neural crest	97	0.0610
+g32	Neural progenitor	498	0.3132
+g32	Notochord	11	0.0069
+g32	Otic placode	32	0.0201
+g32	Pharyngeal endoderm	75	0.0472
+g32	RBC	0	0.0000
+g32	Sclerotome	300	0.1887
+g32	Splanchnic mesenchyme	2	0.0013
+g32	Ventral neural prog.	54	0.0340
+g34	Cardiomyocyte	33	0.0106
+g34	Dermomyotome	261	0.0839
+g34	Diff. neuron	99	0.0318
+g34	Dorsal neural prog.	105	0.0337
+g34	Endothelial	86	0.0276
+g34	Epithelial	84	0.0270
+g34	LPM mesenchyme	407	0.1308
+g34	Neural crest	258	0.0829
+g34	Neural progenitor	964	0.3098
+g34	Notochord	34	0.0109
+g34	Otic placode	97	0.0312
+g34	Pharyngeal endoderm	141	0.0453
+g34	RBC	3	0.0010
+g34	Sclerotome	451	0.1449
+g34	Splanchnic mesenchyme	9	0.0029
+g34	Ventral neural prog.	80	0.0257
+g35	Cardiomyocyte	46	0.0173
+g35	Dermomyotome	95	0.0356
+g35	Diff. neuron	12	0.0045
+g35	Dorsal neural prog.	34	0.0128
+g35	Endothelial	109	0.0409
+g35	Epithelial	78	0.0293
+g35	LPM mesenchyme	358	0.1343
+g35	Neural crest	233	0.0874
+g35	Neural progenitor	901	0.3381
+g35	Notochord	11	0.0041
+g35	Otic placode	60	0.0225
+g35	Pharyngeal endoderm	264	0.0991
+g35	RBC	5	0.0019
+g35	Sclerotome	381	0.1430
+g35	Splanchnic mesenchyme	2	0.0008
+g35	Ventral neural prog.	76	0.0285

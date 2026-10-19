@@ -1,0 +1,276 @@
+cluster	annotation	score	n_cells	method	resolution	leiden_col
+0	Mesenchyme	0.3529916532925126	42932	base30	0.2	leiden_base_res0.2
+1	Neural progenitor	1.9535362160410898	34759	base30	0.2	leiden_base_res0.2
+2	Epithelial	0.40304248931009035	16251	base30	0.2	leiden_base_res0.2
+3	Splanchnic mesenchyme	0.7420980821312607	16117	base30	0.2	leiden_base_res0.2
+4	Neural crest	1.763561821744761	9992	base30	0.2	leiden_base_res0.2
+5	Dermomyotome	1.867343468126153	8480	base30	0.2	leiden_base_res0.2
+6	Epithelial	0.6245310482060186	7724	base30	0.2	leiden_base_res0.2
+7	Pharyngeal endoderm	0.8462112809641538	7219	base30	0.2	leiden_base_res0.2
+8	Endothelial	1.5201986357487844	4057	base30	0.2	leiden_base_res0.2
+9	Otic placode	2.1470530852311964	3114	base30	0.2	leiden_base_res0.2
+10	Dorsal neural prog.	2.7156770015241123	3053	base30	0.2	leiden_base_res0.2
+11	Epithelial	0.057080207503272064	2928	base30	0.2	leiden_base_res0.2
+12	Diff. neuron	3.060429183753115	2882	base30	0.2	leiden_base_res0.2
+13	Ventral neural prog.	2.58670041411442	2537	base30	0.2	leiden_base_res0.2
+14	Notochord	2.5839803779853185	1276	base30	0.2	leiden_base_res0.2
+15	Cardiomyocyte	2.7859421831786055	1110	base30	0.2	leiden_base_res0.2
+0	Mesenchyme	0.36241317254662203	44034	horn	0.2	leiden_horn_res0.2
+1	Neural progenitor	1.9847406419099247	33250	horn	0.2	leiden_horn_res0.2
+2	Epithelial	0.40227484414652526	16348	horn	0.2	leiden_horn_res0.2
+3	Splanchnic mesenchyme	0.6823214563448126	14287	horn	0.2	leiden_horn_res0.2
+4	Neural crest	1.75875795984658	10000	horn	0.2	leiden_horn_res0.2
+5	Dermomyotome	1.886061788921948	8374	horn	0.2	leiden_horn_res0.2
+6	Epithelial	0.6246210660159901	7746	horn	0.2	leiden_horn_res0.2
+7	Pharyngeal endoderm	0.8479097635546377	7214	horn	0.2	leiden_horn_res0.2
+8	Ventral neural prog.	1.214154792068496	4115	horn	0.2	leiden_horn_res0.2
+9	Endothelial	1.5076802366831188	4088	horn	0.2	leiden_horn_res0.2
+10	Otic placode	2.1529556967648187	3103	horn	0.2	leiden_horn_res0.2
+11	Epithelial	0.05242417142053788	3010	horn	0.2	leiden_horn_res0.2
+12	Dorsal neural prog.	2.7470827595428076	2937	horn	0.2	leiden_horn_res0.2
+13	Diff. neuron	3.0373092673540905	2899	horn	0.2	leiden_horn_res0.2
+14	Cardiomyocyte	2.8220244213438566	1334	horn	0.2	leiden_horn_res0.2
+15	Notochord	2.5843888047919186	1277	horn	0.2	leiden_horn_res0.2
+16	Dorsal neural prog.	2.174874455794023	415	horn	0.2	leiden_horn_res0.2
+0	Epithelial	0.5618144720686912	17322	base30	0.5	leiden_base_res0.5
+1	Splanchnic mesenchyme	0.6815989259798488	16000	base30	0.5	leiden_base_res0.5
+2	Epithelial	0.4290794918830257	13845	base30	0.5	leiden_base_res0.5
+3	Neural progenitor	2.652846234124324	13384	base30	0.5	leiden_base_res0.5
+4	Splanchnic mesenchyme	0.7113141982756659	10190	base30	0.5	leiden_base_res0.5
+5	Splanchnic mesenchyme	0.676376164342661	9744	base30	0.5	leiden_base_res0.5
+6	Neural progenitor	1.543361452787913	9715	base30	0.5	leiden_base_res0.5
+7	Neural progenitor	1.6191121196078768	9292	base30	0.5	leiden_base_res0.5
+8	Epithelial	0.6262497610921621	7722	base30	0.5	leiden_base_res0.5
+9	Dermomyotome	2.035662830997937	7499	base30	0.5	leiden_base_res0.5
+10	Pharyngeal endoderm	1.0199171902493553	6244	base30	0.5	leiden_base_res0.5
+11	Ventral neural prog.	0.2971195871039004	5734	base30	0.5	leiden_base_res0.5
+12	Neural crest	1.56095024926766	5558	base30	0.5	leiden_base_res0.5
+13	Ventral neural prog.	1.8960562849014913	4802	base30	0.5	leiden_base_res0.5
+14	Neural crest	2.0651754128314863	4426	base30	0.5	leiden_base_res0.5
+15	Endothelial	1.5203447987395375	4059	base30	0.5	leiden_base_res0.5
+16	Otic placode	2.148220334607823	3109	base30	0.5	leiden_base_res0.5
+17	Dorsal neural prog.	2.697195579563905	3078	base30	0.5	leiden_base_res0.5
+18	Diff. neuron	2.96212605643262	2940	base30	0.5	leiden_base_res0.5
+19	Mesenchyme	0.05643400991097945	2440	base30	0.5	leiden_base_res0.5
+20	Otic placode	1.208116846624448	2353	base30	0.5	leiden_base_res0.5
+21	Notochord	2.5839803779853185	1276	base30	0.5	leiden_base_res0.5
+22	Cardiomyocyte	2.800141432156607	1153	base30	0.5	leiden_base_res0.5
+23	Diff. neuron	1.1972423620281196	1006	base30	0.5	leiden_base_res0.5
+24	Dermomyotome	1.4192769053038248	982	base30	0.5	leiden_base_res0.5
+25	Neural progenitor	0.1465955761380211	558	base30	0.5	leiden_base_res0.5
+0	Epithelial	0.4333788687254264	14200	horn	0.5	leiden_horn_res0.5
+1	Splanchnic mesenchyme	0.6659149788427486	13711	horn	0.5	leiden_horn_res0.5
+2	Mesenchyme	0.592001118902812	13174	horn	0.5	leiden_horn_res0.5
+3	Neural progenitor	2.631839147246644	13084	horn	0.5	leiden_horn_res0.5
+4	Neural progenitor	1.4620928528779888	11872	horn	0.5	leiden_horn_res0.5
+5	Epithelial	0.4280851516303122	10533	horn	0.5	leiden_horn_res0.5
+6	Splanchnic mesenchyme	1.2731441507493195	9928	horn	0.5	leiden_horn_res0.5
+7	Dermomyotome	1.9569961027513543	7963	horn	0.5	leiden_horn_res0.5
+8	Epithelial	0.6247116523053036	7748	horn	0.5	leiden_horn_res0.5
+9	Epithelial	0.6100524425287479	7421	horn	0.5	leiden_horn_res0.5
+10	Pharyngeal endoderm	1.0261132550140626	6207	horn	0.5	leiden_horn_res0.5
+11	Neural crest	1.5168835670311867	5608	horn	0.5	leiden_horn_res0.5
+12	Neural progenitor	1.9513974533486662	5473	horn	0.5	leiden_horn_res0.5
+13	Ventral neural prog.	1.7182461869648895	5431	horn	0.5	leiden_horn_res0.5
+14	Neural crest	2.0799397170699634	4458	horn	0.5	leiden_horn_res0.5
+15	Endothelial	1.5756392752054427	3868	horn	0.5	leiden_horn_res0.5
+16	Ventral neural prog.	0.34182267466609306	3712	horn	0.5	leiden_horn_res0.5
+17	Neural progenitor	0.11698150947562598	3556	horn	0.5	leiden_horn_res0.5
+18	Otic placode	2.1484948762521445	3114	horn	0.5	leiden_horn_res0.5
+19	Diff. neuron	3.026801601355393	2924	horn	0.5	leiden_horn_res0.5
+20	Otic placode	1.199258005555261	2036	horn	0.5	leiden_horn_res0.5
+21	Neural progenitor	1.2139674886744063	1788	horn	0.5	leiden_horn_res0.5
+22	Dorsal neural prog.	3.1507800896027085	1668	horn	0.5	leiden_horn_res0.5
+23	Notochord	2.5843888047919186	1277	horn	0.5	leiden_horn_res0.5
+24	Cardiomyocyte	2.7744337971577036	1087	horn	0.5	leiden_horn_res0.5
+25	Diff. neuron	1.1908376902472577	983	horn	0.5	leiden_horn_res0.5
+26	Neural progenitor	0.14952444057813016	559	horn	0.5	leiden_horn_res0.5
+27	Dermomyotome	1.409176135653645	422	horn	0.5	leiden_horn_res0.5
+28	Dorsal neural prog.	2.276497722220461	396	horn	0.5	leiden_horn_res0.5
+29	Endothelial	0.57741137917961	230	horn	0.5	leiden_horn_res0.5
+0	Splanchnic mesenchyme	0.7535052398655755	15560	base30	0.6	leiden_base_res0.6
+1	Mesenchyme	0.8992568518538521	14753	base30	0.6	leiden_base_res0.6
+2	Epithelial	0.4303398172574092	13860	base30	0.6	leiden_base_res0.6
+3	Neural progenitor	2.6439486379032395	13448	base30	0.6	leiden_base_res0.6
+4	Epithelial	0.6038449740658768	12451	base30	0.6	leiden_base_res0.6
+5	Neural progenitor	1.6193490045452847	9314	base30	0.6	leiden_base_res0.6
+6	Neural progenitor	1.6252808533693683	8562	base30	0.6	leiden_base_res0.6
+7	Epithelial	0.6261607118270134	7724	base30	0.6	leiden_base_res0.6
+8	Dermomyotome	2.0463097172983917	7444	base30	0.6	leiden_base_res0.6
+9	Epithelial	0.6122694909078403	6430	base30	0.6	leiden_base_res0.6
+10	Pharyngeal endoderm	1.0201241778650914	6242	base30	0.6	leiden_base_res0.6
+11	Mesenchyme	0.3466640231848055	5763	base30	0.6	leiden_base_res0.6
+12	Neural crest	1.5620681067093836	5545	base30	0.6	leiden_base_res0.6
+13	Ventral neural prog.	1.8889187818713018	4823	base30	0.6	leiden_base_res0.6
+14	Neural crest	2.066427050086891	4432	base30	0.6	leiden_base_res0.6
+15	Endothelial	1.5201986357487844	4057	base30	0.6	leiden_base_res0.6
+16	Ventral neural prog.	0.2620523948656539	3907	base30	0.6	leiden_base_res0.6
+17	Neural progenitor	0.12482112863500451	3487	base30	0.6	leiden_base_res0.6
+18	Dorsal neural prog.	2.674570280920521	3112	base30	0.6	leiden_base_res0.6
+19	Otic placode	2.148220334607823	3109	base30	0.6	leiden_base_res0.6
+20	Diff. neuron	2.966422190798766	2937	base30	0.6	leiden_base_res0.6
+21	Otic placode	1.2079469038200155	2333	base30	0.6	leiden_base_res0.6
+22	Notochord	2.5839803779853185	1276	base30	0.6	leiden_base_res0.6
+23	Cardiomyocyte	2.810043187021686	1274	base30	0.6	leiden_base_res0.6
+24	Dermomyotome	1.4266613457498896	1025	base30	0.6	leiden_base_res0.6
+25	Diff. neuron	1.211413859415877	1001	base30	0.6	leiden_base_res0.6
+26	Neural progenitor	0.14848327948709764	562	base30	0.6	leiden_base_res0.6
+0	Mesenchyme	0.2477348797619128	14756	horn	0.6	leiden_horn_res0.6
+1	Splanchnic mesenchyme	0.672473139264996	13629	horn	0.6	leiden_horn_res0.6
+2	Neural progenitor	2.632056981623222	13061	horn	0.6	leiden_horn_res0.6
+3	Neural progenitor	1.5425812612586567	10622	horn	0.6	leiden_horn_res0.6
+4	Epithelial	0.6364152741693644	10588	horn	0.6	leiden_horn_res0.6
+5	Splanchnic mesenchyme	1.2712563515282507	9931	horn	0.6	leiden_horn_res0.6
+6	Otic placode	0.7881753978860296	8704	horn	0.6	leiden_horn_res0.6
+7	Epithelial	0.6247590633975874	7747	horn	0.6	leiden_horn_res0.6
+8	Sclerotome	0.39758652792544596	7600	horn	0.6	leiden_horn_res0.6
+9	Epithelial	0.6284246770512975	7547	horn	0.6	leiden_horn_res0.6
+10	Dermomyotome	2.1100221161216717	6710	horn	0.6	leiden_horn_res0.6
+11	Pharyngeal endoderm	1.0262521060131926	6206	horn	0.6	leiden_horn_res0.6
+12	Neural crest	1.5167632621382545	5611	horn	0.6	leiden_horn_res0.6
+13	Ventral neural prog.	1.7170115114580742	5437	horn	0.6	leiden_horn_res0.6
+14	Neural progenitor	1.954800523101289	5436	horn	0.6	leiden_horn_res0.6
+15	Neural crest	2.0826549519158557	4454	horn	0.6	leiden_horn_res0.6
+16	Endothelial	1.5762563540566064	3858	horn	0.6	leiden_horn_res0.6
+17	Neural progenitor	0.11474295281992108	3559	horn	0.6	leiden_horn_res0.6
+18	Otic placode	2.1484948762521445	3114	horn	0.6	leiden_horn_res0.6
+19	Dorsal neural prog.	2.733677188625548	2962	horn	0.6	leiden_horn_res0.6
+20	Diff. neuron	3.013258690706201	2933	horn	0.6	leiden_horn_res0.6
+21	Cardiomyocyte	0.4231964414972119	1926	horn	0.6	leiden_horn_res0.6
+22	Neural progenitor	1.2098585606047905	1794	horn	0.6	leiden_horn_res0.6
+23	Dermomyotome	1.5178786826068393	1693	horn	0.6	leiden_horn_res0.6
+24	Notochord	2.5843888047919186	1277	horn	0.6	leiden_horn_res0.6
+25	Cardiomyocyte	2.7744337971577036	1087	horn	0.6	leiden_horn_res0.6
+26	Diff. neuron	1.1936050110298622	983	horn	0.6	leiden_horn_res0.6
+27	Neural progenitor	0.14952444057813016	559	horn	0.6	leiden_horn_res0.6
+28	Dorsal neural prog.	2.1670134102592447	417	horn	0.6	leiden_horn_res0.6
+29	Endothelial	0.57741137917961	230	horn	0.6	leiden_horn_res0.6
+0	Epithelial	0.6510612704978801	13410	base30	0.8	leiden_base_res0.8
+1	Neural progenitor	2.6534086218791457	13159	base30	0.8	leiden_base_res0.8
+2	Splanchnic mesenchyme	0.976331341337061	10606	base30	0.8	leiden_base_res0.8
+3	Splanchnic mesenchyme	0.6956829181719679	9930	base30	0.8	leiden_base_res0.8
+4	Splanchnic mesenchyme	0.6779483721817218	9693	base30	0.8	leiden_base_res0.8
+5	Neural progenitor	1.6290484905346345	9268	base30	0.8	leiden_base_res0.8
+6	Neural progenitor	1.626512923467434	8732	base30	0.8	leiden_base_res0.8
+7	Sclerotome	0.37693730202769293	8142	base30	0.8	leiden_base_res0.8
+8	Epithelial	0.626732442675655	7717	base30	0.8	leiden_base_res0.8
+9	Dermomyotome	2.040903857943969	7484	base30	0.8	leiden_base_res0.8
+10	Otic placode	1.0288869127504985	6961	base30	0.8	leiden_base_res0.8
+11	Epithelial	0.346697224611394	6949	base30	0.8	leiden_base_res0.8
+12	Pharyngeal endoderm	1.0204511145436643	6241	base30	0.8	leiden_base_res0.8
+13	Mesenchyme	0.35606086025325595	5573	base30	0.8	leiden_base_res0.8
+14	Neural crest	1.5583719919752317	5554	base30	0.8	leiden_base_res0.8
+15	Ventral neural prog.	1.8826314192721862	4849	base30	0.8	leiden_base_res0.8
+16	Neural crest	2.066721411703844	4433	base30	0.8	leiden_base_res0.8
+17	Endothelial	1.57289515139581	3889	base30	0.8	leiden_base_res0.8
+18	Cardiomyocyte	0.36007000358892216	3760	base30	0.8	leiden_base_res0.8
+19	Neural progenitor	0.14834003290768777	3643	base30	0.8	leiden_base_res0.8
+20	Dorsal neural prog.	2.6749474243490305	3119	base30	0.8	leiden_base_res0.8
+21	Otic placode	2.147452024416509	3107	base30	0.8	leiden_base_res0.8
+22	Diff. neuron	2.9655495785462547	2938	base30	0.8	leiden_base_res0.8
+23	Notochord	2.5839803779853185	1276	base30	0.8	leiden_base_res0.8
+24	Cardiomyocyte	2.805637004732586	1275	base30	0.8	leiden_base_res0.8
+25	Diff. neuron	1.2073110464811951	1004	base30	0.8	leiden_base_res0.8
+26	Dermomyotome	1.416824120855485	985	base30	0.8	leiden_base_res0.8
+27	Neural progenitor	0.1459836352784225	559	base30	0.8	leiden_base_res0.8
+28	Endothelial	0.5465831837657938	175	base30	0.8	leiden_base_res0.8
+0	Splanchnic mesenchyme	0.6614091747301485	13336	horn	0.8	leiden_horn_res0.8
+1	Neural progenitor	2.644118685036338	12980	horn	0.8	leiden_horn_res0.8
+2	Mesenchyme	0.18626570718756222	12804	horn	0.8	leiden_horn_res0.8
+3	Neural progenitor	1.5554402377276155	10225	horn	0.8	leiden_horn_res0.8
+4	Mesenchyme	0.8729925092545913	9090	horn	0.8	leiden_horn_res0.8
+5	Otic placode	0.7852447467836223	8694	horn	0.8	leiden_horn_res0.8
+6	Splanchnic mesenchyme	1.3105723526069164	8640	horn	0.8	leiden_horn_res0.8
+7	Sclerotome	0.3972006706053412	7603	horn	0.8	leiden_horn_res0.8
+8	Epithelial	0.6068661318089497	7566	horn	0.8	leiden_horn_res0.8
+9	Dermomyotome	2.1108315183364303	6999	horn	0.8	leiden_horn_res0.8
+10	Pharyngeal endoderm	1.0252872495757428	6215	horn	0.8	leiden_horn_res0.8
+11	Neural crest	1.526103574765984	5652	horn	0.8	leiden_horn_res0.8
+12	Neural progenitor	1.926781616236081	5585	horn	0.8	leiden_horn_res0.8
+13	Ventral neural prog.	1.726852325546718	5374	horn	0.8	leiden_horn_res0.8
+14	Neural crest	2.0720735729357163	4413	horn	0.8	leiden_horn_res0.8
+15	Epithelial	1.3261581874911652	3958	horn	0.8	leiden_horn_res0.8
+16	Endothelial	1.5756392752054427	3868	horn	0.8	leiden_horn_res0.8
+17	Ventral neural prog.	0.3452527909523587	3794	horn	0.8	leiden_horn_res0.8
+18	Otic placode	0.5387168759351484	3793	horn	0.8	leiden_horn_res0.8
+19	Neural progenitor	0.1200373992428473	3608	horn	0.8	leiden_horn_res0.8
+20	Epithelial	1.1619004650629359	3148	horn	0.8	leiden_horn_res0.8
+21	Dorsal neural prog.	2.653610815806973	3144	horn	0.8	leiden_horn_res0.8
+22	Otic placode	2.148747059957896	3115	horn	0.8	leiden_horn_res0.8
+23	Diff. neuron	2.882713246203882	3076	horn	0.8	leiden_horn_res0.8
+24	Neural progenitor	1.2097256620738517	1819	horn	0.8	leiden_horn_res0.8
+25	Dermomyotome	1.449281048023496	1399	horn	0.8	leiden_horn_res0.8
+26	Notochord	2.5843888047919186	1277	horn	0.8	leiden_horn_res0.8
+27	Cardiomyocyte	2.7744337971577036	1087	horn	0.8	leiden_horn_res0.8
+28	Diff. neuron	1.1919535114451194	982	horn	0.8	leiden_horn_res0.8
+29	Neural progenitor	0.14952444057813016	559	horn	0.8	leiden_horn_res0.8
+30	Dorsal neural prog.	2.264654205165141	398	horn	0.8	leiden_horn_res0.8
+31	Endothelial	0.57741137917961	230	horn	0.8	leiden_horn_res0.8
+0	Neural progenitor	2.6495024928019046	13052	base30	1.0	leiden_base_res1.0
+1	Splanchnic mesenchyme	0.6876916486734955	9773	base30	1.0	leiden_base_res1.0
+2	Mesenchyme	0.4692804132730021	9742	base30	1.0	leiden_base_res1.0
+3	Neural progenitor	1.6594020239113814	9053	base30	1.0	leiden_base_res1.0
+4	Splanchnic mesenchyme	1.1748130964253378	8152	base30	1.0	leiden_base_res1.0
+5	Sclerotome	0.3796859150578584	8069	base30	1.0	leiden_base_res1.0
+6	Epithelial	0.6401213017502833	7951	base30	1.0	leiden_base_res1.0
+7	Neural progenitor	0.4529638470262572	7455	base30	1.0	leiden_base_res1.0
+8	Dermomyotome	2.0425263642894236	7453	base30	1.0	leiden_base_res1.0
+9	Otic placode	1.0187279752200697	7002	base30	1.0	leiden_base_res1.0
+10	Neural progenitor	1.7111315003002254	6948	base30	1.0	leiden_base_res1.0
+11	Pharyngeal endoderm	1.0236835023394133	6232	base30	1.0	leiden_base_res1.0
+12	Neural crest	1.5633573765179074	5565	base30	1.0	leiden_base_res1.0
+13	Splanchnic mesenchyme	1.152386593617726	5247	base30	1.0	leiden_base_res1.0
+14	Ventral neural prog.	1.8436264948157262	4981	base30	1.0	leiden_base_res1.0
+15	Epithelial	0.2754704325348533	4916	base30	1.0	leiden_base_res1.0
+16	Epithelial	0.6571739053970329	4775	base30	1.0	leiden_base_res1.0
+17	Neural crest	2.0648369145898604	4416	base30	1.0	leiden_base_res1.0
+18	Epithelial	1.2662158482456807	4028	base30	1.0	leiden_base_res1.0
+19	Endothelial	1.57289515139581	3889	base30	1.0	leiden_base_res1.0
+20	Otic placode	0.5417528463858696	3700	base30	1.0	leiden_base_res1.0
+21	Neural progenitor	0.1311935722025094	3558	base30	1.0	leiden_base_res1.0
+22	Dorsal neural prog.	2.66247876666162	3169	base30	1.0	leiden_base_res1.0
+23	Otic placode	2.1475366958715933	3108	base30	1.0	leiden_base_res1.0
+24	Diff. neuron	2.9057699805463004	3095	base30	1.0	leiden_base_res1.0
+25	Epithelial	0.5288261007275954	1875	base30	1.0	leiden_base_res1.0
+26	Neural progenitor	1.2551618861913838	1855	base30	1.0	leiden_base_res1.0
+27	Cardiomyocyte	2.810049560754189	1317	base30	1.0	leiden_base_res1.0
+28	Notochord	2.5839803779853185	1276	base30	1.0	leiden_base_res1.0
+29	Dermomyotome	1.4250569277634597	1031	base30	1.0	leiden_base_res1.0
+30	Diff. neuron	1.208163156456977	1005	base30	1.0	leiden_base_res1.0
+31	Neural progenitor	0.14736142257115528	568	base30	1.0	leiden_base_res1.0
+32	Endothelial	0.5465831837657938	175	base30	1.0	leiden_base_res1.0
+0	Epithelial	0.6410008712296282	11596	horn	1.0	leiden_horn_res1.0
+1	Neural progenitor	2.6943496079528164	10999	horn	1.0	leiden_horn_res1.0
+2	Splanchnic mesenchyme	0.9489933652631067	10770	horn	1.0	leiden_horn_res1.0
+3	Neural progenitor	1.5381378748617551	10028	horn	1.0	leiden_horn_res1.0
+4	Splanchnic mesenchyme	0.6958604760993204	9983	horn	1.0	leiden_horn_res1.0
+5	Sclerotome	0.4001251607928437	7560	horn	1.0	leiden_horn_res1.0
+6	Epithelial	0.2559948332280003	6929	horn	1.0	leiden_horn_res1.0
+7	Epithelial	0.8883424769402317	6713	horn	1.0	leiden_horn_res1.0
+8	Dermomyotome	2.1115106079305326	6695	horn	1.0	leiden_horn_res1.0
+9	Pharyngeal endoderm	1.026608283099033	6211	horn	1.0	leiden_horn_res1.0
+10	Epithelial	0.666904066572508	5640	horn	1.0	leiden_horn_res1.0
+11	Neural progenitor	1.9420484081569027	5594	horn	1.0	leiden_horn_res1.0
+12	Neural crest	1.5322274669493303	5572	horn	1.0	leiden_horn_res1.0
+13	Neural progenitor	2.0962113712997987	5387	horn	1.0	leiden_horn_res1.0
+14	Splanchnic mesenchyme	1.22932647984223	4889	horn	1.0	leiden_horn_res1.0
+15	Mesenchyme	0.33635814488561583	4730	horn	1.0	leiden_horn_res1.0
+16	Neural crest	2.0870414114365876	4443	horn	1.0	leiden_horn_res1.0
+17	Epithelial	1.3255901309970466	3955	horn	1.0	leiden_horn_res1.0
+18	Endothelial	1.5756392752054427	3868	horn	1.0	leiden_horn_res1.0
+19	Otic placode	0.5380889984906692	3798	horn	1.0	leiden_horn_res1.0
+20	Ventral neural prog.	0.34587095230231696	3788	horn	1.0	leiden_horn_res1.0
+21	Neural progenitor	0.11736340390847089	3711	horn	1.0	leiden_horn_res1.0
+22	Dorsal neural prog.	2.6519908093547166	3146	horn	1.0	leiden_horn_res1.0
+23	Otic placode	2.1484948762521445	3114	horn	1.0	leiden_horn_res1.0
+24	Diff. neuron	3.033540411709577	2908	horn	1.0	leiden_horn_res1.0
+25	Ventral neural prog.	2.8180149602563467	2325	horn	1.0	leiden_horn_res1.0
+26	Otic placode	1.1989762375776813	2028	horn	1.0	leiden_horn_res1.0
+27	Neural progenitor	1.213270846101037	1806	horn	1.0	leiden_horn_res1.0
+28	Dermomyotome	1.519521916952244	1697	horn	1.0	leiden_horn_res1.0
+29	Notochord	2.5843888047919186	1277	horn	1.0	leiden_horn_res1.0
+30	Cardiomyocyte	2.7744337971577036	1087	horn	1.0	leiden_horn_res1.0
+31	Diff. neuron	1.1936050110298622	983	horn	1.0	leiden_horn_res1.0
+32	Neural progenitor	0.1510591553368356	560	horn	1.0	leiden_horn_res1.0
+33	Dorsal neural prog.	2.180230559291265	411	horn	1.0	leiden_horn_res1.0
+34	Endothelial	0.57741137917961	230	horn	1.0	leiden_horn_res1.0

@@ -1,0 +1,69 @@
+sample_id	libsize	n_cells	total_fragments	d2g_stage	n_subclusters	subclusters	inferred_side	unified_genotype_id	compartment	size_factor_global
+dorsal|HH17/16|G2_genotype_01|L	1544795	231	1544795	HH17/16	1	Dorsal-biased LPM	L	G2_genotype_01	dorsal	0.942795
+dorsal|HH17/16|G2_genotype_02|L	757078	111	757078	HH17/16	1	Dorsal-biased LPM	L	G2_genotype_02	dorsal	0.536329
+dorsal|HH17/16|G2_genotype_03|L	388929	75	388929	HH17/16	1	Dorsal-biased LPM	L	G2_genotype_03	dorsal	0.345101
+dorsal|HH17/16|G2_genotype_04|L	874426	142	874426	HH17/16	1	Dorsal-biased LPM	L	G2_genotype_04	dorsal	0.599544
+dorsal|HH17/16|g01|L	734922	74	734922	HH17/16	1	Dorsal-biased LPM	L	g01	dorsal	0.532244
+dorsal|HH17/16|g08|L	755293	84	755293	HH17/16	1	Dorsal-biased LPM	L	g08	dorsal	0.542328
+dorsal|HH17/16|g17|L	619812	82	619812	HH17/16	1	Dorsal-biased LPM	L	g17	dorsal	0.464607
+dorsal|HH21|G2_genotype_05|L	252860	51	252860	HH21	1	Dorsal sub-epi.	L	G2_genotype_05	dorsal	0.305226
+dorsal|HH21|g03|R	520250	68	520250	HH21	1	Dorsal sub-epi.	R	g03	dorsal	0.405756
+dorsal|HH25|dp500_donor29|R	277429	53	277429	HH25	1	Dorsal sub-epi.	R	dp500_donor29	dorsal	0.30955
+dorsal|HH25|g00|L	561703	101	561703	HH25	1	Dorsal sub-epi.	L	g00	dorsal	0.431998
+dorsal|HH25|g02|R	815559	124	815559	HH25	1	Dorsal sub-epi.	R	g02	dorsal	0.587552
+dorsal|HH25|g04|R	280194	56	280194	HH25	1	Dorsal sub-epi.	R	g04	dorsal	0.310255
+dorsal|HH25|g07|L	401135	66	401135	HH25	1	Dorsal sub-epi.	L	g07	dorsal	0.34873
+dorsal|HH25|g11|L	302127	52	302127	HH25	1	Dorsal sub-epi.	L	g11	dorsal	0.319034
+dorsal|HH25|g12|L	490250	76	490250	HH25	1	Dorsal sub-epi.	L	g12	dorsal	0.392388
+ventral|HH13|g13|R	428598	52	428598	HH13	1	Early LPM	R	g13	ventral	0.361107
+ventral|HH13|g21|L	433718	50	433718	HH13	1	Early LPM	L	g21	ventral	0.364833
+ventral|HH13|g25|R	683359	84	683359	HH13	1	Early LPM	R	g25	ventral	0.508296
+ventral|HH17/16|G2_genotype_01|L	3910393	453	3910393	HH17/16	2	BARX1+,Cardiopharyngeal LPM	L	G2_genotype_01	ventral	2.21063
+ventral|HH17/16|G2_genotype_02|L	1194391	174	1194391	HH17/16	2	BARX1+,Cardiopharyngeal LPM	L	G2_genotype_02	ventral	0.771637
+ventral|HH17/16|G2_genotype_02|R	422319	59	422319	HH17/16	1	BARX1+	R	G2_genotype_02	ventral	0.359772
+ventral|HH17/16|G2_genotype_03|L	1318148	268	1318148	HH17/16	2	BARX1+,Cardiopharyngeal LPM	L	G2_genotype_03	ventral	0.868092
+ventral|HH17/16|G2_genotype_04|L	2464044	320	2464044	HH17/16	2	BARX1+,Cardiopharyngeal LPM	L	G2_genotype_04	ventral	1.43492
+ventral|HH17/16|G2_genotype_09|R	524781	87	524781	HH17/16	1	Cardiopharyngeal LPM	R	G2_genotype_09	ventral	0.408814
+ventral|HH17/16|G2_genotype_11|L	424467	55	424467	HH17/16	1	Cardiopharyngeal LPM	L	G2_genotype_11	ventral	0.360173
+ventral|HH17/16|G3_unfiltered_donor0|L	1091865	93	1091865	HH17/16	1	BARX1+	L	G3_unfiltered_donor0	ventral	0.698982
+ventral|HH17/16|G3_unfiltered_donor3|L	1830678	134	1830678	HH17/16	1	BARX1+	L	G3_unfiltered_donor3	ventral	1.07075
+ventral|HH17/16|g01|L	1739359	166	1739359	HH17/16	1	BARX1+	L	g01	ventral	1.02764
+ventral|HH17/16|g08|L	711460	83	711460	HH17/16	1	BARX1+	L	g08	ventral	0.519202
+ventral|HH17/16|g08|R	522155	62	522155	HH17/16	1	Cardiopharyngeal LPM	R	g08	ventral	0.402257
+ventral|HH17/16|g15|R	711537	68	711537	HH17/16	1	BARX1+	R	g15	ventral	0.511592
+ventral|HH17/16|g17|L	1583201	197	1583201	HH17/16	2	BARX1+,Cardiopharyngeal LPM	L	g17	ventral	0.97993
+ventral|HH17/16|g19|L	334050	57	334050	HH17/16	1	Cardiopharyngeal LPM	L	g19	ventral	0.325595
+ventral|HH17/16|g20|R	888863	154	888863	HH17/16	2	BARX1+,Cardiopharyngeal LPM	R	g20	ventral	0.604663
+ventral|HH17/16|g24|R	845545	152	845545	HH17/16	1	BARX1+	R	g24	ventral	0.590384
+ventral|HH21|G2_genotype_05|L	9123476	1636	9123476	HH21	3	BARX1+,Syringeal,Ventral spl.	L	G2_genotype_05	ventral	6.09771
+ventral|HH21|G2_genotype_05|R	2511547	358	2511547	HH21	3	BARX1+,Syringeal,Ventral spl.	R	G2_genotype_05	ventral	1.59455
+ventral|HH21|G2_genotype_07|L	2447708	475	2447708	HH21	3	BARX1+,Syringeal,Ventral spl.	L	G2_genotype_07	ventral	1.61197
+ventral|HH21|G2_genotype_07|R	1328306	253	1328306	HH21	2	Syringeal,Ventral spl.	R	G2_genotype_07	ventral	0.894026
+ventral|HH21|G2_genotype_08|L	1925425	333	1925425	HH21	3	BARX1+,Syringeal,Ventral spl.	L	G2_genotype_08	ventral	1.28648
+ventral|HH21|G2_genotype_08|R	1853255	343	1853255	HH21	2	Syringeal,Ventral spl.	R	G2_genotype_08	ventral	1.20586
+ventral|HH21|G2_genotype_10|L	1740321	283	1740321	HH21	2	Syringeal,Ventral spl.	L	G2_genotype_10	ventral	1.11493
+ventral|HH21|G2_genotype_10|R	506597	85	506597	HH21	1	Ventral spl.	R	G2_genotype_10	ventral	0.398639
+ventral|HH21|g03|L	7524758	869	7524758	HH21	3	BARX1+,Syringeal,Ventral spl.	L	g03	ventral	4.68208
+ventral|HH21|g03|R	5230142	619	5230142	HH21	3	BARX1+,Syringeal,Ventral spl.	R	g03	ventral	3.28123
+ventral|HH21|g05|L	3377189	349	3377189	HH21	2	BARX1+,Ventral spl.	L	g05	ventral	2.0126
+ventral|HH21|g05|R	5149630	614	5149630	HH21	3	BARX1+,Syringeal,Ventral spl.	R	g05	ventral	3.26311
+ventral|HH21|g09|L	5773573	675	5773573	HH21	3	BARX1+,Syringeal,Ventral spl.	L	g09	ventral	3.69053
+ventral|HH21|g09|R	4217654	502	4217654	HH21	3	BARX1+,Syringeal,Ventral spl.	R	g09	ventral	2.66023
+ventral|HH21|g10|L	4064074	488	4064074	HH21	3	BARX1+,Syringeal,Ventral spl.	L	g10	ventral	2.54764
+ventral|HH21|g10|R	2977749	356	2977749	HH21	3	BARX1+,Syringeal,Ventral spl.	R	g10	ventral	1.80022
+ventral|HH25|dp500_donor29|L	2299111	254	2299111	HH25	1	Ventral spl.	L	dp500_donor29	ventral	1.42452
+ventral|HH25|dp500_donor29|R	3346138	523	3346138	HH25	2	Syringeal,Ventral spl.	R	dp500_donor29	ventral	2.02584
+ventral|HH25|g00|L	3523316	553	3523316	HH25	1	Ventral spl.	L	g00	ventral	2.14898
+ventral|HH25|g00|R	5225560	689	5225560	HH25	2	Syringeal,Ventral spl.	R	g00	ventral	3.14512
+ventral|HH25|g02|L	502745	83	502745	HH25	1	Ventral spl.	L	g02	ventral	0.391487
+ventral|HH25|g02|R	12696217	1798	12696217	HH25	2	Syringeal,Ventral spl.	R	g02	ventral	7.78485
+ventral|HH25|g04|L	518160	58	518160	HH25	1	Ventral spl.	L	g04	ventral	0.403795
+ventral|HH25|g04|R	6410733	877	6410733	HH25	2	Syringeal,Ventral spl.	R	g04	ventral	4.01165
+ventral|HH25|g06|L	1329300	145	1329300	HH25	1	Ventral spl.	L	g06	ventral	0.808939
+ventral|HH25|g06|R	6679034	983	6679034	HH25	2	Syringeal,Ventral spl.	R	g06	ventral	4.08957
+ventral|HH25|g07|L	5170638	727	5170638	HH25	1	Ventral spl.	L	g07	ventral	3.14391
+ventral|HH25|g07|R	4310538	558	4310538	HH25	2	Syringeal,Ventral spl.	R	g07	ventral	2.60606
+ventral|HH25|g11|L	8897565	1168	8897565	HH25	2	Syringeal,Ventral spl.	L	g11	ventral	5.656
+ventral|HH25|g11|R	5775281	913	5775281	HH25	2	Syringeal,Ventral spl.	R	g11	ventral	3.56573
+ventral|HH25|g12|L	8199617	1189	8199617	HH25	2	Syringeal,Ventral spl.	L	g12	ventral	5.25321
+ventral|HH25|g12|R	948999	108	948999	HH25	1	Ventral spl.	R	g12	ventral	0.631548

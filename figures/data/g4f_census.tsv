@@ -1,0 +1,8 @@
+stage	compartment	n_pb	n_L_pb	n_R_pb	n_half	n_L_half	n_R_half	n_paired	sum_n_cells	sum_total_fragments	median_n_cells_half	median_libsize_half	lr_testable	paired_testable
+HH13	ventral	3	1	2	3	1	2	0	186	1545675	52.0	433718.0	0	0
+HH17/16	ventral	23	16	7	17	11	6	2	2582	20517256	134.0	888863.0	1	1
+HH21	ventral	42	22	20	16	8	8	8	8238	59751404	416.5	3177469.0	1	1
+HH25	ventral	25	10	15	16	8	8	8	10626	75832952	623.5	4740588.0	1	1
+HH17/16	dorsal	7	7	0	7	7	0	0	799	5675255	84.0	755293.0	0	0
+HH21	dorsal	2	1	1	2	1	1	0	119	773110	59.5	386555.0	0	0
+HH25	dorsal	7	4	3	7	4	3	0	528	3128397	66.0	401135.0	1	0

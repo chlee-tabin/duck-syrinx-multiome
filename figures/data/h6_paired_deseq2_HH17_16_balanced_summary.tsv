@@ -1,0 +1,2 @@
+stage	scope	pool_kind	pool_members	counts_basename	counts_sha256	meta_cohort_sha256	n_pseudobulks	n_L	n_R	n_genotypes	genotypes	n_subclusters	min_peak_count	n_peaks_input	n_peaks_tested	n_residual_df	n_sig_padj_010	n_sig_padj_005	n_L_sig_010	n_R_sig_010	n_L_sig_005	n_R_sig_005
+HH17/16	INFERENCE_POOL_BALANCED	inference	Cardiopharyngeal LPM,BARX1+	pseudobulk_counts.tsv.gz	64b04701cbab64594091ab969b0482cf4e86203f92f3e6a37fa7724f080bacd9	3e80b74c18c5b70c1752c81b3715bda8e1776325a9d70f2349289c5b5a33c745	5	3	2	2	G2_genotype_02,g08	2	10	283818	88272	1	0	0	0	0	0	0
