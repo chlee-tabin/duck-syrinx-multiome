@@ -1,5 +1,7 @@
 # Duck syrinx multiome analysis
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23476404.svg)](https://doi.org/10.5281/zenodo.23476404)
+
 Analysis code for the single-nucleus multiome (snRNA-seq + snATAC-seq) and
 single-cell RNA-seq study of left-right asymmetry and sexual dimorphism in the
 developing duck syrinx: genotype demultiplexing, snRNA/snATAC processing,
@@ -14,6 +16,11 @@ computational figure panel.
 > [doi:10.1101/2024.12.10.627783](https://doi.org/10.1101/2024.12.10.627783)
 
 The peer-reviewed version is in press at *Proc Natl Acad Sci USA*.
+
+The code is archived at Zenodo: v1.0.0 is
+[doi:10.5281/zenodo.23476405](https://doi.org/10.5281/zenodo.23476405), and
+[doi:10.5281/zenodo.23476404](https://doi.org/10.5281/zenodo.23476404) always
+points to the latest version.
 
 Machine-readable citation metadata: [`CITATION.cff`](CITATION.cff). If you use
 this code, please cite the paper.
