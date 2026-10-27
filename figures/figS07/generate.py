@@ -78,6 +78,9 @@ def main():
         rows=[[r("A"), r("B")], [r("C")], [r("D")]],
         labels=[["A", "B"], ["C"], ["D"]],
         out_pdf=p1, row_valign=["center", "center", "center"],
+        # A/B axes frames and the C legend start at the panel's top-left corner;
+        # the gutter keeps the letters clear of them
+        label_gutter_pt=14,
     )
 
     # ── page 2 ──────────────────────────────────────────────────────────

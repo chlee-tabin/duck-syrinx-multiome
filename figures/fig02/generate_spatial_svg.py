@@ -586,6 +586,9 @@ def main():
     # ══════════════════════════════════
 
     lx_text = 14
+    # left column starts 24 units lower so Fig 4's "C." letter (drawn over the
+    # schematic's top-left corner) clears "Skeletogenic LPM"
+    ly0 = 24
 
     def _title_end(title, y):   # leader start just right of a left-column title
         return (lx_text + len(title) * FS_TITLE * 0.6 + 6, y - 10)
@@ -594,12 +597,12 @@ def main():
     periph_target_x = CX - (OUTER_RX * L_SCALE + inner_rx * L_SCALE) / 2
     periph_target_y = CY - 60
     add_label_block(
-        dwg, lx_text, 50,
+        dwg, lx_text, ly0 + 50,
         *T(periph_target_x, periph_target_y),
         "Skeletogenic LPM",
         markers=["PRRX1"],
         anchor="start",
-        leader_from=_title_end("Skeletogenic LPM", 50)
+        leader_from=_title_end("Skeletogenic LPM", ly0 + 50)
     )
 
     # Mesothelium — moved to the left column in the print-size font pass: at
@@ -610,7 +613,7 @@ def main():
     meso_target_x = CX - (periph_inner_rx + inner_rx) / 2 * L_SCALE * math.cos(_th)
     meso_target_y = CY - (periph_inner_ry + inner_ry) / 2 * math.sin(_th)
     add_label_block(
-        dwg, lx_text, 140,
+        dwg, lx_text, ly0 + 140,
         *T(meso_target_x, meso_target_y),
         "Mesothelium",
         markers=["WT1, TCF21",
@@ -618,7 +621,7 @@ def main():
                  "Bilateral"],
         anchor="start",
         leader_from=(lx_text + len("Coelomic surface lining") * FS_MARKER * 0.5 + 8,
-                     140 + 2 * LINE_H - 7)
+                     ly0 + 140 + 2 * LINE_H - 7)
     )
 
     # Syringeal — target: center of orange crescent (left-ventral of TB junction)
@@ -628,7 +631,7 @@ def main():
     syr_target_x = TB_CX - TB_RX - EPI_W - 15  # left of TB junction
     syr_target_y = TB_CY + 15  # slightly below center
     add_label_block(
-        dwg, lx_text, 280,
+        dwg, lx_text, ly0 + 280,
         *T(syr_target_x, syr_target_y),
         # hedged publication label; hh21[...] still keys off the SSOT name
         display_population("Syringeal", short=True),
@@ -637,18 +640,18 @@ def main():
                  (f"{hh21['Syringeal'].gene} expr. L/R = "
                   f"{hh21['Syringeal'].lr_str}\u00d7")],
         anchor="start",
-        leader_from=_title_end(display_population("Syringeal", short=True), 280)
+        leader_from=_title_end(display_population("Syringeal", short=True), ly0 + 280)
     )
 
     # Epithelium (IHH+) — target: bottom of TB epithelial ring (no syringeal here)
     epi_target_x = TB_CX
     epi_target_y = TB_CY + TB_RY + EPI_W
     add_label_block(
-        dwg, lx_text, 410,
+        dwg, lx_text, ly0 + 410,
         *T(epi_target_x, epi_target_y),
         "Epithelium (IHH+)",
         anchor="start",
-        leader_from=_title_end("Epithelium (IHH+)", 410)
+        leader_from=_title_end("Epithelium (IHH+)", ly0 + 410)
     )
 
     # ══════════
