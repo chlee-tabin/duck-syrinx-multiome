@@ -81,7 +81,7 @@ BIN <- 100             # bp smoothing window (peaks are 501 bp; 100 keeps shape,
 # ── featured elements: a/b/c PROMOTERS (load-bearing) + +5.4 kb (putative) ──
 # Labeling decision (2026-06-17): the PITX2a/b/c PROMOTERS are the load-bearing
 # units and are FOREGROUNDED (bold labels; the c-promoter is the CpG-island
-# motif-DESERT memory element = the L arm; SMAD5 — the confirmed cis BMP/SBE input —
+# memory element without an SBE core = the L arm; SMAD5 (one strong site, plus the duck AGAC core)
 # annotates the a-promoter; a/b are the within-locus control, no consistent L/R
 # bias).  Of the
 # three exploratory distal marks only +5.4 kb survives, as a single PUTATIVE

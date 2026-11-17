@@ -14,8 +14,8 @@ Columns = the named PITX2 elements + the aggregated HH25 L-biased cis-block + th
 (now lifted into chick) + the within-locus ±50 kb bilateral background (the fig03 / panel-A focal
 scope; GC/locale-matched null).  Dot SIZE = presence ratio, dot FILL = mean motif count (viridis).
 
-Key reads: PITX2c promoter = motif DESERT (empty even for the GC-immune SBE → not a GC artifact →
-chromatin-gated); PITX2a = the SMAD5/SBE BMP anchor; R-desert carries motifs but no SMAD5; the
+Key reads: PITX2c promoter = no AGAC SBE core in either species; its SMAD PWM matches are weak, GC-rich
+hits of the CpG island (chromatin-gated, not motif-encoded); PITX2a = SMAD5 matches in both species + duck AGAC core; R-desert carries motifs but no SMAD5; the
 L-block elements are Class-I conserved in chick.
 
 Data: g3f_domain_duck_motifs.tsv, g3f_domain_window_gc.tsv, g3g_domain_chick_motifs.tsv,
@@ -158,7 +158,7 @@ def draw(ax, species, rows, luts, vmax, show_ylabels, div_after):
     nr, nc = len(rows), len(ELEMENTS)
     ax.set_xlim(-0.55, nc - 0.45)
     ax.set_ylim(nr - 0.5, -0.55)
-    ax.axvspan(DESERT_COL - 0.5, DESERT_COL + 0.5, color="#eef3f8", zorder=0)  # c-prom desert
+    ax.axvspan(DESERT_COL - 0.5, DESERT_COL + 0.5, color="#eef3f8", zorder=0)  # highlights the PITX2c promoter column
     if div_after is not None:
         ax.axhline(div_after + 0.5, color="#dddddd", lw=0.8, zorder=0)  # under the SMAD/BMP-TGFβ group
     ax.set_xticks(range(nc))

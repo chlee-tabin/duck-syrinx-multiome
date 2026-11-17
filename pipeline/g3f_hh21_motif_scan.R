@@ -58,7 +58,9 @@ for (nm in c("SMAD1", "SMAD9")) {
   if (!is.null(s) && length(s) > 0) { pfm[[nm]] <- s[[1]]; cat("g3f: added", nm, "=", ID(s[[1]]), "\n") }
   else cat("g3f: JASPAR2020 has NO standalone", nm, "matrix (BMP arm represented by SMAD5 + SBE)\n")
 }
-pwms <- do.call(PWMatrixList, lapply(pfm, toPWM, pseudocounts = 0.8)); names(pwms) <- names(pfm)
+# Background must be built into the PWM: motifmatchr 1.28.0 adds log2(bg) instead of subtracting it when
+# matchMotifs(bg=) differs from bg(pwm) (GreenleafLab/motifmatchr#13). With bg(pwm) == BG it adds nothing.
+pwms <- do.call(PWMatrixList, lapply(pfm, toPWM, pseudocounts = 0.8, bg = BG)); names(pwms) <- names(pfm)
 motif_gc <- sapply(pfm, function(m) { M <- m@profileMatrix; sum(M[c("C", "G"), ]) / sum(M) })
 gc_class <- ifelse(motif_gc >= 0.60, "GC-rich", "GC-immune")
 

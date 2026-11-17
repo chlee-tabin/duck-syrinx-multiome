@@ -54,7 +54,9 @@ for (nm in c("SMAD1", "SMAD9")) {  # other BMP R-SMADs by name (share the SBE wi
   if (!is.null(s) && length(s) > 0) { pfm[[nm]] <- s[[1]]; cat("g3g: added", nm, "=", ID(s[[1]]), "\n") }
   else cat("g3g: JASPAR2020 has NO standalone", nm, "matrix\n")
 }
-pwms <- do.call(PWMatrixList, lapply(pfm, toPWM, pseudocounts = 0.8)); names(pwms) <- names(pfm)
+# Background must be built into the PWM: motifmatchr 1.28.0 adds log2(bg) instead of subtracting it when
+# matchMotifs(bg=) differs from bg(pwm) (GreenleafLab/motifmatchr#13). With bg(pwm) == BG it adds nothing.
+pwms <- do.call(PWMatrixList, lapply(pfm, toPWM, pseudocounts = 0.8, bg = BG)); names(pwms) <- names(pfm)
 
 scan_pc <- function(seqs) {  # -> list(present=matrix, count=matrix), rows=names(seqs)
   mm <- as.matrix(motifMatches(matchMotifs(pwms, seqs, bg = BG, out = "scores", p.cutoff = PCUT)))

@@ -64,9 +64,11 @@ conda run -n duckfig python3 figures/fig04/generate.py   # -> figures/fig04.pdf
 - Cross-species lift = Smith–Waterman onto galGal6a.
 - The distal R-desert is lifted into chick against a wide window covering the region orthologous to duck −460 kb (around chick FAM241A): all 4 R-desert peaks are Class-I conserved (chick %id 0.82–0.98).
 
-**Key reads (moved from the legend):** (i) the PITX2c promoter is a motif desert — empty for every motif including the GC-immune SBE, so the emptiness is not a GC artifact — despite being the strongly L-biased element, so its laterality is chromatin-gated, not motif-encoded; (ii) the PITX2a promoter is the SMAD5 / GC-immune-SBE BMP anchor, conserved in chick; (iii) the R-desert carries generic motifs but zero SMAD5 (not a BMP target); (iv) the L-block elements are Class-I conserved in chick, so duck laterality acts on conserved elements. The distal R-desert lifts into chick with all 4 R-desert peaks Class-I conserved → the distal region is syntenic, so the R-bias is a duck artifact at conserved elements (eRNA/FAM241A-filtering interpretation), not duck-specific sequence; like duck, the chick R-desert orthologs carry generic motifs but zero SMAD5.
+**Key reads (moved from the legend):** (i) the PITX2c promoter carries no AGAC SBE core in either species; its SMAD-family PWM matches (duck SMAD5 5 / SMAD2-3-4 5 sites; chick SMAD5 3 / SMAD2-3-4 2) are weak, GC-rich hits consistent with the composition of this CpG island (83.6 % GC in duck) — despite being the strongly L-biased element, so its laterality is chromatin-gated, not motif-encoded; (ii) the PITX2a promoter carries SMAD5 PWM matches in both species and an AGAC SBE core in duck only; (iii) the R-desert carries generic motifs but zero SMAD5 (not a BMP target); (iv) the L-block elements are Class-I conserved in chick, so duck laterality acts on conserved elements. The distal R-desert lifts into chick with all 4 R-desert peaks Class-I conserved → the distal region is syntenic, so the R-bias is a duck artifact at conserved elements (eRNA/FAM241A-filtering interpretation), not duck-specific sequence; like duck, the chick R-desert orthologs carry generic motifs but zero SMAD5.
 
 ## Methods notes & disclosures
+
+- **Motif scoring correction (2026-11-16).** The g3f/g3g scans now build the fixed background into the PWM (`toPWM(..., bg = BG)`). Before this, motifmatchr 1.28.0 added log2(bg) instead of subtracting it (GreenleafLab/motifmatchr#13), which under-called GC-rich motif matches; the panel C values and the numbers below are from the corrected scans (O2 job 59791769 for the domain set, 59762543 for the TAD-wide set; the shipped settings reproduced the earlier tables exactly). The SBE·AGAC row is a raw sequence count and did not change.
 
 - **Laterality is focal, not locus-wide.** Of the 359 TAD peaks, only a small contiguous set is
   L-biased per stage (ventral, **L-biased** at `padj_locus<0.1`, floor-20 unpaired
@@ -82,7 +84,7 @@ conda run -n duckfig python3 figures/fig04/generate.py   # -> figures/fig04.pdf
   promoter itself reaches genome-wide DESeq2 FDR (HH25 ventral unpaired: genome-wide
   `padj = 1.2×10⁻¹¹`, locus `padj_locus = 3.1×10⁻¹⁴`, log2FC +1.28 — read directly from
   `g4f_lr_long_floor20.tsv`, written in `%.5g` scientific notation; no reconstruction needed —
-  yet a motif desert), and **13 of the 22 HH25 L-biased locus peaks** clear genome-wide
+  yet without an SBE core), and **13 of the 22 HH25 L-biased locus peaks** clear genome-wide
   `padj < 0.1` (2 of 11 at HH21; 0 of 8 at HH17/16). Strong claims are kept to the
   **conserved Class-I** candidates.
 - **Paired design is feasible at HH21/HH25** (the embryo-half paired g4f fit returns the same
@@ -99,17 +101,16 @@ conda run -n duckfig python3 figures/fig04/generate.py   # -> figures/fig04.pdf
   *p*-value is computed on the selected set, the background is GC-matched, and the unbiased
   genome-wide gkm-SVM logograph (homeodomain / FOX, no SMAD) agrees. All motif/TF labels are factual
   (the logo is the unbiased sequence; the annotation names the DNA-binding family). The **L-block's
-  SMAD5 rate (0.35, 6/17) is not significantly enriched over the bilateral background (0.25, 9/36;
-  Fisher OR 1.64, *p* = 0.52)** — the signal is the c-prom desert + a-prom anchor, not L-block SMAD5
-  enrichment.
+  SMAD5 rate (0.41, 7/17) is not enriched over the bilateral background (0.39, 14/36;
+  Fisher OR 1.10, *p* = 1.0)** — there is no L-block SMAD5 enrichment.
 - **No combinatorial enrichment either** (`combinatorial_motif_test.py`, not distributed; re-run 2026-08-18 on the
   seeded-relabel stageflags — the previous figures here were the pre-relabel L-block of 19 peaks
   against 34 background peaks). Pre-specified per-peak metrics — motif richness, total load, SMAD
   co-occurrence (≥2 of SMAD5/SMAD2-3-4/SBE), BMP+homeodomain pairing — show the L-block (n=17) is
-  **indistinguishable from the GC/locale-matched ±50 kb background** (n=36; every MWU/Fisher p ≥ 0.69
-  — the minimum is 0.696, on motif richness — co-occurrence ORs 0.93 and 1.07, i.e. no direction), and
+  **indistinguishable from the GC/locale-matched ±50 kb background** (n=36; every MWU/Fisher p ≥ 0.55
+  — the minimum is 0.553, on motif richness — SMAD co-occurrence OR 1.45 and BMP+homeodomain OR 0.64, both p ≥ 0.73), and
   no longer even nominally **motif-sparser**
-  than the full TAD (richness 2.53 vs 3.00, MWU p = 0.16, permutation p = 0.162; the pre-relabel run
+  than the full TAD (richness 2.88 vs 3.21, MWU p = 0.228, permutation p = 0.268; the pre-relabel run
   read 2.37 vs 3.00 at perm p ≈ 0.045, which was the one nominal signal here and does not survive).
   So neither individual motifs nor their combinations are enriched — consistent with **chromatin-gated**
   (not sequence-encoded) laterality. Underpowered (n=17) for subtle grammars: report as "no enrichment
@@ -118,11 +119,11 @@ conda run -n duckfig python3 figures/fig04/generate.py   # -> figures/fig04.pdf
   (`g3f_tadbil_*`; 226 duck `tadbil` + 62 chick `tadbil_ck` windows, 14 window NAMES shared between the
   two classes → 274 distinct names in the file; the duck 226 are the background): for the BMP/SMAD motifs
   (SMAD5, SMAD2/3/4, SBE)
-  the full-TAD background motif rate is close to the ±50 kb proximal one (SMAD5 0.34 vs 0.25; SBE 0.93 vs
+  the full-TAD background motif rate is close to the ±50 kb proximal one (SMAD5 0.385 vs 0.389; SBE 0.93 vs
   0.89), so the ±50 kb scope is representative. Rate rule for the full-TAD side: **window-collapsed** — a
-  window counts as motif-positive if any of its constituent peak rows carries the motif (SMAD5 77/226 = 0.34;
-  at peak-row level it is 78/246 = 0.32, because 20 duck windows carry two peaks each under one kb-rounded
-  name). The ±50 kb side has one row per window, so its 9/36 = 0.25 is rule-invariant. Only NKX6-1 / ISL1 (AT-rich) rise TAD-wide in the distal lower-GC regions the ±50 kb
+  window counts as motif-positive if any of its constituent peak rows carries the motif (SMAD5 87/226 = 0.385;
+  at peak-row level it is 90/246 = 0.37, because 20 duck windows carry two peaks each under one kb-rounded
+  name). The ±50 kb side has one row per window, so its 14/36 = 0.39 is rule-invariant. Only NKX6-1 / ISL1 (AT-rich) rise TAD-wide in the distal lower-GC regions the ±50 kb
   window excludes. Chick subsample 51 Class-I / 11 Class-II (82 % conserved).
 
 ## Related docs

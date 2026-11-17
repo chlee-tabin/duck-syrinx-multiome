@@ -141,6 +141,15 @@ if (length(l_gt_r) + length(r_gt_l) == 0) {
 peaks <- import(PEAKS_BED, format = "BED")
 cat("Loaded", length(peaks), "union peaks from", PEAKS_BED, "\n")
 
+# Scan background = A/C/G/T composition of the union-peak sequences (what matchMotifs' default
+# bg = "subject" computes). It is built into the PWMs (toPWM(bg = BG)) and passed to matchMotifs, so the
+# two agree: motifmatchr 1.28.0 adds log2(bg) instead of subtracting it when they differ
+# (GreenleafLab/motifmatchr#13; confirmed by hand on O2, job 59751309; re-run verified by job 59762539).
+peak_seqs <- getSeq(BSgenome.Anasplatyrhynchos.ZJU1.0, peaks)
+nuc_counts <- colSums(Biostrings::letterFrequency(peak_seqs, c("A", "C", "G", "T")))
+BG <- nuc_counts / sum(nuc_counts)
+cat("Scan background (subject):", paste(names(BG), sprintf("%.6f", BG), collapse = " "), "\n")
+
 # Build a label vector for joining DESeq2 peak_id -> peak index.
 # Peak IDs come from SnapATAC2's internal naming which preserves the
 # original BED 0-based-half-open coords (chrom:start_0based-end_0based).
@@ -184,7 +193,7 @@ for (label in names(TARGET_MOTIFS)) {
 if (length(target_pfm_list) == 0L) stop("No motifs resolved.")
 
 target_pwms <- do.call(PWMatrixList,
-                       lapply(target_pfm_list, toPWM, pseudocounts = 0.8))
+                       lapply(target_pfm_list, toPWM, pseudocounts = 0.8, bg = BG))
 names(target_pwms) <- names(target_pfm_list)
 cat("Resolved", length(target_pwms), "PWMs.\n")
 
@@ -193,6 +202,7 @@ cat("Scanning", length(peaks), "peaks × ", length(target_pwms), "motifs...\n")
 match_obj <- matchMotifs(target_pwms, peaks,
                          genome = BSgenome.Anasplatyrhynchos.ZJU1.0,
                          p.cutoff = 5e-4,
+                         bg = BG,  # same background as the PWMs (see BG above)
                          out = "matches")
 # Binary peak × motif matrix
 peak_motif <- as.matrix(motifMatches(match_obj))
